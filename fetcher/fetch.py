@@ -173,6 +173,11 @@ def main():
         pass
 
     meta = {"last_run": now_ist(), "indices": {}}
+    if os.path.exists(C.META_FILE):     # preserve status of indices not processed this run (e.g. --only)
+        try:
+            meta["indices"] = json.load(open(C.META_FILE, encoding="utf-8")).get("indices", {})
+        except Exception:
+            pass
     t0 = time.time()
     failed = []
     changes = []
@@ -199,7 +204,7 @@ def main():
 
     statuses = [m["status"] for m in meta["indices"].values()]
     meta["duration_sec"] = round(time.time() - t0, 1)
-    meta["summary"] = {"total": len(items), "ok": statuses.count("ok"),
+    meta["summary"] = {"total": len(meta["indices"]), "ok": statuses.count("ok"),
                        "failed": statuses.count("failed"), "guard_skipped": statuses.count("guard_skipped"),
                        "indices_changed": len(changes),
                        "members_added": sum(c[1] for c in changes),
