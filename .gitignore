@@ -3,3 +3,6 @@ __pycache__/
 cookies.txt
 .DS_Store
 .claude/launch.json
+secrets.json
+fetcher/secrets.json
+logs/

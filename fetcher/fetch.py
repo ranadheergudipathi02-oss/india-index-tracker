@@ -140,7 +140,7 @@ def git_commit(msg):
     if not os.path.isdir(os.path.join(root, ".git")):
         print("git: no repo (skipping commit)")
         return
-    subprocess.run(["git", "-C", root, "add", "current", "changes.jsonl", "meta.json"],
+    subprocess.run(["git", "-C", root, "add", "current", "changes.jsonl", "meta.json", "assets"],
                    capture_output=True, text=True)
     r = subprocess.run(["git", "-C", root, "commit", "-m", msg], capture_output=True, text=True)
     out = (r.stdout + r.stderr).strip().splitlines()
@@ -216,8 +216,9 @@ def main():
         print("changes this run:")
         for iid, a, r in changes:
             print(f"   {iid:44} +{a} -{r}")
-    git_commit(f"fetch {date_str}: {len(changes)} index change(s), "
-               f"{meta['summary']['ok']}/{len(items)} ok")
+    if "--no-commit" not in sys.argv:   # orchestrator (run_daily.py) owns the commit instead
+        git_commit(f"fetch {date_str}: {len(changes)} index change(s), "
+                   f"{meta['summary']['ok']}/{len(items)} ok")
 
 
 if __name__ == "__main__":

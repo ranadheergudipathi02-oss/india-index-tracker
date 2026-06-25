@@ -1,0 +1,5 @@
+# Pinned per spec (Phase 4 hardening). nsepython is only used for the NSE index-name list;
+# constituents come from niftyindices.com CSVs + api.bseindia.com (see PHASE0_FINDINGS.md).
+nsepython==2.97
+requests>=2.31,<3
+# (nsepython pulls in pandas/lxml etc. transitively; pip resolves those.)
