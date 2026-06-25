@@ -1,0 +1,607 @@
+{
+  "resolved": [
+    {
+      "name": "NIFTY 100",
+      "csv": "ind_nifty100list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty100list.csv",
+      "members": 100,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY 200",
+      "csv": "ind_nifty200list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty200list.csv",
+      "members": 200,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY 50",
+      "csv": "ind_nifty50list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty50list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY 500",
+      "csv": "ind_nifty500list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500list.csv",
+      "members": 500,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY AUTO",
+      "csv": "ind_niftyautolist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyautolist.csv",
+      "members": 15,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY BANK",
+      "csv": "ind_niftybanklist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftybanklist.csv",
+      "members": 14,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY CAPITAL MKT",
+      "csv": "ind_niftycapitalmarkets_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftycapitalmarkets_list.csv",
+      "members": 17,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY CHEMICALS",
+      "csv": "ind_niftychemicals_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftychemicals_list.csv",
+      "members": 20,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY COMMODITIES",
+      "csv": "ind_niftycommoditieslist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftycommoditieslist.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY CONSR DURBL",
+      "csv": "ind_niftyconsumerdurableslist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyconsumerdurableslist.csv",
+      "members": 13,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY CONSUMPTION",
+      "csv": "ind_niftyconsumptionlist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyconsumptionlist.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY COREHOUSING",
+      "csv": "ind_niftycorehousing_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftycorehousing_list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY CPSE",
+      "csv": "ind_niftycpselist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftycpselist.csv",
+      "members": 11,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY ENERGY",
+      "csv": "ind_niftyenergylist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyenergylist.csv",
+      "members": 40,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY FINSEREXBNK",
+      "csv": "ind_niftyfinancialservicesexbank_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyfinancialservicesexbank_list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY FMCG",
+      "csv": "ind_niftyfmcglist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyfmcglist.csv",
+      "members": 15,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY HEALTHCARE",
+      "csv": "ind_niftyhealthcarelist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyhealthcarelist.csv",
+      "members": 20,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY HOUSING",
+      "csv": "ind_niftyhousing_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyhousing_list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY IND DEFENCE",
+      "csv": "ind_niftyindiadefence_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyindiadefence_list.csv",
+      "members": 19,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY IND DIGITAL",
+      "csv": "ind_niftyindiadigital_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyindiadigital_list.csv",
+      "members": 51,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY IND TOURISM",
+      "csv": "ind_niftyindiatourism_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyindiatourism_list.csv",
+      "members": 15,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY INDIA MFG",
+      "csv": "ind_niftyindiamanufacturing_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyindiamanufacturing_list.csv",
+      "members": 76,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY INDIA RAILWAYS PSU",
+      "csv": "ind_niftyindiarailwayspsu_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyindiarailwayspsu_list.csv",
+      "members": 17,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY INFRA",
+      "csv": "ind_niftyinfralist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyinfralist.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY IPO",
+      "csv": "ind_niftyipo_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyipo_list.csv",
+      "members": 109,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY IT",
+      "csv": "ind_niftyitlist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyitlist.csv",
+      "members": 10,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY LARGEMID250",
+      "csv": "ind_niftylargemidcap250list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftylargemidcap250list.csv",
+      "members": 250,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY M150 QLTY50",
+      "csv": "ind_niftymidcap150quality50list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymidcap150quality50list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY MEDIA",
+      "csv": "ind_niftymedialist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymedialist.csv",
+      "members": 10,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY METAL",
+      "csv": "ind_niftymetallist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymetallist.csv",
+      "members": 15,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY MICROCAP250",
+      "csv": "ind_niftymicrocap250_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymicrocap250_list.csv",
+      "members": 251,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY MID SELECT",
+      "csv": "ind_niftymidcapselect_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymidcapselect_list.csv",
+      "members": 25,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY MIDCAP 100",
+      "csv": "ind_niftymidcap100list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymidcap100list.csv",
+      "members": 100,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY MIDCAP 150",
+      "csv": "ind_niftymidcap150list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymidcap150list.csv",
+      "members": 150,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY MIDCAP 50",
+      "csv": "ind_niftymidcap50list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymidcap50list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY MIDSML 400",
+      "csv": "ind_niftymidsmallcap400list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymidsmallcap400list.csv",
+      "members": 400,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY MIDSML HLTH",
+      "csv": "ind_niftymidsmallhealthcare_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymidsmallhealthcare_list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY MNC",
+      "csv": "ind_niftymnclist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymnclist.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY MOBILITY",
+      "csv": "ind_niftymobility_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymobility_list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY MS IND CONS",
+      "csv": "ind_niftymidsmallindiaconsumption_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymidsmallindiaconsumption_list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY NEW CONSUMP",
+      "csv": "ind_niftyindianewageconsumption_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyindianewageconsumption_list.csv",
+      "members": 75,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY NEXT 50",
+      "csv": "ind_niftynext50list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftynext50list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY OIL AND GAS",
+      "csv": "ind_niftyoilgaslist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyoilgaslist.csv",
+      "members": 15,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY PHARMA",
+      "csv": "ind_niftypharmalist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftypharmalist.csv",
+      "members": 20,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY PSE",
+      "csv": "ind_niftypselist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftypselist.csv",
+      "members": 20,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY PSU BANK",
+      "csv": "ind_niftypsubanklist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftypsubanklist.csv",
+      "members": 12,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY REALTY",
+      "csv": "ind_niftyrealtylist.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyrealtylist.csv",
+      "members": 10,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY RURAL",
+      "csv": "ind_niftyrural_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftyrural_list.csv",
+      "members": 75,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY SMLCAP 100",
+      "csv": "ind_niftysmallcap100list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftysmallcap100list.csv",
+      "members": 100,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY SMLCAP 250",
+      "csv": "ind_niftysmallcap250list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftysmallcap250list.csv",
+      "members": 250,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY SMLCAP 50",
+      "csv": "ind_niftysmallcap50list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftysmallcap50list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY TMMQ 50",
+      "csv": "ind_niftytotalmarketmomentumquality50_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftytotalmarketmomentumquality50_list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY TOP 10 EW",
+      "csv": "ind_niftytop10equalweight_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftytop10equalweight_list.csv",
+      "members": 10,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY TOP 15 EW",
+      "csv": "ind_niftytop15equalweight_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftytop15equalweight_list.csv",
+      "members": 15,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY TOP 20 EW",
+      "csv": "ind_niftytop20equalweight_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftytop20equalweight_list.csv",
+      "members": 20,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY TOTAL MKT",
+      "csv": "ind_niftytotalmarket_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftytotalmarket_list.csv",
+      "members": 751,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY TRANS LOGIS",
+      "csv": "ind_niftytransportationandlogistics_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftytransportationandlogistics_list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY WAVES",
+      "csv": "ind_niftywaves_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftywaves_list.csv",
+      "members": 43,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY100 ALPHA 30",
+      "csv": "ind_nifty100alpha30list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty100alpha30list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY100 LOWVOL30",
+      "csv": "ind_nifty100lowvolatility30list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty100lowvolatility30list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY100 QUALTY30",
+      "csv": "ind_nifty100quality30list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty100quality30list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY200 ALPHA 30",
+      "csv": "ind_nifty200alpha30_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty200alpha30_list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY200 QUALTY30",
+      "csv": "ind_nifty200quality30_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty200quality30_list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY200 VALUE 30",
+      "csv": "ind_nifty200value30_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty200value30_list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY200MOMENTM30",
+      "csv": "ind_nifty200momentum30_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty200momentum30_list.csv",
+      "members": 30,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY500 EW",
+      "csv": "ind_nifty500equalweight_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500equalweight_list.csv",
+      "members": 500,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY500 HEALTH",
+      "csv": "ind_nifty500healthcare_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500healthcare_list.csv",
+      "members": 48,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY500 LMS EQL",
+      "csv": "ind_nifty500largemidsmallequalcapweighted_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500largemidsmallequalcapweighted_list.csv",
+      "members": 500,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY500 LOW VOLATILITY 50",
+      "csv": "ind_nifty500lowvolatility50_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500lowvolatility50_list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY500 LOWVOL50",
+      "csv": "ind_nifty500lowvolatility50_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500lowvolatility50_list.csv",
+      "members": 50,
+      "alias_of": "NIFTY500 LOW VOLATILITY 50"
+    },
+    {
+      "name": "NIFTY500 MQVLV50",
+      "csv": "ind_nifty500multifactormqvlv50_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500multifactormqvlv50_list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY500 MULTICAP",
+      "csv": "ind_nifty500multicap502525_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500multicap502525_list.csv",
+      "members": 500,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY500 MULTIFACTOR MQVLV 50",
+      "csv": "ind_nifty500multifactormqvlv50_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500multifactormqvlv50_list.csv",
+      "members": 50,
+      "alias_of": "NIFTY500 MQVLV50"
+    },
+    {
+      "name": "NIFTY500 QLTY50",
+      "csv": "ind_nifty500quality50_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500quality50_list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY500 QUALITY 50",
+      "csv": "ind_nifty500quality50_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500quality50_list.csv",
+      "members": 50,
+      "alias_of": "NIFTY500 QLTY50"
+    },
+    {
+      "name": "NIFTY500 VALUE 50",
+      "csv": "ind_nifty500value50_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500value50_list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTY500MOMENTM50",
+      "csv": "ind_nifty500momentum50_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_nifty500momentum50_list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTYM150MOMNTM50",
+      "csv": "ind_niftymidcap150momentum50_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymidcap150momentum50_list.csv",
+      "members": 50,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTYMS400 MQ 100",
+      "csv": "ind_niftymidsmallcap400momentumquality100_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftymidsmallcap400momentumquality100_list.csv",
+      "members": 100,
+      "alias_of": null
+    },
+    {
+      "name": "NIFTYSML250MQ 100",
+      "csv": "ind_niftysmallcap250momentumquality100_list.csv",
+      "url": "https://niftyindices.com/IndexConstituent/ind_niftysmallcap250momentumquality100_list.csv",
+      "members": 100,
+      "alias_of": null
+    }
+  ],
+  "unresolved": [
+    "NIFTY ALPHA 50",
+    "NIFTY ALPHALOWVOL",
+    "NIFTY AQL 30",
+    "NIFTY AQLV 30",
+    "NIFTY DIV OPPS 50",
+    "NIFTY EV",
+    "NIFTY FIN SERVICE",
+    "NIFTY FINSRV25 50",
+    "NIFTY FPI 150",
+    "NIFTY GROWSECT 15",
+    "NIFTY HIGHBETA 50",
+    "NIFTY INDIA CORPORATE GROUP INDEX - ADITYA BIRLA GROUP",
+    "NIFTY INDIA CORPORATE GROUP INDEX - MAHINDRA GROUP",
+    "NIFTY INDIA CORPORATE GROUP INDEX - TATA GROUP",
+    "NIFTY INFRALOG",
+    "NIFTY INTERNET",
+    "NIFTY LOW VOL 50",
+    "NIFTY MID LIQ 15",
+    "NIFTY MS FIN SERV",
+    "NIFTY MS IT TELCM",
+    "NIFTY MULTI INFRA",
+    "NIFTY MULTI MFG",
+    "NIFTY MULTI MQ 50",
+    "NIFTY NONCYC CONS",
+    "NIFTY PVT BANK",
+    "NIFTY QLTY LV 30",
+    "NIFTY SERV SECTOR",
+    "NIFTY SHARIAH 25",
+    "NIFTY SME EMERGE",
+    "NIFTY SML250 Q50",
+    "NIFTY TATA 25 CAP",
+    "NIFTY100 ENH ESG",
+    "NIFTY100 EQL WGT",
+    "NIFTY100 ESG",
+    "NIFTY100 LIQ 15",
+    "NIFTY50 EQL WGT",
+    "NIFTY50 SHARIAH",
+    "NIFTY50 VALUE 20",
+    "NIFTY500 FLEXICAP",
+    "NIFTY500 SHARIAH"
+  ],
+  "in_scope": 120
+}

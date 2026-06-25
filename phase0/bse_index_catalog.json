@@ -1,0 +1,527 @@
+[
+  {
+    "name": "BSE SENSEX",
+    "code": "16",
+    "shortalias": "SENSEX",
+    "iname": "BSE30",
+    "members": 30
+  },
+  {
+    "name": "BSE FOCUSED MIDCAP",
+    "code": "137",
+    "shortalias": "FOCMID",
+    "iname": "FOCMID",
+    "members": 20
+  },
+  {
+    "name": "BSE BANKEX",
+    "code": "53",
+    "shortalias": "BANKEX",
+    "iname": "BANKEX",
+    "members": 14
+  },
+  {
+    "name": "BSE SENSEX 50",
+    "code": "98",
+    "shortalias": "SNSX50",
+    "iname": "SNSX50",
+    "members": 50
+  },
+  {
+    "name": "BSE SENSEX Next 50",
+    "code": "99",
+    "shortalias": "SNXT50",
+    "iname": "SNXT50",
+    "members": 50
+  },
+  {
+    "name": "BSE Bharat 22 Index",
+    "code": "100",
+    "shortalias": "BHRT22",
+    "iname": "BHRT22",
+    "members": 22
+  },
+  {
+    "name": "BSE 100",
+    "code": "22",
+    "shortalias": "BSE-100",
+    "iname": "BSE-100",
+    "members": 0
+  },
+  {
+    "name": "BSE SENSEX SIXTY",
+    "code": "129",
+    "shortalias": "SNSX60",
+    "iname": "SNSX60",
+    "members": 60
+  },
+  {
+    "name": "BSE 200",
+    "code": "23",
+    "shortalias": "BSE-200",
+    "iname": "BSE-200",
+    "members": 0
+  },
+  {
+    "name": "BSE 150 MidCap Index",
+    "code": "102",
+    "shortalias": "MID150",
+    "iname": "MID150",
+    "members": 150
+  },
+  {
+    "name": "BSE 250 SmallCap Index",
+    "code": "103",
+    "shortalias": "SML250",
+    "iname": "SML250",
+    "members": 250
+  },
+  {
+    "name": "BSE 250 LargeMidCap Index",
+    "code": "104",
+    "shortalias": "LMI250",
+    "iname": "LMI250",
+    "members": 250
+  },
+  {
+    "name": "BSE 400 MidSmallCap Index",
+    "code": "105",
+    "shortalias": "MSL400",
+    "iname": "MSL400",
+    "members": 400
+  },
+  {
+    "name": "BSE 500",
+    "code": "17",
+    "shortalias": "BSE-500",
+    "iname": "BSE-500",
+    "members": 0
+  },
+  {
+    "name": "BSE SmallCap Select Index",
+    "code": "95",
+    "shortalias": "SMLSEL",
+    "iname": "SMLSEL",
+    "members": 59
+  },
+  {
+    "name": "BSE MidCap Select Index",
+    "code": "94",
+    "shortalias": "MIDSEL",
+    "iname": "MIDSEL",
+    "members": 30
+  },
+  {
+    "name": "BSE 100 LargeCap TMC Index",
+    "code": "113",
+    "shortalias": "LCTMCI",
+    "iname": "LCTMCI",
+    "members": 100
+  },
+  {
+    "name": "BSE 1000",
+    "code": "142",
+    "shortalias": "BS1000",
+    "iname": "BS1000",
+    "members": 1001
+  },
+  {
+    "name": "BSE SENSEX NEXT 30",
+    "code": "127",
+    "shortalias": "SNXN30",
+    "iname": "SNXN30",
+    "members": 30
+  },
+  {
+    "name": "BSE India 150",
+    "code": "149",
+    "shortalias": "IND150",
+    "iname": "IND150",
+    "members": 150
+  },
+  {
+    "name": "BSE 100 ESG Index",
+    "code": "101",
+    "shortalias": "ESG100",
+    "iname": "ESG100",
+    "members": 94
+  },
+  {
+    "name": "BSE Focused IT ",
+    "code": "134",
+    "shortalias": "FOCIT",
+    "iname": "FOCIT",
+    "members": 14
+  },
+  {
+    "name": "BSE Momentum Index",
+    "code": "109",
+    "shortalias": "BSEMOI",
+    "iname": "BSEMOI",
+    "members": 29
+  },
+  {
+    "name": "BSE Low Volatility Index",
+    "code": "108",
+    "shortalias": "BSELVI",
+    "iname": "BSELVI",
+    "members": 30
+  },
+  {
+    "name": "BSE Quality Index ",
+    "code": "110",
+    "shortalias": "BSEQUI",
+    "iname": "BSEQUI",
+    "members": 30
+  },
+  {
+    "name": "BSE Enhanced Value Index",
+    "code": "107",
+    "shortalias": "BSEEVI",
+    "iname": "BSEEVI",
+    "members": 30
+  },
+  {
+    "name": "BSE SENSEX SIXTY 65:35",
+    "code": "130",
+    "shortalias": "SS6535",
+    "iname": "SS6535",
+    "members": 60
+  },
+  {
+    "name": "BSE Dividend Stability Index",
+    "code": "106",
+    "shortalias": "BSEDSI",
+    "iname": "BSEDSI",
+    "members": 73
+  },
+  {
+    "name": "BSE IPO",
+    "code": "72",
+    "shortalias": "BSE IPO",
+    "iname": "BSE IPO",
+    "members": 0
+  },
+  {
+    "name": "BSE SME IPO",
+    "code": "76",
+    "shortalias": "SMEIPO",
+    "iname": "SMEIPO",
+    "members": 155
+  },
+  {
+    "name": "BSE DOLLEX 30",
+    "code": "47",
+    "shortalias": "DOL-30",
+    "iname": "DOL-30",
+    "members": 0
+  },
+  {
+    "name": "BSE DOLLEX 100",
+    "code": "65",
+    "shortalias": "DOL-100",
+    "iname": "DOL-100",
+    "members": 0
+  },
+  {
+    "name": "BSE DOLLEX 200",
+    "code": "48",
+    "shortalias": "DOL-200",
+    "iname": "DOL-200",
+    "members": 0
+  },
+  {
+    "name": "BSE 200 EQUAL WEIGHT INDEX",
+    "code": "128",
+    "shortalias": "200EQW",
+    "iname": "200EQW",
+    "members": 200
+  },
+  {
+    "name": "BSE SELECT IPO",
+    "code": "139",
+    "shortalias": "SELIPO",
+    "iname": "SELIPO",
+    "members": 71
+  },
+  {
+    "name": "BSE SENSEX EQUAL WEIGHT",
+    "code": "138",
+    "shortalias": "SENEQW",
+    "iname": "SENEQW",
+    "members": 30
+  },
+  {
+    "name": "BSE 500 Dividend Leaders 50",
+    "code": "150",
+    "shortalias": "DIVY50",
+    "iname": "DIVY50",
+    "members": 50
+  },
+  {
+    "name": "BSE 500 Quality 50",
+    "code": "147",
+    "shortalias": "QUAL50",
+    "iname": "QUAL50",
+    "members": 50
+  },
+  {
+    "name": "BSE 500 Momentum 50 ",
+    "code": "152",
+    "shortalias": "MOME50",
+    "iname": "MOME50",
+    "members": 50
+  },
+  {
+    "name": "BSE INDIA SECTOR LEADERS",
+    "code": "141",
+    "shortalias": "INSLDR",
+    "iname": "INSLDR",
+    "members": 60
+  },
+  {
+    "name": "BSE POWER & ENERGY",
+    "code": "131",
+    "shortalias": "POWENE",
+    "iname": "POWENE",
+    "members": 35
+  },
+  {
+    "name": "BSE SELECT BUSINESS GROUPS",
+    "code": "136",
+    "shortalias": "BBGEFS",
+    "iname": "BBGEFS",
+    "members": 30
+  },
+  {
+    "name": "BSE Commodities",
+    "code": "88",
+    "shortalias": "COMDTY",
+    "iname": "COMDTY",
+    "members": 188
+  },
+  {
+    "name": "BSE Diversified Financials Revenue Growth Index",
+    "code": "111",
+    "shortalias": "DFRGRI",
+    "iname": "DFRGRI",
+    "members": 55
+  },
+  {
+    "name": "BSE Consumer Discretionary",
+    "code": "89",
+    "shortalias": "CONDIS",
+    "iname": "CONDIS",
+    "members": 377
+  },
+  {
+    "name": "BSE India Infrastructure Index",
+    "code": "79",
+    "shortalias": "INFRA",
+    "iname": "INFRA",
+    "members": 29
+  },
+  {
+    "name": "BSE Energy",
+    "code": "90",
+    "shortalias": "ENERGY",
+    "iname": "ENERGY",
+    "members": 32
+  },
+  {
+    "name": "BSE India Manufacturing Index",
+    "code": "86",
+    "shortalias": "MFG",
+    "iname": "MFG",
+    "members": 29
+  },
+  {
+    "name": "BSE Fast Moving Consumer Goods",
+    "code": "83",
+    "shortalias": "FMCG",
+    "iname": "FMCG",
+    "members": 0
+  },
+  {
+    "name": "BSE CPSE",
+    "code": "80",
+    "shortalias": "CPSE",
+    "iname": "CPSE",
+    "members": 54
+  },
+  {
+    "name": "BSE Financial Services",
+    "code": "91",
+    "shortalias": "FINSER",
+    "iname": "FINSER",
+    "members": 187
+  },
+  {
+    "name": "BSE PSU",
+    "code": "44",
+    "shortalias": "PSU",
+    "iname": "PSU",
+    "members": 0
+  },
+  {
+    "name": "BSE Healthcare",
+    "code": "84",
+    "shortalias": "HC",
+    "iname": "HC",
+    "members": 0
+  },
+  {
+    "name": "BSE Industrials",
+    "code": "92",
+    "shortalias": "INDSTR",
+    "iname": "INDSTR",
+    "members": 318
+  },
+  {
+    "name": "BSE Private Banks Index",
+    "code": "114",
+    "shortalias": "BSEPBI",
+    "iname": "BSEPBI",
+    "members": 12
+  },
+  {
+    "name": "BSE Information Technology",
+    "code": "85",
+    "shortalias": "IT",
+    "iname": "IT",
+    "members": 0
+  },
+  {
+    "name": "BSE Telecommunication",
+    "code": "96",
+    "shortalias": "TELCOM",
+    "iname": "TELCOM",
+    "members": 19
+  },
+  {
+    "name": "BSE CAPITAL MARKETS & INSURANCE",
+    "code": "133",
+    "shortalias": "CAPINS",
+    "iname": "CAPINS",
+    "members": 26
+  },
+  {
+    "name": "BSE Utilities",
+    "code": "97",
+    "shortalias": "UTILS",
+    "iname": "UTILS",
+    "members": 35
+  },
+  {
+    "name": "BSE INTERNET ECONOMY",
+    "code": "132",
+    "shortalias": "INTECO",
+    "iname": "INTECO",
+    "members": 20
+  },
+  {
+    "name": "BSE AUTO",
+    "code": "42",
+    "shortalias": "AUTO",
+    "iname": "AUTO",
+    "members": 21
+  },
+  {
+    "name": "BSE PREMIUM CONSUMPTION",
+    "code": "135",
+    "shortalias": "PRECON",
+    "iname": "PRECON",
+    "members": 31
+  },
+  {
+    "name": "BSE PSU BANK",
+    "code": "140",
+    "shortalias": "PSUBNK",
+    "iname": "PSUBNK",
+    "members": 11
+  },
+  {
+    "name": "BSE CAPITAL GOODS",
+    "code": "25",
+    "shortalias": "CG",
+    "iname": "CG",
+    "members": 0
+  },
+  {
+    "name": "BSE Hospitals",
+    "code": "158",
+    "shortalias": "BSHOSP",
+    "iname": "BSHOSP",
+    "members": 17
+  },
+  {
+    "name": "BSE India Defence ",
+    "code": "155",
+    "shortalias": "INDDEF",
+    "iname": "INDDEF",
+    "members": 33
+  },
+  {
+    "name": "BSE CONSUMER DURABLES",
+    "code": "27",
+    "shortalias": "CD",
+    "iname": "CD",
+    "members": 0
+  },
+  {
+    "name": "BSE METAL",
+    "code": "35",
+    "shortalias": "METAL",
+    "iname": "METAL",
+    "members": 12
+  },
+  {
+    "name": "BSE Top 10 Banks",
+    "code": "161",
+    "shortalias": "T10BNK",
+    "iname": "T10BNK",
+    "members": 10
+  },
+  {
+    "name": "BSE OIL & GAS",
+    "code": "37",
+    "shortalias": "OIL&GAS",
+    "iname": "OIL&GAS",
+    "members": 0
+  },
+  {
+    "name": "BSE POWER",
+    "code": "69",
+    "shortalias": "POWER",
+    "iname": "POWER",
+    "members": 17
+  },
+  {
+    "name": "BSE REALTY",
+    "code": "67",
+    "shortalias": "REALTY",
+    "iname": "REALTY",
+    "members": 10
+  },
+  {
+    "name": "BSE TECK",
+    "code": "45",
+    "shortalias": "TECK",
+    "iname": "TECK",
+    "members": 22
+  },
+  {
+    "name": "BSE Services",
+    "code": "121",
+    "shortalias": "BSESER",
+    "iname": "BSESER",
+    "members": 68
+  },
+  {
+    "name": "BSE MidSmall Private Banks Quality Tilt",
+    "code": "177",
+    "shortalias": "BSMSPB",
+    "iname": "BSMSPB",
+    "members": 18
+  }
+]
