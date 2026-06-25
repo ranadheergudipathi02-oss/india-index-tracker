@@ -1,0 +1,95 @@
+{
+  "id": "BSE:BSE Hospitals",
+  "exchange": "BSE",
+  "name": "BSE Hospitals",
+  "code": "158",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSHOSP",
+  "count": 17,
+  "members": [
+    {
+      "symbol": "508869",
+      "name": "APOLLO HOSPITALS ENTERPRISE LT",
+      "isin": "INE437A01024"
+    },
+    {
+      "symbol": "542919",
+      "name": "Artemis Medicare Services Limi",
+      "isin": "INE025R01021"
+    },
+    {
+      "symbol": "540975",
+      "name": "Aster DM Healthcare Limited",
+      "isin": "INE914M01019"
+    },
+    {
+      "symbol": "544350",
+      "name": "Dr. Agarwal's Health Care Limi",
+      "isin": "INE943P01029"
+    },
+    {
+      "symbol": "532843",
+      "name": "FORTIS HEALTHCARE LTD.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "543654",
+      "name": "Global Health Limited",
+      "isin": "INE474Q01031"
+    },
+    {
+      "symbol": "539787",
+      "name": "HealthCare Global Enterprises",
+      "isin": "INE075I01017"
+    },
+    {
+      "symbol": "532150",
+      "name": "INDRAPRASTHA MEDICAL CORP.LTD.",
+      "isin": "INE681B01017"
+    },
+    {
+      "symbol": "543980",
+      "name": "Jupiter Life Line Hospitals Li",
+      "isin": "INE682M01012"
+    },
+    {
+      "symbol": "523323",
+      "name": "KOVAI MEDICAL CENTER & HOSPITA",
+      "isin": "INE177F01017"
+    },
+    {
+      "symbol": "543308",
+      "name": "Krishna Institute of Medical S",
+      "isin": "INE967H01025"
+    },
+    {
+      "symbol": "543220",
+      "name": "Max Healthcare Institute Limit",
+      "isin": "INE027H01010"
+    },
+    {
+      "symbol": "539551",
+      "name": "Narayana Hrudayalaya Limited",
+      "isin": "INE410P01011"
+    },
+    {
+      "symbol": "544645",
+      "name": "PARK MEDI WORLD LIMITED",
+      "isin": "INE119201023"
+    },
+    {
+      "symbol": "543524",
+      "name": "Rainbow Children's Medicare Li",
+      "isin": "INE961O01016"
+    },
+    {
+      "symbol": "540797",
+      "name": "Shalby Limited",
+      "isin": "INE597J01018"
+    },
+    {
+      "symbol": "543950",
+      "name": "YATHARTH HOSPITAL & TRAUMA CAR",
+      "isin": "INE0JO301016"
+    }
+  ]
+}

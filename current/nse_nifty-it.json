@@ -1,0 +1,60 @@
+{
+  "id": "NSE:NIFTY IT",
+  "exchange": "NSE",
+  "name": "NIFTY IT",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyitlist.csv",
+  "count": 10,
+  "members": [
+    {
+      "symbol": "COFORGE",
+      "name": "Coforge Ltd.",
+      "isin": "INE591G01025"
+    },
+    {
+      "symbol": "HCLTECH",
+      "name": "HCL Technologies Ltd.",
+      "isin": "INE860A01027"
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Ltd.",
+      "isin": "INE009A01021"
+    },
+    {
+      "symbol": "LTM",
+      "name": "LTM Ltd.",
+      "isin": "INE214T01019"
+    },
+    {
+      "symbol": "MPHASIS",
+      "name": "MphasiS Ltd.",
+      "isin": "INE356A01018"
+    },
+    {
+      "symbol": "OFSS",
+      "name": "Oracle Financial Services Software Ltd.",
+      "isin": "INE881D01027"
+    },
+    {
+      "symbol": "PERSISTENT",
+      "name": "Persistent Systems Ltd.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services Ltd.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "TECHM",
+      "name": "Tech Mahindra Ltd.",
+      "isin": "INE669C01036"
+    },
+    {
+      "symbol": "WIPRO",
+      "name": "Wipro Ltd.",
+      "isin": "INE075A01022"
+    }
+  ]
+}

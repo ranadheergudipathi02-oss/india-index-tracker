@@ -1,0 +1,305 @@
+{
+  "id": "BSE:BSE SmallCap Select Index",
+  "exchange": "BSE",
+  "name": "BSE SmallCap Select Index",
+  "code": "95",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMLSEL",
+  "count": 59,
+  "members": [
+    {
+      "symbol": "500040",
+      "name": "ADITYA BIRLA REAL ESTATE LIMIT",
+      "isin": "INE055A01016"
+    },
+    {
+      "symbol": "542752",
+      "name": "AFFLE 3I LIMITED",
+      "isin": "INE00WC01027"
+    },
+    {
+      "symbol": "500008",
+      "name": "Amara Raja Energy & Mobility L",
+      "isin": "INE885A01032"
+    },
+    {
+      "symbol": "540902",
+      "name": "Amber Enterprises India Limite",
+      "isin": "INE371P01015"
+    },
+    {
+      "symbol": "543415",
+      "name": "Anand Rathi Wealth Limited",
+      "isin": "INE463V01026"
+    },
+    {
+      "symbol": "543235",
+      "name": "ANGEL ONE LIMITED",
+      "isin": "INE732I01021"
+    },
+    {
+      "symbol": "532259",
+      "name": "APAR INDUSTRIES LTD.",
+      "isin": "INE372A01015"
+    },
+    {
+      "symbol": "500877",
+      "name": "APOLLO TYRES LTD.",
+      "isin": "INE438A01022"
+    },
+    {
+      "symbol": "515030",
+      "name": "ASAHI INDIA GLASS LTD.",
+      "isin": "INE439A01020"
+    },
+    {
+      "symbol": "540975",
+      "name": "Aster DM Healthcare Limited",
+      "isin": "INE914M01019"
+    },
+    {
+      "symbol": "500027",
+      "name": "ATUL LTD.",
+      "isin": "INE100A01010"
+    },
+    {
+      "symbol": "539177",
+      "name": "Authum Investment & Infrastruc",
+      "isin": "INE206F01022"
+    },
+    {
+      "symbol": "532929",
+      "name": "BRIGADE ENTERPRISES LTD.",
+      "isin": "INE791I01019"
+    },
+    {
+      "symbol": "513375",
+      "name": "CARBORUNDUM UNIVERSAL LTD.",
+      "isin": "INE120A01034"
+    },
+    {
+      "symbol": "504973",
+      "name": "CHOLAMANDALAM FINANCIAL HOLDIN",
+      "isin": "INE149A01033"
+    },
+    {
+      "symbol": "532210",
+      "name": "CITY UNION BANK LTD.",
+      "isin": "INE491A01021"
+    },
+    {
+      "symbol": "543064",
+      "name": "Cohance Lifesciences Limited",
+      "isin": "INE03QK01018"
+    },
+    {
+      "symbol": "543232",
+      "name": "Computer Age Management Servic",
+      "isin": "INE596I01020"
+    },
+    {
+      "symbol": "532175",
+      "name": "CYIENT LIMITED",
+      "isin": "INE136B01020"
+    },
+    {
+      "symbol": "539524",
+      "name": "Dr. Lal Pathlabs Limited",
+      "isin": "INE600L01024"
+    },
+    {
+      "symbol": "522074",
+      "name": "ELGI EQUIPMENTS LTD.",
+      "isin": "INE285A01027"
+    },
+    {
+      "symbol": "532809",
+      "name": "FIRSTSOURCE SOLUTIONS LTD.",
+      "isin": "INE684F01012"
+    },
+    {
+      "symbol": "543654",
+      "name": "Global Health Limited",
+      "isin": "INE474Q01031"
+    },
+    {
+      "symbol": "500163",
+      "name": "GODFREY PHILLIPS INDIA LTD.",
+      "isin": "INE260B01028"
+    },
+    {
+      "symbol": "500620",
+      "name": "GREAT EASTERN SHIPPING CO.LTD.",
+      "isin": "INE017A01032"
+    },
+    {
+      "symbol": "500184",
+      "name": "Himadri Speciality Chemical Lt",
+      "isin": "INE019C01026"
+    },
+    {
+      "symbol": "513599",
+      "name": "HINDUSTAN COPPER LTD.",
+      "isin": "INE531E01026"
+    },
+    {
+      "symbol": "532636",
+      "name": "IIFL FINANCE LIMITED",
+      "isin": "INE530B01024"
+    },
+    {
+      "symbol": "540750",
+      "name": "Indian Energy Exchange Limited",
+      "isin": "INE022Q01020"
+    },
+    {
+      "symbol": "539083",
+      "name": "Inox Wind Limited",
+      "isin": "INE066P01011"
+    },
+    {
+      "symbol": "506943",
+      "name": "J.B.CHEMICALS & PHARMACEUTICAL",
+      "isin": "INE572A01036"
+    },
+    {
+      "symbol": "532889",
+      "name": "K.P.R.MILL LIMITED",
+      "isin": "INE930H01031"
+    },
+    {
+      "symbol": "500233",
+      "name": "KAJARIA CERAMICS LTD.",
+      "isin": "INE217B01036"
+    },
+    {
+      "symbol": "522287",
+      "name": "KALPATARU PROJECTS INTERNATION",
+      "isin": "INE220B01022"
+    },
+    {
+      "symbol": "532714",
+      "name": "KEC INTERNATIONAL LTD.",
+      "isin": "INE389H01022"
+    },
+    {
+      "symbol": "543720",
+      "name": "KFin Technologies Limited",
+      "isin": "INE138Y01010"
+    },
+    {
+      "symbol": "543308",
+      "name": "Krishna Institute of Medical S",
+      "isin": "INE967H01025"
+    },
+    {
+      "symbol": "531213",
+      "name": "Manappuram Finance Ltd",
+      "isin": "INE522D01027"
+    },
+    {
+      "symbol": "543498",
+      "name": "Motherson Sumi Wiring India Li",
+      "isin": "INE0FS801015"
+    },
+    {
+      "symbol": "534091",
+      "name": "MULTI COMMODITY EXCHANGE OF IN",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "539551",
+      "name": "Narayana Hrudayalaya Limited",
+      "isin": "INE410P01011"
+    },
+    {
+      "symbol": "532504",
+      "name": "NAVIN FLUORINE INTERNATIONAL L",
+      "isin": "INE048G01026"
+    },
+    {
+      "symbol": "534309",
+      "name": "NBCC (India) Limited",
+      "isin": "INE095N01031"
+    },
+    {
+      "symbol": "524558",
+      "name": "NEULAND LABORATORIES LTD.",
+      "isin": "INE794A01010"
+    },
+    {
+      "symbol": "533581",
+      "name": "PG ELECTROPLAST LTD.",
+      "isin": "INE457L01029"
+    },
+    {
+      "symbol": "543635",
+      "name": "PIRAMAL PHARMA LIMITED",
+      "isin": "INE0DK501011"
+    },
+    {
+      "symbol": "540173",
+      "name": "PNB Housing Finance Limited",
+      "isin": "INE572E01012"
+    },
+    {
+      "symbol": "524000",
+      "name": "POONAWALLA FINCORP LIMITED",
+      "isin": "INE511C01022"
+    },
+    {
+      "symbol": "532497",
+      "name": "RADICO KHAITAN LTD.",
+      "isin": "INE944F01028"
+    },
+    {
+      "symbol": "540065",
+      "name": "RBL Bank Limited",
+      "isin": "INE976G01028"
+    },
+    {
+      "symbol": "532805",
+      "name": "Redington Limited",
+      "isin": "INE891D01026"
+    },
+    {
+      "symbol": "532939",
+      "name": "RELIANCE POWER LTD.",
+      "isin": "INE614G01033"
+    },
+    {
+      "symbol": "535789",
+      "name": "Sammaan Capital Limited",
+      "isin": "INE148I01020"
+    },
+    {
+      "symbol": "539268",
+      "name": "Syngene International Limited",
+      "isin": "INE398R01022"
+    },
+    {
+      "symbol": "500770",
+      "name": "TATA CHEMICALS LTD.",
+      "isin": "INE092A01019"
+    },
+    {
+      "symbol": "522113",
+      "name": "TIMKEN INDIA LTD.",
+      "isin": "INE325A01013"
+    },
+    {
+      "symbol": "532144",
+      "name": "WELSPUN CORP LIMITED",
+      "isin": "INE191B01025"
+    },
+    {
+      "symbol": "532300",
+      "name": "WOCKHARDT LTD.",
+      "isin": "INE049B01025"
+    },
+    {
+      "symbol": "505537",
+      "name": "ZEE ENTERTAINMENT ENTERPRISES",
+      "isin": "INE256A01028"
+    }
+  ]
+}

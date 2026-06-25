@@ -1,0 +1,260 @@
+{
+  "id": "NSE:NIFTY M150 QLTY50",
+  "exchange": "NSE",
+  "name": "NIFTY M150 QLTY50",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftymidcap150quality50list.csv",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "360ONE",
+      "name": "360 ONE WAM Ltd.",
+      "isin": "INE466L01038"
+    },
+    {
+      "symbol": "3MINDIA",
+      "name": "3M India Ltd.",
+      "isin": "INE470A01017"
+    },
+    {
+      "symbol": "AIAENG",
+      "name": "AIA Engineering Ltd.",
+      "isin": "INE212H01026"
+    },
+    {
+      "symbol": "APLAPOLLO",
+      "name": "APL Apollo Tubes Ltd.",
+      "isin": "INE702C01027"
+    },
+    {
+      "symbol": "ABBOTINDIA",
+      "name": "Abbott India Ltd.",
+      "isin": "INE358A01014"
+    },
+    {
+      "symbol": "AJANTPHARM",
+      "name": "Ajanta Pharmaceuticals Ltd.",
+      "isin": "INE031B01049"
+    },
+    {
+      "symbol": "ALKEM",
+      "name": "Alkem Laboratories Ltd.",
+      "isin": "INE540L01014"
+    },
+    {
+      "symbol": "APARINDS",
+      "name": "Apar Industries Ltd.",
+      "isin": "INE372A01015"
+    },
+    {
+      "symbol": "ASTRAL",
+      "name": "Astral Ltd.",
+      "isin": "INE006I01046"
+    },
+    {
+      "symbol": "BALKRISIND",
+      "name": "Balkrishna Industries Ltd.",
+      "isin": "INE787D01026"
+    },
+    {
+      "symbol": "MAHABANK",
+      "name": "Bank of Maharashtra",
+      "isin": "INE457A01014"
+    },
+    {
+      "symbol": "BERGEPAINT",
+      "name": "Berger Paints India Ltd.",
+      "isin": "INE463A01038"
+    },
+    {
+      "symbol": "BDL",
+      "name": "Bharat Dynamics Ltd.",
+      "isin": "INE171Z01026"
+    },
+    {
+      "symbol": "CRISIL",
+      "name": "CRISIL Ltd.",
+      "isin": "INE007A01025"
+    },
+    {
+      "symbol": "COFORGE",
+      "name": "Coforge Ltd.",
+      "isin": "INE591G01025"
+    },
+    {
+      "symbol": "COLPAL",
+      "name": "Colgate Palmolive (India) Ltd.",
+      "isin": "INE259A01022"
+    },
+    {
+      "symbol": "COROMANDEL",
+      "name": "Coromandel International Ltd.",
+      "isin": "INE169A01031"
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "name": "Cummins India Ltd.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Ltd.",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "GLAXO",
+      "name": "Glaxosmithkline Pharmaceuticals Ltd.",
+      "isin": "INE159A01016"
+    },
+    {
+      "symbol": "GODFRYPHLP",
+      "name": "Godfrey Phillips India Ltd.",
+      "isin": "INE260B01028"
+    },
+    {
+      "symbol": "GUJGASLTD",
+      "name": "Gujarat Gas Ltd.",
+      "isin": "INE844O01030"
+    },
+    {
+      "symbol": "HDFCAMC",
+      "name": "HDFC Asset Management Company Ltd.",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "name": "Hero MotoCorp Ltd.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "HONAUT",
+      "name": "Honeywell Automation India Ltd.",
+      "isin": "INE671A01010"
+    },
+    {
+      "symbol": "IRCTC",
+      "name": "Indian Railway Catering And Tourism Corporation Ltd.",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "IGL",
+      "name": "Indraprastha Gas Ltd.",
+      "isin": "INE203G01027"
+    },
+    {
+      "symbol": "KPRMILL",
+      "name": "K.P.R. Mill Ltd.",
+      "isin": "INE930H01031"
+    },
+    {
+      "symbol": "KEI",
+      "name": "KEI Industries Ltd.",
+      "isin": "INE878B01027"
+    },
+    {
+      "symbol": "KPITTECH",
+      "name": "KPIT Technologies Ltd.",
+      "isin": "INE04I401011"
+    },
+    {
+      "symbol": "LTTS",
+      "name": "L&T Technology Services Ltd.",
+      "isin": "INE010V01017"
+    },
+    {
+      "symbol": "MARICO",
+      "name": "Marico Ltd.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "MOTILALOFS",
+      "name": "Motilal Oswal Financial Services Ltd.",
+      "isin": "INE338I01027"
+    },
+    {
+      "symbol": "MPHASIS",
+      "name": "MphasiS Ltd.",
+      "isin": "INE356A01018"
+    },
+    {
+      "symbol": "MUTHOOTFIN",
+      "name": "Muthoot Finance Ltd.",
+      "isin": "INE414G01012"
+    },
+    {
+      "symbol": "NMDC",
+      "name": "NMDC Ltd.",
+      "isin": "INE584A01023"
+    },
+    {
+      "symbol": "NAM-INDIA",
+      "name": "Nippon Life India Asset Management Ltd.",
+      "isin": "INE298J01013"
+    },
+    {
+      "symbol": "OFSS",
+      "name": "Oracle Financial Services Software Ltd.",
+      "isin": "INE881D01027"
+    },
+    {
+      "symbol": "PIIND",
+      "name": "PI Industries Ltd.",
+      "isin": "INE603J01030"
+    },
+    {
+      "symbol": "PAGEIND",
+      "name": "Page Industries Ltd.",
+      "isin": "INE761H01022"
+    },
+    {
+      "symbol": "PERSISTENT",
+      "name": "Persistent Systems Ltd.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "PETRONET",
+      "name": "Petronet LNG Ltd.",
+      "isin": "INE347G01014"
+    },
+    {
+      "symbol": "POLYCAB",
+      "name": "Polycab India Ltd.",
+      "isin": "INE455K01017"
+    },
+    {
+      "symbol": "PGHH",
+      "name": "Procter & Gamble Hygiene & Health Care Ltd.",
+      "isin": "INE179A01014"
+    },
+    {
+      "symbol": "SCHAEFFLER",
+      "name": "Schaeffler India Ltd.",
+      "isin": "INE513A01022"
+    },
+    {
+      "symbol": "SONACOMS",
+      "name": "Sona BLW Precision Forgings Ltd.",
+      "isin": "INE073K01018"
+    },
+    {
+      "symbol": "SUPREMEIND",
+      "name": "Supreme Industries Ltd.",
+      "isin": "INE195A01028"
+    },
+    {
+      "symbol": "SYNGENE",
+      "name": "Syngene International Ltd.",
+      "isin": "INE398R01022"
+    },
+    {
+      "symbol": "TATAELXSI",
+      "name": "Tata Elxsi Ltd.",
+      "isin": "INE670A01012"
+    },
+    {
+      "symbol": "TIINDIA",
+      "name": "Tube Investments of India Ltd.",
+      "isin": "INE974X01010"
+    }
+  ]
+}

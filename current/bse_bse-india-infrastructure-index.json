@@ -1,0 +1,155 @@
+{
+  "id": "BSE:BSE India Infrastructure Index",
+  "exchange": "BSE",
+  "name": "BSE India Infrastructure Index",
+  "code": "79",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=INFRA",
+  "count": 29,
+  "members": [
+    {
+      "symbol": "541450",
+      "name": "Adani Green Energy Limited",
+      "isin": "INE364U01010"
+    },
+    {
+      "symbol": "532921",
+      "name": "ADANI PORTS AND SPECIAL ECONOM",
+      "isin": "INE742F01042"
+    },
+    {
+      "symbol": "533096",
+      "name": "ADANI POWER LTD.",
+      "isin": "INE814H01029"
+    },
+    {
+      "symbol": "500084",
+      "name": "CESC LTD.",
+      "isin": "INE486A01021"
+    },
+    {
+      "symbol": "532155",
+      "name": "GAIL (INDIA) LTD.",
+      "isin": "INE129A01019"
+    },
+    {
+      "symbol": "532754",
+      "name": "GMR Airports Limited",
+      "isin": "INE776C01039"
+    },
+    {
+      "symbol": "500620",
+      "name": "GREAT EASTERN SHIPPING CO.LTD.",
+      "isin": "INE017A01032"
+    },
+    {
+      "symbol": "533248",
+      "name": "GUJARAT PIPAVAV PORT LTD.",
+      "isin": "INE517F01014"
+    },
+    {
+      "symbol": "543257",
+      "name": "Indian Railway Finance Corpora",
+      "isin": "INE053F01010"
+    },
+    {
+      "symbol": "539448",
+      "name": "InterGlobe Aviation Limited",
+      "isin": "INE646L01027"
+    },
+    {
+      "symbol": "532947",
+      "name": "IRB INFRASTRUCTURE DEVELOPERS",
+      "isin": "INE821I01022"
+    },
+    {
+      "symbol": "541956",
+      "name": "IRCON International Ltd",
+      "isin": "INE962Y01021"
+    },
+    {
+      "symbol": "533148",
+      "name": "JSW ENERGY LTD",
+      "isin": "INE121E01018"
+    },
+    {
+      "symbol": "522287",
+      "name": "KALPATARU PROJECTS INTERNATION",
+      "isin": "INE220B01022"
+    },
+    {
+      "symbol": "532714",
+      "name": "KEC INTERNATIONAL LTD.",
+      "isin": "INE389H01022"
+    },
+    {
+      "symbol": "500510",
+      "name": "LARSEN & TOUBRO LTD.",
+      "isin": "INE018A01030"
+    },
+    {
+      "symbol": "534309",
+      "name": "NBCC (India) Limited",
+      "isin": "INE095N01031"
+    },
+    {
+      "symbol": "500294",
+      "name": "NCC LIMITED",
+      "isin": "INE868B01028"
+    },
+    {
+      "symbol": "533098",
+      "name": "NHPC LTD.",
+      "isin": "INE848E01016"
+    },
+    {
+      "symbol": "532555",
+      "name": "NTPC LTD.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "500312",
+      "name": "OIL AND NATURAL GAS CORPORATIO",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "533106",
+      "name": "OIL INDIA LTD.",
+      "isin": "INE274J01014"
+    },
+    {
+      "symbol": "532810",
+      "name": "POWER FINANCE CORPORATION LTD.",
+      "isin": "INE134E01011"
+    },
+    {
+      "symbol": "532898",
+      "name": "POWER GRID CORPORATION OF INDI",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "542649",
+      "name": "Rail Vikas Nigam Limited",
+      "isin": "INE415G01027"
+    },
+    {
+      "symbol": "532955",
+      "name": "REC LIMITED",
+      "isin": "INE020B01018"
+    },
+    {
+      "symbol": "532939",
+      "name": "RELIANCE POWER LTD.",
+      "isin": "INE614G01033"
+    },
+    {
+      "symbol": "500400",
+      "name": "TATA POWER CO.LTD.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "532779",
+      "name": "TORRENT POWER LTD.",
+      "isin": "INE813H01021"
+    }
+  ]
+}

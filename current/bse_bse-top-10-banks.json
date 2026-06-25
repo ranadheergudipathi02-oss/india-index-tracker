@@ -1,0 +1,60 @@
+{
+  "id": "BSE:BSE Top 10 Banks",
+  "exchange": "BSE",
+  "name": "BSE Top 10 Banks",
+  "code": "161",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=T10BNK",
+  "count": 10,
+  "members": [
+    {
+      "symbol": "540611",
+      "name": "AU Small Finance Bank Limited",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "532215",
+      "name": "AXIS BANK LTD.",
+      "isin": "INE238A01034"
+    },
+    {
+      "symbol": "532134",
+      "name": "BANK OF BARODA",
+      "isin": "INE028A01039"
+    },
+    {
+      "symbol": "500469",
+      "name": "FEDERAL BANK LTD.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "500180",
+      "name": "HDFC BANK LTD.",
+      "isin": "INE040A01034"
+    },
+    {
+      "symbol": "532174",
+      "name": "ICICI BANK LTD.",
+      "isin": "INE090A01021"
+    },
+    {
+      "symbol": "539437",
+      "name": "IDFC FIRST BANK LIMITED",
+      "isin": "INE092T01019"
+    },
+    {
+      "symbol": "532187",
+      "name": "INDUSIND BANK LTD.",
+      "isin": "INE095A01012"
+    },
+    {
+      "symbol": "500247",
+      "name": "KOTAK MAHINDRA BANK LTD.",
+      "isin": "INE237A01036"
+    },
+    {
+      "symbol": "500112",
+      "name": "STATE BANK OF INDIA",
+      "isin": "INE062A01020"
+    }
+  ]
+}

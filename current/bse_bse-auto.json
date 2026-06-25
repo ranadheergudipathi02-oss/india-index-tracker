@@ -1,0 +1,115 @@
+{
+  "id": "BSE:BSE AUTO",
+  "exchange": "BSE",
+  "name": "BSE AUTO",
+  "code": "42",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=AUTO",
+  "count": 21,
+  "members": [
+    {
+      "symbol": "500877",
+      "name": "APOLLO TYRES LTD.",
+      "isin": "INE438A01022"
+    },
+    {
+      "symbol": "500477",
+      "name": "ASHOK LEYLAND LTD.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "532977",
+      "name": "BAJAJ AUTO LTD.",
+      "isin": "INE917I01010"
+    },
+    {
+      "symbol": "502355",
+      "name": "BALKRISHNA INDUSTRIES LTD.",
+      "isin": "INE787D01026"
+    },
+    {
+      "symbol": "500493",
+      "name": "BHARAT FORGE LTD.",
+      "isin": "INE465A01025"
+    },
+    {
+      "symbol": "500530",
+      "name": "BOSCH LTD.",
+      "isin": "INE323A01026"
+    },
+    {
+      "symbol": "505200",
+      "name": "EICHER MOTORS LTD.",
+      "isin": "INE066A01021"
+    },
+    {
+      "symbol": "500086",
+      "name": "EXIDE INDUSTRIES LTD.",
+      "isin": "INE302A01020"
+    },
+    {
+      "symbol": "500182",
+      "name": "HERO MOTOCORP LTD.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "544274",
+      "name": "HYUNDAI MOTOR INDIA LIMITED",
+      "isin": "INE0V6F01027"
+    },
+    {
+      "symbol": "500520",
+      "name": "MAHINDRA & MAHINDRA LTD.",
+      "isin": "INE101A01026"
+    },
+    {
+      "symbol": "532500",
+      "name": "MARUTI SUZUKI INDIA LTD.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "500290",
+      "name": "MRF LTD.",
+      "isin": "INE883A01011"
+    },
+    {
+      "symbol": "517334",
+      "name": "Samvardhana Motherson Internat",
+      "isin": "INE775A01035"
+    },
+    {
+      "symbol": "505790",
+      "name": "Schaeffler India Limited",
+      "isin": "INE513A01022"
+    },
+    {
+      "symbol": "543300",
+      "name": "Sona BLW Precision Forgings Li",
+      "isin": "INE073K01018"
+    },
+    {
+      "symbol": "544569",
+      "name": "Tata Motors Limited",
+      "isin": "INE1TAE01010"
+    },
+    {
+      "symbol": "500570",
+      "name": "TATA MOTORS PASSENGER VEHICLES",
+      "isin": "INE155A01022"
+    },
+    {
+      "symbol": "540762",
+      "name": "Tube Investments of India Ltd",
+      "isin": "INE974X01010"
+    },
+    {
+      "symbol": "532343",
+      "name": "TVS MOTOR COMPANY LTD.",
+      "isin": "INE494B01023"
+    },
+    {
+      "symbol": "532539",
+      "name": "UNO Minda Limited",
+      "isin": "INE405E01023"
+    }
+  ]
+}

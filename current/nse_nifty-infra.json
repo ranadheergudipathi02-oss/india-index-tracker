@@ -1,0 +1,160 @@
+{
+  "id": "NSE:NIFTY INFRA",
+  "exchange": "NSE",
+  "name": "NIFTY INFRA",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyinfralist.csv",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "ADANIGREEN",
+      "name": "Adani Green Energy Ltd.",
+      "isin": "INE364U01010"
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "name": "Adani Ports and Special Economic Zone Ltd.",
+      "isin": "INE742F01042"
+    },
+    {
+      "symbol": "AMBUJACEM",
+      "name": "Ambuja Cements Ltd.",
+      "isin": "INE079A01024"
+    },
+    {
+      "symbol": "APOLLOHOSP",
+      "name": "Apollo Hospitals Enterprise Ltd.",
+      "isin": "INE437A01024"
+    },
+    {
+      "symbol": "ASHOKLEY",
+      "name": "Ashok Leyland Ltd.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "BHARATFORG",
+      "name": "Bharat Forge Ltd.",
+      "isin": "INE465A01025"
+    },
+    {
+      "symbol": "BPCL",
+      "name": "Bharat Petroleum Corporation Ltd.",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "name": "Bharti Airtel Ltd.",
+      "isin": "INE397D01024"
+    },
+    {
+      "symbol": "CGPOWER",
+      "name": "CG Power and Industrial Solutions Ltd.",
+      "isin": "INE067A01029"
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "name": "Cummins India Ltd.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "DLF",
+      "name": "DLF Ltd.",
+      "isin": "INE271C01023"
+    },
+    {
+      "symbol": "FORTIS",
+      "name": "Fortis Healthcare Ltd.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "GAIL",
+      "name": "GAIL (India) Ltd.",
+      "isin": "INE129A01019"
+    },
+    {
+      "symbol": "GRASIM",
+      "name": "Grasim Industries Ltd.",
+      "isin": "INE047A01021"
+    },
+    {
+      "symbol": "HINDPETRO",
+      "name": "Hindustan Petroleum Corporation Ltd.",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "INDHOTEL",
+      "name": "Indian Hotels Co. Ltd.",
+      "isin": "INE053A01029"
+    },
+    {
+      "symbol": "IOC",
+      "name": "Indian Oil Corporation Ltd.",
+      "isin": "INE242A01010"
+    },
+    {
+      "symbol": "INDUSTOWER",
+      "name": "Indus Towers Ltd.",
+      "isin": "INE121J01017"
+    },
+    {
+      "symbol": "INDIGO",
+      "name": "InterGlobe Aviation Ltd.",
+      "isin": "INE646L01027"
+    },
+    {
+      "symbol": "LT",
+      "name": "Larsen & Toubro Ltd.",
+      "isin": "INE018A01030"
+    },
+    {
+      "symbol": "MAXHEALTH",
+      "name": "Max Healthcare Institute Ltd.",
+      "isin": "INE027H01010"
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "ONGC",
+      "name": "Oil & Natural Gas Corporation Ltd.",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "POWERGRID",
+      "name": "Power Grid Corporation of India Ltd.",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries Ltd.",
+      "isin": "INE002A01018"
+    },
+    {
+      "symbol": "MOTHERSON",
+      "name": "Samvardhana Motherson International Ltd.",
+      "isin": "INE775A01035"
+    },
+    {
+      "symbol": "SHREECEM",
+      "name": "Shree Cement Ltd.",
+      "isin": "INE070A01015"
+    },
+    {
+      "symbol": "SUZLON",
+      "name": "Suzlon Energy Ltd.",
+      "isin": "INE040H01021"
+    },
+    {
+      "symbol": "TATAPOWER",
+      "name": "Tata Power Co. Ltd.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "name": "UltraTech Cement Ltd.",
+      "isin": "INE481G01011"
+    }
+  ]
+}

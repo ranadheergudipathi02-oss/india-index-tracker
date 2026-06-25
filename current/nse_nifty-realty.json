@@ -1,0 +1,60 @@
+{
+  "id": "NSE:NIFTY REALTY",
+  "exchange": "NSE",
+  "name": "NIFTY REALTY",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyrealtylist.csv",
+  "count": 10,
+  "members": [
+    {
+      "symbol": "ABREL",
+      "name": "Aditya Birla Real Estate Ltd.",
+      "isin": "INE055A01016"
+    },
+    {
+      "symbol": "ANANTRAJ",
+      "name": "Anant Raj Ltd.",
+      "isin": "INE242C01024"
+    },
+    {
+      "symbol": "BRIGADE",
+      "name": "Brigade Enterprises Ltd.",
+      "isin": "INE791I01019"
+    },
+    {
+      "symbol": "DLF",
+      "name": "DLF Ltd.",
+      "isin": "INE271C01023"
+    },
+    {
+      "symbol": "GODREJPROP",
+      "name": "Godrej Properties Ltd.",
+      "isin": "INE484J01027"
+    },
+    {
+      "symbol": "LODHA",
+      "name": "Lodha Developers Ltd.",
+      "isin": "INE670K01029"
+    },
+    {
+      "symbol": "OBEROIRLTY",
+      "name": "Oberoi Realty Ltd.",
+      "isin": "INE093I01010"
+    },
+    {
+      "symbol": "PHOENIXLTD",
+      "name": "Phoenix Mills Ltd.",
+      "isin": "INE211B01039"
+    },
+    {
+      "symbol": "PRESTIGE",
+      "name": "Prestige Estates Projects Ltd.",
+      "isin": "INE811K01011"
+    },
+    {
+      "symbol": "SOBHA",
+      "name": "Sobha Ltd.",
+      "isin": "INE671H01015"
+    }
+  ]
+}

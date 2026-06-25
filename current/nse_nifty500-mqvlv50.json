@@ -1,0 +1,260 @@
+{
+  "id": "NSE:NIFTY500 MQVLV50",
+  "exchange": "NSE",
+  "name": "NIFTY500 MQVLV50",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_nifty500multifactormqvlv50_list.csv",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "ACC",
+      "name": "ACC Ltd.",
+      "isin": "INE012A01025"
+    },
+    {
+      "symbol": "ALKEM",
+      "name": "Alkem Laboratories Ltd.",
+      "isin": "INE540L01014"
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "name": "Asian Paints Ltd.",
+      "isin": "INE021A01026"
+    },
+    {
+      "symbol": "ASTERDM",
+      "name": "Aster DM Healthcare Ltd.",
+      "isin": "INE914M01019"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "name": "Bajaj Auto Ltd.",
+      "isin": "INE917I01010"
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "name": "Bajaj Finance Ltd.",
+      "isin": "INE296A01032"
+    },
+    {
+      "symbol": "BANKBARODA",
+      "name": "Bank of Baroda",
+      "isin": "INE028A01039"
+    },
+    {
+      "symbol": "BPCL",
+      "name": "Bharat Petroleum Corporation Ltd.",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries Ltd.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "CANBK",
+      "name": "Canara Bank",
+      "isin": "INE476A01022"
+    },
+    {
+      "symbol": "CASTROLIND",
+      "name": "Castrol India Ltd.",
+      "isin": "INE172A01027"
+    },
+    {
+      "symbol": "CHENNPETRO",
+      "name": "Chennai Petroleum Corporation Ltd.",
+      "isin": "INE178A01016"
+    },
+    {
+      "symbol": "COALINDIA",
+      "name": "Coal India Ltd.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "COLPAL",
+      "name": "Colgate Palmolive (India) Ltd.",
+      "isin": "INE259A01022"
+    },
+    {
+      "symbol": "CAMS",
+      "name": "Computer Age Management Services Ltd.",
+      "isin": "INE596I01020"
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "name": "Cummins India Ltd.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "DABUR",
+      "name": "Dabur India Ltd.",
+      "isin": "INE016A01026"
+    },
+    {
+      "symbol": "DRREDDY",
+      "name": "Dr. Reddy's Laboratories Ltd.",
+      "isin": "INE089A01031"
+    },
+    {
+      "symbol": "EICHERMOT",
+      "name": "Eicher Motors Ltd.",
+      "isin": "INE066A01021"
+    },
+    {
+      "symbol": "EMAMILTD",
+      "name": "Emami Ltd.",
+      "isin": "INE548C01032"
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "name": "Federal Bank Ltd.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "GILLETTE",
+      "name": "Gillette India Ltd.",
+      "isin": "INE322A01010"
+    },
+    {
+      "symbol": "GLAXO",
+      "name": "Glaxosmithkline Pharmaceuticals Ltd.",
+      "isin": "INE159A01016"
+    },
+    {
+      "symbol": "GESHIP",
+      "name": "Great Eastern Shipping Co. Ltd.",
+      "isin": "INE017A01032"
+    },
+    {
+      "symbol": "HDFCAMC",
+      "name": "HDFC Asset Management Company Ltd.",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "HAVELLS",
+      "name": "Havells India Ltd.",
+      "isin": "INE176B01034"
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "name": "Hero MotoCorp Ltd.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "HINDPETRO",
+      "name": "Hindustan Petroleum Corporation Ltd.",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "INDIANB",
+      "name": "Indian Bank",
+      "isin": "INE562A01011"
+    },
+    {
+      "symbol": "IEX",
+      "name": "Indian Energy Exchange Ltd.",
+      "isin": "INE022Q01020"
+    },
+    {
+      "symbol": "IOC",
+      "name": "Indian Oil Corporation Ltd.",
+      "isin": "INE242A01010"
+    },
+    {
+      "symbol": "IRCTC",
+      "name": "Indian Railway Catering And Tourism Corporation Ltd.",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "LTF",
+      "name": "L&T Finance Ltd.",
+      "isin": "INE498L01015"
+    },
+    {
+      "symbol": "LICHSGFIN",
+      "name": "LIC Housing Finance Ltd.",
+      "isin": "INE115A01026"
+    },
+    {
+      "symbol": "MRF",
+      "name": "MRF Ltd.",
+      "isin": "INE883A01011"
+    },
+    {
+      "symbol": "M&MFIN",
+      "name": "Mahindra & Mahindra Financial Services Ltd.",
+      "isin": "INE774D01024"
+    },
+    {
+      "symbol": "MANAPPURAM",
+      "name": "Manappuram Finance Ltd.",
+      "isin": "INE522D01027"
+    },
+    {
+      "symbol": "MARICO",
+      "name": "Marico Ltd.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Ltd.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "MFSL",
+      "name": "Max Financial Services Ltd.",
+      "isin": "INE180A01020"
+    },
+    {
+      "symbol": "MSUMI",
+      "name": "Motherson Sumi Wiring India Ltd.",
+      "isin": "INE0FS801015"
+    },
+    {
+      "symbol": "MUTHOOTFIN",
+      "name": "Muthoot Finance Ltd.",
+      "isin": "INE414G01012"
+    },
+    {
+      "symbol": "NATIONALUM",
+      "name": "National Aluminium Co. Ltd.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "ONGC",
+      "name": "Oil & Natural Gas Corporation Ltd.",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "PAGEIND",
+      "name": "Page Industries Ltd.",
+      "isin": "INE761H01022"
+    },
+    {
+      "symbol": "PFC",
+      "name": "Power Finance Corporation Ltd.",
+      "isin": "INE134E01011"
+    },
+    {
+      "symbol": "REDINGTON",
+      "name": "Redington Ltd.",
+      "isin": "INE891D01026"
+    },
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services Ltd.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "TORNTPHARM",
+      "name": "Torrent Pharmaceuticals Ltd.",
+      "isin": "INE685A01028"
+    },
+    {
+      "symbol": "UNIONBANK",
+      "name": "Union Bank of India",
+      "isin": "INE692A01016"
+    }
+  ]
+}

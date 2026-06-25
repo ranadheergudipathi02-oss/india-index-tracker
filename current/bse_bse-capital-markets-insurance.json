@@ -1,0 +1,140 @@
+{
+  "id": "BSE:BSE CAPITAL MARKETS & INSURANCE",
+  "exchange": "BSE",
+  "name": "BSE CAPITAL MARKETS & INSURANCE",
+  "code": "133",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=CAPINS",
+  "count": 26,
+  "members": [
+    {
+      "symbol": "542772",
+      "name": "360 ONE WAM LIMITED",
+      "isin": "INE466L01038"
+    },
+    {
+      "symbol": "543374",
+      "name": "Aditya Birla Sun Life AMC Limi",
+      "isin": "INE404A01024"
+    },
+    {
+      "symbol": "543415",
+      "name": "Anand Rathi Wealth Limited",
+      "isin": "INE463V01026"
+    },
+    {
+      "symbol": "543235",
+      "name": "ANGEL ONE LIMITED",
+      "isin": "INE732I01021"
+    },
+    {
+      "symbol": "544603",
+      "name": "Billionbrains Garage Ventures",
+      "isin": "INE0HOQ01053"
+    },
+    {
+      "symbol": "543232",
+      "name": "Computer Age Management Servic",
+      "isin": "INE596I01020"
+    },
+    {
+      "symbol": "540755",
+      "name": "General Insurance Corporation",
+      "isin": "INE481Y01014"
+    },
+    {
+      "symbol": "544179",
+      "name": "Go Digit General Insurance Lim",
+      "isin": "INE03JT01014"
+    },
+    {
+      "symbol": "541729",
+      "name": "HDFC Asset Management Company",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "540777",
+      "name": "HDFC LIFE INSURANCE COMPANY LI",
+      "isin": "INE795G01014"
+    },
+    {
+      "symbol": "540716",
+      "name": "ICICI Lombard General Insuranc",
+      "isin": "INE765G01017"
+    },
+    {
+      "symbol": "544658",
+      "name": "ICICI Prudential Asset Managem",
+      "isin": "INE346A01027"
+    },
+    {
+      "symbol": "540133",
+      "name": "ICICI Prudential Life Insuranc",
+      "isin": "INE726G01019"
+    },
+    {
+      "symbol": "540750",
+      "name": "Indian Energy Exchange Limited",
+      "isin": "INE022Q01020"
+    },
+    {
+      "symbol": "543720",
+      "name": "KFin Technologies Limited",
+      "isin": "INE138Y01010"
+    },
+    {
+      "symbol": "543526",
+      "name": "LIFE INSURANCE CORPORATION OF",
+      "isin": "INE0J1Y01017"
+    },
+    {
+      "symbol": "500271",
+      "name": "Max Financial Services Limited",
+      "isin": "INE180A01020"
+    },
+    {
+      "symbol": "532892",
+      "name": "MOTILAL OSWAL FINANCIAL SERVIC",
+      "isin": "INE338I01027"
+    },
+    {
+      "symbol": "534091",
+      "name": "MULTI COMMODITY EXCHANGE OF IN",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "544467",
+      "name": "National Securities Depository",
+      "isin": "INE301O01023"
+    },
+    {
+      "symbol": "540767",
+      "name": "NIPPON LIFE INDIA ASSET MANAGE",
+      "isin": "INE298J01013"
+    },
+    {
+      "symbol": "543988",
+      "name": "Nuvama Wealth Management Limit",
+      "isin": "INE531F01023"
+    },
+    {
+      "symbol": "540719",
+      "name": "SBI Life Insurance Company Lim",
+      "isin": "INE123W01016"
+    },
+    {
+      "symbol": "543412",
+      "name": "Star Health and Allied Insuran",
+      "isin": "INE575P01011"
+    },
+    {
+      "symbol": "540769",
+      "name": "The New India Assurance Compan",
+      "isin": "INE470Y01017"
+    },
+    {
+      "symbol": "543238",
+      "name": "UTI Asset Management Company L",
+      "isin": "INE094J01016"
+    }
+  ]
+}

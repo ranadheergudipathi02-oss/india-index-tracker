@@ -1,0 +1,185 @@
+{
+  "id": "BSE:BSE POWER & ENERGY",
+  "exchange": "BSE",
+  "name": "BSE POWER & ENERGY",
+  "code": "131",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=POWENE",
+  "count": 35,
+  "members": [
+    {
+      "symbol": "544283",
+      "name": "ACME Solar Holdings Limited",
+      "isin": "INE622W01025"
+    },
+    {
+      "symbol": "539254",
+      "name": "Adani Energy Solutions Limited",
+      "isin": "INE931S01010"
+    },
+    {
+      "symbol": "541450",
+      "name": "Adani Green Energy Limited",
+      "isin": "INE364U01010"
+    },
+    {
+      "symbol": "533096",
+      "name": "ADANI POWER LTD.",
+      "isin": "INE814H01029"
+    },
+    {
+      "symbol": "542066",
+      "name": "ADANI TOTAL GAS LIMITED",
+      "isin": "INE399L01023"
+    },
+    {
+      "symbol": "500003",
+      "name": "AEGIS LOGISTICS LTD.",
+      "isin": "INE208C01025"
+    },
+    {
+      "symbol": "544407",
+      "name": "AEGIS VOPAK TERMINALS LIMITED",
+      "isin": "INE0INX01018"
+    },
+    {
+      "symbol": "500547",
+      "name": "BHARAT PETROLEUM CORPORATION L",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "500870",
+      "name": "CASTROL INDIA LTD.",
+      "isin": "INE172A01027"
+    },
+    {
+      "symbol": "500084",
+      "name": "CESC LTD.",
+      "isin": "INE486A01021"
+    },
+    {
+      "symbol": "500110",
+      "name": "CHENNAI PETROLEUM CORPORATION",
+      "isin": "INE178A01016"
+    },
+    {
+      "symbol": "533278",
+      "name": "COAL INDIA LTD.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "532155",
+      "name": "GAIL (INDIA) LTD.",
+      "isin": "INE129A01019"
+    },
+    {
+      "symbol": "539336",
+      "name": "Gujarat Gas Limited",
+      "isin": "INE844O01030"
+    },
+    {
+      "symbol": "500104",
+      "name": "HINDUSTAN PETROLEUM CORPORATIO",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "530965",
+      "name": "INDIAN OIL CORPORATION LTD.",
+      "isin": "INE242A01010"
+    },
+    {
+      "symbol": "532514",
+      "name": "INDRAPRASTHA GAS LTD.",
+      "isin": "INE203G01027"
+    },
+    {
+      "symbol": "532627",
+      "name": "JAIPRAKASH POWER VENTURES LIMI",
+      "isin": "INE351F01018"
+    },
+    {
+      "symbol": "533148",
+      "name": "JSW ENERGY LTD",
+      "isin": "INE121E01018"
+    },
+    {
+      "symbol": "539957",
+      "name": "Mahanagar Gas Limited",
+      "isin": "INE002S01010"
+    },
+    {
+      "symbol": "500109",
+      "name": "MANGALORE REFINERY & PETROCHEM",
+      "isin": "INE103A01014"
+    },
+    {
+      "symbol": "513023",
+      "name": "NAVA LIMITED",
+      "isin": "INE725A01030"
+    },
+    {
+      "symbol": "533098",
+      "name": "NHPC LTD.",
+      "isin": "INE848E01016"
+    },
+    {
+      "symbol": "513683",
+      "name": "NLC India Limited",
+      "isin": "INE589A01014"
+    },
+    {
+      "symbol": "544289",
+      "name": "NTPC GREEN ENERGY LIMITED",
+      "isin": "INE0ONG01011"
+    },
+    {
+      "symbol": "532555",
+      "name": "NTPC LTD.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "500312",
+      "name": "OIL AND NATURAL GAS CORPORATIO",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "533106",
+      "name": "OIL INDIA LTD.",
+      "isin": "INE274J01014"
+    },
+    {
+      "symbol": "532522",
+      "name": "PETRONET LNG LTD.",
+      "isin": "INE347G01014"
+    },
+    {
+      "symbol": "532898",
+      "name": "POWER GRID CORPORATION OF INDI",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "500325",
+      "name": "RELIANCE INDUSTRIES LTD.",
+      "isin": "INE002A01018"
+    },
+    {
+      "symbol": "532939",
+      "name": "RELIANCE POWER LTD.",
+      "isin": "INE614G01033"
+    },
+    {
+      "symbol": "533206",
+      "name": "SJVN LTD",
+      "isin": "INE002L01015"
+    },
+    {
+      "symbol": "500400",
+      "name": "TATA POWER CO.LTD.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "532779",
+      "name": "TORRENT POWER LTD.",
+      "isin": "INE813H01021"
+    }
+  ]
+}

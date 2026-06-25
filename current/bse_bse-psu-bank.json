@@ -1,0 +1,65 @@
+{
+  "id": "BSE:BSE PSU BANK",
+  "exchange": "BSE",
+  "name": "BSE PSU BANK",
+  "code": "140",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=PSUBNK",
+  "count": 11,
+  "members": [
+    {
+      "symbol": "532134",
+      "name": "BANK OF BARODA",
+      "isin": "INE028A01039"
+    },
+    {
+      "symbol": "532149",
+      "name": "BANK OF INDIA",
+      "isin": "INE084A01016"
+    },
+    {
+      "symbol": "532525",
+      "name": "BANK OF MAHARASHTRA",
+      "isin": "INE457A01014"
+    },
+    {
+      "symbol": "532483",
+      "name": "CANARA BANK",
+      "isin": "INE476A01022"
+    },
+    {
+      "symbol": "532885",
+      "name": "CENTRAL BANK OF INDIA",
+      "isin": "INE483A01010"
+    },
+    {
+      "symbol": "532814",
+      "name": "INDIAN BANK",
+      "isin": "INE562A01011"
+    },
+    {
+      "symbol": "532388",
+      "name": "INDIAN OVERSEAS BANK",
+      "isin": "INE565A01014"
+    },
+    {
+      "symbol": "532461",
+      "name": "PUNJAB NATIONAL BANK",
+      "isin": "INE160A01022"
+    },
+    {
+      "symbol": "500112",
+      "name": "STATE BANK OF INDIA",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "532505",
+      "name": "UCO BANK",
+      "isin": "INE691A01018"
+    },
+    {
+      "symbol": "532477",
+      "name": "UNION BANK OF INDIA",
+      "isin": "INE692A01016"
+    }
+  ]
+}

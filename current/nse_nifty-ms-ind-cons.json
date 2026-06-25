@@ -1,0 +1,160 @@
+{
+  "id": "NSE:NIFTY MS IND CONS",
+  "exchange": "NSE",
+  "name": "NIFTY MS IND CONS",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftymidsmallindiaconsumption_list.csv",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "ABBOTINDIA",
+      "name": "Abbott India Ltd.",
+      "isin": "INE358A01014"
+    },
+    {
+      "symbol": "ALKEM",
+      "name": "Alkem Laboratories Ltd.",
+      "isin": "INE540L01014"
+    },
+    {
+      "symbol": "BATAINDIA",
+      "name": "Bata India Ltd.",
+      "isin": "INE176A01028"
+    },
+    {
+      "symbol": "CROMPTON",
+      "name": "Crompton Greaves Consumer Electricals Ltd.",
+      "isin": "INE299U01018"
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Ltd.",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "LALPATHLAB",
+      "name": "Dr. Lal Path Labs Ltd.",
+      "isin": "INE600L01024"
+    },
+    {
+      "symbol": "EMAMILTD",
+      "name": "Emami Ltd.",
+      "isin": "INE548C01032"
+    },
+    {
+      "symbol": "FORTIS",
+      "name": "Fortis Healthcare Ltd.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "GODREJPROP",
+      "name": "Godrej Properties Ltd.",
+      "isin": "INE484J01027"
+    },
+    {
+      "symbol": "INDIAMART",
+      "name": "Indiamart Intermesh Ltd.",
+      "isin": "INE933S01016"
+    },
+    {
+      "symbol": "INDHOTEL",
+      "name": "Indian Hotels Co. Ltd.",
+      "isin": "INE053A01029"
+    },
+    {
+      "symbol": "IPCALAB",
+      "name": "Ipca Laboratories Ltd.",
+      "isin": "INE571A01038"
+    },
+    {
+      "symbol": "KAJARIACER",
+      "name": "Kajaria Ceramics Ltd.",
+      "isin": "INE217B01036"
+    },
+    {
+      "symbol": "LODHA",
+      "name": "Macrotech Developers Ltd.",
+      "isin": "INE670K01029"
+    },
+    {
+      "symbol": "MAXHEALTH",
+      "name": "Max Healthcare Institute Ltd.",
+      "isin": "INE027H01010"
+    },
+    {
+      "symbol": "OBEROIRLTY",
+      "name": "Oberoi Realty Ltd.",
+      "isin": "INE093I01010"
+    },
+    {
+      "symbol": "PAGEIND",
+      "name": "Page Industries Ltd.",
+      "isin": "INE761H01022"
+    },
+    {
+      "symbol": "PFIZER",
+      "name": "Pfizer Ltd.",
+      "isin": "INE182A01018"
+    },
+    {
+      "symbol": "PHOENIXLTD",
+      "name": "Phoenix Mills Ltd.",
+      "isin": "INE211B01039"
+    },
+    {
+      "symbol": "RAJESHEXPO",
+      "name": "Rajesh Exports Ltd.",
+      "isin": "INE343B01030"
+    },
+    {
+      "symbol": "RELAXO",
+      "name": "Relaxo Footwears Ltd.",
+      "isin": "INE131B01039"
+    },
+    {
+      "symbol": "TVSMOTOR",
+      "name": "TVS Motor Company Ltd.",
+      "isin": "INE494B01023"
+    },
+    {
+      "symbol": "TORNTPOWER",
+      "name": "Torrent Power Ltd.",
+      "isin": "INE813H01021"
+    },
+    {
+      "symbol": "TRENT",
+      "name": "Trent Ltd.",
+      "isin": "INE849A01020"
+    },
+    {
+      "symbol": "UBL",
+      "name": "United Breweries Ltd.",
+      "isin": "INE686F01025"
+    },
+    {
+      "symbol": "VBL",
+      "name": "Varun Beverages Ltd.",
+      "isin": "INE200M01013"
+    },
+    {
+      "symbol": "IDEA",
+      "name": "Vodafone Idea Ltd.",
+      "isin": "INE669E01016"
+    },
+    {
+      "symbol": "VOLTAS",
+      "name": "Voltas Ltd.",
+      "isin": "INE226A01021"
+    },
+    {
+      "symbol": "ZEEL",
+      "name": "Zee Entertainment Enterprises Ltd.",
+      "isin": "INE256A01028"
+    },
+    {
+      "symbol": "ZYDUSLIFE",
+      "name": "Zydus Lifesciences Ltd.",
+      "isin": "INE010B01027"
+    }
+  ]
+}

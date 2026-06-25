@@ -1,0 +1,80 @@
+{
+  "id": "NSE:NIFTY BANK",
+  "exchange": "NSE",
+  "name": "NIFTY BANK",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftybanklist.csv",
+  "count": 14,
+  "members": [
+    {
+      "symbol": "AUBANK",
+      "name": "AU Small Finance Bank Ltd.",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "AXISBANK",
+      "name": "Axis Bank Ltd.",
+      "isin": "INE238A01034"
+    },
+    {
+      "symbol": "BANKBARODA",
+      "name": "Bank of Baroda",
+      "isin": "INE028A01039"
+    },
+    {
+      "symbol": "CANBK",
+      "name": "Canara Bank",
+      "isin": "INE476A01022"
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "name": "Federal Bank Ltd.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank Ltd.",
+      "isin": "INE040A01034"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank Ltd.",
+      "isin": "INE090A01021"
+    },
+    {
+      "symbol": "IDFCFIRSTB",
+      "name": "IDFC First Bank Ltd.",
+      "isin": "INE092T01019"
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "name": "IndusInd Bank Ltd.",
+      "isin": "INE095A01012"
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "name": "Kotak Mahindra Bank Ltd.",
+      "isin": "INE237A01036"
+    },
+    {
+      "symbol": "PNB",
+      "name": "Punjab National Bank",
+      "isin": "INE160A01022"
+    },
+    {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "UNIONBANK",
+      "name": "Union Bank of India",
+      "isin": "INE692A01016"
+    },
+    {
+      "symbol": "YESBANK",
+      "name": "Yes Bank Ltd.",
+      "isin": "INE528G01035"
+    }
+  ]
+}

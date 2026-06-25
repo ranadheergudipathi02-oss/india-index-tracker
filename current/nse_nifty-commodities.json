@@ -1,0 +1,160 @@
+{
+  "id": "NSE:NIFTY COMMODITIES",
+  "exchange": "NSE",
+  "name": "NIFTY COMMODITIES",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftycommoditieslist.csv",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "APLAPOLLO",
+      "name": "APL Apollo Tubes Ltd.",
+      "isin": "INE702C01027"
+    },
+    {
+      "symbol": "ADANIENSOL",
+      "name": "Adani Energy Solutions Ltd.",
+      "isin": "INE931S01010"
+    },
+    {
+      "symbol": "ADANIGREEN",
+      "name": "Adani Green Energy Ltd.",
+      "isin": "INE364U01010"
+    },
+    {
+      "symbol": "ADANIPOWER",
+      "name": "Adani Power Ltd.",
+      "isin": "INE814H01029"
+    },
+    {
+      "symbol": "AMBUJACEM",
+      "name": "Ambuja Cements Ltd.",
+      "isin": "INE079A01024"
+    },
+    {
+      "symbol": "BPCL",
+      "name": "Bharat Petroleum Corporation Ltd.",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "COALINDIA",
+      "name": "Coal India Ltd.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "GRASIM",
+      "name": "Grasim Industries Ltd.",
+      "isin": "INE047A01021"
+    },
+    {
+      "symbol": "HINDALCO",
+      "name": "Hindalco Industries Ltd.",
+      "isin": "INE038A01020"
+    },
+    {
+      "symbol": "HINDPETRO",
+      "name": "Hindustan Petroleum Corporation Ltd.",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "IOC",
+      "name": "Indian Oil Corporation Ltd.",
+      "isin": "INE242A01010"
+    },
+    {
+      "symbol": "JSWENERGY",
+      "name": "JSW Energy Ltd.",
+      "isin": "INE121E01018"
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "name": "JSW Steel Ltd.",
+      "isin": "INE019A01038"
+    },
+    {
+      "symbol": "JINDALSTEL",
+      "name": "Jindal Steel Ltd.",
+      "isin": "INE749A01030"
+    },
+    {
+      "symbol": "NHPC",
+      "name": "NHPC Ltd.",
+      "isin": "INE848E01016"
+    },
+    {
+      "symbol": "NMDC",
+      "name": "NMDC Ltd.",
+      "isin": "INE584A01023"
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "ONGC",
+      "name": "Oil & Natural Gas Corporation Ltd.",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "OIL",
+      "name": "Oil India Ltd.",
+      "isin": "INE274J01014"
+    },
+    {
+      "symbol": "PIIND",
+      "name": "PI Industries Ltd.",
+      "isin": "INE603J01030"
+    },
+    {
+      "symbol": "PIDILITIND",
+      "name": "Pidilite Industries Ltd.",
+      "isin": "INE318A01026"
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries Ltd.",
+      "isin": "INE002A01018"
+    },
+    {
+      "symbol": "SRF",
+      "name": "SRF Ltd.",
+      "isin": "INE647A01010"
+    },
+    {
+      "symbol": "SHREECEM",
+      "name": "Shree Cement Ltd.",
+      "isin": "INE070A01015"
+    },
+    {
+      "symbol": "TATAPOWER",
+      "name": "Tata Power Co. Ltd.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel Ltd.",
+      "isin": "INE081A01020"
+    },
+    {
+      "symbol": "TORNTPOWER",
+      "name": "Torrent Power Ltd.",
+      "isin": "INE813H01021"
+    },
+    {
+      "symbol": "UPL",
+      "name": "UPL Ltd.",
+      "isin": "INE628A01036"
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "name": "UltraTech Cement Ltd.",
+      "isin": "INE481G01011"
+    },
+    {
+      "symbol": "VEDL",
+      "name": "Vedanta Ltd.",
+      "isin": "INE205A01025"
+    }
+  ]
+}

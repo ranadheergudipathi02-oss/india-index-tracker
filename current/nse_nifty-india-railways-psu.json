@@ -1,0 +1,95 @@
+{
+  "id": "NSE:NIFTY INDIA RAILWAYS PSU",
+  "exchange": "NSE",
+  "name": "NIFTY INDIA RAILWAYS PSU",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyindiarailwayspsu_list.csv",
+  "count": 17,
+  "members": [
+    {
+      "symbol": "BEML",
+      "name": "BEML Ltd.",
+      "isin": "INE258A01024"
+    },
+    {
+      "symbol": "BEL",
+      "name": "Bharat Electronics Ltd.",
+      "isin": "INE263A01024"
+    },
+    {
+      "symbol": "BHEL",
+      "name": "Bharat Heavy Electricals Ltd.",
+      "isin": "INE257A01026"
+    },
+    {
+      "symbol": "BPCL",
+      "name": "Bharat Petroleum Corporation Ltd.",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "CONCOR",
+      "name": "Container Corporation of India Ltd.",
+      "isin": "INE111A01025"
+    },
+    {
+      "symbol": "HINDPETRO",
+      "name": "Hindustan Petroleum Corporation Ltd.",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "IRCON",
+      "name": "IRCON International Ltd.",
+      "isin": "INE962Y01021"
+    },
+    {
+      "symbol": "ITI",
+      "name": "ITI Ltd.",
+      "isin": "INE248A01017"
+    },
+    {
+      "symbol": "IRCTC",
+      "name": "Indian Railway Catering And Tourism Corporation Ltd.",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "IRFC",
+      "name": "Indian Railway Finance Corporation Ltd.",
+      "isin": "INE053F01010"
+    },
+    {
+      "symbol": "MRPL",
+      "name": "Mangalore Refinery & Petrochemicals Ltd.",
+      "isin": "INE103A01014"
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "ONGC",
+      "name": "Oil & Natural Gas Corporation Ltd.",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "RITES",
+      "name": "RITES Ltd.",
+      "isin": "INE320J01015"
+    },
+    {
+      "symbol": "RVNL",
+      "name": "Rail Vikas Nigam Ltd.",
+      "isin": "INE415G01027"
+    },
+    {
+      "symbol": "RAILTEL",
+      "name": "Railtel Corporation Of India Ltd.",
+      "isin": "INE0DD101019"
+    },
+    {
+      "symbol": "SAIL",
+      "name": "Steel Authority of India Ltd.",
+      "isin": "INE114A01011"
+    }
+  ]
+}

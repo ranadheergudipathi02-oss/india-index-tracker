@@ -1,0 +1,180 @@
+{
+  "id": "BSE:BSE CAPITAL GOODS",
+  "exchange": "BSE",
+  "name": "BSE CAPITAL GOODS",
+  "code": "25",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSECG",
+  "count": 34,
+  "members": [
+    {
+      "symbol": "500002",
+      "name": "ABB INDIA LIMITED",
+      "isin": "INE117A01022"
+    },
+    {
+      "symbol": "532683",
+      "name": "AIA ENGINEERING LTD.",
+      "isin": "INE212H01026"
+    },
+    {
+      "symbol": "532259",
+      "name": "APAR INDUSTRIES LTD.",
+      "isin": "INE372A01015"
+    },
+    {
+      "symbol": "532830",
+      "name": "ASTRAL LIMITED",
+      "isin": "INE006I01046"
+    },
+    {
+      "symbol": "541143",
+      "name": "Bharat Dynamics Limited",
+      "isin": "INE171Z01026"
+    },
+    {
+      "symbol": "500049",
+      "name": "BHARAT ELECTRONICS LTD.",
+      "isin": "INE263A01024"
+    },
+    {
+      "symbol": "500103",
+      "name": "BHARAT HEAVY ELECTRICALS LTD.",
+      "isin": "INE257A01026"
+    },
+    {
+      "symbol": "513375",
+      "name": "CARBORUNDUM UNIVERSAL LTD.",
+      "isin": "INE120A01034"
+    },
+    {
+      "symbol": "500093",
+      "name": "CG Power and Industrial Soluti",
+      "isin": "INE067A01029"
+    },
+    {
+      "symbol": "540678",
+      "name": "Cochin Shipyard Limited",
+      "isin": "INE704P01025"
+    },
+    {
+      "symbol": "500480",
+      "name": "CUMMINS INDIA LTD.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "543428",
+      "name": "Data Patterns (India) Limited",
+      "isin": "INE0IX101010"
+    },
+    {
+      "symbol": "522074",
+      "name": "ELGI EQUIPMENTS LTD.",
+      "isin": "INE285A01027"
+    },
+    {
+      "symbol": "522275",
+      "name": "GE Vernova T&D India Limited",
+      "isin": "INE200A01026"
+    },
+    {
+      "symbol": "517271",
+      "name": "HBL ENGINEERING LIMITED",
+      "isin": "INE292B01021"
+    },
+    {
+      "symbol": "541154",
+      "name": "Hindustan Aeronautics Limited",
+      "isin": "INE066F01020"
+    },
+    {
+      "symbol": "543187",
+      "name": "HITACHI ENERGY INDIA LIMITED",
+      "isin": "INE07Y701011"
+    },
+    {
+      "symbol": "517174",
+      "name": "HONEYWELL AUTOMATION INDIA LTD",
+      "isin": "INE671A01010"
+    },
+    {
+      "symbol": "539083",
+      "name": "Inox Wind Limited",
+      "isin": "INE066P01011"
+    },
+    {
+      "symbol": "544081",
+      "name": "Jyoti CNC Automation Limited",
+      "isin": "INE980O01024"
+    },
+    {
+      "symbol": "543664",
+      "name": "KAYNES TECHNOLOGY INDIA LIMITE",
+      "isin": "INE918Z01012"
+    },
+    {
+      "symbol": "517569",
+      "name": "KEI INDUSTRIES LTD.",
+      "isin": "INE878B01027"
+    },
+    {
+      "symbol": "533293",
+      "name": "KIRLOSKAR OIL ENGINES LTD.",
+      "isin": "INE146L01010"
+    },
+    {
+      "symbol": "543237",
+      "name": "Mazagon Dock Shipbuilders Limi",
+      "isin": "INE249Z01020"
+    },
+    {
+      "symbol": "542652",
+      "name": "Polycab India Limited",
+      "isin": "INE455K01017"
+    },
+    {
+      "symbol": "544238",
+      "name": "Premier Energies Limited",
+      "isin": "INE0BS701011"
+    },
+    {
+      "symbol": "539006",
+      "name": "PTC Industries Ltd.",
+      "isin": "INE596F01018"
+    },
+    {
+      "symbol": "544390",
+      "name": "Siemens Energy India Limited",
+      "isin": "INE1NPP01017"
+    },
+    {
+      "symbol": "500550",
+      "name": "SIEMENS LTD.",
+      "isin": "INE003A01024"
+    },
+    {
+      "symbol": "509930",
+      "name": "SUPREME INDUSTRIES LTD.",
+      "isin": "INE195A01028"
+    },
+    {
+      "symbol": "532667",
+      "name": "SUZLON ENERGY LTD.",
+      "isin": "INE040H01021"
+    },
+    {
+      "symbol": "500411",
+      "name": "THERMAX LTD.",
+      "isin": "INE152A01029"
+    },
+    {
+      "symbol": "522113",
+      "name": "TIMKEN INDIA LTD.",
+      "isin": "INE325A01013"
+    },
+    {
+      "symbol": "544277",
+      "name": "Waaree Energies Limited",
+      "isin": "INE377N01017"
+    }
+  ]
+}

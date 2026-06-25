@@ -1,0 +1,175 @@
+{
+  "id": "BSE:BSE India Defence ",
+  "exchange": "BSE",
+  "name": "BSE India Defence ",
+  "code": "155",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=INDDEF",
+  "count": 33,
+  "members": [
+    {
+      "symbol": "512599",
+      "name": "ADANI ENTERPRISES LTD.",
+      "isin": "INE423A01024"
+    },
+    {
+      "symbol": "544634",
+      "name": "Aequs Limited",
+      "isin": "INE947N01017"
+    },
+    {
+      "symbol": "540879",
+      "name": "Apollo Micro Systems Limited",
+      "isin": "INE713T01028"
+    },
+    {
+      "symbol": "500101",
+      "name": "ARVIND LTD.",
+      "isin": "INE034A01011"
+    },
+    {
+      "symbol": "500477",
+      "name": "ASHOK LEYLAND LTD.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "532493",
+      "name": "ASTRA MICROWAVE PRODUCTS LTD.",
+      "isin": "INE386C01029"
+    },
+    {
+      "symbol": "532395",
+      "name": "AXISCADES TECHNOLOGIES LIMITED",
+      "isin": "INE555B01013"
+    },
+    {
+      "symbol": "500048",
+      "name": "BEML LTD.",
+      "isin": "INE258A01024"
+    },
+    {
+      "symbol": "541143",
+      "name": "Bharat Dynamics Limited",
+      "isin": "INE171Z01026"
+    },
+    {
+      "symbol": "500049",
+      "name": "BHARAT ELECTRONICS LTD.",
+      "isin": "INE263A01024"
+    },
+    {
+      "symbol": "500493",
+      "name": "BHARAT FORGE LTD.",
+      "isin": "INE465A01025"
+    },
+    {
+      "symbol": "540678",
+      "name": "Cochin Shipyard Limited",
+      "isin": "INE704P01025"
+    },
+    {
+      "symbol": "543933",
+      "name": "Cyient DLM Limited",
+      "isin": "INE055S01018"
+    },
+    {
+      "symbol": "543428",
+      "name": "Data Patterns (India) Limited",
+      "isin": "INE0IX101010"
+    },
+    {
+      "symbol": "543650",
+      "name": "DCX Systems Limited",
+      "isin": "INE0KL801015"
+    },
+    {
+      "symbol": "505242",
+      "name": "DYNAMATIC TECHNOLOGIES LTD.",
+      "isin": "INE221B01012"
+    },
+    {
+      "symbol": "542011",
+      "name": "Garden Reach Shipbuilders & En",
+      "isin": "INE382Z01011"
+    },
+    {
+      "symbol": "517271",
+      "name": "HBL ENGINEERING LIMITED",
+      "isin": "INE292B01021"
+    },
+    {
+      "symbol": "541154",
+      "name": "Hindustan Aeronautics Limited",
+      "isin": "INE066F01020"
+    },
+    {
+      "symbol": "543932",
+      "name": "IDEAFORGE TECHNOLOGY LIMITED",
+      "isin": "INE349Y01013"
+    },
+    {
+      "symbol": "532162",
+      "name": "JK PAPER LTD.",
+      "isin": "INE789E01012"
+    },
+    {
+      "symbol": "500510",
+      "name": "LARSEN & TOUBRO LTD.",
+      "isin": "INE018A01030"
+    },
+    {
+      "symbol": "500252",
+      "name": "LMW Limited",
+      "isin": "INE269B01029"
+    },
+    {
+      "symbol": "500520",
+      "name": "MAHINDRA & MAHINDRA LTD.",
+      "isin": "INE101A01026"
+    },
+    {
+      "symbol": "543237",
+      "name": "Mazagon Dock Shipbuilders Limi",
+      "isin": "INE249Z01020"
+    },
+    {
+      "symbol": "541195",
+      "name": "Mishra Dhatu Nigam Limited",
+      "isin": "INE099Z01011"
+    },
+    {
+      "symbol": "543270",
+      "name": "MTAR Technologies Limited",
+      "isin": "INE864I01014"
+    },
+    {
+      "symbol": "543367",
+      "name": "Paras Defence and Space Techno",
+      "isin": "INE045601023"
+    },
+    {
+      "symbol": "539006",
+      "name": "PTC Industries Ltd.",
+      "isin": "INE596F01018"
+    },
+    {
+      "symbol": "532527",
+      "name": "RAMKRISHNA FORGINGS LTD.",
+      "isin": "INE399G01023"
+    },
+    {
+      "symbol": "532725",
+      "name": "SOLAR INDUSTRIES INDIA LTD.",
+      "isin": "INE343H01029"
+    },
+    {
+      "symbol": "544322",
+      "name": "Unimech Aerospace and Manufact",
+      "isin": "INE0U3I01011"
+    },
+    {
+      "symbol": "533339",
+      "name": "ZEN TECHNOLOGIES LTD.",
+      "isin": "INE251B01027"
+    }
+  ]
+}

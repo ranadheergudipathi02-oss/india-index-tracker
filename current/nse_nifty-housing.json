@@ -1,0 +1,260 @@
+{
+  "id": "NSE:NIFTY HOUSING",
+  "exchange": "NSE",
+  "name": "NIFTY HOUSING",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyhousing_list.csv",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "ACC",
+      "name": "ACC Ltd.",
+      "isin": "INE012A01025"
+    },
+    {
+      "symbol": "ADANIGREEN",
+      "name": "Adani Green Energy Ltd.",
+      "isin": "INE364U01010"
+    },
+    {
+      "symbol": "ATGL",
+      "name": "Adani Total Gas Ltd.",
+      "isin": "INE399L01023"
+    },
+    {
+      "symbol": "AMBUJACEM",
+      "name": "Ambuja Cements Ltd.",
+      "isin": "INE079A01024"
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "name": "Asian Paints Ltd.",
+      "isin": "INE021A01026"
+    },
+    {
+      "symbol": "AXISBANK",
+      "name": "Axis Bank Ltd.",
+      "isin": "INE238A01034"
+    },
+    {
+      "symbol": "BANDHANBNK",
+      "name": "Bandhan Bank Ltd.",
+      "isin": "INE545U01014"
+    },
+    {
+      "symbol": "BANKBARODA",
+      "name": "Bank of Baroda",
+      "isin": "INE028A01039"
+    },
+    {
+      "symbol": "BERGEPAINT",
+      "name": "Berger Paints India Ltd.",
+      "isin": "INE463A01038"
+    },
+    {
+      "symbol": "CUB",
+      "name": "City Union Bank Ltd.",
+      "isin": "INE491A01021"
+    },
+    {
+      "symbol": "CROMPTON",
+      "name": "Crompton Greaves Consumer Electricals Ltd.",
+      "isin": "INE299U01018"
+    },
+    {
+      "symbol": "DALBHARAT",
+      "name": "Dalmia Bharat Ltd.",
+      "isin": "INE00R701025"
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Ltd.",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "DLF",
+      "name": "DLF Ltd.",
+      "isin": "INE271C01023"
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "name": "Federal Bank Ltd.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "GODREJPROP",
+      "name": "Godrej Properties Ltd.",
+      "isin": "INE484J01027"
+    },
+    {
+      "symbol": "GRASIM",
+      "name": "Grasim Industries Ltd.",
+      "isin": "INE047A01021"
+    },
+    {
+      "symbol": "HAVELLS",
+      "name": "Havells India Ltd.",
+      "isin": "INE176B01034"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank Ltd.",
+      "isin": "INE040A01034"
+    },
+    {
+      "symbol": "HDFC",
+      "name": "Housing Development Finance Corporation Ltd.",
+      "isin": "INE001A01036"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank Ltd.",
+      "isin": "INE090A01021"
+    },
+    {
+      "symbol": "IDFCFIRSTB",
+      "name": "IDFC First Bank Ltd.",
+      "isin": "INE092T01019"
+    },
+    {
+      "symbol": "IBULHSGFIN",
+      "name": "Indiabulls Housing Finance Ltd.",
+      "isin": "INE148I01020"
+    },
+    {
+      "symbol": "IGL",
+      "name": "Indraprastha Gas Ltd.",
+      "isin": "INE203G01027"
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "name": "IndusInd Bank Ltd.",
+      "isin": "INE095A01012"
+    },
+    {
+      "symbol": "JKCEMENT",
+      "name": "J.K. Cement Ltd.",
+      "isin": "INE823G01014"
+    },
+    {
+      "symbol": "JINDALSTEL",
+      "name": "Jindal Steel & Power Ltd.",
+      "isin": "INE749A01030"
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "name": "JSW Steel Ltd.",
+      "isin": "INE019A01038"
+    },
+    {
+      "symbol": "KAJARIACER",
+      "name": "Kajaria Ceramics Ltd.",
+      "isin": "INE217B01036"
+    },
+    {
+      "symbol": "KANSAINER",
+      "name": "Kansai Nerolac Paints Ltd.",
+      "isin": "INE531A01024"
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "name": "Kotak Mahindra Bank Ltd.",
+      "isin": "INE237A01028"
+    },
+    {
+      "symbol": "LT",
+      "name": "Larsen & Toubro Ltd.",
+      "isin": "INE018A01030"
+    },
+    {
+      "symbol": "LICHSGFIN",
+      "name": "LIC Housing Finance Ltd.",
+      "isin": "INE115A01026"
+    },
+    {
+      "symbol": "MGL",
+      "name": "Mahanagar Gas Ltd.",
+      "isin": "INE002S01010"
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "OBEROIRLTY",
+      "name": "Oberoi Realty Ltd.",
+      "isin": "INE093I01010"
+    },
+    {
+      "symbol": "PETRONET",
+      "name": "Petronet LNG Ltd.",
+      "isin": "INE347G01014"
+    },
+    {
+      "symbol": "PNB",
+      "name": "Punjab National Bank",
+      "isin": "INE160A01022"
+    },
+    {
+      "symbol": "RBLBANK",
+      "name": "RBL Bank Ltd.",
+      "isin": "INE976G01028"
+    },
+    {
+      "symbol": "SHREECEM",
+      "name": "Shree Cement Ltd.",
+      "isin": "INE070A01015"
+    },
+    {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "SAIL",
+      "name": "Steel Authority of India Ltd.",
+      "isin": "INE114A01011"
+    },
+    {
+      "symbol": "TATAPOWER",
+      "name": "Tata Power Co. Ltd.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel Ltd.",
+      "isin": "INE081A01012"
+    },
+    {
+      "symbol": "RAMCOCEM",
+      "name": "The Ramco Cements Ltd.",
+      "isin": "INE331A01037"
+    },
+    {
+      "symbol": "TORNTPOWER",
+      "name": "Torrent Power Ltd.",
+      "isin": "INE813H01021"
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "name": "UltraTech Cement Ltd.",
+      "isin": "INE481G01011"
+    },
+    {
+      "symbol": "VOLTAS",
+      "name": "Voltas Ltd.",
+      "isin": "INE226A01021"
+    },
+    {
+      "symbol": "WHIRLPOOL",
+      "name": "Whirlpool of India Ltd.",
+      "isin": "INE716A01013"
+    },
+    {
+      "symbol": "YESBANK",
+      "name": "Yes Bank Ltd.",
+      "isin": "INE528G01035"
+    }
+  ]
+}

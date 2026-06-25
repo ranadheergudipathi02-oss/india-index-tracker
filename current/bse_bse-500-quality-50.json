@@ -1,0 +1,260 @@
+{
+  "id": "BSE:BSE 500 Quality 50",
+  "exchange": "BSE",
+  "name": "BSE 500 Quality 50",
+  "code": "147",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=QUAL50",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "500002",
+      "name": "ABB INDIA LIMITED",
+      "isin": "INE117A01022"
+    },
+    {
+      "symbol": "500488",
+      "name": "ABBOTT INDIA LTD.",
+      "isin": "INE358A01014"
+    },
+    {
+      "symbol": "543374",
+      "name": "Aditya Birla Sun Life AMC Limi",
+      "isin": "INE404A01024"
+    },
+    {
+      "symbol": "543415",
+      "name": "Anand Rathi Wealth Limited",
+      "isin": "INE463V01026"
+    },
+    {
+      "symbol": "544603",
+      "name": "Billionbrains Garage Ventures",
+      "isin": "INE0HOQ01053"
+    },
+    {
+      "symbol": "500825",
+      "name": "BRITANNIA INDUSTRIES LTD.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "500870",
+      "name": "CASTROL INDIA LTD.",
+      "isin": "INE172A01027"
+    },
+    {
+      "symbol": "500110",
+      "name": "CHENNAI PETROLEUM CORPORATION",
+      "isin": "INE178A01016"
+    },
+    {
+      "symbol": "533278",
+      "name": "COAL INDIA LTD.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "500830",
+      "name": "COLGATE-PALMOLIVE (INDIA) LTD.",
+      "isin": "INE259A01022"
+    },
+    {
+      "symbol": "543232",
+      "name": "Computer Age Management Servic",
+      "isin": "INE596I01020"
+    },
+    {
+      "symbol": "500092",
+      "name": "CRISIL LTD.",
+      "isin": "INE007A01025"
+    },
+    {
+      "symbol": "500480",
+      "name": "CUMMINS INDIA LTD.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "540699",
+      "name": "Dixon Technologies (India) Lim",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "531162",
+      "name": "EMAMI LTD.",
+      "isin": "INE548C01032"
+    },
+    {
+      "symbol": "500033",
+      "name": "FORCE MOTORS LTD.",
+      "isin": "INE451A01017"
+    },
+    {
+      "symbol": "542011",
+      "name": "Garden Reach Shipbuilders & En",
+      "isin": "INE382Z01011"
+    },
+    {
+      "symbol": "522275",
+      "name": "GE Vernova T&D India Limited",
+      "isin": "INE200A01026"
+    },
+    {
+      "symbol": "507815",
+      "name": "GILLETTE INDIA LTD.",
+      "isin": "INE322A01010"
+    },
+    {
+      "symbol": "500660",
+      "name": "GLAXOSMITHKLINE PHARMACEUTICAL",
+      "isin": "INE159A01016"
+    },
+    {
+      "symbol": "517271",
+      "name": "HBL ENGINEERING LIMITED",
+      "isin": "INE292B01021"
+    },
+    {
+      "symbol": "532281",
+      "name": "HCL TECHNOLOGIES LTD.",
+      "isin": "INE860A01027"
+    },
+    {
+      "symbol": "541729",
+      "name": "HDFC Asset Management Company",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "500182",
+      "name": "HERO MOTOCORP LTD.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "541154",
+      "name": "Hindustan Aeronautics Limited",
+      "isin": "INE066F01020"
+    },
+    {
+      "symbol": "513599",
+      "name": "HINDUSTAN COPPER LTD.",
+      "isin": "INE531E01026"
+    },
+    {
+      "symbol": "500696",
+      "name": "HINDUSTAN UNILEVER LTD.",
+      "isin": "INE030A01027"
+    },
+    {
+      "symbol": "500188",
+      "name": "HINDUSTAN ZINC LTD.",
+      "isin": "INE267A01025"
+    },
+    {
+      "symbol": "543187",
+      "name": "HITACHI ENERGY INDIA LIMITED",
+      "isin": "INE07Y701011"
+    },
+    {
+      "symbol": "544658",
+      "name": "ICICI Prudential Asset Managem",
+      "isin": "INE346A01027"
+    },
+    {
+      "symbol": "540750",
+      "name": "Indian Energy Exchange Limited",
+      "isin": "INE022Q01020"
+    },
+    {
+      "symbol": "542830",
+      "name": "Indian Railway Catering and To",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "500209",
+      "name": "INFOSYS LTD.",
+      "isin": "INE009A01021"
+    },
+    {
+      "symbol": "500875",
+      "name": "ITC LTD.",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "532889",
+      "name": "K.P.R.MILL LIMITED",
+      "isin": "INE930H01031"
+    },
+    {
+      "symbol": "531642",
+      "name": "MARICO LTD.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "543498",
+      "name": "Motherson Sumi Wiring India Li",
+      "isin": "INE0FS801015"
+    },
+    {
+      "symbol": "534091",
+      "name": "MULTI COMMODITY EXCHANGE OF IN",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "532234",
+      "name": "NATIONAL ALUMINIUM CO.LTD.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "534309",
+      "name": "NBCC (India) Limited",
+      "isin": "INE095N01031"
+    },
+    {
+      "symbol": "500790",
+      "name": "NESTLE INDIA LTD.",
+      "isin": "INE239A01024"
+    },
+    {
+      "symbol": "540767",
+      "name": "NIPPON LIFE INDIA ASSET MANAGE",
+      "isin": "INE298J01013"
+    },
+    {
+      "symbol": "532466",
+      "name": "ORACLE FINANCIAL SERVICES SOFT",
+      "isin": "INE881D01027"
+    },
+    {
+      "symbol": "532827",
+      "name": "PAGE INDUSTRIES LTD.",
+      "isin": "INE761H01022"
+    },
+    {
+      "symbol": "500331",
+      "name": "PIDILITE INDUSTRIES LTD.",
+      "isin": "INE318A01026"
+    },
+    {
+      "symbol": "534139",
+      "name": "SCHNEIDER ELECTRIC INFRASTRUCT",
+      "isin": "INE839M01018"
+    },
+    {
+      "symbol": "543990",
+      "name": "SIGNATUREGLOBAL (INDIA) LIMITE",
+      "isin": "INE903U01023"
+    },
+    {
+      "symbol": "532667",
+      "name": "SUZLON ENERGY LTD.",
+      "isin": "INE040H01021"
+    },
+    {
+      "symbol": "532540",
+      "name": "TATA CONSULTANCY SERVICES LTD.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "500420",
+      "name": "TORRENT PHARMACEUTICALS LTD.",
+      "isin": "INE685A01028"
+    }
+  ]
+}

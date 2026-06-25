@@ -1,0 +1,160 @@
+{
+  "id": "BSE:BSE Low Volatility Index",
+  "exchange": "BSE",
+  "name": "BSE Low Volatility Index",
+  "code": "108",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSELVI",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "500410",
+      "name": "ACC LTD.",
+      "isin": "INE012A01025"
+    },
+    {
+      "symbol": "508869",
+      "name": "APOLLO HOSPITALS ENTERPRISE LT",
+      "isin": "INE437A01024"
+    },
+    {
+      "symbol": "500820",
+      "name": "ASIAN PAINTS LTD.",
+      "isin": "INE021A01026"
+    },
+    {
+      "symbol": "532454",
+      "name": "BHARTI AIRTEL LTD.",
+      "isin": "INE397D01024"
+    },
+    {
+      "symbol": "500825",
+      "name": "BRITANNIA INDUSTRIES LTD.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "500087",
+      "name": "CIPLA LTD.",
+      "isin": "INE059A01026"
+    },
+    {
+      "symbol": "533278",
+      "name": "COAL INDIA LTD.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "500096",
+      "name": "DABUR INDIA LTD.",
+      "isin": "INE016A01026"
+    },
+    {
+      "symbol": "500124",
+      "name": "DR.REDDYS LABORATORIES LTD.",
+      "isin": "INE089A01031"
+    },
+    {
+      "symbol": "500300",
+      "name": "GRASIM INDUSTRIES LTD.",
+      "isin": "INE047A01021"
+    },
+    {
+      "symbol": "500180",
+      "name": "HDFC BANK LTD.",
+      "isin": "INE040A01034"
+    },
+    {
+      "symbol": "540777",
+      "name": "HDFC LIFE INSURANCE COMPANY LI",
+      "isin": "INE795G01014"
+    },
+    {
+      "symbol": "500696",
+      "name": "HINDUSTAN UNILEVER LTD.",
+      "isin": "INE030A01027"
+    },
+    {
+      "symbol": "532174",
+      "name": "ICICI BANK LTD.",
+      "isin": "INE090A01021"
+    },
+    {
+      "symbol": "500875",
+      "name": "ITC LTD.",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "500510",
+      "name": "LARSEN & TOUBRO LTD.",
+      "isin": "INE018A01030"
+    },
+    {
+      "symbol": "531642",
+      "name": "MARICO LTD.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "532500",
+      "name": "MARUTI SUZUKI INDIA LTD.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "500790",
+      "name": "NESTLE INDIA LTD.",
+      "isin": "INE239A01024"
+    },
+    {
+      "symbol": "532555",
+      "name": "NTPC LTD.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "500331",
+      "name": "PIDILITE INDUSTRIES LTD.",
+      "isin": "INE318A01026"
+    },
+    {
+      "symbol": "500325",
+      "name": "RELIANCE INDUSTRIES LTD.",
+      "isin": "INE002A01018"
+    },
+    {
+      "symbol": "540719",
+      "name": "SBI Life Insurance Company Lim",
+      "isin": "INE123W01016"
+    },
+    {
+      "symbol": "500387",
+      "name": "SHREE CEMENT LTD.",
+      "isin": "INE070A01015"
+    },
+    {
+      "symbol": "500112",
+      "name": "STATE BANK OF INDIA",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "524715",
+      "name": "SUN PHARMACEUTICAL INDUSTRIES",
+      "isin": "INE044A01036"
+    },
+    {
+      "symbol": "532540",
+      "name": "TATA CONSULTANCY SERVICES LTD.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "500114",
+      "name": "TITAN COMPANY LIMITED",
+      "isin": "INE280A01028"
+    },
+    {
+      "symbol": "532538",
+      "name": "ULTRATECH CEMENT LTD.",
+      "isin": "INE481G01011"
+    },
+    {
+      "symbol": "532478",
+      "name": "UNITED BREWERIES LTD.",
+      "isin": "INE686F01025"
+    }
+  ]
+}

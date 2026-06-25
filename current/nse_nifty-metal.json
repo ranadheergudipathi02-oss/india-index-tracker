@@ -1,0 +1,85 @@
+{
+  "id": "NSE:NIFTY METAL",
+  "exchange": "NSE",
+  "name": "NIFTY METAL",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftymetallist.csv",
+  "count": 15,
+  "members": [
+    {
+      "symbol": "APLAPOLLO",
+      "name": "APL Apollo Tubes Ltd.",
+      "isin": "INE702C01027"
+    },
+    {
+      "symbol": "ADANIENT",
+      "name": "Adani Enterprises Ltd.",
+      "isin": "INE423A01024"
+    },
+    {
+      "symbol": "HINDALCO",
+      "name": "Hindalco Industries Ltd.",
+      "isin": "INE038A01020"
+    },
+    {
+      "symbol": "HINDCOPPER",
+      "name": "Hindustan Copper Ltd.",
+      "isin": "INE531E01026"
+    },
+    {
+      "symbol": "HINDZINC",
+      "name": "Hindustan Zinc Ltd.",
+      "isin": "INE267A01025"
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "name": "JSW Steel Ltd.",
+      "isin": "INE019A01038"
+    },
+    {
+      "symbol": "JSL",
+      "name": "Jindal Stainless Ltd.",
+      "isin": "INE220G01021"
+    },
+    {
+      "symbol": "JINDALSTEL",
+      "name": "Jindal Steel Ltd.",
+      "isin": "INE749A01030"
+    },
+    {
+      "symbol": "LLOYDSME",
+      "name": "Lloyds Metals And Energy Ltd.",
+      "isin": "INE281B01032"
+    },
+    {
+      "symbol": "NMDC",
+      "name": "NMDC Ltd.",
+      "isin": "INE584A01023"
+    },
+    {
+      "symbol": "NATIONALUM",
+      "name": "National Aluminium Co. Ltd.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "SAIL",
+      "name": "Steel Authority of India Ltd.",
+      "isin": "INE114A01011"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel Ltd.",
+      "isin": "INE081A01020"
+    },
+    {
+      "symbol": "VEDL",
+      "name": "Vedanta Ltd.",
+      "isin": "INE205A01025"
+    },
+    {
+      "symbol": "WELCORP",
+      "name": "Welspun Corp Ltd.",
+      "isin": "INE191B01025"
+    }
+  ]
+}

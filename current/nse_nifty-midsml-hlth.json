@@ -1,0 +1,160 @@
+{
+  "id": "NSE:NIFTY MIDSML HLTH",
+  "exchange": "NSE",
+  "name": "NIFTY MIDSML HLTH",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftymidsmallhealthcare_list.csv",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "ABBOTINDIA",
+      "name": "Abbott India Ltd.",
+      "isin": "INE358A01014"
+    },
+    {
+      "symbol": "AJANTPHARM",
+      "name": "Ajanta Pharmaceuticals Ltd.",
+      "isin": "INE031B01049"
+    },
+    {
+      "symbol": "ALKEM",
+      "name": "Alkem Laboratories Ltd.",
+      "isin": "INE540L01014"
+    },
+    {
+      "symbol": "ASTERDM",
+      "name": "Aster DM Healthcare Ltd.",
+      "isin": "INE914M01019"
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "name": "Aurobindo Pharma Ltd.",
+      "isin": "INE406A01037"
+    },
+    {
+      "symbol": "BIOCON",
+      "name": "Biocon Ltd.",
+      "isin": "INE376G01013"
+    },
+    {
+      "symbol": "COHANCE",
+      "name": "Cohance Lifesciences Ltd.",
+      "isin": "INE03QK01018"
+    },
+    {
+      "symbol": "LALPATHLAB",
+      "name": "Dr. Lal Path Labs Ltd.",
+      "isin": "INE600L01024"
+    },
+    {
+      "symbol": "FORTIS",
+      "name": "Fortis Healthcare Ltd.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "GLAND",
+      "name": "Gland Pharma Ltd.",
+      "isin": "INE068V01023"
+    },
+    {
+      "symbol": "GLAXO",
+      "name": "Glaxosmithkline Pharmaceuticals Ltd.",
+      "isin": "INE159A01016"
+    },
+    {
+      "symbol": "GLENMARK",
+      "name": "Glenmark Pharmaceuticals Ltd.",
+      "isin": "INE935A01035"
+    },
+    {
+      "symbol": "MEDANTA",
+      "name": "Global Health Ltd.",
+      "isin": "INE474Q01031"
+    },
+    {
+      "symbol": "GRANULES",
+      "name": "Granules India Ltd.",
+      "isin": "INE101D01020"
+    },
+    {
+      "symbol": "IPCALAB",
+      "name": "Ipca Laboratories Ltd.",
+      "isin": "INE571A01038"
+    },
+    {
+      "symbol": "JBCHEPHARM",
+      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
+      "isin": "INE572A01036"
+    },
+    {
+      "symbol": "KIMS",
+      "name": "Krishna Institute of Medical Sciences Ltd.",
+      "isin": "INE967H01025"
+    },
+    {
+      "symbol": "LAURUSLABS",
+      "name": "Laurus Labs Ltd.",
+      "isin": "INE947Q01028"
+    },
+    {
+      "symbol": "LUPIN",
+      "name": "Lupin Ltd.",
+      "isin": "INE326A01037"
+    },
+    {
+      "symbol": "MANKIND",
+      "name": "Mankind Pharma Ltd.",
+      "isin": "INE634S01028"
+    },
+    {
+      "symbol": "NATCOPHARM",
+      "name": "NATCO Pharma Ltd.",
+      "isin": "INE987B01026"
+    },
+    {
+      "symbol": "NH",
+      "name": "Narayana Hrudayalaya Ltd.",
+      "isin": "INE410P01011"
+    },
+    {
+      "symbol": "NEULANDLAB",
+      "name": "Neuland Laboratories Ltd.",
+      "isin": "INE794A01010"
+    },
+    {
+      "symbol": "ONESOURCE",
+      "name": "Onesource Specialty Pharma Ltd.",
+      "isin": "INE013P01021"
+    },
+    {
+      "symbol": "PFIZER",
+      "name": "Pfizer Ltd.",
+      "isin": "INE182A01018"
+    },
+    {
+      "symbol": "PPLPHARMA",
+      "name": "Piramal Pharma Ltd.",
+      "isin": "INE0DK501011"
+    },
+    {
+      "symbol": "POLYMED",
+      "name": "Poly Medicure Ltd.",
+      "isin": "INE205C01021"
+    },
+    {
+      "symbol": "SAILIFE",
+      "name": "Sai Life Sciences Ltd.",
+      "isin": "INE570L01029"
+    },
+    {
+      "symbol": "SYNGENE",
+      "name": "Syngene International Ltd.",
+      "isin": "INE398R01022"
+    },
+    {
+      "symbol": "WOCKPHARMA",
+      "name": "Wockhardt Ltd.",
+      "isin": "INE049B01025"
+    }
+  ]
+}

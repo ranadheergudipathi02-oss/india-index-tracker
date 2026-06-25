@@ -1,0 +1,85 @@
+{
+  "id": "NSE:NIFTY IND TOURISM",
+  "exchange": "NSE",
+  "name": "NIFTY IND TOURISM",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyindiatourism_list.csv",
+  "count": 15,
+  "members": [
+    {
+      "symbol": "BLS",
+      "name": "BLS International Services Ltd.",
+      "isin": "INE153T01027"
+    },
+    {
+      "symbol": "CHALET",
+      "name": "Chalet Hotels Ltd.",
+      "isin": "INE427F01016"
+    },
+    {
+      "symbol": "DEVYANI",
+      "name": "Devyani International Ltd.",
+      "isin": "INE872J01023"
+    },
+    {
+      "symbol": "EIHOTEL",
+      "name": "EIH Ltd.",
+      "isin": "INE230A01023"
+    },
+    {
+      "symbol": "GMRAIRPORT",
+      "name": "GMR Airports Ltd.",
+      "isin": "INE776C01039"
+    },
+    {
+      "symbol": "ITCHOTELS",
+      "name": "ITC Hotels Ltd.",
+      "isin": "INE379A01028"
+    },
+    {
+      "symbol": "INDHOTEL",
+      "name": "Indian Hotels Co. Ltd.",
+      "isin": "INE053A01029"
+    },
+    {
+      "symbol": "IRCTC",
+      "name": "Indian Railway Catering And Tourism Corporation Ltd.",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "INDIGO",
+      "name": "InterGlobe Aviation Ltd.",
+      "isin": "INE646L01027"
+    },
+    {
+      "symbol": "JUBLFOOD",
+      "name": "Jubilant Foodworks Ltd.",
+      "isin": "INE797F01020"
+    },
+    {
+      "symbol": "THELEELA",
+      "name": "Leela Palaces Hotels & Resorts Ltd.",
+      "isin": "INE0AQ201015"
+    },
+    {
+      "symbol": "LEMONTREE",
+      "name": "Lemon Tree Hotels Ltd.",
+      "isin": "INE970X01018"
+    },
+    {
+      "symbol": "SAPPHIRE",
+      "name": "Sapphire Foods India Ltd.",
+      "isin": "INE806T01020"
+    },
+    {
+      "symbol": "TBOTEK",
+      "name": "TBO Tek Ltd.",
+      "isin": "INE673O01025"
+    },
+    {
+      "symbol": "TRAVELFOOD",
+      "name": "Travel Food Services Ltd.",
+      "isin": "INE103V01028"
+    }
+  ]
+}

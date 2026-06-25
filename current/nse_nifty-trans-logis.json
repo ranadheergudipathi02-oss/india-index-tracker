@@ -1,0 +1,160 @@
+{
+  "id": "NSE:NIFTY TRANS LOGIS",
+  "exchange": "NSE",
+  "name": "NIFTY TRANS LOGIS",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftytransportationandlogistics_list.csv",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "ADANIPORTS",
+      "name": "Adani Ports and Special Economic Zone Ltd.",
+      "isin": "INE742F01042"
+    },
+    {
+      "symbol": "APOLLOTYRE",
+      "name": "Apollo Tyres Ltd.",
+      "isin": "INE438A01022"
+    },
+    {
+      "symbol": "ASHOKLEY",
+      "name": "Ashok Leyland Ltd.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "name": "Bajaj Auto Ltd.",
+      "isin": "INE917I01010"
+    },
+    {
+      "symbol": "BALKRISIND",
+      "name": "Balkrishna Industries Ltd.",
+      "isin": "INE787D01026"
+    },
+    {
+      "symbol": "BHARATFORG",
+      "name": "Bharat Forge Ltd.",
+      "isin": "INE465A01025"
+    },
+    {
+      "symbol": "BOSCHLTD",
+      "name": "Bosch Ltd.",
+      "isin": "INE323A01026"
+    },
+    {
+      "symbol": "CONCOR",
+      "name": "Container Corporation of India Ltd.",
+      "isin": "INE111A01025"
+    },
+    {
+      "symbol": "DELHIVERY",
+      "name": "Delhivery Ltd.",
+      "isin": "INE148O01028"
+    },
+    {
+      "symbol": "EICHERMOT",
+      "name": "Eicher Motors Ltd.",
+      "isin": "INE066A01021"
+    },
+    {
+      "symbol": "ETERNAL",
+      "name": "Eternal Ltd.",
+      "isin": "INE758T01015"
+    },
+    {
+      "symbol": "EXIDEIND",
+      "name": "Exide Industries Ltd.",
+      "isin": "INE302A01020"
+    },
+    {
+      "symbol": "GMRAIRPORT",
+      "name": "GMR Airports Ltd.",
+      "isin": "INE776C01039"
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "name": "Hero MotoCorp Ltd.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "HYUNDAI",
+      "name": "Hyundai Motor India Ltd.",
+      "isin": "INE0V6F01027"
+    },
+    {
+      "symbol": "IRCTC",
+      "name": "Indian Railway Catering And Tourism Corporation Ltd.",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "INDIGO",
+      "name": "InterGlobe Aviation Ltd.",
+      "isin": "INE646L01027"
+    },
+    {
+      "symbol": "MRF",
+      "name": "MRF Ltd.",
+      "isin": "INE883A01011"
+    },
+    {
+      "symbol": "M&M",
+      "name": "Mahindra & Mahindra Ltd.",
+      "isin": "INE101A01026"
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Ltd.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "MAZDOCK",
+      "name": "Mazagoan Dock Shipbuilders Ltd.",
+      "isin": "INE249Z01020"
+    },
+    {
+      "symbol": "MOTHERSON",
+      "name": "Samvardhana Motherson International Ltd.",
+      "isin": "INE775A01035"
+    },
+    {
+      "symbol": "SCHAEFFLER",
+      "name": "Schaeffler India Ltd.",
+      "isin": "INE513A01022"
+    },
+    {
+      "symbol": "SONACOMS",
+      "name": "Sona BLW Precision Forgings Ltd.",
+      "isin": "INE073K01018"
+    },
+    {
+      "symbol": "SWIGGY",
+      "name": "Swiggy Ltd.",
+      "isin": "INE00H001014"
+    },
+    {
+      "symbol": "TVSMOTOR",
+      "name": "TVS Motor Company Ltd.",
+      "isin": "INE494B01023"
+    },
+    {
+      "symbol": "TMCV",
+      "name": "Tata Motors Ltd.",
+      "isin": "INE1TAE01010"
+    },
+    {
+      "symbol": "TMPV",
+      "name": "Tata Motors Passenger Vehicles Ltd.",
+      "isin": "INE155A01022"
+    },
+    {
+      "symbol": "TIINDIA",
+      "name": "Tube Investments of India Ltd.",
+      "isin": "INE974X01010"
+    },
+    {
+      "symbol": "UNOMINDA",
+      "name": "UNO Minda Ltd.",
+      "isin": "INE405E01023"
+    }
+  ]
+}

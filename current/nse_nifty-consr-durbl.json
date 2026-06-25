@@ -1,0 +1,75 @@
+{
+  "id": "NSE:NIFTY CONSR DURBL",
+  "exchange": "NSE",
+  "name": "NIFTY CONSR DURBL",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyconsumerdurableslist.csv",
+  "count": 13,
+  "members": [
+    {
+      "symbol": "AMBER",
+      "name": "Amber Enterprises India Ltd.",
+      "isin": "INE371P01015"
+    },
+    {
+      "symbol": "BATAINDIA",
+      "name": "Bata India Ltd.",
+      "isin": "INE176A01028"
+    },
+    {
+      "symbol": "BLUESTARCO",
+      "name": "Blue Star Ltd.",
+      "isin": "INE472A01039"
+    },
+    {
+      "symbol": "CROMPTON",
+      "name": "Crompton Greaves Consumer Electricals Ltd.",
+      "isin": "INE299U01018"
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Ltd.",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "HAVELLS",
+      "name": "Havells India Ltd.",
+      "isin": "INE176B01034"
+    },
+    {
+      "symbol": "KAJARIACER",
+      "name": "Kajaria Ceramics Ltd.",
+      "isin": "INE217B01036"
+    },
+    {
+      "symbol": "KALYANKJIL",
+      "name": "Kalyan Jewellers India Ltd.",
+      "isin": "INE303R01014"
+    },
+    {
+      "symbol": "LGEINDIA",
+      "name": "LG Electronics India Ltd.",
+      "isin": "INE324D01010"
+    },
+    {
+      "symbol": "PGEL",
+      "name": "PG Electroplast Ltd.",
+      "isin": "INE457L01029"
+    },
+    {
+      "symbol": "TITAN",
+      "name": "Titan Company Ltd.",
+      "isin": "INE280A01028"
+    },
+    {
+      "symbol": "VOLTAS",
+      "name": "Voltas Ltd.",
+      "isin": "INE226A01021"
+    },
+    {
+      "symbol": "WHIRLPOOL",
+      "name": "Whirlpool of India Ltd.",
+      "isin": "INE716A01013"
+    }
+  ]
+}

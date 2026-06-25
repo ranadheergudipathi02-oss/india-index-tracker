@@ -1,0 +1,110 @@
+{
+  "id": "NSE:NIFTY TOP 20 EW",
+  "exchange": "NSE",
+  "name": "NIFTY TOP 20 EW",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftytop20equalweight_list.csv",
+  "count": 20,
+  "members": [
+    {
+      "symbol": "AXISBANK",
+      "name": "Axis Bank Ltd.",
+      "isin": "INE238A01034"
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "name": "Bajaj Finance Ltd.",
+      "isin": "INE296A01032"
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "name": "Bharti Airtel Ltd.",
+      "isin": "INE397D01024"
+    },
+    {
+      "symbol": "ETERNAL",
+      "name": "Eternal Ltd.",
+      "isin": "INE758T01015"
+    },
+    {
+      "symbol": "HCLTECH",
+      "name": "HCL Technologies Ltd.",
+      "isin": "INE860A01027"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank Ltd.",
+      "isin": "INE040A01034"
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "name": "Hindustan Unilever Ltd.",
+      "isin": "INE030A01027"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank Ltd.",
+      "isin": "INE090A01021"
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Ltd.",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Ltd.",
+      "isin": "INE009A01021"
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "name": "Kotak Mahindra Bank Ltd.",
+      "isin": "INE237A01036"
+    },
+    {
+      "symbol": "LT",
+      "name": "Larsen & Toubro Ltd.",
+      "isin": "INE018A01030"
+    },
+    {
+      "symbol": "M&M",
+      "name": "Mahindra & Mahindra Ltd.",
+      "isin": "INE101A01026"
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Ltd.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries Ltd.",
+      "isin": "INE002A01018"
+    },
+    {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "name": "Sun Pharmaceutical Industries Ltd.",
+      "isin": "INE044A01036"
+    },
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services Ltd.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "TITAN",
+      "name": "Titan Company Ltd.",
+      "isin": "INE280A01028"
+    }
+  ]
+}

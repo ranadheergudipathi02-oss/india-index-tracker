@@ -1,0 +1,160 @@
+{
+  "id": "NSE:NIFTY200 QUALTY30",
+  "exchange": "NSE",
+  "name": "NIFTY200 QUALTY30",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_nifty200quality30_list.csv",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "ASIANPAINT",
+      "name": "Asian Paints Ltd.",
+      "isin": "INE021A01026"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "name": "Bajaj Auto Ltd.",
+      "isin": "INE917I01010"
+    },
+    {
+      "symbol": "BEL",
+      "name": "Bharat Electronics Ltd.",
+      "isin": "INE263A01024"
+    },
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries Ltd.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "COALINDIA",
+      "name": "Coal India Ltd.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "COLPAL",
+      "name": "Colgate Palmolive (India) Ltd.",
+      "isin": "INE259A01022"
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "name": "Cummins India Ltd.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Ltd.",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "HCLTECH",
+      "name": "HCL Technologies Ltd.",
+      "isin": "INE860A01027"
+    },
+    {
+      "symbol": "HDFCAMC",
+      "name": "HDFC Asset Management Company Ltd.",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "HAVELLS",
+      "name": "Havells India Ltd.",
+      "isin": "INE176B01034"
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "name": "Hero MotoCorp Ltd.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "HAL",
+      "name": "Hindustan Aeronautics Ltd.",
+      "isin": "INE066F01020"
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "name": "Hindustan Unilever Ltd.",
+      "isin": "INE030A01027"
+    },
+    {
+      "symbol": "HINDZINC",
+      "name": "Hindustan Zinc Ltd.",
+      "isin": "INE267A01025"
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Ltd.",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "IRCTC",
+      "name": "Indian Railway Catering And Tourism Corporation Ltd.",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Ltd.",
+      "isin": "INE009A01021"
+    },
+    {
+      "symbol": "KPITTECH",
+      "name": "KPIT Technologies Ltd.",
+      "isin": "INE04I401011"
+    },
+    {
+      "symbol": "LTM",
+      "name": "LTM Ltd.",
+      "isin": "INE214T01019"
+    },
+    {
+      "symbol": "MARICO",
+      "name": "Marico Ltd.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "MAZDOCK",
+      "name": "Mazagoan Dock Shipbuilders Ltd.",
+      "isin": "INE249Z01020"
+    },
+    {
+      "symbol": "NESTLEIND",
+      "name": "Nestle India Ltd.",
+      "isin": "INE239A01024"
+    },
+    {
+      "symbol": "OFSS",
+      "name": "Oracle Financial Services Software Ltd.",
+      "isin": "INE881D01027"
+    },
+    {
+      "symbol": "PAGEIND",
+      "name": "Page Industries Ltd.",
+      "isin": "INE761H01022"
+    },
+    {
+      "symbol": "PERSISTENT",
+      "name": "Persistent Systems Ltd.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "PIDILITIND",
+      "name": "Pidilite Industries Ltd.",
+      "isin": "INE318A01026"
+    },
+    {
+      "symbol": "POLYCAB",
+      "name": "Polycab India Ltd.",
+      "isin": "INE455K01017"
+    },
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services Ltd.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "TATAELXSI",
+      "name": "Tata Elxsi Ltd.",
+      "isin": "INE670A01012"
+    }
+  ]
+}

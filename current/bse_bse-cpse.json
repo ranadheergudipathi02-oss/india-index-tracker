@@ -1,0 +1,280 @@
+{
+  "id": "BSE:BSE CPSE",
+  "exchange": "BSE",
+  "name": "BSE CPSE",
+  "code": "80",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=CPSE",
+  "count": 54,
+  "members": [
+    {
+      "symbol": "526173",
+      "name": "ANDREW YULE & COMPANY LTD.",
+      "isin": "INE449C01025"
+    },
+    {
+      "symbol": "532485",
+      "name": "BALMER LAWRIE INVESTMENTS LTD.",
+      "isin": "INE525F01025"
+    },
+    {
+      "symbol": "543898",
+      "name": "BEML Land Assets Limited",
+      "isin": "INE0N7W01012"
+    },
+    {
+      "symbol": "500048",
+      "name": "BEML LTD.",
+      "isin": "INE258A01024"
+    },
+    {
+      "symbol": "541143",
+      "name": "Bharat Dynamics Limited",
+      "isin": "INE171Z01026"
+    },
+    {
+      "symbol": "500049",
+      "name": "BHARAT ELECTRONICS LTD.",
+      "isin": "INE263A01024"
+    },
+    {
+      "symbol": "500103",
+      "name": "BHARAT HEAVY ELECTRICALS LTD.",
+      "isin": "INE257A01026"
+    },
+    {
+      "symbol": "500547",
+      "name": "BHARAT PETROLEUM CORPORATION L",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "533278",
+      "name": "COAL INDIA LTD.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "540678",
+      "name": "Cochin Shipyard Limited",
+      "isin": "INE704P01025"
+    },
+    {
+      "symbol": "531344",
+      "name": "CONTAINER CORPORATION OF INDIA",
+      "isin": "INE111A01025"
+    },
+    {
+      "symbol": "532178",
+      "name": "ENGINEERS INDIA LTD.",
+      "isin": "INE510A01028"
+    },
+    {
+      "symbol": "532155",
+      "name": "GAIL (INDIA) LTD.",
+      "isin": "INE129A01019"
+    },
+    {
+      "symbol": "542011",
+      "name": "Garden Reach Shipbuilders & En",
+      "isin": "INE382Z01011"
+    },
+    {
+      "symbol": "543242",
+      "name": "Hemisphere Properties India Li",
+      "isin": "INE0AJG01018"
+    },
+    {
+      "symbol": "541154",
+      "name": "Hindustan Aeronautics Limited",
+      "isin": "INE066F01020"
+    },
+    {
+      "symbol": "513599",
+      "name": "HINDUSTAN COPPER LTD.",
+      "isin": "INE531E01026"
+    },
+    {
+      "symbol": "500449",
+      "name": "HINDUSTAN ORGANIC CHEMICALS LT",
+      "isin": "INE048A01011"
+    },
+    {
+      "symbol": "540530",
+      "name": "Housing &Urban Development Cor",
+      "isin": "INE031A01017"
+    },
+    {
+      "symbol": "532189",
+      "name": "INDIA TOURISM DEVELOPMENT CORP",
+      "isin": "INE353K01014"
+    },
+    {
+      "symbol": "530965",
+      "name": "INDIAN OIL CORPORATION LTD.",
+      "isin": "INE242A01010"
+    },
+    {
+      "symbol": "542830",
+      "name": "Indian Railway Catering and To",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "543257",
+      "name": "Indian Railway Finance Corpora",
+      "isin": "INE053F01010"
+    },
+    {
+      "symbol": "544026",
+      "name": "Indian Renewable Energy Develo",
+      "isin": "INE202E01016"
+    },
+    {
+      "symbol": "541956",
+      "name": "IRCON International Ltd",
+      "isin": "INE962Y01021"
+    },
+    {
+      "symbol": "523610",
+      "name": "ITI LTD.",
+      "isin": "INE248A01017"
+    },
+    {
+      "symbol": "540680",
+      "name": "KIOCL Limited",
+      "isin": "INE880L01014"
+    },
+    {
+      "symbol": "500108",
+      "name": "MAHANAGAR TELEPHONE NIGAM LTD.",
+      "isin": "INE153A01019"
+    },
+    {
+      "symbol": "543237",
+      "name": "Mazagon Dock Shipbuilders Limi",
+      "isin": "INE249Z01020"
+    },
+    {
+      "symbol": "541195",
+      "name": "Mishra Dhatu Nigam Limited",
+      "isin": "INE099Z01011"
+    },
+    {
+      "symbol": "513377",
+      "name": "MMTC LTD.",
+      "isin": "INE123F01029"
+    },
+    {
+      "symbol": "533286",
+      "name": "MOIL LTD.",
+      "isin": "INE490G01020"
+    },
+    {
+      "symbol": "542597",
+      "name": "MSTC Limited",
+      "isin": "INE255X01014"
+    },
+    {
+      "symbol": "532234",
+      "name": "NATIONAL ALUMINIUM CO.LTD.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "523630",
+      "name": "NATIONAL FERTILIZERS LTD.",
+      "isin": "INE870D01012"
+    },
+    {
+      "symbol": "534309",
+      "name": "NBCC (India) Limited",
+      "isin": "INE095N01031"
+    },
+    {
+      "symbol": "533098",
+      "name": "NHPC LTD.",
+      "isin": "INE848E01016"
+    },
+    {
+      "symbol": "513683",
+      "name": "NLC India Limited",
+      "isin": "INE589A01014"
+    },
+    {
+      "symbol": "526371",
+      "name": "NMDC LTD.",
+      "isin": "INE584A01023"
+    },
+    {
+      "symbol": "543768",
+      "name": "NMDC Steel Limited",
+      "isin": "INE0NNS01018"
+    },
+    {
+      "symbol": "532555",
+      "name": "NTPC LTD.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "500312",
+      "name": "OIL AND NATURAL GAS CORPORATIO",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "533106",
+      "name": "OIL INDIA LTD.",
+      "isin": "INE274J01014"
+    },
+    {
+      "symbol": "532810",
+      "name": "POWER FINANCE CORPORATION LTD.",
+      "isin": "INE134E01011"
+    },
+    {
+      "symbol": "532898",
+      "name": "POWER GRID CORPORATION OF INDI",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "542649",
+      "name": "Rail Vikas Nigam Limited",
+      "isin": "INE415G01027"
+    },
+    {
+      "symbol": "543265",
+      "name": "RailTel Corporation of India L",
+      "isin": "INE0DD101019"
+    },
+    {
+      "symbol": "524230",
+      "name": "RASHTRIYA CHEMICALS & FERTILIZ",
+      "isin": "INE027A01015"
+    },
+    {
+      "symbol": "541556",
+      "name": "RITES Limited",
+      "isin": "INE320J01015"
+    },
+    {
+      "symbol": "523598",
+      "name": "SHIPPING CORPORATION OF INDIA",
+      "isin": "INE109A01011"
+    },
+    {
+      "symbol": "544142",
+      "name": "Shipping Corporation of India",
+      "isin": "INE0PB301013"
+    },
+    {
+      "symbol": "533206",
+      "name": "SJVN LTD",
+      "isin": "INE002L01015"
+    },
+    {
+      "symbol": "512531",
+      "name": "STATE TRADING CORPORATION OF I",
+      "isin": "INE655A01013"
+    },
+    {
+      "symbol": "500113",
+      "name": "STEEL AUTHORITY OF INDIA LTD.",
+      "isin": "INE114A01011"
+    }
+  ]
+}

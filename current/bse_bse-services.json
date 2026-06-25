@@ -1,0 +1,350 @@
+{
+  "id": "BSE:BSE Services",
+  "exchange": "BSE",
+  "name": "BSE Services",
+  "code": "121",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSESER",
+  "count": 68,
+  "members": [
+    {
+      "symbol": "532921",
+      "name": "ADANI PORTS AND SPECIAL ECONOM",
+      "isin": "INE742F01042"
+    },
+    {
+      "symbol": "544602",
+      "name": "Allcargo Global Limited",
+      "isin": "INE1YPB01014"
+    },
+    {
+      "symbol": "532749",
+      "name": "ALLCARGO LOGISTICS LTD.",
+      "isin": "INE418H01029"
+    },
+    {
+      "symbol": "543954",
+      "name": "Allcargo Terminals Limited",
+      "isin": "INE0NN701020"
+    },
+    {
+      "symbol": "532633",
+      "name": "Alldigi Tech Limited",
+      "isin": "INE835G01018"
+    },
+    {
+      "symbol": "544181",
+      "name": "Awfis Space Solutions Limited",
+      "isin": "INE108V01019"
+    },
+    {
+      "symbol": "544288",
+      "name": "BlackBuck Limited",
+      "isin": "INE0UIZ01018"
+    },
+    {
+      "symbol": "526612",
+      "name": "BLUE DART EXPRESS LTD.",
+      "isin": "INE233B01017"
+    },
+    {
+      "symbol": "544414",
+      "name": "Bluspring Enterprises Limited",
+      "isin": "INE0U4101014"
+    },
+    {
+      "symbol": "543441",
+      "name": "CMS Info Systems Limited",
+      "isin": "INE925R01014"
+    },
+    {
+      "symbol": "531344",
+      "name": "CONTAINER CORPORATION OF INDIA",
+      "isin": "INE111A01025"
+    },
+    {
+      "symbol": "543529",
+      "name": "Delhivery Limited",
+      "isin": "INE148O01028"
+    },
+    {
+      "symbol": "543591",
+      "name": "DREAMFOLKS SERVICES LIMITED",
+      "isin": "INE0JS101016"
+    },
+    {
+      "symbol": "523618",
+      "name": "DREDGING CORPORATION OF INDIA",
+      "isin": "INE506A01018"
+    },
+    {
+      "symbol": "532927",
+      "name": "ECLERX SERVICES LTD.",
+      "isin": "INE738I01010"
+    },
+    {
+      "symbol": "544239",
+      "name": "ECOS (India) Mobility & Hospit",
+      "isin": "INE06HJ01020"
+    },
+    {
+      "symbol": "512008",
+      "name": "EFC (I) LIMITED",
+      "isin": "INE886D01026"
+    },
+    {
+      "symbol": "532809",
+      "name": "FIRSTSOURCE SOLUTIONS LTD.",
+      "isin": "INE684F01012"
+    },
+    {
+      "symbol": "543489",
+      "name": "Gateway Distriparks Limited",
+      "isin": "INE079J01017"
+    },
+    {
+      "symbol": "532754",
+      "name": "GMR Airports Limited",
+      "isin": "INE776C01039"
+    },
+    {
+      "symbol": "500620",
+      "name": "GREAT EASTERN SHIPPING CO.LTD.",
+      "isin": "INE017A01032"
+    },
+    {
+      "symbol": "533248",
+      "name": "GUJARAT PIPAVAV PORT LTD.",
+      "isin": "INE517F01014"
+    },
+    {
+      "symbol": "543242",
+      "name": "Hemisphere Properties India Li",
+      "isin": "INE0AJG01018"
+    },
+    {
+      "symbol": "532859",
+      "name": "HINDUJA GLOBAL SOLUTIONS LTD.",
+      "isin": "INE170I01016"
+    },
+    {
+      "symbol": "544454",
+      "name": "INDIQUBE SPACES LIMITED",
+      "isin": "INE06ST01018"
+    },
+    {
+      "symbol": "543667",
+      "name": "INOX GREEN ENERGY SERVICES LIM",
+      "isin": "INE510W01014"
+    },
+    {
+      "symbol": "539448",
+      "name": "InterGlobe Aviation Limited",
+      "isin": "INE646L01027"
+    },
+    {
+      "symbol": "544311",
+      "name": "International Gemological Inst",
+      "isin": "INE0Q9301021"
+    },
+    {
+      "symbol": "543994",
+      "name": "JSW Infrastructure Limited",
+      "isin": "INE880J01026"
+    },
+    {
+      "symbol": "532686",
+      "name": "KERNEX MICROSYSTEMS (INDIA) LT",
+      "isin": "INE202H01019"
+    },
+    {
+      "symbol": "543273",
+      "name": "Knowledge Marine & Engineering",
+      "isin": "INE0CJD01029"
+    },
+    {
+      "symbol": "544149",
+      "name": "KRYSTAL INTEGRATED SERVICES LI",
+      "isin": "INE0QN801017"
+    },
+    {
+      "symbol": "539841",
+      "name": "Lancer Container Lines Limited",
+      "isin": "INE359U01028"
+    },
+    {
+      "symbol": "540768",
+      "name": "Mahindra Logistics Limited",
+      "isin": "INE766P01016"
+    },
+    {
+      "symbol": "513377",
+      "name": "MMTC LTD.",
+      "isin": "INE123F01029"
+    },
+    {
+      "symbol": "542597",
+      "name": "MSTC Limited",
+      "isin": "INE255X01014"
+    },
+    {
+      "symbol": "539332",
+      "name": "Navkar Corporation Limited",
+      "isin": "INE278M01019"
+    },
+    {
+      "symbol": "505355",
+      "name": "NESCO LTD.",
+      "isin": "INE317F01035"
+    },
+    {
+      "symbol": "500307",
+      "name": "NIRLON LTD.",
+      "isin": "INE910A01012"
+    },
+    {
+      "symbol": "500317",
+      "name": "OSWAL AGRO MILLS LTD.",
+      "isin": "INE142A01012"
+    },
+    {
+      "symbol": "539978",
+      "name": "Quess Corp Limited",
+      "isin": "INE615P01015"
+    },
+    {
+      "symbol": "543732",
+      "name": "Radiant Cash Management Servic",
+      "isin": "INE855R01021"
+    },
+    {
+      "symbol": "532805",
+      "name": "Redington Limited",
+      "isin": "INE891D01026"
+    },
+    {
+      "symbol": "523445",
+      "name": "RELIANCE INDUSTRIAL INFRASTRUC",
+      "isin": "INE046A01015"
+    },
+    {
+      "symbol": "542383",
+      "name": "Ritco Logistics Limited",
+      "isin": "INE01EG01016"
+    },
+    {
+      "symbol": "542333",
+      "name": "RPSG VENTURES LIMITED",
+      "isin": "INE425Y01011"
+    },
+    {
+      "symbol": "530073",
+      "name": "SANGHVI MOVERS LTD.",
+      "isin": "INE989A01032"
+    },
+    {
+      "symbol": "526807",
+      "name": "SEAMEC LTD.",
+      "isin": "INE497B01018"
+    },
+    {
+      "symbol": "523598",
+      "name": "SHIPPING CORPORATION OF INDIA",
+      "isin": "INE109A01011"
+    },
+    {
+      "symbol": "544490",
+      "name": "Shreeji Shipping Global Limite",
+      "isin": "INE1B6101010"
+    },
+    {
+      "symbol": "544447",
+      "name": "SMARTWORKS COWORKING SPACES LI",
+      "isin": "INE0NAZ01010"
+    },
+    {
+      "symbol": "538635",
+      "name": "SNOWMAN LOGISTICS LTD",
+      "isin": "INE734N01019"
+    },
+    {
+      "symbol": "500285",
+      "name": "SPICEJET LTD.",
+      "isin": "INE285B01017"
+    },
+    {
+      "symbol": "512531",
+      "name": "STATE TRADING CORPORATION OF I",
+      "isin": "INE655A01013"
+    },
+    {
+      "symbol": "539956",
+      "name": "TAAL TECH LIMITED",
+      "isin": "INE524T01011"
+    },
+    {
+      "symbol": "540212",
+      "name": "TCI Express Limited",
+      "isin": "INE586V01016"
+    },
+    {
+      "symbol": "539658",
+      "name": "TeamLease Services Limited",
+      "isin": "INE985S01024"
+    },
+    {
+      "symbol": "505400",
+      "name": "TEXMACO INFRASTRUCTURE & HOLDI",
+      "isin": "INE435C01024"
+    },
+    {
+      "symbol": "543638",
+      "name": "Tracxn Technologies Limited",
+      "isin": "INE0HMF01019"
+    },
+    {
+      "symbol": "543955",
+      "name": "Transindia Real Estate Limited",
+      "isin": "INE0O3901029"
+    },
+    {
+      "symbol": "532349",
+      "name": "TRANSPORT CORPORATION OF INDIA",
+      "isin": "INE688A01022"
+    },
+    {
+      "symbol": "520151",
+      "name": "TRANSWORLD SHIPPING LINES LIMI",
+      "isin": "INE757B01015"
+    },
+    {
+      "symbol": "543965",
+      "name": "TVS Supply Chain Solutions Lim",
+      "isin": "INE395N01027"
+    },
+    {
+      "symbol": "543996",
+      "name": "Updater Services Limited",
+      "isin": "INE851I01011"
+    },
+    {
+      "symbol": "542655",
+      "name": "VIKAS LIFECARE LIMITED",
+      "isin": "INE161L01027"
+    },
+    {
+      "symbol": "539118",
+      "name": "VRL Logistics Limited",
+      "isin": "INE366I01010"
+    },
+    {
+      "symbol": "544258",
+      "name": "Western Carriers (India) Limit",
+      "isin": "INE0CJF01024"
+    },
+    {
+      "symbol": "544570",
+      "name": "WeWork India Management Limite",
+      "isin": "INE085001019"
+    }
+  ]
+}

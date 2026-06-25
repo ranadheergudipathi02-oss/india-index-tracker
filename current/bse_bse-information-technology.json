@@ -1,0 +1,400 @@
+{
+  "id": "BSE:BSE Information Technology",
+  "exchange": "BSE",
+  "name": "BSE Information Technology",
+  "code": "85",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEIT",
+  "count": 78,
+  "members": [
+    {
+      "symbol": "526881",
+      "name": "63 Moons Technologies Limited",
+      "isin": "INE111B01023"
+    },
+    {
+      "symbol": "532268",
+      "name": "ACCELYA SOLUTIONS INDIA LIMITE",
+      "isin": "INE793A01012"
+    },
+    {
+      "symbol": "542752",
+      "name": "AFFLE 3I LIMITED",
+      "isin": "INE00WC01027"
+    },
+    {
+      "symbol": "532875",
+      "name": "ALLIED DIGITAL SERVICES LTD.",
+      "isin": "INE102I01027"
+    },
+    {
+      "symbol": "526433",
+      "name": "ASM TECHNOLOGIES LTD.",
+      "isin": "INE867C01010"
+    },
+    {
+      "symbol": "532668",
+      "name": "AURIONPRO SOLUTIONS LTD.",
+      "isin": "INE132H01018"
+    },
+    {
+      "symbol": "532400",
+      "name": "BIRLASOFT LIMITED",
+      "isin": "INE836A01035"
+    },
+    {
+      "symbol": "500463",
+      "name": "BLACK BOX LIMITED",
+      "isin": "INE676A01027"
+    },
+    {
+      "symbol": "544107",
+      "name": "BLS E-Services Limited",
+      "isin": "INE0NLT01010"
+    },
+    {
+      "symbol": "543425",
+      "name": "C.E. Info Systems Limited",
+      "isin": "INE0BV301023"
+    },
+    {
+      "symbol": "544614",
+      "name": "Capillary Technologies India L",
+      "isin": "INE0ILV01024"
+    },
+    {
+      "symbol": "538734",
+      "name": "CEINSYS TECH LIMITED",
+      "isin": "INE016Q01014"
+    },
+    {
+      "symbol": "532541",
+      "name": "COFORGE LIMITED",
+      "isin": "INE591G01025"
+    },
+    {
+      "symbol": "522295",
+      "name": "CONTROL PRINT LTD.",
+      "isin": "INE663B01015"
+    },
+    {
+      "symbol": "532175",
+      "name": "CYIENT LIMITED",
+      "isin": "INE136B01020"
+    },
+    {
+      "symbol": "533146",
+      "name": "D-LINK (INDIA) LTD",
+      "isin": "INE250K01012"
+    },
+    {
+      "symbol": "532528",
+      "name": "DATAMATICS GLOBAL SERVICES LTD",
+      "isin": "INE365B01017"
+    },
+    {
+      "symbol": "544413",
+      "name": "Digitide Solutions Limited",
+      "isin": "INE0U4701011"
+    },
+    {
+      "symbol": "532365",
+      "name": "DYNACONS SYSTEMS & SOLUTIONS L",
+      "isin": "INE417B01040"
+    },
+    {
+      "symbol": "543533",
+      "name": "eMudhra Limited",
+      "isin": "INE01QM01018"
+    },
+    {
+      "symbol": "544617",
+      "name": "Excelsoft Technologies Limited",
+      "isin": "INE606N01019"
+    },
+    {
+      "symbol": "533121",
+      "name": "EXPLEO SOLUTIONS LIMITED",
+      "isin": "INE201K01015"
+    },
+    {
+      "symbol": "506109",
+      "name": "GENESYS INTERNATIONAL CORPORAT",
+      "isin": "INE727B01026"
+    },
+    {
+      "symbol": "544455",
+      "name": "GNG Electronics Limited",
+      "isin": "INE18JU01028"
+    },
+    {
+      "symbol": "543227",
+      "name": "Happiest Minds Technologies Li",
+      "isin": "INE419U01012"
+    },
+    {
+      "symbol": "532281",
+      "name": "HCL TECHNOLOGIES LTD.",
+      "isin": "INE860A01027"
+    },
+    {
+      "symbol": "544362",
+      "name": "Hexaware Technologies Limited",
+      "isin": "INE093A01041"
+    },
+    {
+      "symbol": "543644",
+      "name": "InfoBeans Technologies Limited",
+      "isin": "INE344S01016"
+    },
+    {
+      "symbol": "500209",
+      "name": "INFOSYS LTD.",
+      "isin": "INE009A01021"
+    },
+    {
+      "symbol": "544302",
+      "name": "Innovana Thinklabs Limited",
+      "isin": "INE403Y01018"
+    },
+    {
+      "symbol": "538835",
+      "name": "INTELLECT DESIGN ARENA LIMITED",
+      "isin": "INE306R01017"
+    },
+    {
+      "symbol": "544309",
+      "name": "INVENTURUS KNOWLEDGE SOLUTIONS",
+      "isin": "INE115Q01022"
+    },
+    {
+      "symbol": "540735",
+      "name": "IRIS RegTech Solutions Limited",
+      "isin": "INE864K01010"
+    },
+    {
+      "symbol": "544523",
+      "name": "IVALUE INFOSOLUTIONS LIMITED",
+      "isin": "INE056801025"
+    },
+    {
+      "symbol": "519602",
+      "name": "KELLTON TECH SOLUTIONS LTD.",
+      "isin": "INE164B01030"
+    },
+    {
+      "symbol": "542651",
+      "name": "KPIT Technologies Ltd",
+      "isin": "INE04I401011"
+    },
+    {
+      "symbol": "543599",
+      "name": "Ksolves India Limited",
+      "isin": "INE0D6I01023"
+    },
+    {
+      "symbol": "540115",
+      "name": "L&T Technology Services Limite",
+      "isin": "INE010V01017"
+    },
+    {
+      "symbol": "543398",
+      "name": "Latent View Analytics Limited",
+      "isin": "INE0I7C01011"
+    },
+    {
+      "symbol": "540005",
+      "name": "LTM LIMITED",
+      "isin": "INE214T01019"
+    },
+    {
+      "symbol": "538891",
+      "name": "MAGELLANIC CLOUD LIMITED",
+      "isin": "INE613C01026"
+    },
+    {
+      "symbol": "523704",
+      "name": "MASTEK LTD.",
+      "isin": "INE759A01021"
+    },
+    {
+      "symbol": "517344",
+      "name": "MINDTECK (INDIA) LTD.",
+      "isin": "INE110B01017"
+    },
+    {
+      "symbol": "532407",
+      "name": "MOSCHIP TECHNOLOGIES LIMITED",
+      "isin": "INE935B01025"
+    },
+    {
+      "symbol": "526299",
+      "name": "MPHASIS LTD.",
+      "isin": "INE356A01018"
+    },
+    {
+      "symbol": "504112",
+      "name": "NELCO LTD.",
+      "isin": "INE045B01015"
+    },
+    {
+      "symbol": "543945",
+      "name": "NETWEB TECHNOLOGIES INDIA LIMI",
+      "isin": "INE0NT901020"
+    },
+    {
+      "symbol": "540900",
+      "name": "Newgen Software Technologies L",
+      "isin": "INE619B01017"
+    },
+    {
+      "symbol": "539843",
+      "name": "NINtec Systems Limited",
+      "isin": "INE395U01014"
+    },
+    {
+      "symbol": "531209",
+      "name": "NUCLEUS SOFTWARE EXPORTS LTD.",
+      "isin": "INE096B01018"
+    },
+    {
+      "symbol": "517536",
+      "name": "ONWARD TECHNOLOGIES LTD.",
+      "isin": "INE229A01017"
+    },
+    {
+      "symbol": "532466",
+      "name": "ORACLE FINANCIAL SERVICES SOFT",
+      "isin": "INE881D01027"
+    },
+    {
+      "symbol": "544235",
+      "name": "Orient Technologies Limited",
+      "isin": "INE0PPK01015"
+    },
+    {
+      "symbol": "533179",
+      "name": "PERSISTENT SYSTEMS LTD.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "544021",
+      "name": "Protean eGov Technologies Limi",
+      "isin": "INE004A01022"
+    },
+    {
+      "symbol": "539678",
+      "name": "Quick Heal Technologies Limite",
+      "isin": "INE306L01010"
+    },
+    {
+      "symbol": "532735",
+      "name": "R SYSTEMS INTERNATIONAL LTD.",
+      "isin": "INE411H01032"
+    },
+    {
+      "symbol": "532370",
+      "name": "RAMCO SYSTEMS LTD.",
+      "isin": "INE246B01019"
+    },
+    {
+      "symbol": "544119",
+      "name": "Rashi Peripherals Limited",
+      "isin": "INE0J1F01024"
+    },
+    {
+      "symbol": "543417",
+      "name": "RateGain Travel Technologies L",
+      "isin": "INE0CLI01024"
+    },
+    {
+      "symbol": "544282",
+      "name": "Sagility Limited",
+      "isin": "INE0W2G01015"
+    },
+    {
+      "symbol": "532663",
+      "name": "Sasken Technologies Limited",
+      "isin": "INE231F01020"
+    },
+    {
+      "symbol": "543525",
+      "name": "Silver Touch Technologies Limi",
+      "isin": "INE625X01026"
+    },
+    {
+      "symbol": "532221",
+      "name": "SONATA SOFTWARE LTD.",
+      "isin": "INE269A01021"
+    },
+    {
+      "symbol": "532348",
+      "name": "SUBEX LTD.",
+      "isin": "INE754A01055"
+    },
+    {
+      "symbol": "532790",
+      "name": "TANLA PLATFORMS LIMITED",
+      "isin": "INE483C01032"
+    },
+    {
+      "symbol": "532540",
+      "name": "TATA CONSULTANCY SERVICES LTD.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "500408",
+      "name": "TATA ELXSI LTD.",
+      "isin": "INE670A01012"
+    },
+    {
+      "symbol": "544028",
+      "name": "Tata Technologies Limited",
+      "isin": "INE142M01025"
+    },
+    {
+      "symbol": "532755",
+      "name": "TECH MAHINDRA LTD.",
+      "isin": "INE669C01036"
+    },
+    {
+      "symbol": "532513",
+      "name": "TVS ELECTRONICS LTD.",
+      "isin": "INE236G01019"
+    },
+    {
+      "symbol": "544227",
+      "name": "UNICOMMERCE ESOLUTIONS LIMITED",
+      "isin": "INE00U401027"
+    },
+    {
+      "symbol": "511431",
+      "name": "VAKRANGEE LIMITED",
+      "isin": "INE051B01021"
+    },
+    {
+      "symbol": "543958",
+      "name": "VL E-Governance & IT Solutions",
+      "isin": "INE03HW01020"
+    },
+    {
+      "symbol": "507685",
+      "name": "WIPRO LTD.",
+      "isin": "INE075A01022"
+    },
+    {
+      "symbol": "532616",
+      "name": "XCHANGING SOLUTIONS LTD.",
+      "isin": "INE692G01013"
+    },
+    {
+      "symbol": "543985",
+      "name": "ZAGGLE PREPAID OCEAN SERVICES",
+      "isin": "INE07K301024"
+    },
+    {
+      "symbol": "504067",
+      "name": "ZENSAR TECHNOLOGIES LTD.",
+      "isin": "INE520A01027"
+    }
+  ]
+}

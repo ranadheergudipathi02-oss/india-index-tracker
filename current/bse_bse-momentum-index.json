@@ -1,0 +1,155 @@
+{
+  "id": "BSE:BSE Momentum Index",
+  "exchange": "BSE",
+  "name": "BSE Momentum Index",
+  "code": "109",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEMOI",
+  "count": 29,
+  "members": [
+    {
+      "symbol": "540691",
+      "name": "Aditya Birla Capital Ltd",
+      "isin": "INE674K01013"
+    },
+    {
+      "symbol": "500477",
+      "name": "ASHOK LEYLAND LTD.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "540611",
+      "name": "AU Small Finance Bank Limited",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "532215",
+      "name": "AXIS BANK LTD.",
+      "isin": "INE238A01034"
+    },
+    {
+      "symbol": "532134",
+      "name": "BANK OF BARODA",
+      "isin": "INE028A01039"
+    },
+    {
+      "symbol": "532149",
+      "name": "BANK OF INDIA",
+      "isin": "INE084A01016"
+    },
+    {
+      "symbol": "500049",
+      "name": "BHARAT ELECTRONICS LTD.",
+      "isin": "INE263A01024"
+    },
+    {
+      "symbol": "500547",
+      "name": "BHARAT PETROLEUM CORPORATION L",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "532483",
+      "name": "CANARA BANK",
+      "isin": "INE476A01022"
+    },
+    {
+      "symbol": "505200",
+      "name": "EICHER MOTORS LTD.",
+      "isin": "INE066A01021"
+    },
+    {
+      "symbol": "500469",
+      "name": "FEDERAL BANK LTD.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "543384",
+      "name": "FSN E-Commerce Ventures Limite",
+      "isin": "INE388Y01029"
+    },
+    {
+      "symbol": "522275",
+      "name": "GE Vernova T&D India Limited",
+      "isin": "INE200A01026"
+    },
+    {
+      "symbol": "532296",
+      "name": "GLENMARK PHARMACEUTICALS LTD.",
+      "isin": "INE935A01035"
+    },
+    {
+      "symbol": "500440",
+      "name": "HINDALCO INDUSTRIES LTD.",
+      "isin": "INE038A01020"
+    },
+    {
+      "symbol": "532814",
+      "name": "INDIAN BANK",
+      "isin": "INE562A01011"
+    },
+    {
+      "symbol": "532286",
+      "name": "JINDAL STEEL LIMITED",
+      "isin": "INE749A01030"
+    },
+    {
+      "symbol": "533519",
+      "name": "L&T Finance Limited",
+      "isin": "INE498L01015"
+    },
+    {
+      "symbol": "540222",
+      "name": "Laurus Labs Limited",
+      "isin": "INE947Q01028"
+    },
+    {
+      "symbol": "500271",
+      "name": "Max Financial Services Limited",
+      "isin": "INE180A01020"
+    },
+    {
+      "symbol": "533398",
+      "name": "MUTHOOT FINANCE LTD.",
+      "isin": "INE414G01012"
+    },
+    {
+      "symbol": "532234",
+      "name": "NATIONAL ALUMINIUM CO.LTD.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "543396",
+      "name": "One 97 Communications Limited",
+      "isin": "INE982J01020"
+    },
+    {
+      "symbol": "540719",
+      "name": "SBI Life Insurance Company Lim",
+      "isin": "INE123W01016"
+    },
+    {
+      "symbol": "511218",
+      "name": "Shriram Finance Limited",
+      "isin": "INE721A01047"
+    },
+    {
+      "symbol": "500112",
+      "name": "STATE BANK OF INDIA",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "500470",
+      "name": "TATA STEEL LTD.",
+      "isin": "INE081A01020"
+    },
+    {
+      "symbol": "532343",
+      "name": "TVS MOTOR COMPANY LTD.",
+      "isin": "INE494B01023"
+    },
+    {
+      "symbol": "532477",
+      "name": "UNION BANK OF INDIA",
+      "isin": "INE692A01016"
+    }
+  ]
+}

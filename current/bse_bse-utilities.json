@@ -1,0 +1,185 @@
+{
+  "id": "BSE:BSE Utilities",
+  "exchange": "BSE",
+  "name": "BSE Utilities",
+  "code": "97",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=UTILS",
+  "count": 35,
+  "members": [
+    {
+      "symbol": "544283",
+      "name": "ACME Solar Holdings Limited",
+      "isin": "INE622W01025"
+    },
+    {
+      "symbol": "539254",
+      "name": "Adani Energy Solutions Limited",
+      "isin": "INE931S01010"
+    },
+    {
+      "symbol": "541450",
+      "name": "Adani Green Energy Limited",
+      "isin": "INE364U01010"
+    },
+    {
+      "symbol": "533096",
+      "name": "ADANI POWER LTD.",
+      "isin": "INE814H01029"
+    },
+    {
+      "symbol": "543254",
+      "name": "Antony Waste Handling Cell Lim",
+      "isin": "INE01BK01022"
+    },
+    {
+      "symbol": "500084",
+      "name": "CESC LTD.",
+      "isin": "INE486A01021"
+    },
+    {
+      "symbol": "544315",
+      "name": "Concord Enviro Systems Limited",
+      "isin": "INE037Z01029"
+    },
+    {
+      "symbol": "544345",
+      "name": "Denta Water and Infra Solution",
+      "isin": "INE0R4L01018"
+    },
+    {
+      "symbol": "530643",
+      "name": "ECO RECYCLING LTD.",
+      "isin": "INE316A01038"
+    },
+    {
+      "symbol": "543983",
+      "name": "EMS LIMITED",
+      "isin": "INE0OV601013"
+    },
+    {
+      "symbol": "544290",
+      "name": "ENVIRO INFRA ENGINEERS LIMITED",
+      "isin": "INE0LLY01014"
+    },
+    {
+      "symbol": "543490",
+      "name": "GMR Power and Urban Infra Limi",
+      "isin": "INE0CU601026"
+    },
+    {
+      "symbol": "517300",
+      "name": "GUJARAT INDUSTRIES POWER CO.LT",
+      "isin": "INE162A01010"
+    },
+    {
+      "symbol": "532708",
+      "name": "GVK POWER & INFRASTRUCTURE LTD",
+      "isin": "INE251H01024"
+    },
+    {
+      "symbol": "500214",
+      "name": "ION EXCHANGE (INDIA) LTD.",
+      "isin": "INE570A01022"
+    },
+    {
+      "symbol": "532627",
+      "name": "JAIPRAKASH POWER VENTURES LIMI",
+      "isin": "INE351F01018"
+    },
+    {
+      "symbol": "540311",
+      "name": "JITF INFRALOGISTICS LIMITED",
+      "isin": "INE863T01013"
+    },
+    {
+      "symbol": "533148",
+      "name": "JSW ENERGY LTD",
+      "isin": "INE121E01018"
+    },
+    {
+      "symbol": "539686",
+      "name": "K.P. Energy Limited",
+      "isin": "INE127T01021"
+    },
+    {
+      "symbol": "542323",
+      "name": "KPI Green Energy Limited",
+      "isin": "INE542W01025"
+    },
+    {
+      "symbol": "513023",
+      "name": "NAVA LIMITED",
+      "isin": "INE725A01030"
+    },
+    {
+      "symbol": "533098",
+      "name": "NHPC LTD.",
+      "isin": "INE848E01016"
+    },
+    {
+      "symbol": "513683",
+      "name": "NLC India Limited",
+      "isin": "INE589A01014"
+    },
+    {
+      "symbol": "544289",
+      "name": "NTPC GREEN ENERGY LIMITED",
+      "isin": "INE0ONG01011"
+    },
+    {
+      "symbol": "532555",
+      "name": "NTPC LTD.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "533263",
+      "name": "ORIENT GREEN POWER COMPANY LTD",
+      "isin": "INE999K01014"
+    },
+    {
+      "symbol": "532898",
+      "name": "POWER GRID CORPORATION OF INDI",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "532524",
+      "name": "PTC INDIA LTD.",
+      "isin": "INE877F01012"
+    },
+    {
+      "symbol": "533122",
+      "name": "RATTANINDIA POWER LTD.",
+      "isin": "INE399K01017"
+    },
+    {
+      "symbol": "532884",
+      "name": "REFEX INDUSTRIES LTD.",
+      "isin": "INE056I01025"
+    },
+    {
+      "symbol": "532939",
+      "name": "RELIANCE POWER LTD.",
+      "isin": "INE614G01033"
+    },
+    {
+      "symbol": "533206",
+      "name": "SJVN LTD",
+      "isin": "INE002L01015"
+    },
+    {
+      "symbol": "500400",
+      "name": "TATA POWER CO.LTD.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "532779",
+      "name": "TORRENT POWER LTD.",
+      "isin": "INE813H01021"
+    },
+    {
+      "symbol": "533269",
+      "name": "VA TECH WABAG LTD.",
+      "isin": "INE956G01038"
+    }
+  ]
+}

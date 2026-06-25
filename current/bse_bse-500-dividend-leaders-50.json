@@ -1,0 +1,260 @@
+{
+  "id": "BSE:BSE 500 Dividend Leaders 50",
+  "exchange": "BSE",
+  "name": "BSE 500 Dividend Leaders 50",
+  "code": "150",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=DIVY50",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "506285",
+      "name": "BAYER CROPSCIENCE LTD.",
+      "isin": "INE462A01022"
+    },
+    {
+      "symbol": "500547",
+      "name": "BHARAT PETROLEUM CORPORATION L",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "500870",
+      "name": "CASTROL INDIA LTD.",
+      "isin": "INE172A01027"
+    },
+    {
+      "symbol": "500084",
+      "name": "CESC LTD.",
+      "isin": "INE486A01021"
+    },
+    {
+      "symbol": "533278",
+      "name": "COAL INDIA LTD.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "532175",
+      "name": "CYIENT LIMITED",
+      "isin": "INE136B01020"
+    },
+    {
+      "symbol": "532178",
+      "name": "ENGINEERS INDIA LTD.",
+      "isin": "INE510A01028"
+    },
+    {
+      "symbol": "532155",
+      "name": "GAIL (INDIA) LTD.",
+      "isin": "INE129A01019"
+    },
+    {
+      "symbol": "500660",
+      "name": "GLAXOSMITHKLINE PHARMACEUTICAL",
+      "isin": "INE159A01016"
+    },
+    {
+      "symbol": "500620",
+      "name": "GREAT EASTERN SHIPPING CO.LTD.",
+      "isin": "INE017A01032"
+    },
+    {
+      "symbol": "532181",
+      "name": "GUJARAT MINERAL DEVELOPMENT CO",
+      "isin": "INE131A01031"
+    },
+    {
+      "symbol": "500670",
+      "name": "GUJARAT NARMADA VALLEY FERTILI",
+      "isin": "INE113A01013"
+    },
+    {
+      "symbol": "500690",
+      "name": "GUJARAT STATE FERTILIZERS & CH",
+      "isin": "INE026A01025"
+    },
+    {
+      "symbol": "532281",
+      "name": "HCL TECHNOLOGIES LTD.",
+      "isin": "INE860A01027"
+    },
+    {
+      "symbol": "500182",
+      "name": "HERO MOTOCORP LTD.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "500104",
+      "name": "HINDUSTAN PETROLEUM CORPORATIO",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "500188",
+      "name": "HINDUSTAN ZINC LTD.",
+      "isin": "INE267A01025"
+    },
+    {
+      "symbol": "540530",
+      "name": "Housing &Urban Development Cor",
+      "isin": "INE031A01017"
+    },
+    {
+      "symbol": "530965",
+      "name": "INDIAN OIL CORPORATION LTD.",
+      "isin": "INE242A01010"
+    },
+    {
+      "symbol": "532514",
+      "name": "INDRAPRASTHA GAS LTD.",
+      "isin": "INE203G01027"
+    },
+    {
+      "symbol": "500209",
+      "name": "INFOSYS LTD.",
+      "isin": "INE009A01021"
+    },
+    {
+      "symbol": "541956",
+      "name": "IRCON International Ltd",
+      "isin": "INE962Y01021"
+    },
+    {
+      "symbol": "500875",
+      "name": "ITC LTD.",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "523405",
+      "name": "JM FINANCIAL LTD.",
+      "isin": "INE780C01023"
+    },
+    {
+      "symbol": "500710",
+      "name": "JSW Dulux Limited",
+      "isin": "INE133A01011"
+    },
+    {
+      "symbol": "539957",
+      "name": "Mahanagar Gas Limited",
+      "isin": "INE002S01010"
+    },
+    {
+      "symbol": "526299",
+      "name": "MPHASIS LTD.",
+      "isin": "INE356A01018"
+    },
+    {
+      "symbol": "532234",
+      "name": "NATIONAL ALUMINIUM CO.LTD.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "533098",
+      "name": "NHPC LTD.",
+      "isin": "INE848E01016"
+    },
+    {
+      "symbol": "540767",
+      "name": "NIPPON LIFE INDIA ASSET MANAGE",
+      "isin": "INE298J01013"
+    },
+    {
+      "symbol": "526371",
+      "name": "NMDC LTD.",
+      "isin": "INE584A01023"
+    },
+    {
+      "symbol": "532555",
+      "name": "NTPC LTD.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "500312",
+      "name": "OIL AND NATURAL GAS CORPORATIO",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "533106",
+      "name": "OIL INDIA LTD.",
+      "isin": "INE274J01014"
+    },
+    {
+      "symbol": "532466",
+      "name": "ORACLE FINANCIAL SERVICES SOFT",
+      "isin": "INE881D01027"
+    },
+    {
+      "symbol": "506590",
+      "name": "PCBL Chemical Limited",
+      "isin": "INE602A01031"
+    },
+    {
+      "symbol": "532522",
+      "name": "PETRONET LNG LTD.",
+      "isin": "INE347G01014"
+    },
+    {
+      "symbol": "532810",
+      "name": "POWER FINANCE CORPORATION LTD.",
+      "isin": "INE134E01011"
+    },
+    {
+      "symbol": "532898",
+      "name": "POWER GRID CORPORATION OF INDI",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "532955",
+      "name": "REC LIMITED",
+      "isin": "INE020B01018"
+    },
+    {
+      "symbol": "532805",
+      "name": "Redington Limited",
+      "isin": "INE891D01026"
+    },
+    {
+      "symbol": "541556",
+      "name": "RITES Limited",
+      "isin": "INE320J01015"
+    },
+    {
+      "symbol": "533206",
+      "name": "SJVN LTD",
+      "isin": "INE002L01015"
+    },
+    {
+      "symbol": "532733",
+      "name": "SUN TV NETWORK LTD.",
+      "isin": "INE424H01027"
+    },
+    {
+      "symbol": "532540",
+      "name": "TATA CONSULTANCY SERVICES LTD.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "500470",
+      "name": "TATA STEEL LTD.",
+      "isin": "INE081A01020"
+    },
+    {
+      "symbol": "532755",
+      "name": "TECH MAHINDRA LTD.",
+      "isin": "INE669C01036"
+    },
+    {
+      "symbol": "543238",
+      "name": "UTI Asset Management Company L",
+      "isin": "INE094J01016"
+    },
+    {
+      "symbol": "507685",
+      "name": "WIPRO LTD.",
+      "isin": "INE075A01022"
+    },
+    {
+      "symbol": "505537",
+      "name": "ZEE ENTERTAINMENT ENTERPRISES",
+      "isin": "INE256A01028"
+    }
+  ]
+}

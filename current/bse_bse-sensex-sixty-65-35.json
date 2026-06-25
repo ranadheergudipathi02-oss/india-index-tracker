@@ -1,0 +1,310 @@
+{
+  "id": "BSE:BSE SENSEX SIXTY 65:35",
+  "exchange": "BSE",
+  "name": "BSE SENSEX SIXTY 65:35",
+  "code": "130",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SS6535",
+  "count": 60,
+  "members": [
+    {
+      "symbol": "512599",
+      "name": "ADANI ENTERPRISES LTD.",
+      "isin": "INE423A01024"
+    },
+    {
+      "symbol": "532921",
+      "name": "ADANI PORTS AND SPECIAL ECONOM",
+      "isin": "INE742F01042"
+    },
+    {
+      "symbol": "508869",
+      "name": "APOLLO HOSPITALS ENTERPRISE LT",
+      "isin": "INE437A01024"
+    },
+    {
+      "symbol": "500820",
+      "name": "ASIAN PAINTS LTD.",
+      "isin": "INE021A01026"
+    },
+    {
+      "symbol": "532215",
+      "name": "AXIS BANK LTD.",
+      "isin": "INE238A01034"
+    },
+    {
+      "symbol": "532977",
+      "name": "BAJAJ AUTO LTD.",
+      "isin": "INE917I01010"
+    },
+    {
+      "symbol": "500034",
+      "name": "BAJAJ FINANCE LIMITED",
+      "isin": "INE296A01032"
+    },
+    {
+      "symbol": "532978",
+      "name": "BAJAJ FINSERV LTD.",
+      "isin": "INE918I01026"
+    },
+    {
+      "symbol": "500049",
+      "name": "BHARAT ELECTRONICS LTD.",
+      "isin": "INE263A01024"
+    },
+    {
+      "symbol": "532454",
+      "name": "BHARTI AIRTEL LTD.",
+      "isin": "INE397D01024"
+    },
+    {
+      "symbol": "500825",
+      "name": "BRITANNIA INDUSTRIES LTD.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "511243",
+      "name": "CHOLAMANDALAM INVESTMENT AND F",
+      "isin": "INE121A01024"
+    },
+    {
+      "symbol": "500087",
+      "name": "CIPLA LTD.",
+      "isin": "INE059A01026"
+    },
+    {
+      "symbol": "533278",
+      "name": "COAL INDIA LTD.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "532488",
+      "name": "DIVIS LABORATORIES LTD.",
+      "isin": "INE361B01024"
+    },
+    {
+      "symbol": "500124",
+      "name": "DR.REDDYS LABORATORIES LTD.",
+      "isin": "INE089A01031"
+    },
+    {
+      "symbol": "505200",
+      "name": "EICHER MOTORS LTD.",
+      "isin": "INE066A01021"
+    },
+    {
+      "symbol": "543320",
+      "name": "Eternal Limited",
+      "isin": "INE758T01015"
+    },
+    {
+      "symbol": "500300",
+      "name": "GRASIM INDUSTRIES LTD.",
+      "isin": "INE047A01021"
+    },
+    {
+      "symbol": "532281",
+      "name": "HCL TECHNOLOGIES LTD.",
+      "isin": "INE860A01027"
+    },
+    {
+      "symbol": "500180",
+      "name": "HDFC BANK LTD.",
+      "isin": "INE040A01034"
+    },
+    {
+      "symbol": "540777",
+      "name": "HDFC LIFE INSURANCE COMPANY LI",
+      "isin": "INE795G01014"
+    },
+    {
+      "symbol": "500182",
+      "name": "HERO MOTOCORP LTD.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "500440",
+      "name": "HINDALCO INDUSTRIES LTD.",
+      "isin": "INE038A01020"
+    },
+    {
+      "symbol": "541154",
+      "name": "Hindustan Aeronautics Limited",
+      "isin": "INE066F01020"
+    },
+    {
+      "symbol": "500696",
+      "name": "HINDUSTAN UNILEVER LTD.",
+      "isin": "INE030A01027"
+    },
+    {
+      "symbol": "532174",
+      "name": "ICICI BANK LTD.",
+      "isin": "INE090A01021"
+    },
+    {
+      "symbol": "500850",
+      "name": "INDIAN HOTELS CO.LTD.",
+      "isin": "INE053A01029"
+    },
+    {
+      "symbol": "500209",
+      "name": "INFOSYS LTD.",
+      "isin": "INE009A01021"
+    },
+    {
+      "symbol": "539448",
+      "name": "InterGlobe Aviation Limited",
+      "isin": "INE646L01027"
+    },
+    {
+      "symbol": "500875",
+      "name": "ITC LTD.",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "543940",
+      "name": "Jio Financial Services Limited",
+      "isin": "INE758E01017"
+    },
+    {
+      "symbol": "500228",
+      "name": "JSW STEEL LTD.",
+      "isin": "INE019A01038"
+    },
+    {
+      "symbol": "500247",
+      "name": "KOTAK MAHINDRA BANK LTD.",
+      "isin": "INE237A01036"
+    },
+    {
+      "symbol": "500510",
+      "name": "LARSEN & TOUBRO LTD.",
+      "isin": "INE018A01030"
+    },
+    {
+      "symbol": "500520",
+      "name": "MAHINDRA & MAHINDRA LTD.",
+      "isin": "INE101A01026"
+    },
+    {
+      "symbol": "532500",
+      "name": "MARUTI SUZUKI INDIA LTD.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "543220",
+      "name": "Max Healthcare Institute Limit",
+      "isin": "INE027H01010"
+    },
+    {
+      "symbol": "500790",
+      "name": "NESTLE INDIA LTD.",
+      "isin": "INE239A01024"
+    },
+    {
+      "symbol": "532555",
+      "name": "NTPC LTD.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "500312",
+      "name": "OIL AND NATURAL GAS CORPORATIO",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "532898",
+      "name": "POWER GRID CORPORATION OF INDI",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "500325",
+      "name": "RELIANCE INDUSTRIES LTD.",
+      "isin": "INE002A01018"
+    },
+    {
+      "symbol": "540719",
+      "name": "SBI Life Insurance Company Lim",
+      "isin": "INE123W01016"
+    },
+    {
+      "symbol": "511218",
+      "name": "Shriram Finance Limited",
+      "isin": "INE721A01047"
+    },
+    {
+      "symbol": "500112",
+      "name": "STATE BANK OF INDIA",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "524715",
+      "name": "SUN PHARMACEUTICAL INDUSTRIES",
+      "isin": "INE044A01036"
+    },
+    {
+      "symbol": "532667",
+      "name": "SUZLON ENERGY LTD.",
+      "isin": "INE040H01021"
+    },
+    {
+      "symbol": "532540",
+      "name": "TATA CONSULTANCY SERVICES LTD.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "500800",
+      "name": "TATA CONSUMER PRODUCTS LIMITED",
+      "isin": "INE192A01025"
+    },
+    {
+      "symbol": "500570",
+      "name": "TATA MOTORS PASSENGER VEHICLES",
+      "isin": "INE155A01022"
+    },
+    {
+      "symbol": "500400",
+      "name": "TATA POWER CO.LTD.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "500470",
+      "name": "TATA STEEL LTD.",
+      "isin": "INE081A01020"
+    },
+    {
+      "symbol": "532755",
+      "name": "TECH MAHINDRA LTD.",
+      "isin": "INE669C01036"
+    },
+    {
+      "symbol": "500114",
+      "name": "TITAN COMPANY LIMITED",
+      "isin": "INE280A01028"
+    },
+    {
+      "symbol": "500251",
+      "name": "TRENT LTD.",
+      "isin": "INE849A01020"
+    },
+    {
+      "symbol": "532343",
+      "name": "TVS MOTOR COMPANY LTD.",
+      "isin": "INE494B01023"
+    },
+    {
+      "symbol": "532538",
+      "name": "ULTRATECH CEMENT LTD.",
+      "isin": "INE481G01011"
+    },
+    {
+      "symbol": "540180",
+      "name": "Varun Beverages Limited",
+      "isin": "INE200M01039"
+    },
+    {
+      "symbol": "507685",
+      "name": "WIPRO LTD.",
+      "isin": "INE075A01022"
+    }
+  ]
+}

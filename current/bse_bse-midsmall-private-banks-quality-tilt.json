@@ -1,0 +1,100 @@
+{
+  "id": "BSE:BSE MidSmall Private Banks Quality Tilt",
+  "exchange": "BSE",
+  "name": "BSE MidSmall Private Banks Quality Tilt",
+  "code": "177",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSMSPB",
+  "count": 18,
+  "members": [
+    {
+      "symbol": "540611",
+      "name": "AU Small Finance Bank Limited",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "541153",
+      "name": "Bandhan Bank Limited",
+      "isin": "INE545U01014"
+    },
+    {
+      "symbol": "532210",
+      "name": "CITY UNION BANK LTD.",
+      "isin": "INE491A01021"
+    },
+    {
+      "symbol": "542867",
+      "name": "CSB Bank Limited",
+      "isin": "INE679A01013"
+    },
+    {
+      "symbol": "532772",
+      "name": "DCB BANK LIMITED",
+      "isin": "INE503A01015"
+    },
+    {
+      "symbol": "543243",
+      "name": "Equitas Small Finance Bank Lim",
+      "isin": "INE063P01018"
+    },
+    {
+      "symbol": "500469",
+      "name": "FEDERAL BANK LTD.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "539437",
+      "name": "IDFC FIRST BANK LIMITED",
+      "isin": "INE092T01019"
+    },
+    {
+      "symbol": "532187",
+      "name": "INDUSIND BANK LTD.",
+      "isin": "INE095A01012"
+    },
+    {
+      "symbol": "532209",
+      "name": "JAMMU & KASHMIR BANK LTD.",
+      "isin": "INE168A01041"
+    },
+    {
+      "symbol": "544118",
+      "name": "JANA SMALL FINANCE BANK LIMITE",
+      "isin": "INE953L01027"
+    },
+    {
+      "symbol": "532652",
+      "name": "KARNATAKA BANK LTD.",
+      "isin": "INE614B01018"
+    },
+    {
+      "symbol": "590003",
+      "name": "KARUR VYSYA BANK LTD.",
+      "isin": "INE036D01028"
+    },
+    {
+      "symbol": "540065",
+      "name": "RBL Bank Limited",
+      "isin": "INE976G01028"
+    },
+    {
+      "symbol": "532218",
+      "name": "SOUTH INDIAN BANK LTD.",
+      "isin": "INE683A01023"
+    },
+    {
+      "symbol": "543596",
+      "name": "Tamilnad Mercantile Bank Limit",
+      "isin": "INE668A01016"
+    },
+    {
+      "symbol": "542904",
+      "name": "Ujjivan Small Finance Bank Lim",
+      "isin": "INE551W01018"
+    },
+    {
+      "symbol": "532648",
+      "name": "YES BANK LTD.",
+      "isin": "INE528G01035"
+    }
+  ]
+}

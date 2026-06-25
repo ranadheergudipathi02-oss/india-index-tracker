@@ -1,0 +1,60 @@
+{
+  "id": "BSE:BSE CONSUMER DURABLES",
+  "exchange": "BSE",
+  "name": "BSE CONSUMER DURABLES",
+  "code": "27",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSECD",
+  "count": 10,
+  "members": [
+    {
+      "symbol": "540902",
+      "name": "Amber Enterprises India Limite",
+      "isin": "INE371P01015"
+    },
+    {
+      "symbol": "500820",
+      "name": "ASIAN PAINTS LTD.",
+      "isin": "INE021A01026"
+    },
+    {
+      "symbol": "509480",
+      "name": "BERGER PAINTS INDIA LTD.",
+      "isin": "INE463A01038"
+    },
+    {
+      "symbol": "500067",
+      "name": "BLUE STAR LTD.",
+      "isin": "INE472A01039"
+    },
+    {
+      "symbol": "539876",
+      "name": "Crompton Greaves Consumer Elec",
+      "isin": "INE299U01018"
+    },
+    {
+      "symbol": "540699",
+      "name": "Dixon Technologies (India) Lim",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "517354",
+      "name": "HAVELLS INDIA LTD.",
+      "isin": "INE176B01034"
+    },
+    {
+      "symbol": "543278",
+      "name": "Kalyan Jewellers India Limited",
+      "isin": "INE303R01014"
+    },
+    {
+      "symbol": "500114",
+      "name": "TITAN COMPANY LIMITED",
+      "isin": "INE280A01028"
+    },
+    {
+      "symbol": "500575",
+      "name": "VOLTAS LTD.",
+      "isin": "INE226A01021"
+    }
+  ]
+}

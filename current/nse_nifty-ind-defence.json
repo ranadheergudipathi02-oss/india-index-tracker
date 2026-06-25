@@ -1,0 +1,105 @@
+{
+  "id": "NSE:NIFTY IND DEFENCE",
+  "exchange": "NSE",
+  "name": "NIFTY IND DEFENCE",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyindiadefence_list.csv",
+  "count": 19,
+  "members": [
+    {
+      "symbol": "AXISCADES",
+      "name": "AXISCADES Technologies Ltd.",
+      "isin": "INE555B01013"
+    },
+    {
+      "symbol": "AEQUS",
+      "name": "Aequs Ltd.",
+      "isin": "INE947N01017"
+    },
+    {
+      "symbol": "APOLLO",
+      "name": "Apollo Micro Systems Ltd.",
+      "isin": "INE713T01028"
+    },
+    {
+      "symbol": "ASTRAMICRO",
+      "name": "Astra Microwave Products Ltd.",
+      "isin": "INE386C01029"
+    },
+    {
+      "symbol": "BEML",
+      "name": "BEML Ltd.",
+      "isin": "INE258A01024"
+    },
+    {
+      "symbol": "BDL",
+      "name": "Bharat Dynamics Ltd.",
+      "isin": "INE171Z01026"
+    },
+    {
+      "symbol": "BEL",
+      "name": "Bharat Electronics Ltd.",
+      "isin": "INE263A01024"
+    },
+    {
+      "symbol": "BHARATFORG",
+      "name": "Bharat Forge Ltd.",
+      "isin": "INE465A01025"
+    },
+    {
+      "symbol": "COCHINSHIP",
+      "name": "Cochin Shipyard Ltd.",
+      "isin": "INE704P01025"
+    },
+    {
+      "symbol": "DATAPATTNS",
+      "name": "Data Patterns (India) Ltd.",
+      "isin": "INE0IX101010"
+    },
+    {
+      "symbol": "DYNAMATECH",
+      "name": "Dynamatic Technologies Ltd.",
+      "isin": "INE221B01012"
+    },
+    {
+      "symbol": "GRSE",
+      "name": "Garden Reach Shipbuilders & Engineers Ltd.",
+      "isin": "INE382Z01011"
+    },
+    {
+      "symbol": "HAL",
+      "name": "Hindustan Aeronautics Ltd.",
+      "isin": "INE066F01020"
+    },
+    {
+      "symbol": "MTARTECH",
+      "name": "MTAR Technologies Ltd.",
+      "isin": "INE864I01014"
+    },
+    {
+      "symbol": "MAZDOCK",
+      "name": "Mazagoan Dock Shipbuilders Ltd.",
+      "isin": "INE249Z01020"
+    },
+    {
+      "symbol": "MIDHANI",
+      "name": "Mishra Dhatu Nigam Ltd.",
+      "isin": "INE099Z01011"
+    },
+    {
+      "symbol": "PARAS",
+      "name": "Paras Defence and Space Technologies Ltd.",
+      "isin": "INE045601023"
+    },
+    {
+      "symbol": "SOLARINDS",
+      "name": "Solar Industries India Ltd.",
+      "isin": "INE343H01029"
+    },
+    {
+      "symbol": "ZENTEC",
+      "name": "Zen Technologies Ltd.",
+      "isin": "INE251B01027"
+    }
+  ]
+}

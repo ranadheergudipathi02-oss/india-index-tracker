@@ -1,0 +1,165 @@
+{
+  "id": "BSE:BSE PREMIUM CONSUMPTION",
+  "exchange": "BSE",
+  "name": "BSE PREMIUM CONSUMPTION",
+  "code": "135",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=PRECON",
+  "count": 31,
+  "members": [
+    {
+      "symbol": "542772",
+      "name": "360 ONE WAM LIMITED",
+      "isin": "INE466L01038"
+    },
+    {
+      "symbol": "544403",
+      "name": "Aditya Birla Lifestyle Brands",
+      "isin": "INE14LE01019"
+    },
+    {
+      "symbol": "543415",
+      "name": "Anand Rathi Wealth Limited",
+      "isin": "INE463V01026"
+    },
+    {
+      "symbol": "543235",
+      "name": "ANGEL ONE LIMITED",
+      "isin": "INE732I01021"
+    },
+    {
+      "symbol": "540073",
+      "name": "BLS International Services Ltd",
+      "isin": "INE153T01027"
+    },
+    {
+      "symbol": "532443",
+      "name": "CERA SANITARYWARE LTD.",
+      "isin": "INE739E01017"
+    },
+    {
+      "symbol": "532868",
+      "name": "DLF LTD.",
+      "isin": "INE271C01023"
+    },
+    {
+      "symbol": "543320",
+      "name": "Eternal Limited",
+      "isin": "INE758T01015"
+    },
+    {
+      "symbol": "543384",
+      "name": "FSN E-Commerce Ventures Limite",
+      "isin": "INE388Y01029"
+    },
+    {
+      "symbol": "500850",
+      "name": "INDIAN HOTELS CO.LTD.",
+      "isin": "INE053A01029"
+    },
+    {
+      "symbol": "542830",
+      "name": "Indian Railway Catering and To",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "539448",
+      "name": "InterGlobe Aviation Limited",
+      "isin": "INE646L01027"
+    },
+    {
+      "symbol": "544325",
+      "name": "ITC Hotels Limited",
+      "isin": "INE379A01028"
+    },
+    {
+      "symbol": "543278",
+      "name": "Kalyan Jewellers India Limited",
+      "isin": "INE303R01014"
+    },
+    {
+      "symbol": "541233",
+      "name": "Lemon Tree Hotels Limited",
+      "isin": "INE970X01018"
+    },
+    {
+      "symbol": "544600",
+      "name": "Lenskart Solutions Limited",
+      "isin": "INE956O01016"
+    },
+    {
+      "symbol": "543287",
+      "name": "Lodha Developers Limited",
+      "isin": "INE670K01029"
+    },
+    {
+      "symbol": "500520",
+      "name": "MAHINDRA & MAHINDRA LTD.",
+      "isin": "INE101A01026"
+    },
+    {
+      "symbol": "532500",
+      "name": "MARUTI SUZUKI INDIA LTD.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "532892",
+      "name": "MOTILAL OSWAL FINANCIAL SERVIC",
+      "isin": "INE338I01027"
+    },
+    {
+      "symbol": "532827",
+      "name": "PAGE INDUSTRIES LTD.",
+      "isin": "INE761H01022"
+    },
+    {
+      "symbol": "532689",
+      "name": "PVR INOX LIMITED",
+      "isin": "INE191H01014"
+    },
+    {
+      "symbol": "532497",
+      "name": "RADICO KHAITAN LTD.",
+      "isin": "INE944F01028"
+    },
+    {
+      "symbol": "544285",
+      "name": "SWIGGY LIMITED",
+      "isin": "INE00H001014"
+    },
+    {
+      "symbol": "500570",
+      "name": "TATA MOTORS PASSENGER VEHICLES",
+      "isin": "INE155A01022"
+    },
+    {
+      "symbol": "544174",
+      "name": "TBO TEK LIMITED",
+      "isin": "INE673O01025"
+    },
+    {
+      "symbol": "503100",
+      "name": "THE PHOENIX MILLS LTD",
+      "isin": "INE211B01039"
+    },
+    {
+      "symbol": "500114",
+      "name": "TITAN COMPANY LIMITED",
+      "isin": "INE280A01028"
+    },
+    {
+      "symbol": "500251",
+      "name": "TRENT LTD.",
+      "isin": "INE849A01020"
+    },
+    {
+      "symbol": "532478",
+      "name": "UNITED BREWERIES LTD.",
+      "isin": "INE686F01025"
+    },
+    {
+      "symbol": "532432",
+      "name": "UNITED SPIRITS LTD.",
+      "isin": "INE854D01024"
+    }
+  ]
+}

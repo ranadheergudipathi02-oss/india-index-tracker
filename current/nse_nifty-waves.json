@@ -1,0 +1,225 @@
+{
+  "id": "NSE:NIFTY WAVES",
+  "exchange": "NSE",
+  "name": "NIFTY WAVES",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftywaves_list.csv",
+  "count": 43,
+  "members": [
+    {
+      "symbol": "BAGFILMS",
+      "name": "B.A.G. Films and Media Ltd.",
+      "isin": "INE116D01028"
+    },
+    {
+      "symbol": "BALAJITELE",
+      "name": "Balaji Telefilms Ltd.",
+      "isin": "INE794B01026"
+    },
+    {
+      "symbol": "BTML",
+      "name": "Bodhi Tree Multimedia ltd.",
+      "isin": "INE0EEJ01023"
+    },
+    {
+      "symbol": "CINELINE",
+      "name": "Cineline India Ltd.",
+      "isin": "INE704H01022"
+    },
+    {
+      "symbol": "CINEVISTA",
+      "name": "Cinevista Ltd.",
+      "isin": "INE039B01026"
+    },
+    {
+      "symbol": "CREATIVEYE",
+      "name": "Creative Eye Ltd.",
+      "isin": "INE230B01021"
+    },
+    {
+      "symbol": "CYBERMEDIA",
+      "name": "Cyber Media (India) Ltd.",
+      "isin": "INE278G01037"
+    },
+    {
+      "symbol": "DEN",
+      "name": "Den Networks Ltd.",
+      "isin": "INE947J01015"
+    },
+    {
+      "symbol": "DGCONTENT",
+      "name": "Digicontent Ltd.",
+      "isin": "INE03JI01017"
+    },
+    {
+      "symbol": "DNAMEDIA",
+      "name": "Diligent Media Corporation Ltd.",
+      "isin": "INE016M01021"
+    },
+    {
+      "symbol": "DISHTV",
+      "name": "Dish TV India Ltd.",
+      "isin": "INE836F01026"
+    },
+    {
+      "symbol": "ENIL",
+      "name": "Entertainment Network India Ltd.",
+      "isin": "INE265F01028"
+    },
+    {
+      "symbol": "GTPL",
+      "name": "GTPL Hathway Ltd.",
+      "isin": "INE869I01013"
+    },
+    {
+      "symbol": "HATHWAY",
+      "name": "Hathway Cable & Datacom Ltd.",
+      "isin": "INE982F01036"
+    },
+    {
+      "symbol": "MUKTAARTS",
+      "name": "Mukta Arts Ltd",
+      "isin": "INE374B01019"
+    },
+    {
+      "symbol": "RADIOCITY",
+      "name": "Music Broadcast Ltd.",
+      "isin": "INE919I01024"
+    },
+    {
+      "symbol": "NDTV",
+      "name": "NDTV Ltd.",
+      "isin": "INE155G01029"
+    },
+    {
+      "symbol": "NAZARA",
+      "name": "Nazara Technologies Ltd.",
+      "isin": "INE418L01021"
+    },
+    {
+      "symbol": "NETWORK18",
+      "name": "Network18 Media & Investments Ltd.",
+      "isin": "INE870H01013"
+    },
+    {
+      "symbol": "NEXTMEDIA",
+      "name": "Next Mediaworks Ltd.",
+      "isin": "INE747B01016"
+    },
+    {
+      "symbol": "ONMOBILE",
+      "name": "OnMobile Global Ltd.",
+      "isin": "INE809I01019"
+    },
+    {
+      "symbol": "PVRINOX",
+      "name": "PVR INOX Ltd.",
+      "isin": "INE191H01014"
+    },
+    {
+      "symbol": "PFOCUS",
+      "name": "Prime Focus Ltd",
+      "isin": "INE367G01038"
+    },
+    {
+      "symbol": "PNC",
+      "name": "Pritish Nandy Communications Ltd.",
+      "isin": "INE392B01011"
+    },
+    {
+      "symbol": "RKSWAMY",
+      "name": "R K Swamy Ltd.",
+      "isin": "INE0NQ801033"
+    },
+    {
+      "symbol": "RADAAN",
+      "name": "Radaan Mediaworks (I) Ltd.",
+      "isin": "INE874F01027"
+    },
+    {
+      "symbol": "RAJTV",
+      "name": "Raj Television Network Ltd.",
+      "isin": "INE952H01027"
+    },
+    {
+      "symbol": "SABEVENTS",
+      "name": "Sab Events & Governance Now Media Ltd.",
+      "isin": "INE860T01019"
+    },
+    {
+      "symbol": "SAMBHAAV",
+      "name": "Sambhaav Media Limited",
+      "isin": "INE699B01027"
+    },
+    {
+      "symbol": "SAREGAMA",
+      "name": "Saregama India Ltd",
+      "isin": "INE979A01025"
+    },
+    {
+      "symbol": "SHEMAROO",
+      "name": "Shemaroo Entertainment Ltd.",
+      "isin": "INE363M01019"
+    },
+    {
+      "symbol": "SIGNPOST",
+      "name": "Signpost India Ltd.",
+      "isin": "INE0KGZ01021"
+    },
+    {
+      "symbol": "SILLYMONKS",
+      "name": "Silly Monks Entertainment Ltd.",
+      "isin": "INE203Y01012"
+    },
+    {
+      "symbol": "SABTNL",
+      "name": "Sri Adhikari Brothers Television Network Ltd.",
+      "isin": "INE416A01044"
+    },
+    {
+      "symbol": "SUNTV",
+      "name": "Sun TV Network Ltd.",
+      "isin": "INE424H01027"
+    },
+    {
+      "symbol": "TVTODAY",
+      "name": "TV Today Network Ltd.",
+      "isin": "INE038F01029"
+    },
+    {
+      "symbol": "TVVISION",
+      "name": "TV Vision Ltd.",
+      "isin": "INE871L01013"
+    },
+    {
+      "symbol": "TIPSFILMS",
+      "name": "Tips Films Ltd.",
+      "isin": "INE0LQS01015"
+    },
+    {
+      "symbol": "TIPSMUSIC",
+      "name": "Tips Music Ltd.",
+      "isin": "INE716B01029"
+    },
+    {
+      "symbol": "UFO",
+      "name": "UFO Moviez India Ltd.",
+      "isin": "INE527H01019"
+    },
+    {
+      "symbol": "VERTOZ",
+      "name": "Vertoz Ltd.",
+      "isin": "INE188Y01023"
+    },
+    {
+      "symbol": "ZEEL",
+      "name": "Zee Entertainment Enterprises Ltd.",
+      "isin": "INE256A01028"
+    },
+    {
+      "symbol": "ZEEMEDIA",
+      "name": "Zee Media Corporation Ltd.",
+      "isin": "INE966H01019"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "BSE:BSE REALTY",
+  "exchange": "BSE",
+  "name": "BSE REALTY",
+  "code": "67",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=REALTY",
+  "count": 10,
+  "members": [
+    {
+      "symbol": "500040",
+      "name": "ADITYA BIRLA REAL ESTATE LIMIT",
+      "isin": "INE055A01016"
+    },
+    {
+      "symbol": "515055",
+      "name": "ANANT RAJ LIMITED",
+      "isin": "INE242C01024"
+    },
+    {
+      "symbol": "532929",
+      "name": "BRIGADE ENTERPRISES LTD.",
+      "isin": "INE791I01019"
+    },
+    {
+      "symbol": "532868",
+      "name": "DLF LTD.",
+      "isin": "INE271C01023"
+    },
+    {
+      "symbol": "533150",
+      "name": "GODREJ PROPERTIES LTD",
+      "isin": "INE484J01027"
+    },
+    {
+      "symbol": "543287",
+      "name": "Lodha Developers Limited",
+      "isin": "INE670K01029"
+    },
+    {
+      "symbol": "533273",
+      "name": "OBEROI REALTY LTD.",
+      "isin": "INE093I01010"
+    },
+    {
+      "symbol": "533274",
+      "name": "PRESTIGE ESTATES PROJECTS LTD.",
+      "isin": "INE811K01011"
+    },
+    {
+      "symbol": "532784",
+      "name": "SOBHA",
+      "isin": "INE671H01015"
+    },
+    {
+      "symbol": "503100",
+      "name": "THE PHOENIX MILLS LTD",
+      "isin": "INE211B01039"
+    }
+  ]
+}

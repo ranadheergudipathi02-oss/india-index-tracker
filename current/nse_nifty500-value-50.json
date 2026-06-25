@@ -1,0 +1,260 @@
+{
+  "id": "NSE:NIFTY500 VALUE 50",
+  "exchange": "NSE",
+  "name": "NIFTY500 VALUE 50",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_nifty500value50_list.csv",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "ASTERDM",
+      "name": "Aster DM Healthcare Ltd.",
+      "isin": "INE914M01019"
+    },
+    {
+      "symbol": "BANDHANBNK",
+      "name": "Bandhan Bank Ltd.",
+      "isin": "INE545U01014"
+    },
+    {
+      "symbol": "BANKBARODA",
+      "name": "Bank of Baroda",
+      "isin": "INE028A01039"
+    },
+    {
+      "symbol": "BANKINDIA",
+      "name": "Bank of India",
+      "isin": "INE084A01016"
+    },
+    {
+      "symbol": "MAHABANK",
+      "name": "Bank of Maharashtra",
+      "isin": "INE457A01014"
+    },
+    {
+      "symbol": "BPCL",
+      "name": "Bharat Petroleum Corporation Ltd.",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "CESC",
+      "name": "CESC Ltd.",
+      "isin": "INE486A01021"
+    },
+    {
+      "symbol": "CANBK",
+      "name": "Canara Bank",
+      "isin": "INE476A01022"
+    },
+    {
+      "symbol": "CHAMBLFERT",
+      "name": "Chambal Fertilizers & Chemicals Ltd.",
+      "isin": "INE085A01013"
+    },
+    {
+      "symbol": "CHOLAHLDNG",
+      "name": "Cholamandalam Financial Holdings Ltd.",
+      "isin": "INE149A01033"
+    },
+    {
+      "symbol": "COALINDIA",
+      "name": "Coal India Ltd.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "name": "Federal Bank Ltd.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "GAIL",
+      "name": "GAIL (India) Ltd.",
+      "isin": "INE129A01019"
+    },
+    {
+      "symbol": "GRASIM",
+      "name": "Grasim Industries Ltd.",
+      "isin": "INE047A01021"
+    },
+    {
+      "symbol": "GESHIP",
+      "name": "Great Eastern Shipping Co. Ltd.",
+      "isin": "INE017A01032"
+    },
+    {
+      "symbol": "HINDALCO",
+      "name": "Hindalco Industries Ltd.",
+      "isin": "INE038A01020"
+    },
+    {
+      "symbol": "HINDPETRO",
+      "name": "Hindustan Petroleum Corporation Ltd.",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "IRB",
+      "name": "IRB Infrastructure Developers Ltd.",
+      "isin": "INE821I01022"
+    },
+    {
+      "symbol": "INDIANB",
+      "name": "Indian Bank",
+      "isin": "INE562A01011"
+    },
+    {
+      "symbol": "IOC",
+      "name": "Indian Oil Corporation Ltd.",
+      "isin": "INE242A01010"
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "name": "IndusInd Bank Ltd.",
+      "isin": "INE095A01012"
+    },
+    {
+      "symbol": "KARURVYSYA",
+      "name": "Karur Vysya Bank Ltd.",
+      "isin": "INE036D01028"
+    },
+    {
+      "symbol": "LICHSGFIN",
+      "name": "LIC Housing Finance Ltd.",
+      "isin": "INE115A01026"
+    },
+    {
+      "symbol": "MGL",
+      "name": "Mahanagar Gas Ltd.",
+      "isin": "INE002S01010"
+    },
+    {
+      "symbol": "MANAPPURAM",
+      "name": "Manappuram Finance Ltd.",
+      "isin": "INE522D01027"
+    },
+    {
+      "symbol": "NCC",
+      "name": "NCC Ltd.",
+      "isin": "INE868B01028"
+    },
+    {
+      "symbol": "NMDC",
+      "name": "NMDC Ltd.",
+      "isin": "INE584A01023"
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "NATIONALUM",
+      "name": "National Aluminium Co. Ltd.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "ONGC",
+      "name": "Oil & Natural Gas Corporation Ltd.",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "OIL",
+      "name": "Oil India Ltd.",
+      "isin": "INE274J01014"
+    },
+    {
+      "symbol": "PETRONET",
+      "name": "Petronet LNG Ltd.",
+      "isin": "INE347G01014"
+    },
+    {
+      "symbol": "PFC",
+      "name": "Power Finance Corporation Ltd.",
+      "isin": "INE134E01011"
+    },
+    {
+      "symbol": "POWERGRID",
+      "name": "Power Grid Corporation of India Ltd.",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "PNB",
+      "name": "Punjab National Bank",
+      "isin": "INE160A01022"
+    },
+    {
+      "symbol": "RBLBANK",
+      "name": "RBL Bank Ltd.",
+      "isin": "INE976G01028"
+    },
+    {
+      "symbol": "RECLTD",
+      "name": "REC Ltd.",
+      "isin": "INE020B01018"
+    },
+    {
+      "symbol": "REDINGTON",
+      "name": "Redington Ltd.",
+      "isin": "INE891D01026"
+    },
+    {
+      "symbol": "RELINFRA",
+      "name": "Reliance Infrastructure Ltd.",
+      "isin": "INE036A01016"
+    },
+    {
+      "symbol": "RPOWER",
+      "name": "Reliance Power Ltd.",
+      "isin": "INE614G01033"
+    },
+    {
+      "symbol": "SAMMAANCAP",
+      "name": "Sammaan Capital Ltd.",
+      "isin": "INE148I01020"
+    },
+    {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "SAIL",
+      "name": "Steel Authority of India Ltd.",
+      "isin": "INE114A01011"
+    },
+    {
+      "symbol": "TATACHEM",
+      "name": "Tata Chemicals Ltd.",
+      "isin": "INE092A01019"
+    },
+    {
+      "symbol": "TMPV",
+      "name": "Tata Motors Passenger Vehicles Ltd.",
+      "isin": "INE155A01022"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "name": "Tata Steel Ltd.",
+      "isin": "INE081A01020"
+    },
+    {
+      "symbol": "UPL",
+      "name": "UPL Ltd.",
+      "isin": "INE628A01036"
+    },
+    {
+      "symbol": "UNIONBANK",
+      "name": "Union Bank of India",
+      "isin": "INE692A01016"
+    },
+    {
+      "symbol": "VEDL",
+      "name": "Vedanta Ltd.",
+      "isin": "INE205A01025"
+    },
+    {
+      "symbol": "ZEEL",
+      "name": "Zee Entertainment Enterprises Ltd.",
+      "isin": "INE256A01028"
+    }
+  ]
+}

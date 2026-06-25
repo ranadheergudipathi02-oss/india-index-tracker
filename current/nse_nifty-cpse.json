@@ -1,0 +1,65 @@
+{
+  "id": "NSE:NIFTY CPSE",
+  "exchange": "NSE",
+  "name": "NIFTY CPSE",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftycpselist.csv",
+  "count": 11,
+  "members": [
+    {
+      "symbol": "BEL",
+      "name": "Bharat Electronics Ltd.",
+      "isin": "INE263A01024"
+    },
+    {
+      "symbol": "COALINDIA",
+      "name": "Coal India Ltd.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "COCHINSHIP",
+      "name": "Cochin Shipyard Ltd.",
+      "isin": "INE704P01025"
+    },
+    {
+      "symbol": "NBCC",
+      "name": "NBCC (India) Ltd.",
+      "isin": "INE095N01031"
+    },
+    {
+      "symbol": "NHPC",
+      "name": "NHPC Ltd.",
+      "isin": "INE848E01016"
+    },
+    {
+      "symbol": "NLCINDIA",
+      "name": "NLC India Ltd.",
+      "isin": "INE589A01014"
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "ONGC",
+      "name": "Oil & Natural Gas Corporation Ltd.",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "OIL",
+      "name": "Oil India Ltd.",
+      "isin": "INE274J01014"
+    },
+    {
+      "symbol": "POWERGRID",
+      "name": "Power Grid Corporation of India Ltd.",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "SJVN",
+      "name": "SJVN Ltd.",
+      "isin": "INE002L01015"
+    }
+  ]
+}

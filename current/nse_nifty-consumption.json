@@ -1,0 +1,160 @@
+{
+  "id": "NSE:NIFTY CONSUMPTION",
+  "exchange": "NSE",
+  "name": "NIFTY CONSUMPTION",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyconsumptionlist.csv",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "ADANIPOWER",
+      "name": "Adani Power Ltd.",
+      "isin": "INE814H01029"
+    },
+    {
+      "symbol": "APOLLOHOSP",
+      "name": "Apollo Hospitals Enterprise Ltd.",
+      "isin": "INE437A01024"
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "name": "Asian Paints Ltd.",
+      "isin": "INE021A01026"
+    },
+    {
+      "symbol": "DMART",
+      "name": "Avenue Supermarts Ltd.",
+      "isin": "INE192R01011"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "name": "Bajaj Auto Ltd.",
+      "isin": "INE917I01010"
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "name": "Bharti Airtel Ltd.",
+      "isin": "INE397D01024"
+    },
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries Ltd.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "DLF",
+      "name": "DLF Ltd.",
+      "isin": "INE271C01023"
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Ltd.",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "EICHERMOT",
+      "name": "Eicher Motors Ltd.",
+      "isin": "INE066A01021"
+    },
+    {
+      "symbol": "ETERNAL",
+      "name": "Eternal Ltd.",
+      "isin": "INE758T01015"
+    },
+    {
+      "symbol": "GODREJCP",
+      "name": "Godrej Consumer Products Ltd.",
+      "isin": "INE102D01028"
+    },
+    {
+      "symbol": "HAVELLS",
+      "name": "Havells India Ltd.",
+      "isin": "INE176B01034"
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "name": "Hero MotoCorp Ltd.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "name": "Hindustan Unilever Ltd.",
+      "isin": "INE030A01027"
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Ltd.",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "INDHOTEL",
+      "name": "Indian Hotels Co. Ltd.",
+      "isin": "INE053A01029"
+    },
+    {
+      "symbol": "NAUKRI",
+      "name": "Info Edge (India) Ltd.",
+      "isin": "INE663F01032"
+    },
+    {
+      "symbol": "INDIGO",
+      "name": "InterGlobe Aviation Ltd.",
+      "isin": "INE646L01027"
+    },
+    {
+      "symbol": "M&M",
+      "name": "Mahindra & Mahindra Ltd.",
+      "isin": "INE101A01026"
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Ltd.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "MAXHEALTH",
+      "name": "Max Healthcare Institute Ltd.",
+      "isin": "INE027H01010"
+    },
+    {
+      "symbol": "NESTLEIND",
+      "name": "Nestle India Ltd.",
+      "isin": "INE239A01024"
+    },
+    {
+      "symbol": "TVSMOTOR",
+      "name": "TVS Motor Company Ltd.",
+      "isin": "INE494B01023"
+    },
+    {
+      "symbol": "TATACONSUM",
+      "name": "Tata Consumer Products Ltd.",
+      "isin": "INE192A01025"
+    },
+    {
+      "symbol": "TATAPOWER",
+      "name": "Tata Power Co. Ltd.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "TITAN",
+      "name": "Titan Company Ltd.",
+      "isin": "INE280A01028"
+    },
+    {
+      "symbol": "TRENT",
+      "name": "Trent Ltd.",
+      "isin": "INE849A01020"
+    },
+    {
+      "symbol": "UNITDSPR",
+      "name": "United Spirits Ltd.",
+      "isin": "INE854D01024"
+    },
+    {
+      "symbol": "VBL",
+      "name": "Varun Beverages Ltd.",
+      "isin": "INE200M01039"
+    }
+  ]
+}

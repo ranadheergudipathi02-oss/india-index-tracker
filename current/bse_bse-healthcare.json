@@ -1,0 +1,640 @@
+{
+  "id": "BSE:BSE Healthcare",
+  "exchange": "BSE",
+  "name": "BSE Healthcare",
+  "code": "84",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEHC",
+  "count": 126,
+  "members": [
+    {
+      "symbol": "532067",
+      "name": "3B BlackBio Dx Limited",
+      "isin": "INE994E01018"
+    },
+    {
+      "symbol": "524348",
+      "name": "AARTI DRUGS LTD.",
+      "isin": "INE767A01016"
+    },
+    {
+      "symbol": "543748",
+      "name": "Aarti Pharmalabs Limited",
+      "isin": "INE0LRU01027"
+    },
+    {
+      "symbol": "500488",
+      "name": "ABBOTT INDIA LTD.",
+      "isin": "INE358A01014"
+    },
+    {
+      "symbol": "543349",
+      "name": "ACUTAAS CHEMICALS LIMITED",
+      "isin": "INE00FF01025"
+    },
+    {
+      "symbol": "540025",
+      "name": "Advanced Enzyme Technologies L",
+      "isin": "INE837H01020"
+    },
+    {
+      "symbol": "532331",
+      "name": "AJANTA PHARMA LTD.",
+      "isin": "INE031B01049"
+    },
+    {
+      "symbol": "544222",
+      "name": "Akums Drugs and Pharmaceutical",
+      "isin": "INE09XN01023"
+    },
+    {
+      "symbol": "533573",
+      "name": "ALEMBIC PHARMACEUTICALS LTD.",
+      "isin": "INE901L01018"
+    },
+    {
+      "symbol": "543322",
+      "name": "ALIVUS LIFE SCIENCES LIMITED",
+      "isin": "INE03Q201024"
+    },
+    {
+      "symbol": "539523",
+      "name": "Alkem Laboratories Limited",
+      "isin": "INE540L01014"
+    },
+    {
+      "symbol": "544449",
+      "name": "Anthem Biosciences Limited",
+      "isin": "INE0CZ201020"
+    },
+    {
+      "symbol": "506260",
+      "name": "ANUH PHARMA LTD.",
+      "isin": "INE489G01022"
+    },
+    {
+      "symbol": "508869",
+      "name": "APOLLO HOSPITALS ENTERPRISE LT",
+      "isin": "INE437A01024"
+    },
+    {
+      "symbol": "542919",
+      "name": "Artemis Medicare Services Limi",
+      "isin": "INE025R01021"
+    },
+    {
+      "symbol": "540975",
+      "name": "Aster DM Healthcare Limited",
+      "isin": "INE914M01019"
+    },
+    {
+      "symbol": "506820",
+      "name": "ASTRAZENECA PHARMA INDIA LTD.",
+      "isin": "INE203A01020"
+    },
+    {
+      "symbol": "524804",
+      "name": "AUROBINDO PHARMA LTD.",
+      "isin": "INE406A01037"
+    },
+    {
+      "symbol": "539872",
+      "name": "Bajaj Healthcare Limited",
+      "isin": "INE411U01027"
+    },
+    {
+      "symbol": "532523",
+      "name": "BIOCON LTD.",
+      "isin": "INE376G01013"
+    },
+    {
+      "symbol": "506197",
+      "name": "BLISS GVS PHARMA LTD.",
+      "isin": "INE416D01022"
+    },
+    {
+      "symbol": "544009",
+      "name": "Blue Jet Healthcare Limited",
+      "isin": "INE0KBH01020"
+    },
+    {
+      "symbol": "524742",
+      "name": "CAPLIN POINT LABORATORIES LTD.",
+      "isin": "INE475E01026"
+    },
+    {
+      "symbol": "500087",
+      "name": "CIPLA LTD.",
+      "isin": "INE059A01026"
+    },
+    {
+      "symbol": "543064",
+      "name": "Cohance Lifesciences Limited",
+      "isin": "INE03QK01018"
+    },
+    {
+      "symbol": "543960",
+      "name": "Concord Biotech Limited",
+      "isin": "INE338H01029"
+    },
+    {
+      "symbol": "544644",
+      "name": "Corona Remedies Limited",
+      "isin": "INE02ZQ01018"
+    },
+    {
+      "symbol": "540701",
+      "name": "Dishman Carbogen Amcis Limited",
+      "isin": "INE385W01011"
+    },
+    {
+      "symbol": "532488",
+      "name": "DIVIS LABORATORIES LTD.",
+      "isin": "INE361B01024"
+    },
+    {
+      "symbol": "544350",
+      "name": "Dr. Agarwal's Health Care Limi",
+      "isin": "INE943P01029"
+    },
+    {
+      "symbol": "539524",
+      "name": "Dr. Lal Pathlabs Limited",
+      "isin": "INE600L01024"
+    },
+    {
+      "symbol": "526783",
+      "name": "DR.AGARWALS EYE HOSPITAL LTD.",
+      "isin": "INE934C01018"
+    },
+    {
+      "symbol": "500124",
+      "name": "DR.REDDYS LABORATORIES LTD.",
+      "isin": "INE089A01031"
+    },
+    {
+      "symbol": "544210",
+      "name": "Emcure Pharmaceuticals Limited",
+      "isin": "INE168P01015"
+    },
+    {
+      "symbol": "540596",
+      "name": "Eris Lifesciences Limited",
+      "isin": "INE406M01024"
+    },
+    {
+      "symbol": "544558",
+      "name": "Fabtech Technologies Limited",
+      "isin": "INE0HF201011"
+    },
+    {
+      "symbol": "531599",
+      "name": "FDC LTD.",
+      "isin": "INE258B01022"
+    },
+    {
+      "symbol": "506414",
+      "name": "FERMENTA BIOTECH LIMITED",
+      "isin": "INE225B01021"
+    },
+    {
+      "symbol": "524743",
+      "name": "FISCHER MEDICAL VENTURES LIMIT",
+      "isin": "INE771F01041"
+    },
+    {
+      "symbol": "532843",
+      "name": "FORTIS HEALTHCARE LTD.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "543245",
+      "name": "Gland Pharma Limited",
+      "isin": "INE068V01023"
+    },
+    {
+      "symbol": "500660",
+      "name": "GLAXOSMITHKLINE PHARMACEUTICAL",
+      "isin": "INE159A01016"
+    },
+    {
+      "symbol": "532296",
+      "name": "GLENMARK PHARMACEUTICALS LTD.",
+      "isin": "INE935A01035"
+    },
+    {
+      "symbol": "543654",
+      "name": "Global Health Limited",
+      "isin": "INE474Q01031"
+    },
+    {
+      "symbol": "544131",
+      "name": "GPT Healthcare Limited",
+      "isin": "INE486R01017"
+    },
+    {
+      "symbol": "532482",
+      "name": "GRANULES INDIA LTD.",
+      "isin": "INE101D01020"
+    },
+    {
+      "symbol": "509079",
+      "name": "GUFIC BIOSCIENCES LTD.",
+      "isin": "INE742B01025"
+    },
+    {
+      "symbol": "544666",
+      "name": "GUJARAT KIDNEY AND SUPER SPECI",
+      "isin": "INE0V0W01025"
+    },
+    {
+      "symbol": "506879",
+      "name": "GUJARAT THEMIS BIOSYN LTD.",
+      "isin": "INE942C01045"
+    },
+    {
+      "symbol": "533259",
+      "name": "HEALTH X PLATFORM LIMITED",
+      "isin": "INE019J01013"
+    },
+    {
+      "symbol": "539787",
+      "name": "HealthCare Global Enterprises",
+      "isin": "INE075I01017"
+    },
+    {
+      "symbol": "524669",
+      "name": "HESTER BIOSCIENCES LTD.",
+      "isin": "INE782E01017"
+    },
+    {
+      "symbol": "524735",
+      "name": "HIKAL LTD.",
+      "isin": "INE475B01022"
+    },
+    {
+      "symbol": "544172",
+      "name": "Indegene Limited",
+      "isin": "INE065X01017"
+    },
+    {
+      "symbol": "532612",
+      "name": "INDOCO REMEDIES LTD.",
+      "isin": "INE873D01024"
+    },
+    {
+      "symbol": "532150",
+      "name": "INDRAPRASTHA MEDICAL CORP.LTD.",
+      "isin": "INE681B01017"
+    },
+    {
+      "symbol": "544067",
+      "name": "INNOVA CAPTAB LIMITED",
+      "isin": "INE0DUT01020"
+    },
+    {
+      "symbol": "524164",
+      "name": "IOL CHEMICALS & PHARMACEUTICAL",
+      "isin": "INE485C01029"
+    },
+    {
+      "symbol": "524494",
+      "name": "IPCA LABORATORIES LTD.",
+      "isin": "INE571A01038"
+    },
+    {
+      "symbol": "506943",
+      "name": "J.B.CHEMICALS & PHARMACEUTICAL",
+      "isin": "INE572A01036"
+    },
+    {
+      "symbol": "507789",
+      "name": "JAGSONPAL PHARMACEUTICALS LTD.",
+      "isin": "INE048B01035"
+    },
+    {
+      "symbol": "530019",
+      "name": "JUBILANT PHARMOVA LIMITED",
+      "isin": "INE700A01033"
+    },
+    {
+      "symbol": "543980",
+      "name": "Jupiter Life Line Hospitals Li",
+      "isin": "INE682M01012"
+    },
+    {
+      "symbol": "524520",
+      "name": "KMC SPECIALITY HOSPITALS (INDI",
+      "isin": "INE879K01018"
+    },
+    {
+      "symbol": "524280",
+      "name": "KOPRAN LTD.",
+      "isin": "INE082A01010"
+    },
+    {
+      "symbol": "523323",
+      "name": "KOVAI MEDICAL CENTER & HOSPITA",
+      "isin": "INE177F01017"
+    },
+    {
+      "symbol": "543308",
+      "name": "Krishna Institute of Medical S",
+      "isin": "INE967H01025"
+    },
+    {
+      "symbol": "543328",
+      "name": "Krsnaa Diagnostics Limited",
+      "isin": "INE08LI01020"
+    },
+    {
+      "symbol": "539997",
+      "name": "Kwality Pharmaceuticals Limite",
+      "isin": "INE552U01010"
+    },
+    {
+      "symbol": "540222",
+      "name": "Laurus Labs Limited",
+      "isin": "INE947Q01028"
+    },
+    {
+      "symbol": "544339",
+      "name": "Laxmi Dental Limited",
+      "isin": "INE0WO601020"
+    },
+    {
+      "symbol": "531633",
+      "name": "LINCOLN PHARMACEUTICALS LTD.",
+      "isin": "INE405C01035"
+    },
+    {
+      "symbol": "500257",
+      "name": "LUPIN LTD.",
+      "isin": "INE326A01037"
+    },
+    {
+      "symbol": "543904",
+      "name": "Mankind Pharma Limited",
+      "isin": "INE634S01028"
+    },
+    {
+      "symbol": "524404",
+      "name": "MARKSANS PHARMA LTD.",
+      "isin": "INE750C01026"
+    },
+    {
+      "symbol": "543220",
+      "name": "Max Healthcare Institute Limit",
+      "isin": "INE027H01010"
+    },
+    {
+      "symbol": "542650",
+      "name": "Metropolis Healthcare Limited",
+      "isin": "INE112L01020"
+    },
+    {
+      "symbol": "500288",
+      "name": "MOREPEN LABORATORIES LTD.",
+      "isin": "INE083A01026"
+    },
+    {
+      "symbol": "539551",
+      "name": "Narayana Hrudayalaya Limited",
+      "isin": "INE410P01011"
+    },
+    {
+      "symbol": "524816",
+      "name": "NATCO PHARMA LTD.",
+      "isin": "INE987B01026"
+    },
+    {
+      "symbol": "532649",
+      "name": "NECTAR LIFESCIENCES LTD.",
+      "isin": "INE023H01027"
+    },
+    {
+      "symbol": "544647",
+      "name": "Nephrocare Health Services Lim",
+      "isin": "INE428V01029"
+    },
+    {
+      "symbol": "524558",
+      "name": "NEULAND LABORATORIES LTD.",
+      "isin": "INE794A01010"
+    },
+    {
+      "symbol": "500672",
+      "name": "NOVARTIS INDIA LTD.",
+      "isin": "INE234A01025"
+    },
+    {
+      "symbol": "544292",
+      "name": "Onesource Specialty Pharma Lim",
+      "isin": "INE013P01021"
+    },
+    {
+      "symbol": "524372",
+      "name": "Orchid Pharma Limited",
+      "isin": "INE191A01027"
+    },
+    {
+      "symbol": "531349",
+      "name": "PANACEA BIOTEC LTD.",
+      "isin": "INE922B01023"
+    },
+    {
+      "symbol": "544645",
+      "name": "PARK MEDI WORLD LIMITED",
+      "isin": "INE119201023"
+    },
+    {
+      "symbol": "500680",
+      "name": "PFIZER LTD.",
+      "isin": "INE182A01018"
+    },
+    {
+      "symbol": "543635",
+      "name": "PIRAMAL PHARMA LIMITED",
+      "isin": "INE0DK501011"
+    },
+    {
+      "symbol": "531768",
+      "name": "POLY MEDICURE LTD.",
+      "isin": "INE205C01021"
+    },
+    {
+      "symbol": "500126",
+      "name": "PROCTER & GAMBLE HEALTH LIMITE",
+      "isin": "INE199A01012"
+    },
+    {
+      "symbol": "543524",
+      "name": "Rainbow Children's Medicare Li",
+      "isin": "INE961O01016"
+    },
+    {
+      "symbol": "532983",
+      "name": "RPG LIFE SCIENCES LTD.",
+      "isin": "INE105J01010"
+    },
+    {
+      "symbol": "544578",
+      "name": "RUBICON RESEARCH LIMITED",
+      "isin": "INE506V01022"
+    },
+    {
+      "symbol": "544306",
+      "name": "Sai Life Sciences Limited",
+      "isin": "INE570L01029"
+    },
+    {
+      "symbol": "544250",
+      "name": "Sanofi Consumer Healthcare Ind",
+      "isin": "INE0UOS01011"
+    },
+    {
+      "symbol": "500674",
+      "name": "SANOFI INDIA LTD",
+      "isin": "INE058A01010"
+    },
+    {
+      "symbol": "544319",
+      "name": "SENORES PHARMACEUTICALS LIMITE",
+      "isin": "INE0RB801010"
+    },
+    {
+      "symbol": "540797",
+      "name": "Shalby Limited",
+      "isin": "INE597J01018"
+    },
+    {
+      "symbol": "530549",
+      "name": "SHILPA MEDICARE LTD.",
+      "isin": "INE790G01031"
+    },
+    {
+      "symbol": "540737",
+      "name": "Shree Ganesh Remedies Limited",
+      "isin": "INE414Y01015"
+    },
+    {
+      "symbol": "543389",
+      "name": "Sigachi Industries Limited",
+      "isin": "INE0D0K01022"
+    },
+    {
+      "symbol": "532815",
+      "name": "SMS PHARMACEUTICALS LTD.",
+      "isin": "INE812G01025"
+    },
+    {
+      "symbol": "541540",
+      "name": "SOLARA ACTIVE PHARMA SCIENCES",
+      "isin": "INE624Z01016"
+    },
+    {
+      "symbol": "532531",
+      "name": "STRIDES PHARMA SCIENCE LIMITED",
+      "isin": "INE939A01011"
+    },
+    {
+      "symbol": "532872",
+      "name": "SUN PHARMA ADVANCED RESEARCH C",
+      "isin": "INE232I01014"
+    },
+    {
+      "symbol": "524715",
+      "name": "SUN PHARMACEUTICAL INDUSTRIES",
+      "isin": "INE044A01036"
+    },
+    {
+      "symbol": "543434",
+      "name": "Supriya Lifescience Limited",
+      "isin": "INE07RO01027"
+    },
+    {
+      "symbol": "544293",
+      "name": "SURAKSHA DIAGNOSTIC LIMITED",
+      "isin": "INE877V01027"
+    },
+    {
+      "symbol": "530239",
+      "name": "SUVEN LIFE SCIENCES LTD.",
+      "isin": "INE495B01038"
+    },
+    {
+      "symbol": "524470",
+      "name": "SYNCOM FORMULATIONS (INDIA) LT",
+      "isin": "INE312C01025"
+    },
+    {
+      "symbol": "539268",
+      "name": "Syngene International Limited",
+      "isin": "INE398R01022"
+    },
+    {
+      "symbol": "543399",
+      "name": "Tarsons Products Limited",
+      "isin": "INE144Z01023"
+    },
+    {
+      "symbol": "530199",
+      "name": "THEMIS MEDICARE LTD.",
+      "isin": "INE083B01024"
+    },
+    {
+      "symbol": "539871",
+      "name": "Thyrocare Technologies Limited",
+      "isin": "INE594H01019"
+    },
+    {
+      "symbol": "500420",
+      "name": "TORRENT PHARMACEUTICALS LTD.",
+      "isin": "INE685A01028"
+    },
+    {
+      "symbol": "506690",
+      "name": "UNICHEM LABORATORIES LTD.",
+      "isin": "INE351A01035"
+    },
+    {
+      "symbol": "543350",
+      "name": "Vijaya Diagnostic Centre Limit",
+      "isin": "INE043W01024"
+    },
+    {
+      "symbol": "524394",
+      "name": "VIMTA LABS LTD.",
+      "isin": "INE579C01029"
+    },
+    {
+      "symbol": "512529",
+      "name": "VIYASH SCIENTIFIC LIMITED",
+      "isin": "INE807F01027"
+    },
+    {
+      "symbol": "524212",
+      "name": "WANBURY LTD.",
+      "isin": "INE107F01022"
+    },
+    {
+      "symbol": "543329",
+      "name": "Windlas Biotech Limited",
+      "isin": "INE0H5O01029"
+    },
+    {
+      "symbol": "532300",
+      "name": "WOCKHARDT LTD.",
+      "isin": "INE049B01025"
+    },
+    {
+      "symbol": "543950",
+      "name": "YATHARTH HOSPITAL & TRAUMA CAR",
+      "isin": "INE0JO301016"
+    },
+    {
+      "symbol": "532321",
+      "name": "Zydus Lifesciences Limited",
+      "isin": "INE010B01027"
+    }
+  ]
+}

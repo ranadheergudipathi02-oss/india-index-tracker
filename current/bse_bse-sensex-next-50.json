@@ -1,0 +1,260 @@
+{
+  "id": "BSE:BSE SENSEX Next 50",
+  "exchange": "BSE",
+  "name": "BSE SENSEX Next 50",
+  "code": "99",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SNXT50",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "512599",
+      "name": "ADANI ENTERPRISES LTD.",
+      "isin": "INE423A01024"
+    },
+    {
+      "symbol": "533096",
+      "name": "ADANI POWER LTD.",
+      "isin": "INE814H01029"
+    },
+    {
+      "symbol": "500477",
+      "name": "ASHOK LEYLAND LTD.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "540611",
+      "name": "AU Small Finance Bank Limited",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "540376",
+      "name": "Avenue Supermarts Limited",
+      "isin": "INE192R01011"
+    },
+    {
+      "symbol": "500490",
+      "name": "BAJAJ HOLDINGS & INVESTMENT LT",
+      "isin": "INE118A01012"
+    },
+    {
+      "symbol": "532134",
+      "name": "BANK OF BARODA",
+      "isin": "INE028A01039"
+    },
+    {
+      "symbol": "500547",
+      "name": "BHARAT PETROLEUM CORPORATION L",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "500825",
+      "name": "BRITANNIA INDUSTRIES LTD.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "532483",
+      "name": "CANARA BANK",
+      "isin": "INE476A01022"
+    },
+    {
+      "symbol": "500093",
+      "name": "CG Power and Industrial Soluti",
+      "isin": "INE067A01029"
+    },
+    {
+      "symbol": "511243",
+      "name": "CHOLAMANDALAM INVESTMENT AND F",
+      "isin": "INE121A01024"
+    },
+    {
+      "symbol": "532541",
+      "name": "COFORGE LIMITED",
+      "isin": "INE591G01025"
+    },
+    {
+      "symbol": "500480",
+      "name": "CUMMINS INDIA LTD.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "532488",
+      "name": "DIVIS LABORATORIES LTD.",
+      "isin": "INE361B01024"
+    },
+    {
+      "symbol": "540699",
+      "name": "Dixon Technologies (India) Lim",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "532868",
+      "name": "DLF LTD.",
+      "isin": "INE271C01023"
+    },
+    {
+      "symbol": "500469",
+      "name": "FEDERAL BANK LTD.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "532155",
+      "name": "GAIL (INDIA) LTD.",
+      "isin": "INE129A01019"
+    },
+    {
+      "symbol": "532424",
+      "name": "GODREJ CONSUMER PRODUCTS LTD.",
+      "isin": "INE102D01028"
+    },
+    {
+      "symbol": "517354",
+      "name": "HAVELLS INDIA LTD.",
+      "isin": "INE176B01034"
+    },
+    {
+      "symbol": "541729",
+      "name": "HDFC Asset Management Company",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "540777",
+      "name": "HDFC LIFE INSURANCE COMPANY LI",
+      "isin": "INE795G01014"
+    },
+    {
+      "symbol": "500182",
+      "name": "HERO MOTOCORP LTD.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "540716",
+      "name": "ICICI Lombard General Insuranc",
+      "isin": "INE765G01017"
+    },
+    {
+      "symbol": "539437",
+      "name": "IDFC FIRST BANK LIMITED",
+      "isin": "INE092T01019"
+    },
+    {
+      "symbol": "500850",
+      "name": "INDIAN HOTELS CO.LTD.",
+      "isin": "INE053A01029"
+    },
+    {
+      "symbol": "530965",
+      "name": "INDIAN OIL CORPORATION LTD.",
+      "isin": "INE242A01010"
+    },
+    {
+      "symbol": "534816",
+      "name": "INDUS TOWERS LIMITED",
+      "isin": "INE121J01017"
+    },
+    {
+      "symbol": "532187",
+      "name": "INDUSIND BANK LTD.",
+      "isin": "INE095A01012"
+    },
+    {
+      "symbol": "532777",
+      "name": "INFO EDGE (INDIA) LTD.",
+      "isin": "INE663F01032"
+    },
+    {
+      "symbol": "540005",
+      "name": "LTM LIMITED",
+      "isin": "INE214T01019"
+    },
+    {
+      "symbol": "500257",
+      "name": "LUPIN LTD.",
+      "isin": "INE326A01037"
+    },
+    {
+      "symbol": "531642",
+      "name": "MARICO LTD.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "543396",
+      "name": "One 97 Communications Limited",
+      "isin": "INE982J01020"
+    },
+    {
+      "symbol": "543390",
+      "name": "PB Fintech Limited",
+      "isin": "INE417T01026"
+    },
+    {
+      "symbol": "533179",
+      "name": "PERSISTENT SYSTEMS LTD.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "500331",
+      "name": "PIDILITE INDUSTRIES LTD.",
+      "isin": "INE318A01026"
+    },
+    {
+      "symbol": "532810",
+      "name": "POWER FINANCE CORPORATION LTD.",
+      "isin": "INE134E01011"
+    },
+    {
+      "symbol": "532461",
+      "name": "PUNJAB NATIONAL BANK",
+      "isin": "INE160A01022"
+    },
+    {
+      "symbol": "532955",
+      "name": "REC LIMITED",
+      "isin": "INE020B01018"
+    },
+    {
+      "symbol": "517334",
+      "name": "Samvardhana Motherson Internat",
+      "isin": "INE775A01035"
+    },
+    {
+      "symbol": "500387",
+      "name": "SHREE CEMENT LTD.",
+      "isin": "INE070A01015"
+    },
+    {
+      "symbol": "503806",
+      "name": "SRF LTD.",
+      "isin": "INE647A01010"
+    },
+    {
+      "symbol": "532667",
+      "name": "SUZLON ENERGY LTD.",
+      "isin": "INE040H01021"
+    },
+    {
+      "symbol": "544569",
+      "name": "Tata Motors Limited",
+      "isin": "INE1TAE01010"
+    },
+    {
+      "symbol": "500400",
+      "name": "TATA POWER CO.LTD.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "532432",
+      "name": "UNITED SPIRITS LTD.",
+      "isin": "INE854D01024"
+    },
+    {
+      "symbol": "540180",
+      "name": "Varun Beverages Limited",
+      "isin": "INE200M01039"
+    },
+    {
+      "symbol": "532648",
+      "name": "YES BANK LTD.",
+      "isin": "INE528G01035"
+    }
+  ]
+}

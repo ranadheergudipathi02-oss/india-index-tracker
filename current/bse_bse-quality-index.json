@@ -1,0 +1,160 @@
+{
+  "id": "BSE:BSE Quality Index ",
+  "exchange": "BSE",
+  "name": "BSE Quality Index ",
+  "code": "110",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEQUI",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "500488",
+      "name": "ABBOTT INDIA LTD.",
+      "isin": "INE358A01014"
+    },
+    {
+      "symbol": "500825",
+      "name": "BRITANNIA INDUSTRIES LTD.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "500870",
+      "name": "CASTROL INDIA LTD.",
+      "isin": "INE172A01027"
+    },
+    {
+      "symbol": "500830",
+      "name": "COLGATE-PALMOLIVE (INDIA) LTD.",
+      "isin": "INE259A01022"
+    },
+    {
+      "symbol": "500092",
+      "name": "CRISIL LTD.",
+      "isin": "INE007A01025"
+    },
+    {
+      "symbol": "500480",
+      "name": "CUMMINS INDIA LTD.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "540699",
+      "name": "Dixon Technologies (India) Lim",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "531162",
+      "name": "EMAMI LTD.",
+      "isin": "INE548C01032"
+    },
+    {
+      "symbol": "522275",
+      "name": "GE Vernova T&D India Limited",
+      "isin": "INE200A01026"
+    },
+    {
+      "symbol": "507815",
+      "name": "GILLETTE INDIA LTD.",
+      "isin": "INE322A01010"
+    },
+    {
+      "symbol": "500660",
+      "name": "GLAXOSMITHKLINE PHARMACEUTICAL",
+      "isin": "INE159A01016"
+    },
+    {
+      "symbol": "541729",
+      "name": "HDFC Asset Management Company",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "500182",
+      "name": "HERO MOTOCORP LTD.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "541154",
+      "name": "Hindustan Aeronautics Limited",
+      "isin": "INE066F01020"
+    },
+    {
+      "symbol": "500696",
+      "name": "HINDUSTAN UNILEVER LTD.",
+      "isin": "INE030A01027"
+    },
+    {
+      "symbol": "500188",
+      "name": "HINDUSTAN ZINC LTD.",
+      "isin": "INE267A01025"
+    },
+    {
+      "symbol": "544658",
+      "name": "ICICI Prudential Asset Managem",
+      "isin": "INE346A01027"
+    },
+    {
+      "symbol": "542830",
+      "name": "Indian Railway Catering and To",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "500209",
+      "name": "INFOSYS LTD.",
+      "isin": "INE009A01021"
+    },
+    {
+      "symbol": "500875",
+      "name": "ITC LTD.",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "531642",
+      "name": "MARICO LTD.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "543237",
+      "name": "Mazagon Dock Shipbuilders Limi",
+      "isin": "INE249Z01020"
+    },
+    {
+      "symbol": "532234",
+      "name": "NATIONAL ALUMINIUM CO.LTD.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "500790",
+      "name": "NESTLE INDIA LTD.",
+      "isin": "INE239A01024"
+    },
+    {
+      "symbol": "540767",
+      "name": "NIPPON LIFE INDIA ASSET MANAGE",
+      "isin": "INE298J01013"
+    },
+    {
+      "symbol": "532466",
+      "name": "ORACLE FINANCIAL SERVICES SOFT",
+      "isin": "INE881D01027"
+    },
+    {
+      "symbol": "532827",
+      "name": "PAGE INDUSTRIES LTD.",
+      "isin": "INE761H01022"
+    },
+    {
+      "symbol": "544238",
+      "name": "Premier Energies Limited",
+      "isin": "INE0BS701011"
+    },
+    {
+      "symbol": "532667",
+      "name": "SUZLON ENERGY LTD.",
+      "isin": "INE040H01021"
+    },
+    {
+      "symbol": "532540",
+      "name": "TATA CONSULTANCY SERVICES LTD.",
+      "isin": "INE467B01029"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "NSE:NIFTY CAPITAL MKT",
+  "exchange": "NSE",
+  "name": "NIFTY CAPITAL MKT",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftycapitalmarkets_list.csv",
+  "count": 17,
+  "members": [
+    {
+      "symbol": "360ONE",
+      "name": "360 ONE WAM Ltd.",
+      "isin": "INE466L01038"
+    },
+    {
+      "symbol": "ABSLAMC",
+      "name": "Aditya Birla Sun Life AMC Ltd.",
+      "isin": "INE404A01024"
+    },
+    {
+      "symbol": "ANANDRATHI",
+      "name": "Anand Rathi Wealth Ltd.",
+      "isin": "INE463V01026"
+    },
+    {
+      "symbol": "ANGELONE",
+      "name": "Angel One Ltd.",
+      "isin": "INE732I01021"
+    },
+    {
+      "symbol": "BSE",
+      "name": "BSE Ltd.",
+      "isin": "INE118H01025"
+    },
+    {
+      "symbol": "GROWW",
+      "name": "Billionbrains Garage Ventures Ltd.",
+      "isin": "INE0HOQ01053"
+    },
+    {
+      "symbol": "CDSL",
+      "name": "Central Depository Services (India) Ltd.",
+      "isin": "INE736A01011"
+    },
+    {
+      "symbol": "CAMS",
+      "name": "Computer Age Management Services Ltd.",
+      "isin": "INE596I01020"
+    },
+    {
+      "symbol": "HDFCAMC",
+      "name": "HDFC Asset Management Company Ltd.",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "ICICIAMC",
+      "name": "ICICI Prudential Asset Management Company Ltd.",
+      "isin": "INE346A01027"
+    },
+    {
+      "symbol": "IEX",
+      "name": "Indian Energy Exchange Ltd.",
+      "isin": "INE022Q01020"
+    },
+    {
+      "symbol": "KFINTECH",
+      "name": "Kfin Technologies Ltd.",
+      "isin": "INE138Y01010"
+    },
+    {
+      "symbol": "MOTILALOFS",
+      "name": "Motilal Oswal Financial Services Ltd.",
+      "isin": "INE338I01027"
+    },
+    {
+      "symbol": "MCX",
+      "name": "Multi Commodity Exchange of India Ltd.",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "NAM-INDIA",
+      "name": "Nippon Life India Asset Management Ltd.",
+      "isin": "INE298J01013"
+    },
+    {
+      "symbol": "NUVAMA",
+      "name": "Nuvama Wealth Management Ltd.",
+      "isin": "INE531F01023"
+    },
+    {
+      "symbol": "UTIAMC",
+      "name": "UTI Asset Management Company Ltd.",
+      "isin": "INE094J01016"
+    }
+  ]
+}

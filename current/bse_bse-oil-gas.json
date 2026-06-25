@@ -1,0 +1,60 @@
+{
+  "id": "BSE:BSE OIL & GAS",
+  "exchange": "BSE",
+  "name": "BSE OIL & GAS",
+  "code": "37",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=OILGAS",
+  "count": 10,
+  "members": [
+    {
+      "symbol": "542066",
+      "name": "ADANI TOTAL GAS LIMITED",
+      "isin": "INE399L01023"
+    },
+    {
+      "symbol": "500547",
+      "name": "BHARAT PETROLEUM CORPORATION L",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "532155",
+      "name": "GAIL (INDIA) LTD.",
+      "isin": "INE129A01019"
+    },
+    {
+      "symbol": "500104",
+      "name": "HINDUSTAN PETROLEUM CORPORATIO",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "530965",
+      "name": "INDIAN OIL CORPORATION LTD.",
+      "isin": "INE242A01010"
+    },
+    {
+      "symbol": "532514",
+      "name": "INDRAPRASTHA GAS LTD.",
+      "isin": "INE203G01027"
+    },
+    {
+      "symbol": "500312",
+      "name": "OIL AND NATURAL GAS CORPORATIO",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "533106",
+      "name": "OIL INDIA LTD.",
+      "isin": "INE274J01014"
+    },
+    {
+      "symbol": "532522",
+      "name": "PETRONET LNG LTD.",
+      "isin": "INE347G01014"
+    },
+    {
+      "symbol": "500325",
+      "name": "RELIANCE INDUSTRIES LTD.",
+      "isin": "INE002A01018"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "NSE:NIFTY HEALTHCARE",
+  "exchange": "NSE",
+  "name": "NIFTY HEALTHCARE",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyhealthcarelist.csv",
+  "count": 20,
+  "members": [
+    {
+      "symbol": "ABBOTINDIA",
+      "name": "Abbott India Ltd.",
+      "isin": "INE358A01014"
+    },
+    {
+      "symbol": "ALKEM",
+      "name": "Alkem Laboratories Ltd.",
+      "isin": "INE540L01014"
+    },
+    {
+      "symbol": "APOLLOHOSP",
+      "name": "Apollo Hospitals Enterprise Ltd.",
+      "isin": "INE437A01024"
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "name": "Aurobindo Pharma Ltd.",
+      "isin": "INE406A01037"
+    },
+    {
+      "symbol": "BIOCON",
+      "name": "Biocon Ltd.",
+      "isin": "INE376G01013"
+    },
+    {
+      "symbol": "CIPLA",
+      "name": "Cipla Ltd.",
+      "isin": "INE059A01026"
+    },
+    {
+      "symbol": "DIVISLAB",
+      "name": "Divi's Laboratories Ltd.",
+      "isin": "INE361B01024"
+    },
+    {
+      "symbol": "DRREDDY",
+      "name": "Dr. Reddy's Laboratories Ltd.",
+      "isin": "INE089A01031"
+    },
+    {
+      "symbol": "FORTIS",
+      "name": "Fortis Healthcare Ltd.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "GLENMARK",
+      "name": "Glenmark Pharmaceuticals Ltd.",
+      "isin": "INE935A01035"
+    },
+    {
+      "symbol": "IPCALAB",
+      "name": "Ipca Laboratories Ltd.",
+      "isin": "INE571A01038"
+    },
+    {
+      "symbol": "LAURUSLABS",
+      "name": "Laurus Labs Ltd.",
+      "isin": "INE947Q01028"
+    },
+    {
+      "symbol": "LUPIN",
+      "name": "Lupin Ltd.",
+      "isin": "INE326A01037"
+    },
+    {
+      "symbol": "MANKIND",
+      "name": "Mankind Pharma Ltd.",
+      "isin": "INE634S01028"
+    },
+    {
+      "symbol": "MAXHEALTH",
+      "name": "Max Healthcare Institute Ltd.",
+      "isin": "INE027H01010"
+    },
+    {
+      "symbol": "PPLPHARMA",
+      "name": "Piramal Pharma Ltd.",
+      "isin": "INE0DK501011"
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "name": "Sun Pharmaceutical Industries Ltd.",
+      "isin": "INE044A01036"
+    },
+    {
+      "symbol": "SYNGENE",
+      "name": "Syngene International Ltd.",
+      "isin": "INE398R01022"
+    },
+    {
+      "symbol": "TORNTPHARM",
+      "name": "Torrent Pharmaceuticals Ltd.",
+      "isin": "INE685A01028"
+    },
+    {
+      "symbol": "ZYDUSLIFE",
+      "name": "Zydus Lifesciences Ltd.",
+      "isin": "INE010B01027"
+    }
+  ]
+}

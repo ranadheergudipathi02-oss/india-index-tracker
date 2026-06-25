@@ -1,0 +1,210 @@
+{
+  "id": "NSE:NIFTY ENERGY",
+  "exchange": "NSE",
+  "name": "NIFTY ENERGY",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyenergylist.csv",
+  "count": 40,
+  "members": [
+    {
+      "symbol": "ABB",
+      "name": "ABB India Ltd.",
+      "isin": "INE117A01022"
+    },
+    {
+      "symbol": "ADANIENSOL",
+      "name": "Adani Energy Solutions Ltd.",
+      "isin": "INE931S01010"
+    },
+    {
+      "symbol": "ADANIGREEN",
+      "name": "Adani Green Energy Ltd.",
+      "isin": "INE364U01010"
+    },
+    {
+      "symbol": "ADANIPOWER",
+      "name": "Adani Power Ltd.",
+      "isin": "INE814H01029"
+    },
+    {
+      "symbol": "ATGL",
+      "name": "Adani Total Gas Ltd.",
+      "isin": "INE399L01023"
+    },
+    {
+      "symbol": "AEGISLOG",
+      "name": "Aegis Logistics Ltd.",
+      "isin": "INE208C01025"
+    },
+    {
+      "symbol": "BHEL",
+      "name": "Bharat Heavy Electricals Ltd.",
+      "isin": "INE257A01026"
+    },
+    {
+      "symbol": "BPCL",
+      "name": "Bharat Petroleum Corporation Ltd.",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "CESC",
+      "name": "CESC Ltd.",
+      "isin": "INE486A01021"
+    },
+    {
+      "symbol": "CGPOWER",
+      "name": "CG Power and Industrial Solutions Ltd.",
+      "isin": "INE067A01029"
+    },
+    {
+      "symbol": "CASTROLIND",
+      "name": "Castrol India Ltd.",
+      "isin": "INE172A01027"
+    },
+    {
+      "symbol": "COALINDIA",
+      "name": "Coal India Ltd.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "GAIL",
+      "name": "GAIL (India) Ltd.",
+      "isin": "INE129A01019"
+    },
+    {
+      "symbol": "GVT&D",
+      "name": "GE Vernova T&D India Ltd.",
+      "isin": "INE200A01026"
+    },
+    {
+      "symbol": "HINDPETRO",
+      "name": "Hindustan Petroleum Corporation Ltd.",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "POWERINDIA",
+      "name": "Hitachi Energy India Ltd.",
+      "isin": "INE07Y701011"
+    },
+    {
+      "symbol": "IOC",
+      "name": "Indian Oil Corporation Ltd.",
+      "isin": "INE242A01010"
+    },
+    {
+      "symbol": "IGL",
+      "name": "Indraprastha Gas Ltd.",
+      "isin": "INE203G01027"
+    },
+    {
+      "symbol": "INOXWIND",
+      "name": "Inox Wind Ltd.",
+      "isin": "INE066P01011"
+    },
+    {
+      "symbol": "JSWENERGY",
+      "name": "JSW Energy Ltd.",
+      "isin": "INE121E01018"
+    },
+    {
+      "symbol": "JPPOWER",
+      "name": "Jaiprakash Power Ventures Ltd.",
+      "isin": "INE351F01018"
+    },
+    {
+      "symbol": "MGL",
+      "name": "Mahanagar Gas Ltd.",
+      "isin": "INE002S01010"
+    },
+    {
+      "symbol": "NHPC",
+      "name": "NHPC Ltd.",
+      "isin": "INE848E01016"
+    },
+    {
+      "symbol": "NLCINDIA",
+      "name": "NLC India Ltd.",
+      "isin": "INE589A01014"
+    },
+    {
+      "symbol": "NTPCGREEN",
+      "name": "NTPC Green Energy Ltd.",
+      "isin": "INE0ONG01011"
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "NAVA",
+      "name": "Nava Ltd.",
+      "isin": "INE725A01030"
+    },
+    {
+      "symbol": "ONGC",
+      "name": "Oil & Natural Gas Corporation Ltd.",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "OIL",
+      "name": "Oil India Ltd.",
+      "isin": "INE274J01014"
+    },
+    {
+      "symbol": "PETRONET",
+      "name": "Petronet LNG Ltd.",
+      "isin": "INE347G01014"
+    },
+    {
+      "symbol": "POWERGRID",
+      "name": "Power Grid Corporation of India Ltd.",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries Ltd.",
+      "isin": "INE002A01018"
+    },
+    {
+      "symbol": "RPOWER",
+      "name": "Reliance Power Ltd.",
+      "isin": "INE614G01033"
+    },
+    {
+      "symbol": "SJVN",
+      "name": "SJVN Ltd.",
+      "isin": "INE002L01015"
+    },
+    {
+      "symbol": "ENRIN",
+      "name": "Siemens Energy India Ltd.",
+      "isin": "INE1NPP01017"
+    },
+    {
+      "symbol": "SIEMENS",
+      "name": "Siemens Ltd.",
+      "isin": "INE003A01024"
+    },
+    {
+      "symbol": "SUZLON",
+      "name": "Suzlon Energy Ltd.",
+      "isin": "INE040H01021"
+    },
+    {
+      "symbol": "TATAPOWER",
+      "name": "Tata Power Co. Ltd.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "THERMAX",
+      "name": "Thermax Ltd.",
+      "isin": "INE152A01029"
+    },
+    {
+      "symbol": "TORNTPOWER",
+      "name": "Torrent Power Ltd.",
+      "isin": "INE813H01021"
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "id": "BSE:BSE IPO",
+  "exchange": "BSE",
+  "name": "BSE IPO",
+  "code": "72",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEIPO",
+  "count": 104,
+  "members": [
+    {
+      "symbol": "544466",
+      "name": "Aditya Infotech Limited",
+      "isin": "INE819V01029"
+    },
+    {
+      "symbol": "544562",
+      "name": "Advance Agrolife Limited",
+      "isin": "INE1B0W01010"
+    },
+    {
+      "symbol": "544634",
+      "name": "Aequs Limited",
+      "isin": "INE947N01017"
+    },
+    {
+      "symbol": "544479",
+      "name": "ALL TIME PLASTICS LIMITED",
+      "isin": "INE0GV601021"
+    },
+    {
+      "symbol": "544679",
+      "name": "Amagi Media Labs Limited",
+      "isin": "INE121R01077"
+    },
+    {
+      "symbol": "544743",
+      "name": "Amir Chand Jagdish Kumar (Expo",
+      "isin": "INE05TO01019"
+    },
+    {
+      "symbol": "544530",
+      "name": "ANAND RATHI SHARE AND STOCK BR",
+      "isin": "INE549H01021"
+    },
+    {
+      "symbol": "544497",
+      "name": "ANLON HEALTHCARE LIMITED",
+      "isin": "INE0Y8W01025"
+    },
+    {
+      "symbol": "544449",
+      "name": "Anthem Biosciences Limited",
+      "isin": "INE0CZ201020"
+    },
+    {
+      "symbol": "544419",
+      "name": "ArisInfra Solutions Limited",
+      "isin": "INE0H9P01028"
+    },
+    {
+      "symbol": "544527",
+      "name": "Atlanta Electricals Limited",
+      "isin": "INE0Z4F01028"
+    },
+    {
+      "symbol": "544699",
+      "name": "Aye Finance Limited",
+      "isin": "INE501X01029"
+    },
+    {
+      "symbol": "544678",
+      "name": "BHARAT COKING COAL LIMITED",
+      "isin": "INE05XR01022"
+    },
+    {
+      "symbol": "544603",
+      "name": "Billionbrains Garage Ventures",
+      "isin": "INE0HOQ01053"
+    },
+    {
+      "symbol": "544484",
+      "name": "BlueStone Jewellery and Lifest",
+      "isin": "INE304W01038"
+    },
+    {
+      "symbol": "544543",
+      "name": "BMW VENTURES LIMITED",
+      "isin": "INE965W01036"
+    },
+    {
+      "symbol": "544457",
+      "name": "Brigade Hotel Ventures Limited",
+      "isin": "INE03NU01014"
+    },
+    {
+      "symbol": "544583",
+      "name": "Canara HSBC Life Insurance Com",
+      "isin": "INE01TY01017"
+    },
+    {
+      "symbol": "544580",
+      "name": "Canara Robeco Asset Management",
+      "isin": "INE218I01013"
+    },
+    {
+      "symbol": "544614",
+      "name": "Capillary Technologies India L",
+      "isin": "INE0ILV01024"
+    },
+    {
+      "symbol": "544739",
+      "name": "Central Mine Planning & Design",
+      "isin": "INE05HV01027"
+    },
+    {
+      "symbol": "544717",
+      "name": "Clean Max Enviro Energy Soluti",
+      "isin": "INE647U01026"
+    },
+    {
+      "symbol": "544777",
+      "name": "CMR Green Technologies Limited",
+      "isin": "INE00WV01027"
+    },
+    {
+      "symbol": "544644",
+      "name": "Corona Remedies Limited",
+      "isin": "INE02ZQ01018"
+    },
+    {
+      "symbol": "544439",
+      "name": "CRIZAC LIMITED",
+      "isin": "INE0S4R01014"
+    },
+    {
+      "symbol": "544421",
+      "name": "ELLENBARRIE INDUSTRIAL GASES L",
+      "isin": "INE236E01022"
+    },
+    {
+      "symbol": "544608",
+      "name": "Emmvee Photovoltaic Power Limi",
+      "isin": "INE1C6T01020"
+    },
+    {
+      "symbol": "544540",
+      "name": "Epack Prefab Technologies Limi",
+      "isin": "INE0MLS01022"
+    },
+    {
+      "symbol": "544519",
+      "name": "EURO PRATIK SALES LIMITED",
+      "isin": "INE198501012"
+    },
+    {
+      "symbol": "544617",
+      "name": "Excelsoft Technologies Limited",
+      "isin": "INE606N01019"
+    },
+    {
+      "symbol": "544558",
+      "name": "Fabtech Technologies Limited",
+      "isin": "INE0HF201011"
+    },
+    {
+      "symbol": "544700",
+      "name": "Fractal Analytics Limited",
+      "isin": "INE212S01015"
+    },
+    {
+      "symbol": "544613",
+      "name": "Fujiyama Power Systems Limited",
+      "isin": "INE12UR01024"
+    },
+    {
+      "symbol": "544528",
+      "name": "Ganesh Consumer Products Limit",
+      "isin": "INE652V01016"
+    },
+    {
+      "symbol": "544709",
+      "name": "Gaudium IVF and Women Health L",
+      "isin": "INE0P8B01020"
+    },
+    {
+      "symbol": "544491",
+      "name": "Gem Aromatics Limited",
+      "isin": "INE06XZ01023"
+    },
+    {
+      "symbol": "544525",
+      "name": "GK ENERGY LIMITED",
+      "isin": "INE1AG301022"
+    },
+    {
+      "symbol": "544557",
+      "name": "Glottis Limited",
+      "isin": "INE0TQE01026"
+    },
+    {
+      "symbol": "544455",
+      "name": "GNG Electronics Limited",
+      "isin": "INE18JU01028"
+    },
+    {
+      "symbol": "544733",
+      "name": "GSP CROP SCIENCE LIMITED",
+      "isin": "INE713R01022"
+    },
+    {
+      "symbol": "544666",
+      "name": "GUJARAT KIDNEY AND SUPER SPECI",
+      "isin": "INE0V0W01025"
+    },
+    {
+      "symbol": "544429",
+      "name": "HDB FINANCIAL SERVICES LIMITED",
+      "isin": "INE756I01012"
+    },
+    {
+      "symbol": "544477",
+      "name": "Highway Infrastructure Limited",
+      "isin": "INE00RL01028"
+    },
+    {
+      "symbol": "544658",
+      "name": "ICICI Prudential Asset Managem",
+      "isin": "INE346A01027"
+    },
+    {
+      "symbol": "544454",
+      "name": "INDIQUBE SPACES LIMITED",
+      "isin": "INE06ST01018"
+    },
+    {
+      "symbol": "544432",
+      "name": "Indogulf Cropsciences Limited",
+      "isin": "INE05J901018"
+    },
+    {
+      "symbol": "544732",
+      "name": "Innovision Limited",
+      "isin": "INE0ADB01012"
+    },
+    {
+      "symbol": "544523",
+      "name": "IVALUE INFOSOLUTIONS LIMITED",
+      "isin": "INE056801025"
+    },
+    {
+      "symbol": "544537",
+      "name": "Jain Resource Recycling Limite",
+      "isin": "INE0YD401026"
+    },
+    {
+      "symbol": "544534",
+      "name": "Jaro Institute of Technology M",
+      "isin": "INE00YJ01010"
+    },
+    {
+      "symbol": "544480",
+      "name": "JSW CEMENT LIMITED",
+      "isin": "INE718I01012"
+    },
+    {
+      "symbol": "544423",
+      "name": "Kalpataru Limited",
+      "isin": "INE227J01012"
+    },
+    {
+      "symbol": "544664",
+      "name": "KSH INTERNATIONAL LIMITED",
+      "isin": "INE987S01020"
+    },
+    {
+      "symbol": "544465",
+      "name": "LAXMI INDIA FINANCE LIMITED",
+      "isin": "INE06WU01026"
+    },
+    {
+      "symbol": "544600",
+      "name": "Lenskart Solutions Limited",
+      "isin": "INE956O01016"
+    },
+    {
+      "symbol": "544576",
+      "name": "LG Electronics India Limited",
+      "isin": "INE324D01010"
+    },
+    {
+      "symbol": "544470",
+      "name": "M & B ENGINEERING LIMITED",
+      "isin": "INE08N601015"
+    },
+    {
+      "symbol": "544492",
+      "name": "MANGAL ELECTRICAL INDUSTRIES L",
+      "isin": "INE0PKD01011"
+    },
+    {
+      "symbol": "544632",
+      "name": "Meesho Limited",
+      "isin": "INE0VDM01015"
+    },
+    {
+      "symbol": "544587",
+      "name": "Midwest Limited",
+      "isin": "INE0XAD01024"
+    },
+    {
+      "symbol": "544467",
+      "name": "National Securities Depository",
+      "isin": "INE301O01023"
+    },
+    {
+      "symbol": "544647",
+      "name": "Nephrocare Health Services Lim",
+      "isin": "INE428V01029"
+    },
+    {
+      "symbol": "544564",
+      "name": "Om Freight Forwarders Limited",
+      "isin": "INE1BZC01019"
+    },
+    {
+      "symbol": "544750",
+      "name": "OM POWER TRANSMISSION LIMITED",
+      "isin": "INE25E901019"
+    },
+    {
+      "symbol": "544720",
+      "name": "Omnitech Engineering Limited",
+      "isin": "INE0UH301010"
+    },
+    {
+      "symbol": "544754",
+      "name": "OnEMI Technology Solutions Lim",
+      "isin": "INE12F801023"
+    },
+    {
+      "symbol": "544595",
+      "name": "Orkla India Limited",
+      "isin": "INE16NZ01023"
+    },
+    {
+      "symbol": "544418",
+      "name": "Oswal Pumps Limited",
+      "isin": "INE0BYP01024"
+    },
+    {
+      "symbol": "544550",
+      "name": "Pace Digitek Limited",
+      "isin": "INE0S3G01027"
+    },
+    {
+      "symbol": "544645",
+      "name": "PARK MEDI WORLD LIMITED",
+      "isin": "INE119201023"
+    },
+    {
+      "symbol": "544487",
+      "name": "PATEL RETAIL LIMITED",
+      "isin": "INE0R8B01010"
+    },
+    {
+      "symbol": "544609",
+      "name": "Physicswallah Limited",
+      "isin": "INE0LP301011"
+    },
+    {
+      "symbol": "544606",
+      "name": "Pine Labs Limited",
+      "isin": "INE15B701018"
+    },
+    {
+      "symbol": "544718",
+      "name": "PNGS Reva Diamond Jewellery Li",
+      "isin": "INE1RDG01013"
+    },
+    {
+      "symbol": "544744",
+      "name": "Powerica Ltd.",
+      "isin": "INE921L01032"
+    },
+    {
+      "symbol": "544731",
+      "name": "RAJPUTANA STAINLESS LIMITED",
+      "isin": "INE313L01016"
+    },
+    {
+      "symbol": "544485",
+      "name": "REGAAL RESOURCES LIMITED",
+      "isin": "INE0MHO01029"
+    },
+    {
+      "symbol": "544578",
+      "name": "RUBICON RESEARCH LIMITED",
+      "isin": "INE506V01022"
+    },
+    {
+      "symbol": "544526",
+      "name": "Saatvik Green Energy Limited",
+      "isin": "INE13B501022"
+    },
+    {
+      "symbol": "544742",
+      "name": "Sai Parenteral's Limited",
+      "isin": "INE0H9F01037"
+    },
+    {
+      "symbol": "544430",
+      "name": "SAMBHV STEEL TUBES LIMITED",
+      "isin": "INE12NJ01018"
+    },
+    {
+      "symbol": "544723",
+      "name": "SEDEMAC MECHATRONICS LIMITED",
+      "isin": "INE00XB01019"
+    },
+    {
+      "symbol": "544533",
+      "name": "Seshaasai Technologies Limited",
+      "isin": "INE04VU01023"
+    },
+    {
+      "symbol": "544685",
+      "name": "SHADOWFAX TECHNOLOGIES LIMITED",
+      "isin": "INE12UN01015"
+    },
+    {
+      "symbol": "544459",
+      "name": "SHANTI GOLD INTERNATIONAL LIMI",
+      "isin": "INE06ZD01017"
+    },
+    {
+      "symbol": "544716",
+      "name": "SHREE RAM TWISTEX LIMITED",
+      "isin": "INE19GK01015"
+    },
+    {
+      "symbol": "544490",
+      "name": "Shreeji Shipping Global Limite",
+      "isin": "INE1B6101010"
+    },
+    {
+      "symbol": "544512",
+      "name": "SHRINGAR HOUSE OF MANGALSUTRA",
+      "isin": "INE1B3L01017"
+    },
+    {
+      "symbol": "544447",
+      "name": "SMARTWORKS COWORKING SPACES LI",
+      "isin": "INE0NAZ01010"
+    },
+    {
+      "symbol": "544532",
+      "name": "Solarworld Energy Solutions Li",
+      "isin": "INE0TY101024"
+    },
+    {
+      "symbol": "544469",
+      "name": "Sri Lotus Developers and Realt",
+      "isin": "INE0V9Q01010"
+    },
+    {
+      "symbol": "544599",
+      "name": "Studds Accessories Limited",
+      "isin": "INE00Q601028"
+    },
+    {
+      "symbol": "544619",
+      "name": "Sudeep Pharma Limited",
+      "isin": "INE0QPI01025"
+    },
+    {
+      "symbol": "544574",
+      "name": "Tata Capital Limited",
+      "isin": "INE976I01016"
+    },
+    {
+      "symbol": "544612",
+      "name": "Tenneco Clean Air India Limite",
+      "isin": "INE19RI01016"
+    },
+    {
+      "symbol": "544443",
+      "name": "TRAVEL FOOD SERVICES LIMITED",
+      "isin": "INE103V01028"
+    },
+    {
+      "symbol": "544545",
+      "name": "TRUALT BIOENERGY LIMITED",
+      "isin": "INE0MWH01014"
+    },
+    {
+      "symbol": "544515",
+      "name": "Urban Company Limited",
+      "isin": "INE0CAZ01013"
+    },
+    {
+      "symbol": "544633",
+      "name": "VIDYA WIRES LIMITED",
+      "isin": "INE14UN01029"
+    },
+    {
+      "symbol": "544488",
+      "name": "Vikram Solar Limited",
+      "isin": "INE078V01014"
+    },
+    {
+      "symbol": "544496",
+      "name": "Vikran Engineering Limited",
+      "isin": "INE01R501028"
+    },
+    {
+      "symbol": "544521",
+      "name": "VMS TMT LIMITED",
+      "isin": "INE0SJA01013"
+    },
+    {
+      "symbol": "544642",
+      "name": "Wakefit Innovations Limited",
+      "isin": "INE0E7301029"
+    },
+    {
+      "symbol": "544570",
+      "name": "WeWork India Management Limite",
+      "isin": "INE085001019"
+    }
+  ]
+}

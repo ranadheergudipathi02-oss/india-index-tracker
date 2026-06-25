@@ -1,0 +1,385 @@
+{
+  "id": "NSE:NIFTY RURAL",
+  "exchange": "NSE",
+  "name": "NIFTY RURAL",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyrural_list.csv",
+  "count": 75,
+  "members": [
+    {
+      "symbol": "ACC",
+      "name": "ACC Ltd.",
+      "isin": "INE012A01025"
+    },
+    {
+      "symbol": "ADANIGREEN",
+      "name": "Adani Green Energy Ltd.",
+      "isin": "INE364U01010"
+    },
+    {
+      "symbol": "ADANIPOWER",
+      "name": "Adani Power Ltd.",
+      "isin": "INE814H01029"
+    },
+    {
+      "symbol": "AMBUJACEM",
+      "name": "Ambuja Cements Ltd.",
+      "isin": "INE079A01024"
+    },
+    {
+      "symbol": "ASHOKLEY",
+      "name": "Ashok Leyland Ltd.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "name": "Asian Paints Ltd.",
+      "isin": "INE021A01026"
+    },
+    {
+      "symbol": "ASTRAL",
+      "name": "Astral Ltd.",
+      "isin": "INE006I01046"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "name": "Bajaj Auto Ltd.",
+      "isin": "INE917I01010"
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "name": "Bajaj Finance Ltd.",
+      "isin": "INE296A01032"
+    },
+    {
+      "symbol": "BANDHANBNK",
+      "name": "Bandhan Bank Ltd.",
+      "isin": "INE545U01014"
+    },
+    {
+      "symbol": "BANKBARODA",
+      "name": "Bank of Baroda",
+      "isin": "INE028A01039"
+    },
+    {
+      "symbol": "BANKINDIA",
+      "name": "Bank of India",
+      "isin": "INE084A01016"
+    },
+    {
+      "symbol": "BERGEPAINT",
+      "name": "Berger Paints India Ltd.",
+      "isin": "INE463A01038"
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "name": "Bharti Airtel Ltd.",
+      "isin": "INE397D01024"
+    },
+    {
+      "symbol": "BLUESTARCO",
+      "name": "Blue Star Ltd.",
+      "isin": "INE472A01039"
+    },
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries Ltd.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "CHOLAFIN",
+      "name": "Cholamandalam Investment and Finance Company Ltd.",
+      "isin": "INE121A01024"
+    },
+    {
+      "symbol": "COLPAL",
+      "name": "Colgate Palmolive (India) Ltd.",
+      "isin": "INE259A01022"
+    },
+    {
+      "symbol": "COROMANDEL",
+      "name": "Coromandel International Ltd.",
+      "isin": "INE169A01031"
+    },
+    {
+      "symbol": "CROMPTON",
+      "name": "Crompton Greaves Consumer Electricals Ltd.",
+      "isin": "INE299U01018"
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "name": "Cummins India Ltd.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "DABUR",
+      "name": "Dabur India Ltd.",
+      "isin": "INE016A01026"
+    },
+    {
+      "symbol": "DALBHARAT",
+      "name": "Dalmia Bharat Ltd.",
+      "isin": "INE00R701025"
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Ltd.",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "EICHERMOT",
+      "name": "Eicher Motors Ltd.",
+      "isin": "INE066A01021"
+    },
+    {
+      "symbol": "ESCORTS",
+      "name": "Escorts Kubota Ltd.",
+      "isin": "INE042A01014"
+    },
+    {
+      "symbol": "GODREJCP",
+      "name": "Godrej Consumer Products Ltd.",
+      "isin": "INE102D01028"
+    },
+    {
+      "symbol": "GRASIM",
+      "name": "Grasim Industries Ltd.",
+      "isin": "INE047A01021"
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "name": "HDFC Life Insurance Company Ltd.",
+      "isin": "INE795G01014"
+    },
+    {
+      "symbol": "HAVELLS",
+      "name": "Havells India Ltd.",
+      "isin": "INE176B01034"
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "name": "Hero MotoCorp Ltd.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "name": "Hindustan Unilever Ltd.",
+      "isin": "INE030A01027"
+    },
+    {
+      "symbol": "HYUNDAI",
+      "name": "Hyundai Motor India Ltd.",
+      "isin": "INE0V6F01027"
+    },
+    {
+      "symbol": "ICICIPRULI",
+      "name": "ICICI Prudential Life Insurance Company Ltd.",
+      "isin": "INE726G01019"
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Ltd.",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "INDIANB",
+      "name": "Indian Bank",
+      "isin": "INE562A01011"
+    },
+    {
+      "symbol": "IRCTC",
+      "name": "Indian Railway Catering And Tourism Corporation Ltd.",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "JKCEMENT",
+      "name": "J.K. Cement Ltd.",
+      "isin": "INE823G01014"
+    },
+    {
+      "symbol": "JSWENERGY",
+      "name": "JSW Energy Ltd.",
+      "isin": "INE121E01018"
+    },
+    {
+      "symbol": "LTF",
+      "name": "L&T Finance Ltd.",
+      "isin": "INE498L01015"
+    },
+    {
+      "symbol": "LICHSGFIN",
+      "name": "LIC Housing Finance Ltd.",
+      "isin": "INE115A01026"
+    },
+    {
+      "symbol": "LICI",
+      "name": "Life Insurance Corporation of India",
+      "isin": "INE0J1Y01017"
+    },
+    {
+      "symbol": "M&MFIN",
+      "name": "Mahindra & Mahindra Financial Services Ltd.",
+      "isin": "INE774D01024"
+    },
+    {
+      "symbol": "M&M",
+      "name": "Mahindra & Mahindra Ltd.",
+      "isin": "INE101A01026"
+    },
+    {
+      "symbol": "MARICO",
+      "name": "Marico Ltd.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Ltd.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "MFSL",
+      "name": "Max Financial Services Ltd.",
+      "isin": "INE180A01020"
+    },
+    {
+      "symbol": "MUTHOOTFIN",
+      "name": "Muthoot Finance Ltd.",
+      "isin": "INE414G01012"
+    },
+    {
+      "symbol": "NHPC",
+      "name": "NHPC Ltd.",
+      "isin": "INE848E01016"
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd.",
+      "isin": "INE733E01010"
+    },
+    {
+      "symbol": "NESTLEIND",
+      "name": "Nestle India Ltd.",
+      "isin": "INE239A01024"
+    },
+    {
+      "symbol": "PIIND",
+      "name": "PI Industries Ltd.",
+      "isin": "INE603J01030"
+    },
+    {
+      "symbol": "PNBHOUSING",
+      "name": "PNB Housing Finance Ltd.",
+      "isin": "INE572E01012"
+    },
+    {
+      "symbol": "PATANJALI",
+      "name": "Patanjali Foods Ltd.",
+      "isin": "INE619A01035"
+    },
+    {
+      "symbol": "PIRAMALFIN",
+      "name": "Piramal Finance Ltd.",
+      "isin": "INE202B01038"
+    },
+    {
+      "symbol": "POONAWALLA",
+      "name": "Poonawalla Fincorp Ltd.",
+      "isin": "INE511C01022"
+    },
+    {
+      "symbol": "PNB",
+      "name": "Punjab National Bank",
+      "isin": "INE160A01022"
+    },
+    {
+      "symbol": "SBICARD",
+      "name": "SBI Cards and Payment Services Ltd.",
+      "isin": "INE018E01016"
+    },
+    {
+      "symbol": "SBILIFE",
+      "name": "SBI Life Insurance Company Ltd.",
+      "isin": "INE123W01016"
+    },
+    {
+      "symbol": "SHREECEM",
+      "name": "Shree Cement Ltd.",
+      "isin": "INE070A01015"
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "name": "Shriram Finance Ltd.",
+      "isin": "INE721A01047"
+    },
+    {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "SUNDARMFIN",
+      "name": "Sundaram Finance Ltd.",
+      "isin": "INE660A01013"
+    },
+    {
+      "symbol": "SUPREMEIND",
+      "name": "Supreme Industries Ltd.",
+      "isin": "INE195A01028"
+    },
+    {
+      "symbol": "TVSMOTOR",
+      "name": "TVS Motor Company Ltd.",
+      "isin": "INE494B01023"
+    },
+    {
+      "symbol": "TATACOMM",
+      "name": "Tata Communications Ltd.",
+      "isin": "INE151A01013"
+    },
+    {
+      "symbol": "TATACONSUM",
+      "name": "Tata Consumer Products Ltd.",
+      "isin": "INE192A01025"
+    },
+    {
+      "symbol": "TMCV",
+      "name": "Tata Motors Ltd.",
+      "isin": "INE1TAE01010"
+    },
+    {
+      "symbol": "TMPV",
+      "name": "Tata Motors Passenger Vehicles Ltd.",
+      "isin": "INE155A01022"
+    },
+    {
+      "symbol": "TATAPOWER",
+      "name": "Tata Power Co. Ltd.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "TORNTPOWER",
+      "name": "Torrent Power Ltd.",
+      "isin": "INE813H01021"
+    },
+    {
+      "symbol": "UPL",
+      "name": "UPL Ltd.",
+      "isin": "INE628A01036"
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "name": "UltraTech Cement Ltd.",
+      "isin": "INE481G01011"
+    },
+    {
+      "symbol": "IDEA",
+      "name": "Vodafone Idea Ltd.",
+      "isin": "INE669E01016"
+    },
+    {
+      "symbol": "VOLTAS",
+      "name": "Voltas Ltd.",
+      "isin": "INE226A01021"
+    }
+  ]
+}

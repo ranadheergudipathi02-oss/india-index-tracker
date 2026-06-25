@@ -1,0 +1,85 @@
+{
+  "id": "NSE:NIFTY FMCG",
+  "exchange": "NSE",
+  "name": "NIFTY FMCG",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyfmcglist.csv",
+  "count": 15,
+  "members": [
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries Ltd.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "COLPAL",
+      "name": "Colgate Palmolive (India) Ltd.",
+      "isin": "INE259A01022"
+    },
+    {
+      "symbol": "DABUR",
+      "name": "Dabur India Ltd.",
+      "isin": "INE016A01026"
+    },
+    {
+      "symbol": "EMAMILTD",
+      "name": "Emami Ltd.",
+      "isin": "INE548C01032"
+    },
+    {
+      "symbol": "GODREJCP",
+      "name": "Godrej Consumer Products Ltd.",
+      "isin": "INE102D01028"
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "name": "Hindustan Unilever Ltd.",
+      "isin": "INE030A01027"
+    },
+    {
+      "symbol": "ITC",
+      "name": "ITC Ltd.",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "MARICO",
+      "name": "Marico Ltd.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "NESTLEIND",
+      "name": "Nestle India Ltd.",
+      "isin": "INE239A01024"
+    },
+    {
+      "symbol": "PATANJALI",
+      "name": "Patanjali Foods Ltd.",
+      "isin": "INE619A01035"
+    },
+    {
+      "symbol": "RADICO",
+      "name": "Radico Khaitan Ltd",
+      "isin": "INE944F01028"
+    },
+    {
+      "symbol": "TATACONSUM",
+      "name": "Tata Consumer Products Ltd.",
+      "isin": "INE192A01025"
+    },
+    {
+      "symbol": "UBL",
+      "name": "United Breweries Ltd.",
+      "isin": "INE686F01025"
+    },
+    {
+      "symbol": "UNITDSPR",
+      "name": "United Spirits Ltd.",
+      "isin": "INE854D01024"
+    },
+    {
+      "symbol": "VBL",
+      "name": "Varun Beverages Ltd.",
+      "isin": "INE200M01039"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "BSE:BSE MidCap Select Index",
+  "exchange": "BSE",
+  "name": "BSE MidCap Select Index",
+  "code": "94",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=MIDSEL",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "533758",
+      "name": "APL APOLLO TUBES LTD.",
+      "isin": "INE702C01027"
+    },
+    {
+      "symbol": "500477",
+      "name": "ASHOK LEYLAND LTD.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "540611",
+      "name": "AU Small Finance Bank Limited",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "524804",
+      "name": "AUROBINDO PHARMA LTD.",
+      "isin": "INE406A01037"
+    },
+    {
+      "symbol": "500493",
+      "name": "BHARAT FORGE LTD.",
+      "isin": "INE465A01025"
+    },
+    {
+      "symbol": "500103",
+      "name": "BHARAT HEAVY ELECTRICALS LTD.",
+      "isin": "INE257A01026"
+    },
+    {
+      "symbol": "532541",
+      "name": "COFORGE LIMITED",
+      "isin": "INE591G01025"
+    },
+    {
+      "symbol": "500830",
+      "name": "COLGATE-PALMOLIVE (INDIA) LTD.",
+      "isin": "INE259A01022"
+    },
+    {
+      "symbol": "540699",
+      "name": "Dixon Technologies (India) Lim",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "500469",
+      "name": "FEDERAL BANK LTD.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "532843",
+      "name": "FORTIS HEALTHCARE LTD.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "543384",
+      "name": "FSN E-Commerce Ventures Limite",
+      "isin": "INE388Y01029"
+    },
+    {
+      "symbol": "522275",
+      "name": "GE Vernova T&D India Limited",
+      "isin": "INE200A01026"
+    },
+    {
+      "symbol": "532754",
+      "name": "GMR Airports Limited",
+      "isin": "INE776C01039"
+    },
+    {
+      "symbol": "533150",
+      "name": "GODREJ PROPERTIES LTD",
+      "isin": "INE484J01027"
+    },
+    {
+      "symbol": "500104",
+      "name": "HINDUSTAN PETROLEUM CORPORATIO",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "539437",
+      "name": "IDFC FIRST BANK LIMITED",
+      "isin": "INE092T01019"
+    },
+    {
+      "symbol": "540222",
+      "name": "Laurus Labs Limited",
+      "isin": "INE947Q01028"
+    },
+    {
+      "symbol": "500271",
+      "name": "Max Financial Services Limited",
+      "isin": "INE180A01020"
+    },
+    {
+      "symbol": "526299",
+      "name": "MPHASIS LTD.",
+      "isin": "INE356A01018"
+    },
+    {
+      "symbol": "533398",
+      "name": "MUTHOOT FINANCE LTD.",
+      "isin": "INE414G01012"
+    },
+    {
+      "symbol": "543396",
+      "name": "One 97 Communications Limited",
+      "isin": "INE982J01020"
+    },
+    {
+      "symbol": "543390",
+      "name": "PB Fintech Limited",
+      "isin": "INE417T01026"
+    },
+    {
+      "symbol": "533179",
+      "name": "PERSISTENT SYSTEMS LTD.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "532667",
+      "name": "SUZLON ENERGY LTD.",
+      "isin": "INE040H01021"
+    },
+    {
+      "symbol": "503100",
+      "name": "THE PHOENIX MILLS LTD",
+      "isin": "INE211B01039"
+    },
+    {
+      "symbol": "540762",
+      "name": "Tube Investments of India Ltd",
+      "isin": "INE974X01010"
+    },
+    {
+      "symbol": "512070",
+      "name": "UPL LIMITED",
+      "isin": "INE628A01036"
+    },
+    {
+      "symbol": "500575",
+      "name": "VOLTAS LTD.",
+      "isin": "INE226A01021"
+    },
+    {
+      "symbol": "532648",
+      "name": "YES BANK LTD.",
+      "isin": "INE528G01035"
+    }
+  ]
+}

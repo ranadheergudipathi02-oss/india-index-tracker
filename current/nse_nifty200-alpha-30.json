@@ -1,0 +1,160 @@
+{
+  "id": "NSE:NIFTY200 ALPHA 30",
+  "exchange": "NSE",
+  "name": "NIFTY200 ALPHA 30",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_nifty200alpha30_list.csv",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "AUBANK",
+      "name": "AU Small Finance Bank Ltd.",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "ABCAPITAL",
+      "name": "Aditya Birla Capital Ltd.",
+      "isin": "INE674K01013"
+    },
+    {
+      "symbol": "ASHOKLEY",
+      "name": "Ashok Leyland Ltd.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "BSE",
+      "name": "BSE Ltd.",
+      "isin": "INE118H01025"
+    },
+    {
+      "symbol": "BANKINDIA",
+      "name": "Bank of India",
+      "isin": "INE084A01016"
+    },
+    {
+      "symbol": "BEL",
+      "name": "Bharat Electronics Ltd.",
+      "isin": "INE263A01024"
+    },
+    {
+      "symbol": "BHARATFORG",
+      "name": "Bharat Forge Ltd.",
+      "isin": "INE465A01025"
+    },
+    {
+      "symbol": "CANBK",
+      "name": "Canara Bank",
+      "isin": "INE476A01022"
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "name": "Cummins India Ltd.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "EICHERMOT",
+      "name": "Eicher Motors Ltd.",
+      "isin": "INE066A01021"
+    },
+    {
+      "symbol": "NYKAA",
+      "name": "FSN E-Commerce Ventures Ltd.",
+      "isin": "INE388Y01029"
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "name": "Federal Bank Ltd.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "FORTIS",
+      "name": "Fortis Healthcare Ltd.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "GLENMARK",
+      "name": "Glenmark Pharmaceuticals Ltd.",
+      "isin": "INE935A01035"
+    },
+    {
+      "symbol": "POWERINDIA",
+      "name": "Hitachi Energy India Ltd.",
+      "isin": "INE07Y701011"
+    },
+    {
+      "symbol": "INDIANB",
+      "name": "Indian Bank",
+      "isin": "INE562A01011"
+    },
+    {
+      "symbol": "LTF",
+      "name": "L&T Finance Ltd.",
+      "isin": "INE498L01015"
+    },
+    {
+      "symbol": "LAURUSLABS",
+      "name": "Laurus Labs Ltd.",
+      "isin": "INE947Q01028"
+    },
+    {
+      "symbol": "MFSL",
+      "name": "Max Financial Services Ltd.",
+      "isin": "INE180A01020"
+    },
+    {
+      "symbol": "MCX",
+      "name": "Multi Commodity Exchange of India Ltd.",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "MUTHOOTFIN",
+      "name": "Muthoot Finance Ltd.",
+      "isin": "INE414G01012"
+    },
+    {
+      "symbol": "NATIONALUM",
+      "name": "National Aluminium Co. Ltd.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "PAYTM",
+      "name": "One 97 Communications Ltd.",
+      "isin": "INE982J01020"
+    },
+    {
+      "symbol": "POLYCAB",
+      "name": "Polycab India Ltd.",
+      "isin": "INE455K01017"
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "name": "Shriram Finance Ltd.",
+      "isin": "INE721A01047"
+    },
+    {
+      "symbol": "SOLARINDS",
+      "name": "Solar Industries India Ltd.",
+      "isin": "INE343H01029"
+    },
+    {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "TVSMOTOR",
+      "name": "TVS Motor Company Ltd.",
+      "isin": "INE494B01023"
+    },
+    {
+      "symbol": "UNIONBANK",
+      "name": "Union Bank of India",
+      "isin": "INE692A01016"
+    },
+    {
+      "symbol": "VEDL",
+      "name": "Vedanta Ltd.",
+      "isin": "INE205A01025"
+    }
+  ]
+}

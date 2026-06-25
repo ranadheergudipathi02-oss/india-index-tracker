@@ -1,0 +1,120 @@
+{
+  "id": "BSE:BSE TECK",
+  "exchange": "BSE",
+  "name": "BSE TECK",
+  "code": "45",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=TECK",
+  "count": 22,
+  "members": [
+    {
+      "symbol": "532454",
+      "name": "BHARTI AIRTEL LTD.",
+      "isin": "INE397D01024"
+    },
+    {
+      "symbol": "544162",
+      "name": "Bharti Hexacom Limited",
+      "isin": "INE343G01021"
+    },
+    {
+      "symbol": "532541",
+      "name": "COFORGE LIMITED",
+      "isin": "INE591G01025"
+    },
+    {
+      "symbol": "532281",
+      "name": "HCL TECHNOLOGIES LTD.",
+      "isin": "INE860A01027"
+    },
+    {
+      "symbol": "500183",
+      "name": "HFCL LIMITED",
+      "isin": "INE548A01028"
+    },
+    {
+      "symbol": "534816",
+      "name": "INDUS TOWERS LIMITED",
+      "isin": "INE121J01017"
+    },
+    {
+      "symbol": "500209",
+      "name": "INFOSYS LTD.",
+      "isin": "INE009A01021"
+    },
+    {
+      "symbol": "542651",
+      "name": "KPIT Technologies Ltd",
+      "isin": "INE04I401011"
+    },
+    {
+      "symbol": "540005",
+      "name": "LTM LIMITED",
+      "isin": "INE214T01019"
+    },
+    {
+      "symbol": "526299",
+      "name": "MPHASIS LTD.",
+      "isin": "INE356A01018"
+    },
+    {
+      "symbol": "533179",
+      "name": "PERSISTENT SYSTEMS LTD.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "532748",
+      "name": "PRIME FOCUS LTD.",
+      "isin": "INE367G01038"
+    },
+    {
+      "symbol": "532689",
+      "name": "PVR INOX LIMITED",
+      "isin": "INE191H01014"
+    },
+    {
+      "symbol": "543265",
+      "name": "RailTel Corporation of India L",
+      "isin": "INE0DD101019"
+    },
+    {
+      "symbol": "532733",
+      "name": "SUN TV NETWORK LTD.",
+      "isin": "INE424H01027"
+    },
+    {
+      "symbol": "500483",
+      "name": "TATA COMMUNICATIONS LTD.",
+      "isin": "INE151A01013"
+    },
+    {
+      "symbol": "532540",
+      "name": "TATA CONSULTANCY SERVICES LTD.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "532755",
+      "name": "TECH MAHINDRA LTD.",
+      "isin": "INE669C01036"
+    },
+    {
+      "symbol": "540595",
+      "name": "Tejas Networks Limited",
+      "isin": "INE010J01012"
+    },
+    {
+      "symbol": "532822",
+      "name": "VODAFONE IDEA  LIMITED",
+      "isin": "INE669E01016"
+    },
+    {
+      "symbol": "507685",
+      "name": "WIPRO LTD.",
+      "isin": "INE075A01022"
+    },
+    {
+      "symbol": "505537",
+      "name": "ZEE ENTERTAINMENT ENTERPRISES",
+      "isin": "INE256A01028"
+    }
+  ]
+}

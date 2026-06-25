@@ -1,0 +1,385 @@
+{
+  "id": "NSE:NIFTY NEW CONSUMP",
+  "exchange": "NSE",
+  "name": "NIFTY NEW CONSUMP",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyindianewageconsumption_list.csv",
+  "count": 75,
+  "members": [
+    {
+      "symbol": "360ONE",
+      "name": "360 ONE WAM Ltd.",
+      "isin": "INE466L01038"
+    },
+    {
+      "symbol": "ABLBL",
+      "name": "Aditya Birla Lifestyle Brands Ltd.",
+      "isin": "INE14LE01019"
+    },
+    {
+      "symbol": "ABREL",
+      "name": "Aditya Birla Real Estate Ltd.",
+      "isin": "INE055A01016"
+    },
+    {
+      "symbol": "AMBER",
+      "name": "Amber Enterprises India Ltd.",
+      "isin": "INE371P01015"
+    },
+    {
+      "symbol": "ANANTRAJ",
+      "name": "Anant Raj Ltd.",
+      "isin": "INE242C01024"
+    },
+    {
+      "symbol": "ANGELONE",
+      "name": "Angel One Ltd.",
+      "isin": "INE732I01021"
+    },
+    {
+      "symbol": "ATHERENERG",
+      "name": "Ather Energy Ltd.",
+      "isin": "INE0LEZ01016"
+    },
+    {
+      "symbol": "DMART",
+      "name": "Avenue Supermarts Ltd.",
+      "isin": "INE192R01011"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "name": "Bajaj Auto Ltd.",
+      "isin": "INE917I01010"
+    },
+    {
+      "symbol": "BATAINDIA",
+      "name": "Bata India Ltd.",
+      "isin": "INE176A01028"
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "name": "Bharti Airtel Ltd.",
+      "isin": "INE397D01024"
+    },
+    {
+      "symbol": "BHARTIHEXA",
+      "name": "Bharti Hexacom Ltd.",
+      "isin": "INE343G01021"
+    },
+    {
+      "symbol": "GROWW",
+      "name": "Billionbrains Garage Ventures Ltd.",
+      "isin": "INE0HOQ01053"
+    },
+    {
+      "symbol": "BLUESTARCO",
+      "name": "Blue Star Ltd.",
+      "isin": "INE472A01039"
+    },
+    {
+      "symbol": "FIRSTCRY",
+      "name": "Brainbees Solutions Ltd.",
+      "isin": "INE02RE01045"
+    },
+    {
+      "symbol": "BRIGADE",
+      "name": "Brigade Enterprises Ltd.",
+      "isin": "INE791I01019"
+    },
+    {
+      "symbol": "CARTRADE",
+      "name": "Cartrade Tech Ltd.",
+      "isin": "INE290S01011"
+    },
+    {
+      "symbol": "CHALET",
+      "name": "Chalet Hotels Ltd.",
+      "isin": "INE427F01016"
+    },
+    {
+      "symbol": "CROMPTON",
+      "name": "Crompton Greaves Consumer Electricals Ltd.",
+      "isin": "INE299U01018"
+    },
+    {
+      "symbol": "DLF",
+      "name": "DLF Ltd.",
+      "isin": "INE271C01023"
+    },
+    {
+      "symbol": "DEVYANI",
+      "name": "Devyani International Ltd.",
+      "isin": "INE872J01023"
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Ltd.",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "EIHOTEL",
+      "name": "EIH Ltd.",
+      "isin": "INE230A01023"
+    },
+    {
+      "symbol": "EICHERMOT",
+      "name": "Eicher Motors Ltd.",
+      "isin": "INE066A01021"
+    },
+    {
+      "symbol": "ETERNAL",
+      "name": "Eternal Ltd.",
+      "isin": "INE758T01015"
+    },
+    {
+      "symbol": "NYKAA",
+      "name": "FSN E-Commerce Ventures Ltd.",
+      "isin": "INE388Y01029"
+    },
+    {
+      "symbol": "FORCEMOT",
+      "name": "Force Motors Ltd.",
+      "isin": "INE451A01017"
+    },
+    {
+      "symbol": "GODREJPROP",
+      "name": "Godrej Properties Ltd.",
+      "isin": "INE484J01027"
+    },
+    {
+      "symbol": "HDFCAMC",
+      "name": "HDFC Asset Management Company Ltd.",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "HAVELLS",
+      "name": "Havells India Ltd.",
+      "isin": "INE176B01034"
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "name": "Hero MotoCorp Ltd.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "HYUNDAI",
+      "name": "Hyundai Motor India Ltd.",
+      "isin": "INE0V6F01027"
+    },
+    {
+      "symbol": "ICICIAMC",
+      "name": "ICICI Prudential Asset Management Company Ltd.",
+      "isin": "INE346A01027"
+    },
+    {
+      "symbol": "ITCHOTELS",
+      "name": "ITC Hotels Ltd.",
+      "isin": "INE379A01028"
+    },
+    {
+      "symbol": "INDIAMART",
+      "name": "Indiamart Intermesh Ltd.",
+      "isin": "INE933S01016"
+    },
+    {
+      "symbol": "INDHOTEL",
+      "name": "Indian Hotels Co. Ltd.",
+      "isin": "INE053A01029"
+    },
+    {
+      "symbol": "IRCTC",
+      "name": "Indian Railway Catering And Tourism Corporation Ltd.",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "NAUKRI",
+      "name": "Info Edge (India) Ltd.",
+      "isin": "INE663F01032"
+    },
+    {
+      "symbol": "INDIGO",
+      "name": "InterGlobe Aviation Ltd.",
+      "isin": "INE646L01027"
+    },
+    {
+      "symbol": "JUBLFOOD",
+      "name": "Jubilant Foodworks Ltd.",
+      "isin": "INE797F01020"
+    },
+    {
+      "symbol": "KPRMILL",
+      "name": "K.P.R. Mill Ltd.",
+      "isin": "INE930H01031"
+    },
+    {
+      "symbol": "KALYANKJIL",
+      "name": "Kalyan Jewellers India Ltd.",
+      "isin": "INE303R01014"
+    },
+    {
+      "symbol": "LGEINDIA",
+      "name": "LG Electronics India Ltd.",
+      "isin": "INE324D01010"
+    },
+    {
+      "symbol": "LEMONTREE",
+      "name": "Lemon Tree Hotels Ltd.",
+      "isin": "INE970X01018"
+    },
+    {
+      "symbol": "LENSKART",
+      "name": "Lenskart Solutions Ltd.",
+      "isin": "INE956O01016"
+    },
+    {
+      "symbol": "LODHA",
+      "name": "Lodha Developers Ltd.",
+      "isin": "INE670K01029"
+    },
+    {
+      "symbol": "M&M",
+      "name": "Mahindra & Mahindra Ltd.",
+      "isin": "INE101A01026"
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Ltd.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "MOTILALOFS",
+      "name": "Motilal Oswal Financial Services Ltd.",
+      "isin": "INE338I01027"
+    },
+    {
+      "symbol": "NAM-INDIA",
+      "name": "Nippon Life India Asset Management Ltd.",
+      "isin": "INE298J01013"
+    },
+    {
+      "symbol": "NUVAMA",
+      "name": "Nuvama Wealth Management Ltd.",
+      "isin": "INE531F01023"
+    },
+    {
+      "symbol": "OBEROIRLTY",
+      "name": "Oberoi Realty Ltd.",
+      "isin": "INE093I01010"
+    },
+    {
+      "symbol": "OLAELEC",
+      "name": "Ola Electric Mobility Ltd.",
+      "isin": "INE0LXG01040"
+    },
+    {
+      "symbol": "PAYTM",
+      "name": "One 97 Communications Ltd.",
+      "isin": "INE982J01020"
+    },
+    {
+      "symbol": "POLICYBZR",
+      "name": "PB Fintech Ltd.",
+      "isin": "INE417T01026"
+    },
+    {
+      "symbol": "PGEL",
+      "name": "PG Electroplast Ltd.",
+      "isin": "INE457L01029"
+    },
+    {
+      "symbol": "PVRINOX",
+      "name": "PVR INOX Ltd.",
+      "isin": "INE191H01014"
+    },
+    {
+      "symbol": "PAGEIND",
+      "name": "Page Industries Ltd.",
+      "isin": "INE761H01022"
+    },
+    {
+      "symbol": "PHOENIXLTD",
+      "name": "Phoenix Mills Ltd.",
+      "isin": "INE211B01039"
+    },
+    {
+      "symbol": "PWL",
+      "name": "Physicswallah Ltd.",
+      "isin": "INE0LP301011"
+    },
+    {
+      "symbol": "PRESTIGE",
+      "name": "Prestige Estates Projects Ltd.",
+      "isin": "INE811K01011"
+    },
+    {
+      "symbol": "SAPPHIRE",
+      "name": "Sapphire Foods India Ltd.",
+      "isin": "INE806T01020"
+    },
+    {
+      "symbol": "SAREGAMA",
+      "name": "Saregama India Ltd",
+      "isin": "INE979A01025"
+    },
+    {
+      "symbol": "SOBHA",
+      "name": "Sobha Ltd.",
+      "isin": "INE671H01015"
+    },
+    {
+      "symbol": "SWIGGY",
+      "name": "Swiggy Ltd.",
+      "isin": "INE00H001014"
+    },
+    {
+      "symbol": "TVSMOTOR",
+      "name": "TVS Motor Company Ltd.",
+      "isin": "INE494B01023"
+    },
+    {
+      "symbol": "TATACOMM",
+      "name": "Tata Communications Ltd.",
+      "isin": "INE151A01013"
+    },
+    {
+      "symbol": "TMPV",
+      "name": "Tata Motors Passenger Vehicles Ltd.",
+      "isin": "INE155A01022"
+    },
+    {
+      "symbol": "TITAN",
+      "name": "Titan Company Ltd.",
+      "isin": "INE280A01028"
+    },
+    {
+      "symbol": "TRENT",
+      "name": "Trent Ltd.",
+      "isin": "INE849A01020"
+    },
+    {
+      "symbol": "VMM",
+      "name": "Vishal Mega Mart Ltd.",
+      "isin": "INE01EA01019"
+    },
+    {
+      "symbol": "IDEA",
+      "name": "Vodafone Idea Ltd.",
+      "isin": "INE669E01016"
+    },
+    {
+      "symbol": "VOLTAS",
+      "name": "Voltas Ltd.",
+      "isin": "INE226A01021"
+    },
+    {
+      "symbol": "WHIRLPOOL",
+      "name": "Whirlpool of India Ltd.",
+      "isin": "INE716A01013"
+    },
+    {
+      "symbol": "ZEEL",
+      "name": "Zee Entertainment Enterprises Ltd.",
+      "isin": "INE256A01028"
+    }
+  ]
+}

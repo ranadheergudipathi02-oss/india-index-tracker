@@ -1,0 +1,260 @@
+{
+  "id": "NSE:NIFTY TMMQ 50",
+  "exchange": "NSE",
+  "name": "NIFTY TMMQ 50",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftytotalmarketmomentumquality50_list.csv",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "3MINDIA",
+      "name": "3M India Ltd.",
+      "isin": "INE470A01017"
+    },
+    {
+      "symbol": "ACUTAAS",
+      "name": "Acutaas Chemicals Ltd.",
+      "isin": "INE00FF01025"
+    },
+    {
+      "symbol": "ANANDRATHI",
+      "name": "Anand Rathi Wealth Ltd.",
+      "isin": "INE463V01026"
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "name": "Asian Paints Ltd.",
+      "isin": "INE021A01026"
+    },
+    {
+      "symbol": "ASTRAZEN",
+      "name": "AstraZenca Pharma India Ltd.",
+      "isin": "INE203A01020"
+    },
+    {
+      "symbol": "AVANTIFEED",
+      "name": "Avanti Feeds Ltd.",
+      "isin": "INE871C01038"
+    },
+    {
+      "symbol": "BSE",
+      "name": "BSE Ltd.",
+      "isin": "INE118H01025"
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "name": "Bajaj Finance Ltd.",
+      "isin": "INE296A01032"
+    },
+    {
+      "symbol": "BANCOINDIA",
+      "name": "Banco Products (India) Ltd.",
+      "isin": "INE213C01025"
+    },
+    {
+      "symbol": "BEL",
+      "name": "Bharat Electronics Ltd.",
+      "isin": "INE263A01024"
+    },
+    {
+      "symbol": "BOSCHLTD",
+      "name": "Bosch Ltd.",
+      "isin": "INE323A01026"
+    },
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries Ltd.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "CANBK",
+      "name": "Canara Bank",
+      "isin": "INE476A01022"
+    },
+    {
+      "symbol": "CHOICEIN",
+      "name": "Choice International Ltd.",
+      "isin": "INE102B01014"
+    },
+    {
+      "symbol": "COROMANDEL",
+      "name": "Coromandel International Ltd.",
+      "isin": "INE169A01031"
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "name": "Cummins India Ltd.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "LALPATHLAB",
+      "name": "Dr. Lal Path Labs Ltd.",
+      "isin": "INE600L01024"
+    },
+    {
+      "symbol": "EICHERMOT",
+      "name": "Eicher Motors Ltd.",
+      "isin": "INE066A01021"
+    },
+    {
+      "symbol": "FIEMIND",
+      "name": "Fiem Industries Ltd",
+      "isin": "INE737H01014"
+    },
+    {
+      "symbol": "FORCEMOT",
+      "name": "Force Motors Ltd.",
+      "isin": "INE451A01017"
+    },
+    {
+      "symbol": "GVT&D",
+      "name": "GE Vernova T&D India Ltd.",
+      "isin": "INE200A01026"
+    },
+    {
+      "symbol": "GABRIEL",
+      "name": "Gabriel India Ltd.",
+      "isin": "INE524A01029"
+    },
+    {
+      "symbol": "GRSE",
+      "name": "Garden Reach Shipbuilders & Engineers Ltd.",
+      "isin": "INE382Z01011"
+    },
+    {
+      "symbol": "GODFRYPHLP",
+      "name": "Godfrey Phillips India Ltd.",
+      "isin": "INE260B01028"
+    },
+    {
+      "symbol": "HBLENGINE",
+      "name": "HBL Engineering Ltd.",
+      "isin": "INE292B01021"
+    },
+    {
+      "symbol": "HDFCAMC",
+      "name": "HDFC Asset Management Company Ltd.",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "name": "Hero MotoCorp Ltd.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "HINDCOPPER",
+      "name": "Hindustan Copper Ltd.",
+      "isin": "INE531E01026"
+    },
+    {
+      "symbol": "POWERINDIA",
+      "name": "Hitachi Energy India Ltd.",
+      "isin": "INE07Y701011"
+    },
+    {
+      "symbol": "INDIANB",
+      "name": "Indian Bank",
+      "isin": "INE562A01011"
+    },
+    {
+      "symbol": "IMFA",
+      "name": "Indian Metals & Ferro Alloys Ltd.",
+      "isin": "INE919H01018"
+    },
+    {
+      "symbol": "JAMNAAUTO",
+      "name": "Jamna Auto Industries Ltd.",
+      "isin": "INE039C01032"
+    },
+    {
+      "symbol": "LTM",
+      "name": "LTM Ltd.",
+      "isin": "INE214T01019"
+    },
+    {
+      "symbol": "MARICO",
+      "name": "Marico Ltd.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Ltd.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "MSUMI",
+      "name": "Motherson Sumi Wiring India Ltd.",
+      "isin": "INE0FS801015"
+    },
+    {
+      "symbol": "MOTILALOFS",
+      "name": "Motilal Oswal Financial Services Ltd.",
+      "isin": "INE338I01027"
+    },
+    {
+      "symbol": "MCX",
+      "name": "Multi Commodity Exchange of India Ltd.",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "MUTHOOTFIN",
+      "name": "Muthoot Finance Ltd.",
+      "isin": "INE414G01012"
+    },
+    {
+      "symbol": "NESCO",
+      "name": "NESCO Ltd.",
+      "isin": "INE317F01035"
+    },
+    {
+      "symbol": "NATIONALUM",
+      "name": "National Aluminium Co. Ltd.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "NAM-INDIA",
+      "name": "Nippon Life India Asset Management Ltd.",
+      "isin": "INE298J01013"
+    },
+    {
+      "symbol": "PERSISTENT",
+      "name": "Persistent Systems Ltd.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "POLYCAB",
+      "name": "Polycab India Ltd.",
+      "isin": "INE455K01017"
+    },
+    {
+      "symbol": "PRICOLLTD",
+      "name": "Pricol Ltd.",
+      "isin": "INE726V01018"
+    },
+    {
+      "symbol": "SCHNEIDER",
+      "name": "Schneider Electric Infrastructure Ltd.",
+      "isin": "INE839M01018"
+    },
+    {
+      "symbol": "SOLARINDS",
+      "name": "Solar Industries India Ltd.",
+      "isin": "INE343H01029"
+    },
+    {
+      "symbol": "TDPOWERSYS",
+      "name": "TD Power Systems Ltd.",
+      "isin": "INE419M01027"
+    },
+    {
+      "symbol": "TORNTPHARM",
+      "name": "Torrent Pharmaceuticals Ltd.",
+      "isin": "INE685A01028"
+    },
+    {
+      "symbol": "ECLERX",
+      "name": "eClerx Services Ltd.",
+      "isin": "INE738I01010"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "BSE:BSE Midcap 150 Momentum 30",
+  "exchange": "BSE",
+  "name": "BSE Midcap 150 Momentum 30",
+  "code": "168",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=MMOM30",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "540691",
+      "name": "Aditya Birla Capital Ltd",
+      "isin": "INE674K01013"
+    },
+    {
+      "symbol": "500477",
+      "name": "ASHOK LEYLAND LTD.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "540611",
+      "name": "AU Small Finance Bank Limited",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "532525",
+      "name": "BANK OF MAHARASHTRA",
+      "isin": "INE457A01014"
+    },
+    {
+      "symbol": "500493",
+      "name": "BHARAT FORGE LTD.",
+      "isin": "INE465A01025"
+    },
+    {
+      "symbol": "500103",
+      "name": "BHARAT HEAVY ELECTRICALS LTD.",
+      "isin": "INE257A01026"
+    },
+    {
+      "symbol": "532523",
+      "name": "BIOCON LTD.",
+      "isin": "INE376G01013"
+    },
+    {
+      "symbol": "500093",
+      "name": "CG Power and Industrial Soluti",
+      "isin": "INE067A01029"
+    },
+    {
+      "symbol": "500469",
+      "name": "FEDERAL BANK LTD.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "532843",
+      "name": "FORTIS HEALTHCARE LTD.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "543384",
+      "name": "FSN E-Commerce Ventures Limite",
+      "isin": "INE388Y01029"
+    },
+    {
+      "symbol": "522275",
+      "name": "GE Vernova T&D India Limited",
+      "isin": "INE200A01026"
+    },
+    {
+      "symbol": "532296",
+      "name": "GLENMARK PHARMACEUTICALS LTD.",
+      "isin": "INE935A01035"
+    },
+    {
+      "symbol": "532754",
+      "name": "GMR Airports Limited",
+      "isin": "INE776C01039"
+    },
+    {
+      "symbol": "513599",
+      "name": "HINDUSTAN COPPER LTD.",
+      "isin": "INE531E01026"
+    },
+    {
+      "symbol": "543187",
+      "name": "HITACHI ENERGY INDIA LIMITED",
+      "isin": "INE07Y701011"
+    },
+    {
+      "symbol": "532814",
+      "name": "INDIAN BANK",
+      "isin": "INE562A01011"
+    },
+    {
+      "symbol": "517569",
+      "name": "KEI INDUSTRIES LTD.",
+      "isin": "INE878B01027"
+    },
+    {
+      "symbol": "533519",
+      "name": "L&T Finance Limited",
+      "isin": "INE498L01015"
+    },
+    {
+      "symbol": "540222",
+      "name": "Laurus Labs Limited",
+      "isin": "INE947Q01028"
+    },
+    {
+      "symbol": "531642",
+      "name": "MARICO LTD.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "534091",
+      "name": "MULTI COMMODITY EXCHANGE OF IN",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "532234",
+      "name": "NATIONAL ALUMINIUM CO.LTD.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "540767",
+      "name": "NIPPON LIFE INDIA ASSET MANAGE",
+      "isin": "INE298J01013"
+    },
+    {
+      "symbol": "513683",
+      "name": "NLC India Limited",
+      "isin": "INE589A01014"
+    },
+    {
+      "symbol": "543396",
+      "name": "One 97 Communications Limited",
+      "isin": "INE982J01020"
+    },
+    {
+      "symbol": "532497",
+      "name": "RADICO KHAITAN LTD.",
+      "isin": "INE944F01028"
+    },
+    {
+      "symbol": "500113",
+      "name": "STEEL AUTHORITY OF INDIA LTD.",
+      "isin": "INE114A01011"
+    },
+    {
+      "symbol": "500411",
+      "name": "THERMAX LTD.",
+      "isin": "INE152A01029"
+    },
+    {
+      "symbol": "532822",
+      "name": "VODAFONE IDEA  LIMITED",
+      "isin": "INE669E01016"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "BSE:BSE METAL",
+  "exchange": "BSE",
+  "name": "BSE METAL",
+  "code": "35",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=METAL",
+  "count": 12,
+  "members": [
+    {
+      "symbol": "512599",
+      "name": "ADANI ENTERPRISES LTD.",
+      "isin": "INE423A01024"
+    },
+    {
+      "symbol": "533758",
+      "name": "APL APOLLO TUBES LTD.",
+      "isin": "INE702C01027"
+    },
+    {
+      "symbol": "500440",
+      "name": "HINDALCO INDUSTRIES LTD.",
+      "isin": "INE038A01020"
+    },
+    {
+      "symbol": "500188",
+      "name": "HINDUSTAN ZINC LTD.",
+      "isin": "INE267A01025"
+    },
+    {
+      "symbol": "532508",
+      "name": "JINDAL STAINLESS LTD.",
+      "isin": "INE220G01021"
+    },
+    {
+      "symbol": "532286",
+      "name": "JINDAL STEEL LIMITED",
+      "isin": "INE749A01030"
+    },
+    {
+      "symbol": "500228",
+      "name": "JSW STEEL LTD.",
+      "isin": "INE019A01038"
+    },
+    {
+      "symbol": "512455",
+      "name": "LLOYDS METALS AND ENERGY LTD.",
+      "isin": "INE281B01032"
+    },
+    {
+      "symbol": "532234",
+      "name": "NATIONAL ALUMINIUM CO.LTD.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "526371",
+      "name": "NMDC LTD.",
+      "isin": "INE584A01023"
+    },
+    {
+      "symbol": "500113",
+      "name": "STEEL AUTHORITY OF INDIA LTD.",
+      "isin": "INE114A01011"
+    },
+    {
+      "symbol": "500470",
+      "name": "TATA STEEL LTD.",
+      "isin": "INE081A01020"
+    }
+  ]
+}

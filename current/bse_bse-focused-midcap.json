@@ -1,0 +1,110 @@
+{
+  "id": "BSE:BSE FOCUSED MIDCAP",
+  "exchange": "BSE",
+  "name": "BSE FOCUSED MIDCAP",
+  "code": "137",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=FOCMID",
+  "count": 20,
+  "members": [
+    {
+      "symbol": "500477",
+      "name": "ASHOK LEYLAND LTD.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "540611",
+      "name": "AU Small Finance Bank Limited",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "500093",
+      "name": "CG Power and Industrial Soluti",
+      "isin": "INE067A01029"
+    },
+    {
+      "symbol": "532541",
+      "name": "COFORGE LIMITED",
+      "isin": "INE591G01025"
+    },
+    {
+      "symbol": "540699",
+      "name": "Dixon Technologies (India) Lim",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "500469",
+      "name": "FEDERAL BANK LTD.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "532843",
+      "name": "FORTIS HEALTHCARE LTD.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "541729",
+      "name": "HDFC Asset Management Company",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "500182",
+      "name": "HERO MOTOCORP LTD.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "500104",
+      "name": "HINDUSTAN PETROLEUM CORPORATIO",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "539437",
+      "name": "IDFC FIRST BANK LIMITED",
+      "isin": "INE092T01019"
+    },
+    {
+      "symbol": "534816",
+      "name": "INDUS TOWERS LIMITED",
+      "isin": "INE121J01017"
+    },
+    {
+      "symbol": "532187",
+      "name": "INDUSIND BANK LTD.",
+      "isin": "INE095A01012"
+    },
+    {
+      "symbol": "532777",
+      "name": "INFO EDGE (INDIA) LTD.",
+      "isin": "INE663F01032"
+    },
+    {
+      "symbol": "500257",
+      "name": "LUPIN LTD.",
+      "isin": "INE326A01037"
+    },
+    {
+      "symbol": "534091",
+      "name": "MULTI COMMODITY EXCHANGE OF IN",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "543390",
+      "name": "PB Fintech Limited",
+      "isin": "INE417T01026"
+    },
+    {
+      "symbol": "533179",
+      "name": "PERSISTENT SYSTEMS LTD.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "503806",
+      "name": "SRF LTD.",
+      "isin": "INE647A01010"
+    },
+    {
+      "symbol": "532667",
+      "name": "SUZLON ENERGY LTD.",
+      "isin": "INE040H01021"
+    }
+  ]
+}

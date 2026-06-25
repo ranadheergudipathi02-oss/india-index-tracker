@@ -1,0 +1,105 @@
+{
+  "id": "BSE:BSE Telecommunication",
+  "exchange": "BSE",
+  "name": "BSE Telecommunication",
+  "code": "96",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=TELCOM",
+  "count": 19,
+  "members": [
+    {
+      "symbol": "523411",
+      "name": "ADC INDIA COMMUNICATIONS LIMIT",
+      "isin": "INE833A01016"
+    },
+    {
+      "symbol": "532454",
+      "name": "BHARTI AIRTEL LTD.",
+      "isin": "INE397D01024"
+    },
+    {
+      "symbol": "544162",
+      "name": "Bharti Hexacom Limited",
+      "isin": "INE343G01021"
+    },
+    {
+      "symbol": "532775",
+      "name": "GTL INFRASTRUCTURE LTD.",
+      "isin": "INE221H01019"
+    },
+    {
+      "symbol": "500183",
+      "name": "HFCL LIMITED",
+      "isin": "INE548A01028"
+    },
+    {
+      "symbol": "534816",
+      "name": "INDUS TOWERS LIMITED",
+      "isin": "INE121J01017"
+    },
+    {
+      "symbol": "523610",
+      "name": "ITI LTD.",
+      "isin": "INE248A01017"
+    },
+    {
+      "symbol": "500108",
+      "name": "MAHANAGAR TELEPHONE NIGAM LTD.",
+      "isin": "INE153A01019"
+    },
+    {
+      "symbol": "530135",
+      "name": "OPTIEMUS INFRACOM LTD",
+      "isin": "INE350C01017"
+    },
+    {
+      "symbol": "544550",
+      "name": "Pace Digitek Limited",
+      "isin": "INE0S3G01027"
+    },
+    {
+      "symbol": "543265",
+      "name": "RailTel Corporation of India L",
+      "isin": "INE0DD101019"
+    },
+    {
+      "symbol": "543228",
+      "name": "Route Mobile Limited",
+      "isin": "INE450U01017"
+    },
+    {
+      "symbol": "532374",
+      "name": "STERLITE TECHNOLOGIES LTD.",
+      "isin": "INE089C01029"
+    },
+    {
+      "symbol": "544395",
+      "name": "STL Networks Limited",
+      "isin": "INE1VXE01018"
+    },
+    {
+      "symbol": "537259",
+      "name": "SUYOG TELEMATICS LTD",
+      "isin": "INE442P01014"
+    },
+    {
+      "symbol": "500483",
+      "name": "TATA COMMUNICATIONS LTD.",
+      "isin": "INE151A01013"
+    },
+    {
+      "symbol": "532371",
+      "name": "TATA TELESERVICES (MAHARASHTRA",
+      "isin": "INE517B01013"
+    },
+    {
+      "symbol": "540595",
+      "name": "Tejas Networks Limited",
+      "isin": "INE010J01012"
+    },
+    {
+      "symbol": "532822",
+      "name": "VODAFONE IDEA  LIMITED",
+      "isin": "INE669E01016"
+    }
+  ]
+}

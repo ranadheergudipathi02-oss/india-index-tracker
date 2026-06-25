@@ -1,0 +1,110 @@
+{
+  "id": "NSE:NIFTY CHEMICALS",
+  "exchange": "NSE",
+  "name": "NIFTY CHEMICALS",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftychemicals_list.csv",
+  "count": 20,
+  "members": [
+    {
+      "symbol": "AARTIIND",
+      "name": "Aarti Industries Ltd.",
+      "isin": "INE769A01020"
+    },
+    {
+      "symbol": "ATUL",
+      "name": "Atul Ltd.",
+      "isin": "INE100A01010"
+    },
+    {
+      "symbol": "BAYERCROP",
+      "name": "Bayer Cropscience Ltd.",
+      "isin": "INE462A01022"
+    },
+    {
+      "symbol": "CHAMBLFERT",
+      "name": "Chambal Fertilizers & Chemicals Ltd.",
+      "isin": "INE085A01013"
+    },
+    {
+      "symbol": "COROMANDEL",
+      "name": "Coromandel International Ltd.",
+      "isin": "INE169A01031"
+    },
+    {
+      "symbol": "DEEPAKNTR",
+      "name": "Deepak Nitrite Ltd.",
+      "isin": "INE288B01029"
+    },
+    {
+      "symbol": "EIDPARRY",
+      "name": "E.I.D. Parry (India) Ltd.",
+      "isin": "INE126A01031"
+    },
+    {
+      "symbol": "FLUOROCHEM",
+      "name": "Gujarat Fluorochemicals Ltd.",
+      "isin": "INE09N301011"
+    },
+    {
+      "symbol": "GNFC",
+      "name": "Gujarat Narmada Valley Fertilizers and Chemicals Ltd.",
+      "isin": "INE113A01013"
+    },
+    {
+      "symbol": "HSCL",
+      "name": "Himadri Speciality Chemical Ltd.",
+      "isin": "INE019C01026"
+    },
+    {
+      "symbol": "LINDEINDIA",
+      "name": "Linde India Ltd.",
+      "isin": "INE473A01011"
+    },
+    {
+      "symbol": "NAVINFLUOR",
+      "name": "Navin Fluorine International Ltd.",
+      "isin": "INE048G01026"
+    },
+    {
+      "symbol": "PCBL",
+      "name": "PCBL Chemical Ltd.",
+      "isin": "INE602A01031"
+    },
+    {
+      "symbol": "PIIND",
+      "name": "PI Industries Ltd.",
+      "isin": "INE603J01030"
+    },
+    {
+      "symbol": "PIDILITIND",
+      "name": "Pidilite Industries Ltd.",
+      "isin": "INE318A01026"
+    },
+    {
+      "symbol": "SRF",
+      "name": "SRF Ltd.",
+      "isin": "INE647A01010"
+    },
+    {
+      "symbol": "SOLARINDS",
+      "name": "Solar Industries India Ltd.",
+      "isin": "INE343H01029"
+    },
+    {
+      "symbol": "SUMICHEM",
+      "name": "Sumitomo Chemical India Ltd.",
+      "isin": "INE258G01013"
+    },
+    {
+      "symbol": "TATACHEM",
+      "name": "Tata Chemicals Ltd.",
+      "isin": "INE092A01019"
+    },
+    {
+      "symbol": "UPL",
+      "name": "UPL Ltd.",
+      "isin": "INE628A01036"
+    }
+  ]
+}

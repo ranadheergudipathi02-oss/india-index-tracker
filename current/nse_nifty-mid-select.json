@@ -1,0 +1,135 @@
+{
+  "id": "NSE:NIFTY MID SELECT",
+  "exchange": "NSE",
+  "name": "NIFTY MID SELECT",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftymidcapselect_list.csv",
+  "count": 25,
+  "members": [
+    {
+      "symbol": "AUBANK",
+      "name": "AU Small Finance Bank Ltd.",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "ASHOKLEY",
+      "name": "Ashok Leyland Ltd.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "name": "Aurobindo Pharma Ltd.",
+      "isin": "INE406A01037"
+    },
+    {
+      "symbol": "BSE",
+      "name": "BSE Ltd.",
+      "isin": "INE118H01025"
+    },
+    {
+      "symbol": "BHARATFORG",
+      "name": "Bharat Forge Ltd.",
+      "isin": "INE465A01025"
+    },
+    {
+      "symbol": "BHEL",
+      "name": "Bharat Heavy Electricals Ltd.",
+      "isin": "INE257A01026"
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Ltd.",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "FORTIS",
+      "name": "Fortis Healthcare Ltd.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "name": "Hero MotoCorp Ltd.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "HINDPETRO",
+      "name": "Hindustan Petroleum Corporation Ltd.",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "INDIANB",
+      "name": "Indian Bank",
+      "isin": "INE562A01011"
+    },
+    {
+      "symbol": "INDUSTOWER",
+      "name": "Indus Towers Ltd.",
+      "isin": "INE121J01017"
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "name": "IndusInd Bank Ltd.",
+      "isin": "INE095A01012"
+    },
+    {
+      "symbol": "NAUKRI",
+      "name": "Info Edge (India) Ltd.",
+      "isin": "INE663F01032"
+    },
+    {
+      "symbol": "LICI",
+      "name": "Life Insurance Corporation of India",
+      "isin": "INE0J1Y01017"
+    },
+    {
+      "symbol": "LUPIN",
+      "name": "Lupin Ltd.",
+      "isin": "INE326A01037"
+    },
+    {
+      "symbol": "MARICO",
+      "name": "Marico Ltd.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "PAYTM",
+      "name": "One 97 Communications Ltd.",
+      "isin": "INE982J01020"
+    },
+    {
+      "symbol": "POLICYBZR",
+      "name": "PB Fintech Ltd.",
+      "isin": "INE417T01026"
+    },
+    {
+      "symbol": "PERSISTENT",
+      "name": "Persistent Systems Ltd.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "POLYCAB",
+      "name": "Polycab India Ltd.",
+      "isin": "INE455K01017"
+    },
+    {
+      "symbol": "SRF",
+      "name": "SRF Ltd.",
+      "isin": "INE647A01010"
+    },
+    {
+      "symbol": "SUZLON",
+      "name": "Suzlon Energy Ltd.",
+      "isin": "INE040H01021"
+    },
+    {
+      "symbol": "SWIGGY",
+      "name": "Swiggy Ltd.",
+      "isin": "INE00H001014"
+    },
+    {
+      "symbol": "YESBANK",
+      "name": "Yes Bank Ltd.",
+      "isin": "INE528G01035"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "BSE:BSE SELECT BUSINESS GROUPS",
+  "exchange": "BSE",
+  "name": "BSE SELECT BUSINESS GROUPS",
+  "code": "136",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BBGEFS",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "539254",
+      "name": "Adani Energy Solutions Limited",
+      "isin": "INE931S01010"
+    },
+    {
+      "symbol": "512599",
+      "name": "ADANI ENTERPRISES LTD.",
+      "isin": "INE423A01024"
+    },
+    {
+      "symbol": "541450",
+      "name": "Adani Green Energy Limited",
+      "isin": "INE364U01010"
+    },
+    {
+      "symbol": "532921",
+      "name": "ADANI PORTS AND SPECIAL ECONOM",
+      "isin": "INE742F01042"
+    },
+    {
+      "symbol": "533096",
+      "name": "ADANI POWER LTD.",
+      "isin": "INE814H01029"
+    },
+    {
+      "symbol": "500425",
+      "name": "AMBUJA CEMENTS LTD.",
+      "isin": "INE079A01024"
+    },
+    {
+      "symbol": "500300",
+      "name": "GRASIM INDUSTRIES LTD.",
+      "isin": "INE047A01021"
+    },
+    {
+      "symbol": "500440",
+      "name": "HINDALCO INDUSTRIES LTD.",
+      "isin": "INE038A01020"
+    },
+    {
+      "symbol": "500850",
+      "name": "INDIAN HOTELS CO.LTD.",
+      "isin": "INE053A01029"
+    },
+    {
+      "symbol": "532508",
+      "name": "JINDAL STAINLESS LTD.",
+      "isin": "INE220G01021"
+    },
+    {
+      "symbol": "532286",
+      "name": "JINDAL STEEL LIMITED",
+      "isin": "INE749A01030"
+    },
+    {
+      "symbol": "533148",
+      "name": "JSW ENERGY LTD",
+      "isin": "INE121E01018"
+    },
+    {
+      "symbol": "500228",
+      "name": "JSW STEEL LTD.",
+      "isin": "INE019A01038"
+    },
+    {
+      "symbol": "500510",
+      "name": "LARSEN & TOUBRO LTD.",
+      "isin": "INE018A01030"
+    },
+    {
+      "symbol": "540005",
+      "name": "LTM LIMITED",
+      "isin": "INE214T01019"
+    },
+    {
+      "symbol": "500520",
+      "name": "MAHINDRA & MAHINDRA LTD.",
+      "isin": "INE101A01026"
+    },
+    {
+      "symbol": "500325",
+      "name": "RELIANCE INDUSTRIES LTD.",
+      "isin": "INE002A01018"
+    },
+    {
+      "symbol": "500483",
+      "name": "TATA COMMUNICATIONS LTD.",
+      "isin": "INE151A01013"
+    },
+    {
+      "symbol": "532540",
+      "name": "TATA CONSULTANCY SERVICES LTD.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "500800",
+      "name": "TATA CONSUMER PRODUCTS LIMITED",
+      "isin": "INE192A01025"
+    },
+    {
+      "symbol": "544569",
+      "name": "Tata Motors Limited",
+      "isin": "INE1TAE01010"
+    },
+    {
+      "symbol": "500570",
+      "name": "TATA MOTORS PASSENGER VEHICLES",
+      "isin": "INE155A01022"
+    },
+    {
+      "symbol": "500400",
+      "name": "TATA POWER CO.LTD.",
+      "isin": "INE245A01021"
+    },
+    {
+      "symbol": "500470",
+      "name": "TATA STEEL LTD.",
+      "isin": "INE081A01020"
+    },
+    {
+      "symbol": "532755",
+      "name": "TECH MAHINDRA LTD.",
+      "isin": "INE669C01036"
+    },
+    {
+      "symbol": "500114",
+      "name": "TITAN COMPANY LIMITED",
+      "isin": "INE280A01028"
+    },
+    {
+      "symbol": "500251",
+      "name": "TRENT LTD.",
+      "isin": "INE849A01020"
+    },
+    {
+      "symbol": "532538",
+      "name": "ULTRATECH CEMENT LTD.",
+      "isin": "INE481G01011"
+    },
+    {
+      "symbol": "532822",
+      "name": "VODAFONE IDEA  LIMITED",
+      "isin": "INE669E01016"
+    },
+    {
+      "symbol": "500575",
+      "name": "VOLTAS LTD.",
+      "isin": "INE226A01021"
+    }
+  ]
+}

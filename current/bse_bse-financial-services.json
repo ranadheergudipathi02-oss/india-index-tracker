@@ -1,0 +1,945 @@
+{
+  "id": "BSE:BSE Financial Services",
+  "exchange": "BSE",
+  "name": "BSE Financial Services",
+  "code": "91",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=FINSER",
+  "count": 187,
+  "members": [
+    {
+      "symbol": "542772",
+      "name": "360 ONE WAM LIMITED",
+      "isin": "INE466L01038"
+    },
+    {
+      "symbol": "540776",
+      "name": "5paisa Capital Limited",
+      "isin": "INE618L01018"
+    },
+    {
+      "symbol": "544176",
+      "name": "Aadhar Housing Finance Limited",
+      "isin": "INE883F01010"
+    },
+    {
+      "symbol": "541988",
+      "name": "AAVAS Financiers Limited",
+      "isin": "INE216P01012"
+    },
+    {
+      "symbol": "543712",
+      "name": "ABANS FINANCIAL SERVICES LIMIT",
+      "isin": "INE00ZE01026"
+    },
+    {
+      "symbol": "540691",
+      "name": "Aditya Birla Capital Ltd",
+      "isin": "INE674K01013"
+    },
+    {
+      "symbol": "532974",
+      "name": "ADITYA BIRLA MONEY LTD.",
+      "isin": "INE865C01022"
+    },
+    {
+      "symbol": "543374",
+      "name": "Aditya Birla Sun Life AMC Limi",
+      "isin": "INE404A01024"
+    },
+    {
+      "symbol": "505725",
+      "name": "ALGOQUANT FINTECH LIMITED",
+      "isin": "INE598D01035"
+    },
+    {
+      "symbol": "544530",
+      "name": "ANAND RATHI SHARE AND STOCK BR",
+      "isin": "INE549H01021"
+    },
+    {
+      "symbol": "543415",
+      "name": "Anand Rathi Wealth Limited",
+      "isin": "INE463V01026"
+    },
+    {
+      "symbol": "543235",
+      "name": "ANGEL ONE LIMITED",
+      "isin": "INE732I01021"
+    },
+    {
+      "symbol": "543335",
+      "name": "Aptus Value Housing Finance In",
+      "isin": "INE852O01025"
+    },
+    {
+      "symbol": "511605",
+      "name": "ARIHANT CAPITAL MARKETS LTD.",
+      "isin": "INE420B01036"
+    },
+    {
+      "symbol": "531179",
+      "name": "ARMAN FINANCIAL SERVICES LTD.",
+      "isin": "INE109C01017"
+    },
+    {
+      "symbol": "543766",
+      "name": "Ashika Credit Capital Ltd.",
+      "isin": "INE094B01013"
+    },
+    {
+      "symbol": "540611",
+      "name": "AU Small Finance Bank Limited",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "539177",
+      "name": "Authum Investment & Infrastruc",
+      "isin": "INE206F01022"
+    },
+    {
+      "symbol": "539807",
+      "name": "AvenuesAI Limited",
+      "isin": "INE483S01020"
+    },
+    {
+      "symbol": "532215",
+      "name": "AXIS BANK LTD.",
+      "isin": "INE238A01034"
+    },
+    {
+      "symbol": "500034",
+      "name": "BAJAJ FINANCE LIMITED",
+      "isin": "INE296A01032"
+    },
+    {
+      "symbol": "532978",
+      "name": "BAJAJ FINSERV LTD.",
+      "isin": "INE918I01026"
+    },
+    {
+      "symbol": "500490",
+      "name": "BAJAJ HOLDINGS & INVESTMENT LT",
+      "isin": "INE118A01012"
+    },
+    {
+      "symbol": "544252",
+      "name": "Bajaj Housing Finance Limited",
+      "isin": "INE377Y01014"
+    },
+    {
+      "symbol": "532485",
+      "name": "BALMER LAWRIE INVESTMENTS LTD.",
+      "isin": "INE525F01025"
+    },
+    {
+      "symbol": "541153",
+      "name": "Bandhan Bank Limited",
+      "isin": "INE545U01014"
+    },
+    {
+      "symbol": "532134",
+      "name": "BANK OF BARODA",
+      "isin": "INE028A01039"
+    },
+    {
+      "symbol": "532149",
+      "name": "BANK OF INDIA",
+      "isin": "INE084A01016"
+    },
+    {
+      "symbol": "532525",
+      "name": "BANK OF MAHARASHTRA",
+      "isin": "INE457A01014"
+    },
+    {
+      "symbol": "543898",
+      "name": "BEML Land Assets Limited",
+      "isin": "INE0N7W01012"
+    },
+    {
+      "symbol": "533303",
+      "name": "BF INVESTMENT LTD.",
+      "isin": "INE878K01010"
+    },
+    {
+      "symbol": "544603",
+      "name": "Billionbrains Garage Ventures",
+      "isin": "INE0HOQ01053"
+    },
+    {
+      "symbol": "511196",
+      "name": "CAN FIN HOMES LTD.",
+      "isin": "INE477A01020"
+    },
+    {
+      "symbol": "532483",
+      "name": "CANARA BANK",
+      "isin": "INE476A01022"
+    },
+    {
+      "symbol": "544583",
+      "name": "Canara HSBC Life Insurance Com",
+      "isin": "INE01TY01017"
+    },
+    {
+      "symbol": "544580",
+      "name": "Canara Robeco Asset Management",
+      "isin": "INE218I01013"
+    },
+    {
+      "symbol": "530879",
+      "name": "CAPITAL INDIA FINANCE LIMITED",
+      "isin": "INE345H01024"
+    },
+    {
+      "symbol": "544120",
+      "name": "Capital Small Finance Bank Ltd",
+      "isin": "INE646H01017"
+    },
+    {
+      "symbol": "531595",
+      "name": "CAPRI GLOBAL CAPITAL LIMITED",
+      "isin": "INE180C01042"
+    },
+    {
+      "symbol": "534804",
+      "name": "CARE Ratings Limited",
+      "isin": "INE752H01013"
+    },
+    {
+      "symbol": "532885",
+      "name": "CENTRAL BANK OF INDIA",
+      "isin": "INE483A01010"
+    },
+    {
+      "symbol": "501150",
+      "name": "CENTRUM CAPITAL LTD.",
+      "isin": "INE660C01027"
+    },
+    {
+      "symbol": "531358",
+      "name": "CHOICE INTERNATIONAL LTD.",
+      "isin": "INE102B01014"
+    },
+    {
+      "symbol": "504973",
+      "name": "CHOLAMANDALAM FINANCIAL HOLDIN",
+      "isin": "INE149A01033"
+    },
+    {
+      "symbol": "511243",
+      "name": "CHOLAMANDALAM INVESTMENT AND F",
+      "isin": "INE121A01024"
+    },
+    {
+      "symbol": "532210",
+      "name": "CITY UNION BANK LTD.",
+      "isin": "INE491A01021"
+    },
+    {
+      "symbol": "543232",
+      "name": "Computer Age Management Servic",
+      "isin": "INE596I01020"
+    },
+    {
+      "symbol": "541770",
+      "name": "CreditAccess Grameen Ltd.",
+      "isin": "INE741K01010"
+    },
+    {
+      "symbol": "511413",
+      "name": "CREST",
+      "isin": "INE559D01011"
+    },
+    {
+      "symbol": "500092",
+      "name": "CRISIL LTD.",
+      "isin": "INE007A01025"
+    },
+    {
+      "symbol": "542867",
+      "name": "CSB Bank Limited",
+      "isin": "INE679A01013"
+    },
+    {
+      "symbol": "530067",
+      "name": "CSL Finance Limited",
+      "isin": "INE718F01018"
+    },
+    {
+      "symbol": "544316",
+      "name": "DAM Capital Advisors Limited",
+      "isin": "INE284H01025"
+    },
+    {
+      "symbol": "532772",
+      "name": "DCB BANK LIMITED",
+      "isin": "INE503A01015"
+    },
+    {
+      "symbol": "532180",
+      "name": "DHANLAXMI BANK LIMITED",
+      "isin": "INE680A01011"
+    },
+    {
+      "symbol": "505526",
+      "name": "DOLAT ALGOTECH LIMITED",
+      "isin": "INE966A01022"
+    },
+    {
+      "symbol": "532922",
+      "name": "EDELWEISS FINANCIAL SERVICES L",
+      "isin": "INE532F01054"
+    },
+    {
+      "symbol": "543243",
+      "name": "Equitas Small Finance Bank Lim",
+      "isin": "INE063P01018"
+    },
+    {
+      "symbol": "544020",
+      "name": "ESAF Small Finance Bank Ltd",
+      "isin": "INE818W01011"
+    },
+    {
+      "symbol": "544027",
+      "name": "Fedbank Financial Services Lim",
+      "isin": "INE007N01010"
+    },
+    {
+      "symbol": "500469",
+      "name": "FEDERAL BANK LTD.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "543386",
+      "name": "Fino Payments Bank Limited",
+      "isin": "INE02NC01014"
+    },
+    {
+      "symbol": "543663",
+      "name": "Five-Star Business Finance Ltd",
+      "isin": "INE128S01021"
+    },
+    {
+      "symbol": "543652",
+      "name": "FUSION FINANCE LIMITED",
+      "isin": "INE139R01012"
+    },
+    {
+      "symbol": "540755",
+      "name": "General Insurance Corporation",
+      "isin": "INE481Y01014"
+    },
+    {
+      "symbol": "532285",
+      "name": "Geojit Financial Services Limi",
+      "isin": "INE007B01023"
+    },
+    {
+      "symbol": "500173",
+      "name": "GFL LIMITED",
+      "isin": "INE538A01037"
+    },
+    {
+      "symbol": "511676",
+      "name": "GIC HOUSING FINANCE LTD.",
+      "isin": "INE289B01019"
+    },
+    {
+      "symbol": "544179",
+      "name": "Go Digit General Insurance Lim",
+      "isin": "INE03JT01014"
+    },
+    {
+      "symbol": "544429",
+      "name": "HDB FINANCIAL SERVICES LIMITED",
+      "isin": "INE756I01012"
+    },
+    {
+      "symbol": "541729",
+      "name": "HDFC Asset Management Company",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "500180",
+      "name": "HDFC BANK LTD.",
+      "isin": "INE040A01034"
+    },
+    {
+      "symbol": "540777",
+      "name": "HDFC LIFE INSURANCE COMPANY LI",
+      "isin": "INE795G01014"
+    },
+    {
+      "symbol": "543259",
+      "name": "Home First Finance Company Ind",
+      "isin": "INE481N01025"
+    },
+    {
+      "symbol": "540530",
+      "name": "Housing &Urban Development Cor",
+      "isin": "INE031A01017"
+    },
+    {
+      "symbol": "532174",
+      "name": "ICICI BANK LTD.",
+      "isin": "INE090A01021"
+    },
+    {
+      "symbol": "540716",
+      "name": "ICICI Lombard General Insuranc",
+      "isin": "INE765G01017"
+    },
+    {
+      "symbol": "544658",
+      "name": "ICICI Prudential Asset Managem",
+      "isin": "INE346A01027"
+    },
+    {
+      "symbol": "540133",
+      "name": "ICICI Prudential Life Insuranc",
+      "isin": "INE726G01019"
+    },
+    {
+      "symbol": "532835",
+      "name": "ICRA LTD.",
+      "isin": "INE725G01011"
+    },
+    {
+      "symbol": "500116",
+      "name": "IDBI BANK LTD.",
+      "isin": "INE008A01015"
+    },
+    {
+      "symbol": "539437",
+      "name": "IDFC FIRST BANK LIMITED",
+      "isin": "INE092T01019"
+    },
+    {
+      "symbol": "500106",
+      "name": "IFCI LTD.",
+      "isin": "INE039A01010"
+    },
+    {
+      "symbol": "542773",
+      "name": "IIFL CAPITAL SERVICES LIMITED",
+      "isin": "INE489L01022"
+    },
+    {
+      "symbol": "532636",
+      "name": "IIFL FINANCE LIMITED",
+      "isin": "INE530B01024"
+    },
+    {
+      "symbol": "544044",
+      "name": "India Shelter Finance Corporat",
+      "isin": "INE922K01024"
+    },
+    {
+      "symbol": "532814",
+      "name": "INDIAN BANK",
+      "isin": "INE562A01011"
+    },
+    {
+      "symbol": "540750",
+      "name": "Indian Energy Exchange Limited",
+      "isin": "INE022Q01020"
+    },
+    {
+      "symbol": "532388",
+      "name": "INDIAN OVERSEAS BANK",
+      "isin": "INE565A01014"
+    },
+    {
+      "symbol": "543257",
+      "name": "Indian Railway Finance Corpora",
+      "isin": "INE053F01010"
+    },
+    {
+      "symbol": "544026",
+      "name": "Indian Renewable Energy Develo",
+      "isin": "INE202E01016"
+    },
+    {
+      "symbol": "533676",
+      "name": "INDO THAI SECURITIES LTD.",
+      "isin": "INE337M01021"
+    },
+    {
+      "symbol": "541336",
+      "name": "IndoStar Capital Finance Limit",
+      "isin": "INE896L01010"
+    },
+    {
+      "symbol": "532187",
+      "name": "INDUSIND BANK LTD.",
+      "isin": "INE095A01012"
+    },
+    {
+      "symbol": "532209",
+      "name": "JAMMU & KASHMIR BANK LTD.",
+      "isin": "INE168A01041"
+    },
+    {
+      "symbol": "544118",
+      "name": "JANA SMALL FINANCE BANK LIMITE",
+      "isin": "INE953L01027"
+    },
+    {
+      "symbol": "532624",
+      "name": "JINDAL PHOTO LTD.",
+      "isin": "INE796G01012"
+    },
+    {
+      "symbol": "536773",
+      "name": "JINDAL POLY INVESTMENT AND FIN",
+      "isin": "INE147P01019"
+    },
+    {
+      "symbol": "543940",
+      "name": "Jio Financial Services Limited",
+      "isin": "INE758E01017"
+    },
+    {
+      "symbol": "523405",
+      "name": "JM FINANCIAL LTD.",
+      "isin": "INE780C01023"
+    },
+    {
+      "symbol": "532642",
+      "name": "JSW HOLDINGS LIMITED",
+      "isin": "INE824G01012"
+    },
+    {
+      "symbol": "533302",
+      "name": "KALYANI INVESTMENT COMPANY LTD",
+      "isin": "INE029L01018"
+    },
+    {
+      "symbol": "532468",
+      "name": "KAMA HOLDINGS LIMITED",
+      "isin": "INE411F01010"
+    },
+    {
+      "symbol": "532652",
+      "name": "KARNATAKA BANK LTD.",
+      "isin": "INE614B01018"
+    },
+    {
+      "symbol": "543720",
+      "name": "KFin Technologies Limited",
+      "isin": "INE138Y01010"
+    },
+    {
+      "symbol": "500247",
+      "name": "KOTAK MAHINDRA BANK LTD.",
+      "isin": "INE237A01036"
+    },
+    {
+      "symbol": "533519",
+      "name": "L&T Finance Limited",
+      "isin": "INE498L01015"
+    },
+    {
+      "symbol": "500253",
+      "name": "LIC HOUSING FINANCE LTD.",
+      "isin": "INE115A01026"
+    },
+    {
+      "symbol": "543526",
+      "name": "LIFE INSURANCE CORPORATION OF",
+      "isin": "INE0J1Y01017"
+    },
+    {
+      "symbol": "500266",
+      "name": "MAHARASHTRA SCOOTERS LTD.",
+      "isin": "INE288A01013"
+    },
+    {
+      "symbol": "532720",
+      "name": "MAHINDRA & MAHINDRA FINANCIAL",
+      "isin": "INE774D01024"
+    },
+    {
+      "symbol": "531213",
+      "name": "Manappuram Finance Ltd",
+      "isin": "INE522D01027"
+    },
+    {
+      "symbol": "544262",
+      "name": "Manba Finance Limited",
+      "isin": "INE939X01013"
+    },
+    {
+      "symbol": "540749",
+      "name": "MAS Financial Services Limited",
+      "isin": "INE348L01012"
+    },
+    {
+      "symbol": "511768",
+      "name": "MASTER TRUST LTD.",
+      "isin": "INE677D01037"
+    },
+    {
+      "symbol": "500271",
+      "name": "Max Financial Services Limited",
+      "isin": "INE180A01020"
+    },
+    {
+      "symbol": "543223",
+      "name": "Max India Limited",
+      "isin": "INE0CG601016"
+    },
+    {
+      "symbol": "544088",
+      "name": "Medi Assist Healthcare Service",
+      "isin": "INE456Z01021"
+    },
+    {
+      "symbol": "511551",
+      "name": "Monarch Networth Capital Limit",
+      "isin": "INE903D01011"
+    },
+    {
+      "symbol": "538446",
+      "name": "MONEYBOXX FINANCE LIMITED",
+      "isin": "INE296Q01012"
+    },
+    {
+      "symbol": "532892",
+      "name": "MOTILAL OSWAL FINANCIAL SERVIC",
+      "isin": "INE338I01027"
+    },
+    {
+      "symbol": "542774",
+      "name": "MUFIN GREEN FINANCE LIMITED",
+      "isin": "INE08KJ01020"
+    },
+    {
+      "symbol": "534091",
+      "name": "MULTI COMMODITY EXCHANGE OF IN",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "533398",
+      "name": "MUTHOOT FINANCE LTD.",
+      "isin": "INE414G01012"
+    },
+    {
+      "symbol": "544055",
+      "name": "Muthoot Microfin Limited",
+      "isin": "INE046W01019"
+    },
+    {
+      "symbol": "532256",
+      "name": "NALWA SONS INVESTMENTS LTD.",
+      "isin": "INE023A01030"
+    },
+    {
+      "symbol": "544467",
+      "name": "National Securities Depository",
+      "isin": "INE301O01023"
+    },
+    {
+      "symbol": "544396",
+      "name": "Network People Services Techno",
+      "isin": "INE0FFK01017"
+    },
+    {
+      "symbol": "540767",
+      "name": "NIPPON LIFE INDIA ASSET MANAGE",
+      "isin": "INE298J01013"
+    },
+    {
+      "symbol": "544286",
+      "name": "NIVA BUPA HEALTH INSURANCE COM",
+      "isin": "INE995S01015"
+    },
+    {
+      "symbol": "544260",
+      "name": "Northern Arc Capital Ltd.",
+      "isin": "INE850M01015"
+    },
+    {
+      "symbol": "543988",
+      "name": "Nuvama Wealth Management Limit",
+      "isin": "INE531F01023"
+    },
+    {
+      "symbol": "543396",
+      "name": "One 97 Communications Limited",
+      "isin": "INE982J01020"
+    },
+    {
+      "symbol": "544305",
+      "name": "One Mobikwik Systems Limited",
+      "isin": "INE0HLU01028"
+    },
+    {
+      "symbol": "539290",
+      "name": "Oswal Greentech Limited",
+      "isin": "INE143A01010"
+    },
+    {
+      "symbol": "532900",
+      "name": "PAISALO DIGITAL LIMITED",
+      "isin": "INE420C01059"
+    },
+    {
+      "symbol": "543390",
+      "name": "PB Fintech Limited",
+      "isin": "INE417T01026"
+    },
+    {
+      "symbol": "539883",
+      "name": "Pilani Investment And Industri",
+      "isin": "INE417C01014"
+    },
+    {
+      "symbol": "544606",
+      "name": "Pine Labs Limited",
+      "isin": "INE15B701018"
+    },
+    {
+      "symbol": "544597",
+      "name": "Piramal Finance Limited",
+      "isin": "INE202B01038"
+    },
+    {
+      "symbol": "532366",
+      "name": "PNB GILTS LTD.",
+      "isin": "INE859A01011"
+    },
+    {
+      "symbol": "540173",
+      "name": "PNB Housing Finance Limited",
+      "isin": "INE572E01012"
+    },
+    {
+      "symbol": "524000",
+      "name": "POONAWALLA FINCORP LIMITED",
+      "isin": "INE511C01022"
+    },
+    {
+      "symbol": "532810",
+      "name": "POWER FINANCE CORPORATION LTD.",
+      "isin": "INE134E01011"
+    },
+    {
+      "symbol": "500337",
+      "name": "PRIME SECURITIES LTD.",
+      "isin": "INE032B01021"
+    },
+    {
+      "symbol": "543527",
+      "name": "Prudent Corporate Advisory Ser",
+      "isin": "INE00F201020"
+    },
+    {
+      "symbol": "533344",
+      "name": "PTC INDIA FINANCIAL SERVICES L",
+      "isin": "INE560K01014"
+    },
+    {
+      "symbol": "533295",
+      "name": "PUNJAB & SIND BANK",
+      "isin": "INE608A01012"
+    },
+    {
+      "symbol": "532461",
+      "name": "PUNJAB NATIONAL BANK",
+      "isin": "INE160A01022"
+    },
+    {
+      "symbol": "505800",
+      "name": "RANE HOLDINGS LTD.",
+      "isin": "INE384A01010"
+    },
+    {
+      "symbol": "540065",
+      "name": "RBL Bank Limited",
+      "isin": "INE976G01028"
+    },
+    {
+      "symbol": "532955",
+      "name": "REC LIMITED",
+      "isin": "INE020B01018"
+    },
+    {
+      "symbol": "532915",
+      "name": "RELIGARE ENTERPRISES LTD.",
+      "isin": "INE621H01010"
+    },
+    {
+      "symbol": "535322",
+      "name": "REPCO HOME FINANCE LTD.",
+      "isin": "INE612J01015"
+    },
+    {
+      "symbol": "535789",
+      "name": "Sammaan Capital Limited",
+      "isin": "INE148I01020"
+    },
+    {
+      "symbol": "539404",
+      "name": "SATIN CREDITCARE NETWORK LIMIT",
+      "isin": "INE836B01017"
+    },
+    {
+      "symbol": "543959",
+      "name": "SBFC Finance Limited",
+      "isin": "INE423Y01016"
+    },
+    {
+      "symbol": "543066",
+      "name": "SBI CARDS AND PAYMENT SERVICES",
+      "isin": "INE018E01016"
+    },
+    {
+      "symbol": "540719",
+      "name": "SBI Life Insurance Company Lim",
+      "isin": "INE123W01016"
+    },
+    {
+      "symbol": "544533",
+      "name": "Seshaasai Technologies Limited",
+      "isin": "INE04VU01023"
+    },
+    {
+      "symbol": "539199",
+      "name": "SG FINSERVE LIMITED",
+      "isin": "INE618R01015"
+    },
+    {
+      "symbol": "540725",
+      "name": "Share India Securities Limited",
+      "isin": "INE932X01026"
+    },
+    {
+      "symbol": "544142",
+      "name": "Shipping Corporation of India",
+      "isin": "INE0PB301013"
+    },
+    {
+      "symbol": "511218",
+      "name": "Shriram Finance Limited",
+      "isin": "INE721A01047"
+    },
+    {
+      "symbol": "543263",
+      "name": "SMC Global Securities Limited",
+      "isin": "INE103C01036"
+    },
+    {
+      "symbol": "532218",
+      "name": "SOUTH INDIAN BANK LTD.",
+      "isin": "INE683A01023"
+    },
+    {
+      "symbol": "542759",
+      "name": "Spandana Sphoorty Financial Li",
+      "isin": "INE572J01011"
+    },
+    {
+      "symbol": "543412",
+      "name": "Star Health and Allied Insuran",
+      "isin": "INE575P01011"
+    },
+    {
+      "symbol": "500112",
+      "name": "STATE BANK OF INDIA",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "533306",
+      "name": "SUMMIT SECURITIES LTD.",
+      "isin": "INE519C01017"
+    },
+    {
+      "symbol": "543279",
+      "name": "Suryoday Small Finance Bank Li",
+      "isin": "INE428Q01011"
+    },
+    {
+      "symbol": "526506",
+      "name": "SYSTEMATIX CORPORATE SERVICES",
+      "isin": "INE356B01024"
+    },
+    {
+      "symbol": "543596",
+      "name": "Tamilnad Mercantile Bank Limit",
+      "isin": "INE668A01016"
+    },
+    {
+      "symbol": "544574",
+      "name": "Tata Capital Limited",
+      "isin": "INE976I01016"
+    },
+    {
+      "symbol": "501301",
+      "name": "TATA INVESTMENT CORPORATION LT",
+      "isin": "INE672A01026"
+    },
+    {
+      "symbol": "540769",
+      "name": "The New India Assurance Compan",
+      "isin": "INE470Y01017"
+    },
+    {
+      "symbol": "526650",
+      "name": "TOURISM FINANCE CORPORATION OF",
+      "isin": "INE305A01023"
+    },
+    {
+      "symbol": "520056",
+      "name": "TVS Holdings Limited",
+      "isin": "INE105A01035"
+    },
+    {
+      "symbol": "532505",
+      "name": "UCO BANK",
+      "isin": "INE691A01018"
+    },
+    {
+      "symbol": "511742",
+      "name": "UGRO CAPITAL LIMITED",
+      "isin": "INE583D01011"
+    },
+    {
+      "symbol": "542904",
+      "name": "Ujjivan Small Finance Bank Lim",
+      "isin": "INE551W01018"
+    },
+    {
+      "symbol": "532477",
+      "name": "UNION BANK OF INDIA",
+      "isin": "INE692A01016"
+    },
+    {
+      "symbol": "543238",
+      "name": "UTI Asset Management Company L",
+      "isin": "INE094J01016"
+    },
+    {
+      "symbol": "543942",
+      "name": "UTKARSH SMALL FINANCE BANK LIM",
+      "isin": "INE735W01017"
+    },
+    {
+      "symbol": "500439",
+      "name": "VARDHMAN HOLDINGS LTD.",
+      "isin": "INE701A01023"
+    },
+    {
+      "symbol": "511333",
+      "name": "VLS FINANCE LTD.",
+      "isin": "INE709A01018"
+    },
+    {
+      "symbol": "532648",
+      "name": "YES BANK LTD.",
+      "isin": "INE528G01035"
+    }
+  ]
+}

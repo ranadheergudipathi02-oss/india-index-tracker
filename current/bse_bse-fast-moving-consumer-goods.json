@@ -1,0 +1,510 @@
+{
+  "id": "BSE:BSE Fast Moving Consumer Goods",
+  "exchange": "BSE",
+  "name": "BSE Fast Moving Consumer Goods",
+  "code": "83",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEFMCG",
+  "count": 100,
+  "members": [
+    {
+      "symbol": "519183",
+      "name": "ADF FOODS LTD.",
+      "isin": "INE982B01027"
+    },
+    {
+      "symbol": "544203",
+      "name": "Allied Blenders and Distillers",
+      "isin": "INE552Z01027"
+    },
+    {
+      "symbol": "526173",
+      "name": "ANDREW YULE & COMPANY LTD.",
+      "isin": "INE449C01025"
+    },
+    {
+      "symbol": "540692",
+      "name": "Apex Frozen Foods Limited",
+      "isin": "INE346W01013"
+    },
+    {
+      "symbol": "507526",
+      "name": "ASSOCIATED ALCOHOLS & BREWERIE",
+      "isin": "INE073G01016"
+    },
+    {
+      "symbol": "540649",
+      "name": "AVADH SUGAR & ENERGY LIMITED",
+      "isin": "INE349W01017"
+    },
+    {
+      "symbol": "512573",
+      "name": "AVANTI FEEDS LTD.",
+      "isin": "INE871C01038"
+    },
+    {
+      "symbol": "519105",
+      "name": "AVT NATURAL PRODUCTS LTD.",
+      "isin": "INE488D01021"
+    },
+    {
+      "symbol": "543458",
+      "name": "AWL AGRI BUSINESS LIMITED",
+      "isin": "INE699H01024"
+    },
+    {
+      "symbol": "533229",
+      "name": "BAJAJ CONSUMER CARE LIMITED",
+      "isin": "INE933K01021"
+    },
+    {
+      "symbol": "500032",
+      "name": "BAJAJ HINDUSTHAN SUGAR LIMITED",
+      "isin": "INE306A01021"
+    },
+    {
+      "symbol": "500038",
+      "name": "BALRAMPUR CHINI MILLS LTD.",
+      "isin": "INE119A01028"
+    },
+    {
+      "symbol": "524332",
+      "name": "BCL INDUSTRIES LIMITED",
+      "isin": "INE412G01024"
+    },
+    {
+      "symbol": "543653",
+      "name": "Bikaji Foods International Lim",
+      "isin": "INE00E101023"
+    },
+    {
+      "symbol": "500825",
+      "name": "BRITANNIA INDUSTRIES LTD.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "519600",
+      "name": "CCL PRODUCTS (INDIA) LTD.",
+      "isin": "INE421D01022"
+    },
+    {
+      "symbol": "530307",
+      "name": "CHAMAN LAL SETIA EXPORTS LTD.",
+      "isin": "INE419D01026"
+    },
+    {
+      "symbol": "500830",
+      "name": "COLGATE-PALMOLIVE (INDIA) LTD.",
+      "isin": "INE259A01022"
+    },
+    {
+      "symbol": "530843",
+      "name": "CUPID LTD.",
+      "isin": "INE509F01029"
+    },
+    {
+      "symbol": "500096",
+      "name": "DABUR INDIA LTD.",
+      "isin": "INE016A01026"
+    },
+    {
+      "symbol": "543593",
+      "name": "Dhampur Bio Organics Limited",
+      "isin": "INE0I3401014"
+    },
+    {
+      "symbol": "500119",
+      "name": "DHAMPUR SUGAR MILLS LTD.",
+      "isin": "INE041A01016"
+    },
+    {
+      "symbol": "543306",
+      "name": "Dodla Dairy Limited",
+      "isin": "INE021O01019"
+    },
+    {
+      "symbol": "544045",
+      "name": "DOMS Industries Limited",
+      "isin": "INE321T01012"
+    },
+    {
+      "symbol": "532610",
+      "name": "DWARIKESH SUGAR INDUSTRIES LTD",
+      "isin": "INE366A01041"
+    },
+    {
+      "symbol": "500125",
+      "name": "E.I.D.-PARRY (INDIA) LTD.",
+      "isin": "INE126A01031"
+    },
+    {
+      "symbol": "531162",
+      "name": "EMAMI LTD.",
+      "isin": "INE548C01032"
+    },
+    {
+      "symbol": "531508",
+      "name": "EVEREADY INDUSTRIES INDIA LTD.",
+      "isin": "INE128A01029"
+    },
+    {
+      "symbol": "544030",
+      "name": "Flair Writing Industries Limit",
+      "isin": "INE00Y201027"
+    },
+    {
+      "symbol": "507552",
+      "name": "FOODS & INNS LTD.",
+      "isin": "INE976E01023"
+    },
+    {
+      "symbol": "507488",
+      "name": "G.M.BREWERIES LTD.",
+      "isin": "INE075D01018"
+    },
+    {
+      "symbol": "544528",
+      "name": "Ganesh Consumer Products Limit",
+      "isin": "INE652V01016"
+    },
+    {
+      "symbol": "507815",
+      "name": "GILLETTE INDIA LTD.",
+      "isin": "INE322A01010"
+    },
+    {
+      "symbol": "533104",
+      "name": "GLOBUS SPIRITS LTD.",
+      "isin": "INE615I01010"
+    },
+    {
+      "symbol": "544279",
+      "name": "Godavari Biorefineries Limited",
+      "isin": "INE497S01012"
+    },
+    {
+      "symbol": "500163",
+      "name": "GODFREY PHILLIPS INDIA LTD.",
+      "isin": "INE260B01028"
+    },
+    {
+      "symbol": "540743",
+      "name": "Godrej Agrovet Limited",
+      "isin": "INE850D01014"
+    },
+    {
+      "symbol": "532424",
+      "name": "GODREJ CONSUMER PRODUCTS LTD.",
+      "isin": "INE102D01028"
+    },
+    {
+      "symbol": "539725",
+      "name": "Gokul Agro Resources Ltd",
+      "isin": "INE314T01033"
+    },
+    {
+      "symbol": "544140",
+      "name": "Gopal Snacks Limited",
+      "isin": "INE0L9R01028"
+    },
+    {
+      "symbol": "531449",
+      "name": "GRM OVERSEAS LTD.",
+      "isin": "INE192H01020"
+    },
+    {
+      "symbol": "524226",
+      "name": "GUJARAT AMBUJA EXPORTS LTD.",
+      "isin": "INE036B01030"
+    },
+    {
+      "symbol": "532457",
+      "name": "GULSHAN POLYOLS LTD.",
+      "isin": "INE255D01024"
+    },
+    {
+      "symbol": "531531",
+      "name": "HATSUN AGRO PRODUCT LTD.",
+      "isin": "INE473B01035"
+    },
+    {
+      "symbol": "519552",
+      "name": "HERITAGE FOODS LIMITED",
+      "isin": "INE978A01027"
+    },
+    {
+      "symbol": "519126",
+      "name": "HINDUSTAN FOODS LTD.",
+      "isin": "INE254N01026"
+    },
+    {
+      "symbol": "500696",
+      "name": "HINDUSTAN UNILEVER LTD.",
+      "isin": "INE030A01027"
+    },
+    {
+      "symbol": "543929",
+      "name": "HMA Agro Industries Limited",
+      "isin": "INE0ECP01024"
+    },
+    {
+      "symbol": "544014",
+      "name": "Honasa Consumer Limited",
+      "isin": "INE0J5401028"
+    },
+    {
+      "symbol": "500201",
+      "name": "INDIA GLYCOLS LTD.",
+      "isin": "INE560A01023"
+    },
+    {
+      "symbol": "500875",
+      "name": "ITC LTD.",
+      "isin": "INE154A01025"
+    },
+    {
+      "symbol": "507155",
+      "name": "JAGATJIT INDUSTRIES LTD.",
+      "isin": "INE574A01016"
+    },
+    {
+      "symbol": "532926",
+      "name": "JYOTHY LABS LIMITED",
+      "isin": "INE668F01031"
+    },
+    {
+      "symbol": "532899",
+      "name": "KAVERI SEED COMPANY LTD.",
+      "isin": "INE455I01029"
+    },
+    {
+      "symbol": "523207",
+      "name": "KOKUYO CAMLIN LTD.",
+      "isin": "INE760A01029"
+    },
+    {
+      "symbol": "530813",
+      "name": "KRBL LTD.",
+      "isin": "INE001B01026"
+    },
+    {
+      "symbol": "544416",
+      "name": "KRISHIVAL FOODS LIMITED",
+      "isin": "INE0GGO01015"
+    },
+    {
+      "symbol": "519421",
+      "name": "KSE LTD.",
+      "isin": "INE953E01022"
+    },
+    {
+      "symbol": "531241",
+      "name": "LINC LIMITED",
+      "isin": "INE802B01027"
+    },
+    {
+      "symbol": "523475",
+      "name": "LOTUS CHOCOLATE CO.LTD.",
+      "isin": "INE026D01011"
+    },
+    {
+      "symbol": "532783",
+      "name": "LT FOODS LTD.",
+      "isin": "INE818H01020"
+    },
+    {
+      "symbol": "540650",
+      "name": "Magadh Sugar & Energy Limited",
+      "isin": "INE347W01011"
+    },
+    {
+      "symbol": "541974",
+      "name": "Manorama Industries Limited",
+      "isin": "INE00VM01036"
+    },
+    {
+      "symbol": "531642",
+      "name": "MARICO LTD.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "543253",
+      "name": "Mrs. Bectors Food Specialities",
+      "isin": "INE495P01020"
+    },
+    {
+      "symbol": "544135",
+      "name": "Mukka Proteins Limited",
+      "isin": "INE0CG401037"
+    },
+    {
+      "symbol": "508989",
+      "name": "NAVNEET EDUCATION LIMITED",
+      "isin": "INE060A01024"
+    },
+    {
+      "symbol": "500790",
+      "name": "NESTLE INDIA LTD.",
+      "isin": "INE239A01024"
+    },
+    {
+      "symbol": "531889",
+      "name": "NURTURE WELL INDUSTRIES LIMITE",
+      "isin": "INE882B01037"
+    },
+    {
+      "symbol": "544595",
+      "name": "Orkla India Limited",
+      "isin": "INE16NZ01023"
+    },
+    {
+      "symbol": "539889",
+      "name": "Parag Milk Foods Limited",
+      "isin": "INE883N01014"
+    },
+    {
+      "symbol": "500368",
+      "name": "Patanjali Foods Limited",
+      "isin": "INE619A01035"
+    },
+    {
+      "symbol": "530305",
+      "name": "PICCADILY AGRO INDUSTRIES LTD.",
+      "isin": "INE546C01010"
+    },
+    {
+      "symbol": "540724",
+      "name": "Prataap Snacks Limited",
+      "isin": "INE393P01035"
+    },
+    {
+      "symbol": "500459",
+      "name": "PROCTER & GAMBLE HYGIENE & HEA",
+      "isin": "INE179A01014"
+    },
+    {
+      "symbol": "532497",
+      "name": "RADICO KHAITAN LTD.",
+      "isin": "INE944F01028"
+    },
+    {
+      "symbol": "544485",
+      "name": "REGAAL RESOURCES LIMITED",
+      "isin": "INE0MHO01029"
+    },
+    {
+      "symbol": "544217",
+      "name": "SANSTAR LIMITED",
+      "isin": "INE08NE01025"
+    },
+    {
+      "symbol": "543688",
+      "name": "Sarveshwar Foods Limited",
+      "isin": "INE324X01026"
+    },
+    {
+      "symbol": "532670",
+      "name": "SHREE RENUKA SUGARS LTD.",
+      "isin": "INE087H01022"
+    },
+    {
+      "symbol": "524542",
+      "name": "SUKHJIT STARCH & CHEMICALS LTD",
+      "isin": "INE450E01029"
+    },
+    {
+      "symbol": "543711",
+      "name": "Sula Vineyards Limited",
+      "isin": "INE142Q01026"
+    },
+    {
+      "symbol": "500215",
+      "name": "SUNDROP BRANDS LIMITED",
+      "isin": "INE209A01019"
+    },
+    {
+      "symbol": "519091",
+      "name": "TASTY BITE EATABLES LTD.",
+      "isin": "INE488B01017"
+    },
+    {
+      "symbol": "500800",
+      "name": "TATA CONSUMER PRODUCTS LIMITED",
+      "isin": "INE192A01025"
+    },
+    {
+      "symbol": "501425",
+      "name": "The Bombay Burmah Trading Corp",
+      "isin": "INE050A01025"
+    },
+    {
+      "symbol": "507205",
+      "name": "TILAKNAGAR INDUSTRIES LTD.",
+      "isin": "INE133E01013"
+    },
+    {
+      "symbol": "532356",
+      "name": "TRIVENI ENGINEERING & INDUSTRI",
+      "isin": "INE256C01024"
+    },
+    {
+      "symbol": "544545",
+      "name": "TRUALT BIOENERGY LIMITED",
+      "isin": "INE0MWH01014"
+    },
+    {
+      "symbol": "530363",
+      "name": "UGAR SUGAR WORKS LTD.",
+      "isin": "INE071E01023"
+    },
+    {
+      "symbol": "532478",
+      "name": "UNITED BREWERIES LTD.",
+      "isin": "INE686F01025"
+    },
+    {
+      "symbol": "532432",
+      "name": "UNITED SPIRITS LTD.",
+      "isin": "INE854D01024"
+    },
+    {
+      "symbol": "532729",
+      "name": "UTTAM SUGAR MILLS LTD.",
+      "isin": "INE786F01031"
+    },
+    {
+      "symbol": "519156",
+      "name": "VADILAL INDUSTRIES LTD.",
+      "isin": "INE694D01016"
+    },
+    {
+      "symbol": "540180",
+      "name": "Varun Beverages Limited",
+      "isin": "INE200M01039"
+    },
+    {
+      "symbol": "523261",
+      "name": "VENKYS (INDIA) LTD.",
+      "isin": "INE398A01010"
+    },
+    {
+      "symbol": "538920",
+      "name": "VINTAGE COFFEE AND BEVERAGES L",
+      "isin": "INE498Q01014"
+    },
+    {
+      "symbol": "509966",
+      "name": "VST INDUSTRIES LTD.",
+      "isin": "INE710A01016"
+    },
+    {
+      "symbol": "500780",
+      "name": "Zuari Industries Limited",
+      "isin": "INE217A01012"
+    },
+    {
+      "symbol": "531335",
+      "name": "ZYDUS WELLNESS LTD.",
+      "isin": "INE768C01028"
+    }
+  ]
+}

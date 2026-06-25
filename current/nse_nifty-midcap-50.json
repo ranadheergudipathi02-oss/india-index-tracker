@@ -1,0 +1,260 @@
+{
+  "id": "NSE:NIFTY MIDCAP 50",
+  "exchange": "NSE",
+  "name": "NIFTY MIDCAP 50",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftymidcap50list.csv",
+  "count": 50,
+  "members": [
+    {
+      "symbol": "APLAPOLLO",
+      "name": "APL Apollo Tubes Ltd.",
+      "isin": "INE702C01027"
+    },
+    {
+      "symbol": "AUBANK",
+      "name": "AU Small Finance Bank Ltd.",
+      "isin": "INE949L01017"
+    },
+    {
+      "symbol": "ALKEM",
+      "name": "Alkem Laboratories Ltd.",
+      "isin": "INE540L01014"
+    },
+    {
+      "symbol": "ASHOKLEY",
+      "name": "Ashok Leyland Ltd.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "name": "Aurobindo Pharma Ltd.",
+      "isin": "INE406A01037"
+    },
+    {
+      "symbol": "BSE",
+      "name": "BSE Ltd.",
+      "isin": "INE118H01025"
+    },
+    {
+      "symbol": "BHARATFORG",
+      "name": "Bharat Forge Ltd.",
+      "isin": "INE465A01025"
+    },
+    {
+      "symbol": "BHEL",
+      "name": "Bharat Heavy Electricals Ltd.",
+      "isin": "INE257A01026"
+    },
+    {
+      "symbol": "COFORGE",
+      "name": "Coforge Ltd.",
+      "isin": "INE591G01025"
+    },
+    {
+      "symbol": "COLPAL",
+      "name": "Colgate Palmolive (India) Ltd.",
+      "isin": "INE259A01022"
+    },
+    {
+      "symbol": "DABUR",
+      "name": "Dabur India Ltd.",
+      "isin": "INE016A01026"
+    },
+    {
+      "symbol": "DIXON",
+      "name": "Dixon Technologies (India) Ltd.",
+      "isin": "INE935N01020"
+    },
+    {
+      "symbol": "NYKAA",
+      "name": "FSN E-Commerce Ventures Ltd.",
+      "isin": "INE388Y01029"
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "name": "Federal Bank Ltd.",
+      "isin": "INE171A01029"
+    },
+    {
+      "symbol": "FORTIS",
+      "name": "Fortis Healthcare Ltd.",
+      "isin": "INE061F01013"
+    },
+    {
+      "symbol": "GMRAIRPORT",
+      "name": "GMR Airports Ltd.",
+      "isin": "INE776C01039"
+    },
+    {
+      "symbol": "GODREJPROP",
+      "name": "Godrej Properties Ltd.",
+      "isin": "INE484J01027"
+    },
+    {
+      "symbol": "HAVELLS",
+      "name": "Havells India Ltd.",
+      "isin": "INE176B01034"
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "name": "Hero MotoCorp Ltd.",
+      "isin": "INE158A01026"
+    },
+    {
+      "symbol": "HINDPETRO",
+      "name": "Hindustan Petroleum Corporation Ltd.",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "ICICIGI",
+      "name": "ICICI Lombard General Insurance Company Ltd.",
+      "isin": "INE765G01017"
+    },
+    {
+      "symbol": "IDFCFIRSTB",
+      "name": "IDFC First Bank Ltd.",
+      "isin": "INE092T01019"
+    },
+    {
+      "symbol": "INDUSTOWER",
+      "name": "Indus Towers Ltd.",
+      "isin": "INE121J01017"
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "name": "IndusInd Bank Ltd.",
+      "isin": "INE095A01012"
+    },
+    {
+      "symbol": "NAUKRI",
+      "name": "Info Edge (India) Ltd.",
+      "isin": "INE663F01032"
+    },
+    {
+      "symbol": "LAURUSLABS",
+      "name": "Laurus Labs Ltd.",
+      "isin": "INE947Q01028"
+    },
+    {
+      "symbol": "LUPIN",
+      "name": "Lupin Ltd.",
+      "isin": "INE326A01037"
+    },
+    {
+      "symbol": "MANKIND",
+      "name": "Mankind Pharma Ltd.",
+      "isin": "INE634S01028"
+    },
+    {
+      "symbol": "MARICO",
+      "name": "Marico Ltd.",
+      "isin": "INE196A01026"
+    },
+    {
+      "symbol": "MFSL",
+      "name": "Max Financial Services Ltd.",
+      "isin": "INE180A01020"
+    },
+    {
+      "symbol": "MPHASIS",
+      "name": "MphasiS Ltd.",
+      "isin": "INE356A01018"
+    },
+    {
+      "symbol": "MCX",
+      "name": "Multi Commodity Exchange of India Ltd.",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "NHPC",
+      "name": "NHPC Ltd.",
+      "isin": "INE848E01016"
+    },
+    {
+      "symbol": "NMDC",
+      "name": "NMDC Ltd.",
+      "isin": "INE584A01023"
+    },
+    {
+      "symbol": "OIL",
+      "name": "Oil India Ltd.",
+      "isin": "INE274J01014"
+    },
+    {
+      "symbol": "PAYTM",
+      "name": "One 97 Communications Ltd.",
+      "isin": "INE982J01020"
+    },
+    {
+      "symbol": "POLICYBZR",
+      "name": "PB Fintech Ltd.",
+      "isin": "INE417T01026"
+    },
+    {
+      "symbol": "PERSISTENT",
+      "name": "Persistent Systems Ltd.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "PHOENIXLTD",
+      "name": "Phoenix Mills Ltd.",
+      "isin": "INE211B01039"
+    },
+    {
+      "symbol": "POLYCAB",
+      "name": "Polycab India Ltd.",
+      "isin": "INE455K01017"
+    },
+    {
+      "symbol": "PRESTIGE",
+      "name": "Prestige Estates Projects Ltd.",
+      "isin": "INE811K01011"
+    },
+    {
+      "symbol": "SBICARD",
+      "name": "SBI Cards and Payment Services Ltd.",
+      "isin": "INE018E01016"
+    },
+    {
+      "symbol": "SRF",
+      "name": "SRF Ltd.",
+      "isin": "INE647A01010"
+    },
+    {
+      "symbol": "SUPREMEIND",
+      "name": "Supreme Industries Ltd.",
+      "isin": "INE195A01028"
+    },
+    {
+      "symbol": "SUZLON",
+      "name": "Suzlon Energy Ltd.",
+      "isin": "INE040H01021"
+    },
+    {
+      "symbol": "SWIGGY",
+      "name": "Swiggy Ltd.",
+      "isin": "INE00H001014"
+    },
+    {
+      "symbol": "TIINDIA",
+      "name": "Tube Investments of India Ltd.",
+      "isin": "INE974X01010"
+    },
+    {
+      "symbol": "UPL",
+      "name": "UPL Ltd.",
+      "isin": "INE628A01036"
+    },
+    {
+      "symbol": "WAAREEENER",
+      "name": "Waaree Energies Ltd.",
+      "isin": "INE377N01017"
+    },
+    {
+      "symbol": "YESBANK",
+      "name": "Yes Bank Ltd.",
+      "isin": "INE528G01035"
+    }
+  ]
+}

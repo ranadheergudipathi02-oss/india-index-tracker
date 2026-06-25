@@ -1,0 +1,160 @@
+{
+  "id": "NSE:NIFTY MNC",
+  "exchange": "NSE",
+  "name": "NIFTY MNC",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftymnclist.csv",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "3MINDIA",
+      "name": "3M India Ltd.",
+      "isin": "INE470A01017"
+    },
+    {
+      "symbol": "ABB",
+      "name": "ABB India Ltd.",
+      "isin": "INE117A01022"
+    },
+    {
+      "symbol": "AWL",
+      "name": "AWL Agri Business Ltd.",
+      "isin": "INE699H01024"
+    },
+    {
+      "symbol": "ABBOTINDIA",
+      "name": "Abbott India Ltd.",
+      "isin": "INE358A01014"
+    },
+    {
+      "symbol": "AMBUJACEM",
+      "name": "Ambuja Cements Ltd.",
+      "isin": "INE079A01024"
+    },
+    {
+      "symbol": "ASHOKLEY",
+      "name": "Ashok Leyland Ltd.",
+      "isin": "INE208A01029"
+    },
+    {
+      "symbol": "BOSCHLTD",
+      "name": "Bosch Ltd.",
+      "isin": "INE323A01026"
+    },
+    {
+      "symbol": "BRITANNIA",
+      "name": "Britannia Industries Ltd.",
+      "isin": "INE216A01030"
+    },
+    {
+      "symbol": "CRISIL",
+      "name": "CRISIL Ltd.",
+      "isin": "INE007A01025"
+    },
+    {
+      "symbol": "CASTROLIND",
+      "name": "Castrol India Ltd.",
+      "isin": "INE172A01027"
+    },
+    {
+      "symbol": "COHANCE",
+      "name": "Cohance Lifesciences Ltd.",
+      "isin": "INE03QK01018"
+    },
+    {
+      "symbol": "COLPAL",
+      "name": "Colgate Palmolive (India) Ltd.",
+      "isin": "INE259A01022"
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "name": "Cummins India Ltd.",
+      "isin": "INE298A01020"
+    },
+    {
+      "symbol": "ESCORTS",
+      "name": "Escorts Kubota Ltd.",
+      "isin": "INE042A01014"
+    },
+    {
+      "symbol": "GLAND",
+      "name": "Gland Pharma Ltd.",
+      "isin": "INE068V01023"
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "name": "Hindustan Unilever Ltd.",
+      "isin": "INE030A01027"
+    },
+    {
+      "symbol": "POWERINDIA",
+      "name": "Hitachi Energy India Ltd.",
+      "isin": "INE07Y701011"
+    },
+    {
+      "symbol": "HYUNDAI",
+      "name": "Hyundai Motor India Ltd.",
+      "isin": "INE0V6F01027"
+    },
+    {
+      "symbol": "LINDEINDIA",
+      "name": "Linde India Ltd.",
+      "isin": "INE473A01011"
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Ltd.",
+      "isin": "INE585B01010"
+    },
+    {
+      "symbol": "NESTLEIND",
+      "name": "Nestle India Ltd.",
+      "isin": "INE239A01024"
+    },
+    {
+      "symbol": "NAM-INDIA",
+      "name": "Nippon Life India Asset Management Ltd.",
+      "isin": "INE298J01013"
+    },
+    {
+      "symbol": "OFSS",
+      "name": "Oracle Financial Services Software Ltd.",
+      "isin": "INE881D01027"
+    },
+    {
+      "symbol": "SCHAEFFLER",
+      "name": "Schaeffler India Ltd.",
+      "isin": "INE513A01022"
+    },
+    {
+      "symbol": "ENRIN",
+      "name": "Siemens Energy India Ltd.",
+      "isin": "INE1NPP01017"
+    },
+    {
+      "symbol": "SIEMENS",
+      "name": "Siemens Ltd.",
+      "isin": "INE003A01024"
+    },
+    {
+      "symbol": "TIMKEN",
+      "name": "Timken India Ltd.",
+      "isin": "INE325A01013"
+    },
+    {
+      "symbol": "UBL",
+      "name": "United Breweries Ltd.",
+      "isin": "INE686F01025"
+    },
+    {
+      "symbol": "UNITDSPR",
+      "name": "United Spirits Ltd.",
+      "isin": "INE854D01024"
+    },
+    {
+      "symbol": "VEDL",
+      "name": "Vedanta Ltd.",
+      "isin": "INE205A01025"
+    }
+  ]
+}

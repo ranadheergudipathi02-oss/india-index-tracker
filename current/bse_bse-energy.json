@@ -1,0 +1,170 @@
+{
+  "id": "BSE:BSE Energy",
+  "exchange": "BSE",
+  "name": "BSE Energy",
+  "code": "90",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=ENERGY",
+  "count": 32,
+  "members": [
+    {
+      "symbol": "542066",
+      "name": "ADANI TOTAL GAS LIMITED",
+      "isin": "INE399L01023"
+    },
+    {
+      "symbol": "500003",
+      "name": "AEGIS LOGISTICS LTD.",
+      "isin": "INE208C01025"
+    },
+    {
+      "symbol": "544407",
+      "name": "AEGIS VOPAK TERMINALS LIMITED",
+      "isin": "INE0INX01018"
+    },
+    {
+      "symbol": "530075",
+      "name": "Antelopus Selan Energy Limited",
+      "isin": "INE818A01017"
+    },
+    {
+      "symbol": "530355",
+      "name": "ASIAN ENERGY SERVICES LTD",
+      "isin": "INE276G01015"
+    },
+    {
+      "symbol": "500547",
+      "name": "BHARAT PETROLEUM CORPORATION L",
+      "isin": "INE029A01011"
+    },
+    {
+      "symbol": "500870",
+      "name": "CASTROL INDIA LTD.",
+      "isin": "INE172A01027"
+    },
+    {
+      "symbol": "500110",
+      "name": "CHENNAI PETROLEUM CORPORATION",
+      "isin": "INE178A01016"
+    },
+    {
+      "symbol": "533278",
+      "name": "COAL INDIA LTD.",
+      "isin": "INE522F01014"
+    },
+    {
+      "symbol": "526829",
+      "name": "CONFIDENCE PETROLEUM INDIA LTD",
+      "isin": "INE552D01024"
+    },
+    {
+      "symbol": "543288",
+      "name": "Deep Industries Limited",
+      "isin": "INE0FHS01024"
+    },
+    {
+      "symbol": "532155",
+      "name": "GAIL (INDIA) LTD.",
+      "isin": "INE129A01019"
+    },
+    {
+      "symbol": "544029",
+      "name": "Gandhar Oil Refinery (India) L",
+      "isin": "INE717W01049"
+    },
+    {
+      "symbol": "500153",
+      "name": "GANESH BENZOPLAST LTD.",
+      "isin": "INE388A01029"
+    },
+    {
+      "symbol": "539336",
+      "name": "Gujarat Gas Limited",
+      "isin": "INE844O01030"
+    },
+    {
+      "symbol": "538567",
+      "name": "GULF OIL LUBRICANTS INDIA LTD",
+      "isin": "INE635Q01029"
+    },
+    {
+      "symbol": "500186",
+      "name": "HINDUSTAN OIL EXPLORATION CO.L",
+      "isin": "INE345A01011"
+    },
+    {
+      "symbol": "500104",
+      "name": "HINDUSTAN PETROLEUM CORPORATIO",
+      "isin": "INE094A01015"
+    },
+    {
+      "symbol": "530965",
+      "name": "INDIAN OIL CORPORATION LTD.",
+      "isin": "INE242A01010"
+    },
+    {
+      "symbol": "532514",
+      "name": "INDRAPRASTHA GAS LTD.",
+      "isin": "INE203G01027"
+    },
+    {
+      "symbol": "544004",
+      "name": "IRM ENERGY LIMITED",
+      "isin": "INE07U701015"
+    },
+    {
+      "symbol": "511034",
+      "name": "JINDAL DRILLING & INDUSTRIES L",
+      "isin": "INE742C01031"
+    },
+    {
+      "symbol": "539957",
+      "name": "Mahanagar Gas Limited",
+      "isin": "INE002S01010"
+    },
+    {
+      "symbol": "500109",
+      "name": "MANGALORE REFINERY & PETROCHEM",
+      "isin": "INE103A01014"
+    },
+    {
+      "symbol": "500312",
+      "name": "OIL AND NATURAL GAS CORPORATIO",
+      "isin": "INE213A01029"
+    },
+    {
+      "symbol": "533106",
+      "name": "OIL INDIA LTD.",
+      "isin": "INE274J01014"
+    },
+    {
+      "symbol": "524820",
+      "name": "PANAMA PETROCHEM LTD.",
+      "isin": "INE305C01029"
+    },
+    {
+      "symbol": "532522",
+      "name": "PETRONET LNG LTD.",
+      "isin": "INE347G01014"
+    },
+    {
+      "symbol": "544379",
+      "name": "Prabha Energy Limited",
+      "isin": "INE0I0M01023"
+    },
+    {
+      "symbol": "500325",
+      "name": "RELIANCE INDUSTRIES LTD.",
+      "isin": "INE002A01018"
+    },
+    {
+      "symbol": "524667",
+      "name": "SAVITA OIL TECHNOLOGIES LTD.",
+      "isin": "INE035D01020"
+    },
+    {
+      "symbol": "532029",
+      "name": "SINDHU TRADE LINKS LIMITED",
+      "isin": "INE325D01025"
+    }
+  ]
+}

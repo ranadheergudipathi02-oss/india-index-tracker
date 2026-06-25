@@ -1,0 +1,60 @@
+{
+  "id": "NSE:NIFTY MEDIA",
+  "exchange": "NSE",
+  "name": "NIFTY MEDIA",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftymedialist.csv",
+  "count": 10,
+  "members": [
+    {
+      "symbol": "DBCORP",
+      "name": "D.B.Corp Ltd.",
+      "isin": "INE950I01011"
+    },
+    {
+      "symbol": "HATHWAY",
+      "name": "Hathway Cable & Datacom Ltd.",
+      "isin": "INE982F01036"
+    },
+    {
+      "symbol": "NAZARA",
+      "name": "Nazara Technologies Ltd.",
+      "isin": "INE418L01047"
+    },
+    {
+      "symbol": "NETWORK18",
+      "name": "Network18 Media & Investments Ltd.",
+      "isin": "INE870H01013"
+    },
+    {
+      "symbol": "PVRINOX",
+      "name": "PVR INOX Ltd.",
+      "isin": "INE191H01014"
+    },
+    {
+      "symbol": "PFOCUS",
+      "name": "Prime Focus Ltd.",
+      "isin": "INE367G01038"
+    },
+    {
+      "symbol": "SAREGAMA",
+      "name": "Saregama India Ltd",
+      "isin": "INE979A01025"
+    },
+    {
+      "symbol": "SUNTV",
+      "name": "Sun TV Network Ltd.",
+      "isin": "INE424H01027"
+    },
+    {
+      "symbol": "TIPSMUSIC",
+      "name": "Tips Music Ltd.",
+      "isin": "INE716B01029"
+    },
+    {
+      "symbol": "ZEEL",
+      "name": "Zee Entertainment Enterprises Ltd.",
+      "isin": "INE256A01028"
+    }
+  ]
+}

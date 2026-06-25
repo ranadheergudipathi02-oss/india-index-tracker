@@ -1,0 +1,160 @@
+{
+  "id": "NSE:NIFTY FINSEREXBNK",
+  "exchange": "NSE",
+  "name": "NIFTY FINSEREXBNK",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyfinancialservicesexbank_list.csv",
+  "count": 30,
+  "members": [
+    {
+      "symbol": "360ONE",
+      "name": "360 ONE WAM Ltd.",
+      "isin": "INE466L01038"
+    },
+    {
+      "symbol": "ABCAPITAL",
+      "name": "Aditya Birla Capital Ltd.",
+      "isin": "INE674K01013"
+    },
+    {
+      "symbol": "ANGELONE",
+      "name": "Angel One Ltd.",
+      "isin": "INE732I01021"
+    },
+    {
+      "symbol": "BSE",
+      "name": "BSE Ltd.",
+      "isin": "INE118H01025"
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "name": "Bajaj Finance Ltd.",
+      "isin": "INE296A01032"
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "name": "Bajaj Finserv Ltd.",
+      "isin": "INE918I01026"
+    },
+    {
+      "symbol": "BAJAJHLDNG",
+      "name": "Bajaj Holdings & Investment Ltd.",
+      "isin": "INE118A01012"
+    },
+    {
+      "symbol": "CDSL",
+      "name": "Central Depository Services (India) Ltd.",
+      "isin": "INE736A01011"
+    },
+    {
+      "symbol": "CHOLAFIN",
+      "name": "Cholamandalam Investment and Finance Company Ltd.",
+      "isin": "INE121A01024"
+    },
+    {
+      "symbol": "CAMS",
+      "name": "Computer Age Management Services Ltd.",
+      "isin": "INE596I01020"
+    },
+    {
+      "symbol": "HDFCAMC",
+      "name": "HDFC Asset Management Company Ltd.",
+      "isin": "INE127D01025"
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "name": "HDFC Life Insurance Company Ltd.",
+      "isin": "INE795G01014"
+    },
+    {
+      "symbol": "ICICIGI",
+      "name": "ICICI Lombard General Insurance Company Ltd.",
+      "isin": "INE765G01017"
+    },
+    {
+      "symbol": "ICICIPRULI",
+      "name": "ICICI Prudential Life Insurance Company Ltd.",
+      "isin": "INE726G01019"
+    },
+    {
+      "symbol": "IRFC",
+      "name": "Indian Railway Finance Corporation Ltd.",
+      "isin": "INE053F01010"
+    },
+    {
+      "symbol": "JIOFIN",
+      "name": "Jio Financial Services Ltd.",
+      "isin": "INE758E01017"
+    },
+    {
+      "symbol": "LTF",
+      "name": "L&T Finance Ltd.",
+      "isin": "INE498L01015"
+    },
+    {
+      "symbol": "LICHSGFIN",
+      "name": "LIC Housing Finance Ltd.",
+      "isin": "INE115A01026"
+    },
+    {
+      "symbol": "LICI",
+      "name": "Life Insurance Corporation of India",
+      "isin": "INE0J1Y01017"
+    },
+    {
+      "symbol": "MFSL",
+      "name": "Max Financial Services Ltd.",
+      "isin": "INE180A01020"
+    },
+    {
+      "symbol": "MCX",
+      "name": "Multi Commodity Exchange of India Ltd.",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "MUTHOOTFIN",
+      "name": "Muthoot Finance Ltd.",
+      "isin": "INE414G01012"
+    },
+    {
+      "symbol": "PAYTM",
+      "name": "One 97 Communications Ltd.",
+      "isin": "INE982J01020"
+    },
+    {
+      "symbol": "POLICYBZR",
+      "name": "PB Fintech Ltd.",
+      "isin": "INE417T01026"
+    },
+    {
+      "symbol": "PNBHOUSING",
+      "name": "PNB Housing Finance Ltd.",
+      "isin": "INE572E01012"
+    },
+    {
+      "symbol": "PFC",
+      "name": "Power Finance Corporation Ltd.",
+      "isin": "INE134E01011"
+    },
+    {
+      "symbol": "RECLTD",
+      "name": "REC Ltd.",
+      "isin": "INE020B01018"
+    },
+    {
+      "symbol": "SBICARD",
+      "name": "SBI Cards and Payment Services Ltd.",
+      "isin": "INE018E01016"
+    },
+    {
+      "symbol": "SBILIFE",
+      "name": "SBI Life Insurance Company Ltd.",
+      "isin": "INE123W01016"
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "name": "Shriram Finance Ltd.",
+      "isin": "INE721A01047"
+    }
+  ]
+}

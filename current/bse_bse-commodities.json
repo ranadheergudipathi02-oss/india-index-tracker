@@ -1,0 +1,950 @@
+{
+  "id": "BSE:BSE Commodities",
+  "exchange": "BSE",
+  "name": "BSE Commodities",
+  "code": "88",
+  "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=COMDTY",
+  "count": 188,
+  "members": [
+    {
+      "symbol": "533022",
+      "name": "20 MICRONS LTD.",
+      "isin": "INE144J01027"
+    },
+    {
+      "symbol": "524208",
+      "name": "AARTI INDUSTRIES LTD.",
+      "isin": "INE769A01020"
+    },
+    {
+      "symbol": "500410",
+      "name": "ACC LTD.",
+      "isin": "INE012A01025"
+    },
+    {
+      "symbol": "512599",
+      "name": "ADANI ENTERPRISES LTD.",
+      "isin": "INE423A01024"
+    },
+    {
+      "symbol": "544562",
+      "name": "Advance Agrolife Limited",
+      "isin": "INE1B0W01010"
+    },
+    {
+      "symbol": "543534",
+      "name": "Aether Industries Limited",
+      "isin": "INE0BWX01014"
+    },
+    {
+      "symbol": "531921",
+      "name": "AGARWAL INDUSTRIAL CORPORATION",
+      "isin": "INE204E01012"
+    },
+    {
+      "symbol": "506767",
+      "name": "ALKYL AMINES CHEMICALS LTD.",
+      "isin": "INE150B01039"
+    },
+    {
+      "symbol": "506597",
+      "name": "AMAL LTD.",
+      "isin": "INE841D01013"
+    },
+    {
+      "symbol": "500425",
+      "name": "AMBUJA CEMENTS LTD.",
+      "isin": "INE079A01024"
+    },
+    {
+      "symbol": "502330",
+      "name": "ANDHRA PAPER LIMITED",
+      "isin": "INE435A01051"
+    },
+    {
+      "symbol": "543657",
+      "name": "Archean Chemical Industries Li",
+      "isin": "INE128X01021"
+    },
+    {
+      "symbol": "544419",
+      "name": "ArisInfra Solutions Limited",
+      "isin": "INE0H9P01028"
+    },
+    {
+      "symbol": "533138",
+      "name": "ASTEC LIFESCIENCES LIMITED",
+      "isin": "INE563J01010"
+    },
+    {
+      "symbol": "500027",
+      "name": "ATUL LTD.",
+      "isin": "INE100A01010"
+    },
+    {
+      "symbol": "530999",
+      "name": "BALAJI AMINES LTD.",
+      "isin": "INE050E01027"
+    },
+    {
+      "symbol": "500042",
+      "name": "BASF INDIA LTD.",
+      "isin": "INE373A01013"
+    },
+    {
+      "symbol": "506285",
+      "name": "BAYER CROPSCIENCE LTD.",
+      "isin": "INE462A01022"
+    },
+    {
+      "symbol": "539660",
+      "name": "BEST AGROLIFE LIMITED",
+      "isin": "INE052T01021"
+    },
+    {
+      "symbol": "530803",
+      "name": "Bhageria Industries Limited",
+      "isin": "INE354C01027"
+    },
+    {
+      "symbol": "531719",
+      "name": "BHAGIRADHA CHEMICALS & INDUSTR",
+      "isin": "INE414D01027"
+    },
+    {
+      "symbol": "500052",
+      "name": "BHANSALI ENGINEERING POLYMERS",
+      "isin": "INE922A01025"
+    },
+    {
+      "symbol": "540061",
+      "name": "Bigbloc Construction Limited",
+      "isin": "INE412U01025"
+    },
+    {
+      "symbol": "500335",
+      "name": "BIRLA CORPORATION LTD.",
+      "isin": "INE340A01012"
+    },
+    {
+      "symbol": "509675",
+      "name": "BIRLANU LIMITED",
+      "isin": "INE557A01011"
+    },
+    {
+      "symbol": "524370",
+      "name": "BODAL CHEMICALS LTD.",
+      "isin": "INE338D01028"
+    },
+    {
+      "symbol": "532834",
+      "name": "Camlin Fine Sciences Ltd",
+      "isin": "INE052I01032"
+    },
+    {
+      "symbol": "500085",
+      "name": "CHAMBAL FERTILISERS & CHEMICAL",
+      "isin": "INE085A01013"
+    },
+    {
+      "symbol": "543233",
+      "name": "Chemcon Speciality Chemicals L",
+      "isin": "INE03YM01018"
+    },
+    {
+      "symbol": "541269",
+      "name": "Chemfab Alkalis Ltd",
+      "isin": "INE783X01023"
+    },
+    {
+      "symbol": "543336",
+      "name": "Chemplast Sanmar Limited",
+      "isin": "INE488A01050"
+    },
+    {
+      "symbol": "526817",
+      "name": "CHEVIOT CO.LTD.",
+      "isin": "INE974B01016"
+    },
+    {
+      "symbol": "543318",
+      "name": "Clean Science and Technology L",
+      "isin": "INE227W01023"
+    },
+    {
+      "symbol": "506395",
+      "name": "COROMANDEL INTERNATIONAL LTD.",
+      "isin": "INE169A01031"
+    },
+    {
+      "symbol": "542216",
+      "name": "DALMIA BHARAT LIMITED",
+      "isin": "INE00R701025"
+    },
+    {
+      "symbol": "500117",
+      "name": "DCW LTD.",
+      "isin": "INE500A01029"
+    },
+    {
+      "symbol": "543547",
+      "name": "DDEV PLASTIKS INDUSTRIES LIMIT",
+      "isin": "INE0HR601026"
+    },
+    {
+      "symbol": "502137",
+      "name": "DECCAN CEMENTS LTD.",
+      "isin": "INE583C01021"
+    },
+    {
+      "symbol": "512068",
+      "name": "DECCAN GOLD MINES LTD.",
+      "isin": "INE945F01025"
+    },
+    {
+      "symbol": "500645",
+      "name": "DEEPAK FERTILISERS & PETROCHEM",
+      "isin": "INE501A01019"
+    },
+    {
+      "symbol": "506401",
+      "name": "DEEPAK NITRITE LTD.",
+      "isin": "INE288B01029"
+    },
+    {
+      "symbol": "507717",
+      "name": "DHANUKA AGRITECH LTD.",
+      "isin": "INE435G01025"
+    },
+    {
+      "symbol": "543687",
+      "name": "Dharmaj Crop Guard Limited",
+      "isin": "INE00OQ01016"
+    },
+    {
+      "symbol": "506405",
+      "name": "DMCC SPECIALITY CHEMICALS LIMI",
+      "isin": "INE505A01010"
+    },
+    {
+      "symbol": "500123",
+      "name": "ELANTAS BECK INDIA LTD.",
+      "isin": "INE280B01018"
+    },
+    {
+      "symbol": "544421",
+      "name": "ELLENBARRIE INDUSTRIAL GASES L",
+      "isin": "INE236E01022"
+    },
+    {
+      "symbol": "543332",
+      "name": "Epigral Limited",
+      "isin": "INE071N01016"
+    },
+    {
+      "symbol": "508906",
+      "name": "EVEREST INDUSTRIES LTD.",
+      "isin": "INE295A01018"
+    },
+    {
+      "symbol": "500650",
+      "name": "EXCEL INDUSTRIES LTD.",
+      "isin": "INE369A01029"
+    },
+    {
+      "symbol": "543252",
+      "name": "Fairchem Organics Limited",
+      "isin": "INE0DNW01011"
+    },
+    {
+      "symbol": "541557",
+      "name": "Fine Organic Industries Limite",
+      "isin": "INE686Y01026"
+    },
+    {
+      "symbol": "533333",
+      "name": "FINEOTEX CHEMICAL LTD.",
+      "isin": "INE045J01034"
+    },
+    {
+      "symbol": "500150",
+      "name": "FOSECO INDIA LTD.",
+      "isin": "INE519A01011"
+    },
+    {
+      "symbol": "540935",
+      "name": "Galaxy Surfactants Limited",
+      "isin": "INE600K01018"
+    },
+    {
+      "symbol": "544491",
+      "name": "Gem Aromatics Limited",
+      "isin": "INE06XZ01023"
+    },
+    {
+      "symbol": "500171",
+      "name": "GHCL LTD.",
+      "isin": "INE539A01019"
+    },
+    {
+      "symbol": "542351",
+      "name": "Gloster Ltd",
+      "isin": "INE350Z01018"
+    },
+    {
+      "symbol": "506480",
+      "name": "GOCL Corporation Limited",
+      "isin": "INE077F01035"
+    },
+    {
+      "symbol": "500300",
+      "name": "GRASIM INDUSTRIES LTD.",
+      "isin": "INE047A01021"
+    },
+    {
+      "symbol": "505710",
+      "name": "GRAUER & WEIL (INDIA) LTD.",
+      "isin": "INE266D01021"
+    },
+    {
+      "symbol": "533282",
+      "name": "GRAVITA INDIA LTD.",
+      "isin": "INE024L01027"
+    },
+    {
+      "symbol": "530001",
+      "name": "GUJARAT ALKALIES & CHEMICALS L",
+      "isin": "INE186A01019"
+    },
+    {
+      "symbol": "542812",
+      "name": "Gujarat Fluorochemicals Limite",
+      "isin": "INE09N301011"
+    },
+    {
+      "symbol": "532181",
+      "name": "GUJARAT MINERAL DEVELOPMENT CO",
+      "isin": "INE131A01031"
+    },
+    {
+      "symbol": "500670",
+      "name": "GUJARAT NARMADA VALLEY FERTILI",
+      "isin": "INE113A01013"
+    },
+    {
+      "symbol": "500690",
+      "name": "GUJARAT STATE FERTILIZERS & CH",
+      "isin": "INE026A01025"
+    },
+    {
+      "symbol": "500292",
+      "name": "HEIDELBERGCEMENT INDIA LTD.",
+      "isin": "INE578A01017"
+    },
+    {
+      "symbol": "543266",
+      "name": "Heranba Industries Limited",
+      "isin": "INE694N01015"
+    },
+    {
+      "symbol": "500184",
+      "name": "Himadri Speciality Chemical Lt",
+      "isin": "INE019C01026"
+    },
+    {
+      "symbol": "500440",
+      "name": "HINDALCO INDUSTRIES LTD.",
+      "isin": "INE038A01020"
+    },
+    {
+      "symbol": "513599",
+      "name": "HINDUSTAN COPPER LTD.",
+      "isin": "INE531E01026"
+    },
+    {
+      "symbol": "500188",
+      "name": "HINDUSTAN ZINC LTD.",
+      "isin": "INE267A01025"
+    },
+    {
+      "symbol": "500199",
+      "name": "I G PETROCHEMICALS LTD.",
+      "isin": "INE204A01010"
+    },
+    {
+      "symbol": "530005",
+      "name": "INDIA CEMENTS LTD.",
+      "isin": "INE383A01012"
+    },
+    {
+      "symbol": "543311",
+      "name": "India Pesticides Limited",
+      "isin": "INE0D6701023"
+    },
+    {
+      "symbol": "533047",
+      "name": "INDIAN METALS & FERRO ALLOYS L",
+      "isin": "INE919H01018"
+    },
+    {
+      "symbol": "524648",
+      "name": "INDO AMINES LTD.",
+      "isin": "INE760F01028"
+    },
+    {
+      "symbol": "532851",
+      "name": "INSECTICIDES (INDIA) LTD.",
+      "isin": "INE070I01018"
+    },
+    {
+      "symbol": "544138",
+      "name": "J.G.Chemicals Limited",
+      "isin": "INE0MB501011"
+    },
+    {
+      "symbol": "532644",
+      "name": "J.K.CEMENT LTD.",
+      "isin": "INE823G01014"
+    },
+    {
+      "symbol": "532976",
+      "name": "JAI BALAJI INDUSTRIES LTD.",
+      "isin": "INE091G01026"
+    },
+    {
+      "symbol": "544537",
+      "name": "Jain Resource Recycling Limite",
+      "isin": "INE0YD401026"
+    },
+    {
+      "symbol": "524330",
+      "name": "JAYANT AGRO-ORGANICS LTD.",
+      "isin": "INE785A01026"
+    },
+    {
+      "symbol": "532508",
+      "name": "JINDAL STAINLESS LTD.",
+      "isin": "INE220G01021"
+    },
+    {
+      "symbol": "532286",
+      "name": "JINDAL STEEL LIMITED",
+      "isin": "INE749A01030"
+    },
+    {
+      "symbol": "500380",
+      "name": "JK LAKSHMI CEMENT LTD.",
+      "isin": "INE786A01032"
+    },
+    {
+      "symbol": "532162",
+      "name": "JK PAPER LTD.",
+      "isin": "INE789E01012"
+    },
+    {
+      "symbol": "544480",
+      "name": "JSW CEMENT LIMITED",
+      "isin": "INE718I01012"
+    },
+    {
+      "symbol": "500228",
+      "name": "JSW STEEL LTD.",
+      "isin": "INE019A01038"
+    },
+    {
+      "symbol": "544355",
+      "name": "Jubilant Agri and Consumer Pro",
+      "isin": "INE03CC01015"
+    },
+    {
+      "symbol": "543271",
+      "name": "Jubilant Ingrevia Limited",
+      "isin": "INE0BY001018"
+    },
+    {
+      "symbol": "514448",
+      "name": "JYOTI RESINS & ADHESIVES LTD.",
+      "isin": "INE577D01013"
+    },
+    {
+      "symbol": "507794",
+      "name": "KHAITAN CHEMICALS & FERTILIZER",
+      "isin": "INE745B01028"
+    },
+    {
+      "symbol": "540680",
+      "name": "KIOCL Limited",
+      "isin": "INE880L01014"
+    },
+    {
+      "symbol": "532967",
+      "name": "KIRI INDUSTRIES LTD.",
+      "isin": "INE415I01015"
+    },
+    {
+      "symbol": "500245",
+      "name": "KIRLOSKAR FERROUS INDUSTRIES L",
+      "isin": "INE884B01025"
+    },
+    {
+      "symbol": "532937",
+      "name": "KUANTUM PAPERS LTD.",
+      "isin": "INE529I01021"
+    },
+    {
+      "symbol": "543277",
+      "name": "Laxmi Organic Industries Limit",
+      "isin": "INE576O01020"
+    },
+    {
+      "symbol": "523457",
+      "name": "Linde India Limited",
+      "isin": "INE473A01011"
+    },
+    {
+      "symbol": "512463",
+      "name": "LLOYDS ENTERPRISES LIMITED",
+      "isin": "INE080I01025"
+    },
+    {
+      "symbol": "512455",
+      "name": "LLOYDS METALS AND ENERGY LTD.",
+      "isin": "INE281B01032"
+    },
+    {
+      "symbol": "500268",
+      "name": "MANALI PETROCHEMICAL LTD.",
+      "isin": "INE201A01024"
+    },
+    {
+      "symbol": "502157",
+      "name": "MANGALAM CEMENT LTD.",
+      "isin": "INE347A01017"
+    },
+    {
+      "symbol": "543331",
+      "name": "Meghmani Organics Limited",
+      "isin": "INE0CT101020"
+    },
+    {
+      "symbol": "533286",
+      "name": "MOIL LTD.",
+      "isin": "INE490G01020"
+    },
+    {
+      "symbol": "524709",
+      "name": "NACL Industries Limited",
+      "isin": "INE295D01020"
+    },
+    {
+      "symbol": "532234",
+      "name": "NATIONAL ALUMINIUM CO.LTD.",
+      "isin": "INE139A01034"
+    },
+    {
+      "symbol": "523630",
+      "name": "NATIONAL FERTILIZERS LTD.",
+      "isin": "INE870D01012"
+    },
+    {
+      "symbol": "532504",
+      "name": "NAVIN FLUORINE INTERNATIONAL L",
+      "isin": "INE048G01026"
+    },
+    {
+      "symbol": "502168",
+      "name": "NCL INDUSTRIES LTD.",
+      "isin": "INE732C01016"
+    },
+    {
+      "symbol": "542665",
+      "name": "Neogen Chemicals Limited",
+      "isin": "INE136S01016"
+    },
+    {
+      "symbol": "506532",
+      "name": "NITTA GELATIN INDIA LTD.",
+      "isin": "INE265B01019"
+    },
+    {
+      "symbol": "526371",
+      "name": "NMDC LTD.",
+      "isin": "INE584A01023"
+    },
+    {
+      "symbol": "543768",
+      "name": "NMDC Steel Limited",
+      "isin": "INE0NNS01018"
+    },
+    {
+      "symbol": "500730",
+      "name": "NOCIL LTD.",
+      "isin": "INE163A01018"
+    },
+    {
+      "symbol": "543334",
+      "name": "Nuvoco Vistas Corporation Limi",
+      "isin": "INE118D01016"
+    },
+    {
+      "symbol": "535754",
+      "name": "ORIENT CEMENT LTD",
+      "isin": "INE876N01018"
+    },
+    {
+      "symbol": "502420",
+      "name": "ORIENT PAPER & INDUSTRIES LTD.",
+      "isin": "INE592A01026"
+    },
+    {
+      "symbol": "500078",
+      "name": "ORIENTAL AROMATICS LIMITED",
+      "isin": "INE959C01023"
+    },
+    {
+      "symbol": "523642",
+      "name": "P.I.INDUSTRIES LTD.",
+      "isin": "INE603J01030"
+    },
+    {
+      "symbol": "516030",
+      "name": "PAKKA LIMITED",
+      "isin": "INE551D01018"
+    },
+    {
+      "symbol": "543530",
+      "name": "Paradeep Phosphates Limited",
+      "isin": "INE088F01024"
+    },
+    {
+      "symbol": "532742",
+      "name": "PAUSHAK LTD.",
+      "isin": "INE111F01024"
+    },
+    {
+      "symbol": "506590",
+      "name": "PCBL Chemical Limited",
+      "isin": "INE602A01031"
+    },
+    {
+      "symbol": "500331",
+      "name": "PIDILITE INDUSTRIES LTD.",
+      "isin": "INE318A01026"
+    },
+    {
+      "symbol": "544134",
+      "name": "Platinum Industries Limited",
+      "isin": "INE0PT501018"
+    },
+    {
+      "symbol": "532626",
+      "name": "PONDY OXIDES & CHEMICALS LTD.",
+      "isin": "INE063E01053"
+    },
+    {
+      "symbol": "506022",
+      "name": "PRAKASH INDUSTRIES LTD.",
+      "isin": "INE603A01013"
+    },
+    {
+      "symbol": "526247",
+      "name": "PREMIER EXPLOSIVES LTD.",
+      "isin": "INE863B01029"
+    },
+    {
+      "symbol": "506852",
+      "name": "Primo Chemicals Limited",
+      "isin": "INE607A01022"
+    },
+    {
+      "symbol": "500338",
+      "name": "PRISM JOHNSON LIMITED.",
+      "isin": "INE010A01011"
+    },
+    {
+      "symbol": "530117",
+      "name": "PRIVI SPECIALITY CHEMICALS LIM",
+      "isin": "INE959A01019"
+    },
+    {
+      "symbol": "539785",
+      "name": "Pudumjee Paper Products Limite",
+      "isin": "INE865T01018"
+    },
+    {
+      "symbol": "506618",
+      "name": "PUNJAB CHEMICALS AND CROP PROT",
+      "isin": "INE277B01014"
+    },
+    {
+      "symbol": "500339",
+      "name": "RAIN INDUSTRIES LIMITED",
+      "isin": "INE855B01025"
+    },
+    {
+      "symbol": "500355",
+      "name": "RALLIS INDIA LTD.",
+      "isin": "INE613A01020"
+    },
+    {
+      "symbol": "532369",
+      "name": "RAMCO INDUSTRIES LTD.",
+      "isin": "INE614A01028"
+    },
+    {
+      "symbol": "524230",
+      "name": "RASHTRIYA CHEMICALS & FERTILIZ",
+      "isin": "INE027A01015"
+    },
+    {
+      "symbol": "543213",
+      "name": "ROSSARI BIOTECH LIMITED",
+      "isin": "INE02A801020"
+    },
+    {
+      "symbol": "539450",
+      "name": "S H Kelkar and Company Limited",
+      "isin": "INE500L01026"
+    },
+    {
+      "symbol": "502090",
+      "name": "SAGAR CEMENTS LTD.",
+      "isin": "INE229C01021"
+    },
+    {
+      "symbol": "504918",
+      "name": "SANDUR MANGANESE & IRON ORES L",
+      "isin": "INE149K01016"
+    },
+    {
+      "symbol": "504614",
+      "name": "SARDA ENERGY & MINERALS LTD.",
+      "isin": "INE385C01021"
+    },
+    {
+      "symbol": "539201",
+      "name": "SATIA INDUSTRIES LIMITED",
+      "isin": "INE170E01023"
+    },
+    {
+      "symbol": "502175",
+      "name": "SAURASHTRA CEMENT LTD.",
+      "isin": "INE626A01014"
+    },
+    {
+      "symbol": "502450",
+      "name": "SESHASAYEE PAPER & BOARDS LTD.",
+      "isin": "INE630A01024"
+    },
+    {
+      "symbol": "512329",
+      "name": "SG MART LIMITED",
+      "isin": "INE385F01024"
+    },
+    {
+      "symbol": "538666",
+      "name": "Sharda Cropchem Limited",
+      "isin": "INE221J01015"
+    },
+    {
+      "symbol": "532323",
+      "name": "SHIVA CEMENT LTD.",
+      "isin": "INE555C01029"
+    },
+    {
+      "symbol": "539148",
+      "name": "Shivalik Rasayan Ltd.",
+      "isin": "INE788J01021"
+    },
+    {
+      "symbol": "500387",
+      "name": "SHREE CEMENT LTD.",
+      "isin": "INE070A01015"
+    },
+    {
+      "symbol": "502180",
+      "name": "SHREE DIGVIJAY CEMENT CO.LTD.",
+      "isin": "INE232A01011"
+    },
+    {
+      "symbol": "539334",
+      "name": "Shree Pushkar Chemicals & Fert",
+      "isin": "INE712K01011"
+    },
+    {
+      "symbol": "532725",
+      "name": "SOLAR INDUSTRIES INDIA LTD.",
+      "isin": "INE343H01029"
+    },
+    {
+      "symbol": "532842",
+      "name": "SREE RAYALASEEMA HI-STRENGTH H",
+      "isin": "INE917H01012"
+    },
+    {
+      "symbol": "503806",
+      "name": "SRF LTD.",
+      "isin": "INE647A01010"
+    },
+    {
+      "symbol": "544342",
+      "name": "Stallion India Fluorochemicals",
+      "isin": "INE0RYC01010"
+    },
+    {
+      "symbol": "540575",
+      "name": "Star Cement Limited",
+      "isin": "INE460H01021"
+    },
+    {
+      "symbol": "500113",
+      "name": "STEEL AUTHORITY OF INDIA LTD.",
+      "isin": "INE114A01011"
+    },
+    {
+      "symbol": "506222",
+      "name": "Styrenix Performance Materials",
+      "isin": "INE189B01011"
+    },
+    {
+      "symbol": "506655",
+      "name": "SUDARSHAN CHEMICAL INDUSTRIES",
+      "isin": "INE659A01023"
+    },
+    {
+      "symbol": "506390",
+      "name": "Sudarshan Colorants India Limi",
+      "isin": "INE492A01029"
+    },
+    {
+      "symbol": "544619",
+      "name": "Sudeep Pharma Limited",
+      "isin": "INE0QPI01025"
+    },
+    {
+      "symbol": "542920",
+      "name": "SUMITOMO CHEMICAL INDIA LIMITE",
+      "isin": "INE258G01013"
+    },
+    {
+      "symbol": "500405",
+      "name": "SUPREME PETROCHEM LTD.",
+      "isin": "INE663A01033"
+    },
+    {
+      "symbol": "503310",
+      "name": "Swan Corp Limited",
+      "isin": "INE665A01038"
+    },
+    {
+      "symbol": "531426",
+      "name": "TAMIL NADU NEWSPRINT & PAPERS",
+      "isin": "INE107A01015"
+    },
+    {
+      "symbol": "500777",
+      "name": "TAMILNADU PETROPRODUCTS LTD.",
+      "isin": "INE148A01019"
+    },
+    {
+      "symbol": "506854",
+      "name": "TANFAC INDUSTRIES LTD.",
+      "isin": "INE639B01023"
+    },
+    {
+      "symbol": "500770",
+      "name": "TATA CHEMICALS LTD.",
+      "isin": "INE092A01019"
+    },
+    {
+      "symbol": "500470",
+      "name": "TATA STEEL LTD.",
+      "isin": "INE081A01020"
+    },
+    {
+      "symbol": "543321",
+      "name": "Tatva Chintan Pharma Chem Limi",
+      "isin": "INE0GK401011"
+    },
+    {
+      "symbol": "500260",
+      "name": "THE RAMCO CEMENTS LIMITED",
+      "isin": "INE331A01037"
+    },
+    {
+      "symbol": "500412",
+      "name": "THIRUMALAI CHEMICALS LTD.",
+      "isin": "INE338A01024"
+    },
+    {
+      "symbol": "506687",
+      "name": "TRANSPEK INDUSTRY LTD.",
+      "isin": "INE687A01016"
+    },
+    {
+      "symbol": "506685",
+      "name": "ULTRAMARINE & PIGMENTS LTD.",
+      "isin": "INE405A01021"
+    },
+    {
+      "symbol": "532538",
+      "name": "ULTRATECH CEMENT LTD.",
+      "isin": "INE481G01011"
+    },
+    {
+      "symbol": "512070",
+      "name": "UPL LIMITED",
+      "isin": "INE628A01036"
+    },
+    {
+      "symbol": "540145",
+      "name": "Valiant Organics Limited",
+      "isin": "INE565V01010"
+    },
+    {
+      "symbol": "512229",
+      "name": "VERITAS (INDIA) LTD.",
+      "isin": "INE379J01029"
+    },
+    {
+      "symbol": "531717",
+      "name": "Vidhi Specialty Food Ingredien",
+      "isin": "INE632C01026"
+    },
+    {
+      "symbol": "524200",
+      "name": "VINATI ORGANICS LTD.",
+      "isin": "INE410B01037"
+    },
+    {
+      "symbol": "509055",
+      "name": "VISAKA INDUSTRIES LTD.",
+      "isin": "INE392A01021"
+    },
+    {
+      "symbol": "516072",
+      "name": "VISHNU CHEMICALS LTD.",
+      "isin": "INE270I01022"
+    },
+    {
+      "symbol": "544204",
+      "name": "VRAJ IRON AND STEEL LIMITED",
+      "isin": "INE0S2V01010"
+    },
+    {
+      "symbol": "500444",
+      "name": "West Coast Paper Mills Limited",
+      "isin": "INE976A01021"
+    },
+    {
+      "symbol": "541167",
+      "name": "YASHO INDUSTRIES LIMITED",
+      "isin": "INE616Z01012"
+    },
+    {
+      "symbol": "534742",
+      "name": "ZUARI AGRO CHEMICALS LTD.",
+      "isin": "INE840M01016"
+    }
+  ]
+}

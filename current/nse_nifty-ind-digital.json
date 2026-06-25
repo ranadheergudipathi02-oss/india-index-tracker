@@ -1,0 +1,265 @@
+{
+  "id": "NSE:NIFTY IND DIGITAL",
+  "exchange": "NSE",
+  "name": "NIFTY IND DIGITAL",
+  "code": null,
+  "source": "https://niftyindices.com/IndexConstituent/ind_niftyindiadigital_list.csv",
+  "count": 51,
+  "members": [
+    {
+      "symbol": "AFFLE",
+      "name": "Affle 3i Ltd.",
+      "isin": "INE00WC01027"
+    },
+    {
+      "symbol": "BLS",
+      "name": "BLS International Services Ltd.",
+      "isin": "INE153T01027"
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "name": "Bharti Airtel Ltd.",
+      "isin": "INE397D01024"
+    },
+    {
+      "symbol": "BHARTIHEXA",
+      "name": "Bharti Hexacom Ltd.",
+      "isin": "INE343G01021"
+    },
+    {
+      "symbol": "BSOFT",
+      "name": "Birlasoft Ltd.",
+      "isin": "INE836A01035"
+    },
+    {
+      "symbol": "FIRSTCRY",
+      "name": "Brainbees Solutions Ltd.",
+      "isin": "INE02RE01045"
+    },
+    {
+      "symbol": "MAPMYINDIA",
+      "name": "C.E. Info Systems Ltd.",
+      "isin": "INE0BV301023"
+    },
+    {
+      "symbol": "CARTRADE",
+      "name": "Cartrade Tech Ltd.",
+      "isin": "INE290S01011"
+    },
+    {
+      "symbol": "COFORGE",
+      "name": "Coforge Ltd.",
+      "isin": "INE591G01025"
+    },
+    {
+      "symbol": "CYIENT",
+      "name": "Cyient Ltd.",
+      "isin": "INE136B01020"
+    },
+    {
+      "symbol": "ETERNAL",
+      "name": "Eternal Ltd.",
+      "isin": "INE758T01015"
+    },
+    {
+      "symbol": "NYKAA",
+      "name": "FSN E-Commerce Ventures Ltd.",
+      "isin": "INE388Y01029"
+    },
+    {
+      "symbol": "HCLTECH",
+      "name": "HCL Technologies Ltd.",
+      "isin": "INE860A01027"
+    },
+    {
+      "symbol": "HEXT",
+      "name": "Hexaware Technologies Ltd.",
+      "isin": "INE093A01041"
+    },
+    {
+      "symbol": "ITI",
+      "name": "ITI Ltd.",
+      "isin": "INE248A01017"
+    },
+    {
+      "symbol": "INDIAMART",
+      "name": "Indiamart Intermesh Ltd.",
+      "isin": "INE933S01016"
+    },
+    {
+      "symbol": "IRCTC",
+      "name": "Indian Railway Catering And Tourism Corporation Ltd.",
+      "isin": "INE335Y01020"
+    },
+    {
+      "symbol": "NAUKRI",
+      "name": "Info Edge (India) Ltd.",
+      "isin": "INE663F01032"
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Ltd.",
+      "isin": "INE009A01021"
+    },
+    {
+      "symbol": "INTELLECT",
+      "name": "Intellect Design Arena Ltd.",
+      "isin": "INE306R01017"
+    },
+    {
+      "symbol": "IKS",
+      "name": "Inventurus Knowledge Solutions Ltd.",
+      "isin": "INE115Q01022"
+    },
+    {
+      "symbol": "KPITTECH",
+      "name": "KPIT Technologies Ltd.",
+      "isin": "INE04I401011"
+    },
+    {
+      "symbol": "LTTS",
+      "name": "L&T Technology Services Ltd.",
+      "isin": "INE010V01017"
+    },
+    {
+      "symbol": "LTM",
+      "name": "LTM Ltd.",
+      "isin": "INE214T01019"
+    },
+    {
+      "symbol": "LATENTVIEW",
+      "name": "Latent View Analytics Ltd.",
+      "isin": "INE0I7C01011"
+    },
+    {
+      "symbol": "MEESHO",
+      "name": "Meesho Ltd.",
+      "isin": "INE0VDM01015"
+    },
+    {
+      "symbol": "MPHASIS",
+      "name": "MphasiS Ltd.",
+      "isin": "INE356A01018"
+    },
+    {
+      "symbol": "NETWEB",
+      "name": "Netweb Technologies India Ltd.",
+      "isin": "INE0NT901020"
+    },
+    {
+      "symbol": "NEWGEN",
+      "name": "Newgen Software Technologies Ltd.",
+      "isin": "INE619B01017"
+    },
+    {
+      "symbol": "PAYTM",
+      "name": "One 97 Communications Ltd.",
+      "isin": "INE982J01020"
+    },
+    {
+      "symbol": "OFSS",
+      "name": "Oracle Financial Services Software Ltd.",
+      "isin": "INE881D01027"
+    },
+    {
+      "symbol": "POLICYBZR",
+      "name": "PB Fintech Ltd.",
+      "isin": "INE417T01026"
+    },
+    {
+      "symbol": "PERSISTENT",
+      "name": "Persistent Systems Ltd.",
+      "isin": "INE262H01021"
+    },
+    {
+      "symbol": "PWL",
+      "name": "Physicswallah Ltd.",
+      "isin": "INE0LP301011"
+    },
+    {
+      "symbol": "PINELABS",
+      "name": "Pine Labs Ltd.",
+      "isin": "INE15B701018"
+    },
+    {
+      "symbol": "RAILTEL",
+      "name": "Railtel Corporation Of India Ltd.",
+      "isin": "INE0DD101019"
+    },
+    {
+      "symbol": "SAGILITY",
+      "name": "Sagility Ltd.",
+      "isin": "INE0W2G01015"
+    },
+    {
+      "symbol": "SONATSOFTW",
+      "name": "Sonata Software Ltd.",
+      "isin": "INE269A01021"
+    },
+    {
+      "symbol": "SWIGGY",
+      "name": "Swiggy Ltd.",
+      "isin": "INE00H001014"
+    },
+    {
+      "symbol": "TBOTEK",
+      "name": "TBO Tek Ltd.",
+      "isin": "INE673O01025"
+    },
+    {
+      "symbol": "TATACOMM",
+      "name": "Tata Communications Ltd.",
+      "isin": "INE151A01013"
+    },
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services Ltd.",
+      "isin": "INE467B01029"
+    },
+    {
+      "symbol": "TATAELXSI",
+      "name": "Tata Elxsi Ltd.",
+      "isin": "INE670A01012"
+    },
+    {
+      "symbol": "TATATECH",
+      "name": "Tata Technologies Ltd.",
+      "isin": "INE142M01025"
+    },
+    {
+      "symbol": "TTML",
+      "name": "Tata Teleservices (Maharashtra) Ltd.",
+      "isin": "INE517B01013"
+    },
+    {
+      "symbol": "TECHM",
+      "name": "Tech Mahindra Ltd.",
+      "isin": "INE669C01036"
+    },
+    {
+      "symbol": "TEJASNET",
+      "name": "Tejas Networks Ltd.",
+      "isin": "INE010J01012"
+    },
+    {
+      "symbol": "URBANCO",
+      "name": "Urban Company Ltd.",
+      "isin": "INE0CAZ01013"
+    },
+    {
+      "symbol": "IDEA",
+      "name": "Vodafone Idea Ltd.",
+      "isin": "INE669E01016"
+    },
+    {
+      "symbol": "WIPRO",
+      "name": "Wipro Ltd.",
+      "isin": "INE075A01022"
+    },
+    {
+      "symbol": "ZENSARTECH",
+      "name": "Zensar Technolgies Ltd.",
+      "isin": "INE520A01027"
+    }
+  ]
+}
