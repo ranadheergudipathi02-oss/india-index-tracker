@@ -4,7 +4,7 @@
   "name": "BSE SME IPO",
   "code": "76",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMEIPO",
-  "count": 158,
+  "count": 159,
   "members": [
     {
       "symbol": "544422",
@@ -55,6 +55,11 @@
       "symbol": "544555",
       "name": "AMEENJI RUBBER LIMITED",
       "isin": "INE14QA01016"
+    },
+    {
+      "symbol": "544800",
+      "name": "ANUBHAV PLAST LIMITED",
+      "isin": "INE1O7201010"
     },
     {
       "symbol": "544671",
