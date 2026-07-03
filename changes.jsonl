@@ -178,3 +178,4 @@
 {"date": "2026-07-03", "index": "BSE:BSE POWER & ENERGY", "type": "change", "added": [{"symbol": "544801", "name": "GSPL Transmission Limited"}], "removed": []}
 {"date": "2026-07-03", "index": "BSE:BSE Energy", "type": "change", "added": [{"symbol": "544801", "name": "GSPL Transmission Limited"}], "removed": []}
 {"date": "2026-07-03", "index": "BSE:BSE PSU", "type": "change", "added": [{"symbol": "544801", "name": "GSPL Transmission Limited"}], "removed": []}
+{"date": "2026-07-03", "index": "NSE:NIFTY IPO", "type": "change", "added": [{"symbol": "TURTLEMINT", "name": "Turtlemint Fintech Solutions Ltd."}], "removed": []}

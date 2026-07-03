@@ -4,7 +4,7 @@
   "name": "NIFTY IPO",
   "code": null,
   "source": "https://niftyindices.com/IndexConstituent/ind_niftyipo_list.csv",
-  "count": 98,
+  "count": 99,
   "members": [
     {
       "symbol": "CPPLUS",
@@ -460,6 +460,11 @@
       "symbol": "TRUALT",
       "name": "TruAlt Bioenergy Ltd.",
       "isin": "INE0MWH01014"
+    },
+    {
+      "symbol": "TURTLEMINT",
+      "name": "Turtlemint Fintech Solutions Ltd.",
+      "isin": "INE0OC301013"
     },
     {
       "symbol": "URBANCO",
