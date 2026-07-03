@@ -4,7 +4,7 @@
   "name": "BSE PSU",
   "code": "44",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEPSU",
-  "count": 60,
+  "count": 61,
   "members": [
     {
       "symbol": "532134",
@@ -97,8 +97,13 @@
       "isin": "INE481Y01014"
     },
     {
+      "symbol": "544801",
+      "name": "GSPL Transmission Limited",
+      "isin": "INE1TUG01013"
+    },
+    {
       "symbol": "539336",
-      "name": "Gujarat Gas Limited",
+      "name": "Gujarat Energy Limited",
       "isin": "INE844O01030"
     },
     {

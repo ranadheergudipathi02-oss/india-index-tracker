@@ -12,14 +12,14 @@
       "isin": "INE012A01025"
     },
     {
-      "symbol": "ALKEM",
-      "name": "Alkem Laboratories Ltd.",
-      "isin": "INE540L01014"
+      "symbol": "ABSLAMC",
+      "name": "Aditya Birla Sun Life AMC Ltd.",
+      "isin": "INE404A01024"
     },
     {
-      "symbol": "ASIANPAINT",
-      "name": "Asian Paints Ltd.",
-      "isin": "INE021A01026"
+      "symbol": "ANANDRATHI",
+      "name": "Anand Rathi Wealth Ltd.",
+      "isin": "INE463V01026"
     },
     {
       "symbol": "ASTERDM",
@@ -30,11 +30,6 @@
       "symbol": "BAJAJ-AUTO",
       "name": "Bajaj Auto Ltd.",
       "isin": "INE917I01010"
-    },
-    {
-      "symbol": "BAJFINANCE",
-      "name": "Bajaj Finance Ltd.",
-      "isin": "INE296A01032"
     },
     {
       "symbol": "BANKBARODA",
@@ -67,6 +62,11 @@
       "isin": "INE178A01016"
     },
     {
+      "symbol": "CIPLA",
+      "name": "Cipla Ltd.",
+      "isin": "INE059A01026"
+    },
+    {
       "symbol": "COALINDIA",
       "name": "Coal India Ltd.",
       "isin": "INE522F01014"
@@ -92,24 +92,14 @@
       "isin": "INE016A01026"
     },
     {
-      "symbol": "DRREDDY",
-      "name": "Dr. Reddy's Laboratories Ltd.",
-      "isin": "INE089A01031"
-    },
-    {
-      "symbol": "EICHERMOT",
-      "name": "Eicher Motors Ltd.",
-      "isin": "INE066A01021"
-    },
-    {
       "symbol": "EMAMILTD",
       "name": "Emami Ltd.",
       "isin": "INE548C01032"
     },
     {
-      "symbol": "FEDERALBNK",
-      "name": "Federal Bank Ltd.",
-      "isin": "INE171A01029"
+      "symbol": "GAIL",
+      "name": "GAIL (India) Ltd.",
+      "isin": "INE129A01019"
     },
     {
       "symbol": "GILLETTE",
@@ -117,29 +107,14 @@
       "isin": "INE322A01010"
     },
     {
-      "symbol": "GLAXO",
-      "name": "Glaxosmithkline Pharmaceuticals Ltd.",
-      "isin": "INE159A01016"
-    },
-    {
-      "symbol": "GESHIP",
-      "name": "Great Eastern Shipping Co. Ltd.",
-      "isin": "INE017A01032"
-    },
-    {
       "symbol": "HDFCAMC",
       "name": "HDFC Asset Management Company Ltd.",
       "isin": "INE127D01025"
     },
     {
-      "symbol": "HAVELLS",
-      "name": "Havells India Ltd.",
-      "isin": "INE176B01034"
-    },
-    {
-      "symbol": "HEROMOTOCO",
-      "name": "Hero MotoCorp Ltd.",
-      "isin": "INE158A01026"
+      "symbol": "HINDALCO",
+      "name": "Hindalco Industries Ltd.",
+      "isin": "INE038A01020"
     },
     {
       "symbol": "HINDPETRO",
@@ -147,9 +122,14 @@
       "isin": "INE094A01015"
     },
     {
-      "symbol": "INDIANB",
-      "name": "Indian Bank",
-      "isin": "INE562A01011"
+      "symbol": "IRB",
+      "name": "IRB Infrastructure Developers Ltd.",
+      "isin": "INE821I01022"
+    },
+    {
+      "symbol": "INDIAMART",
+      "name": "Indiamart Intermesh Ltd.",
+      "isin": "INE933S01016"
     },
     {
       "symbol": "IEX",
@@ -167,9 +147,14 @@
       "isin": "INE335Y01020"
     },
     {
-      "symbol": "LTF",
-      "name": "L&T Finance Ltd.",
-      "isin": "INE498L01015"
+      "symbol": "JBCHEPHARM",
+      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
+      "isin": "INE572A01036"
+    },
+    {
+      "symbol": "JSWDULUX",
+      "name": "JSW Dulux Ltd.",
+      "isin": "INE133A01011"
     },
     {
       "symbol": "LICHSGFIN",
@@ -177,19 +162,9 @@
       "isin": "INE115A01026"
     },
     {
-      "symbol": "MRF",
-      "name": "MRF Ltd.",
-      "isin": "INE883A01011"
-    },
-    {
-      "symbol": "M&MFIN",
-      "name": "Mahindra & Mahindra Financial Services Ltd.",
-      "isin": "INE774D01024"
-    },
-    {
-      "symbol": "MANAPPURAM",
-      "name": "Manappuram Finance Ltd.",
-      "isin": "INE522D01027"
+      "symbol": "LUPIN",
+      "name": "Lupin Ltd.",
+      "isin": "INE326A01037"
     },
     {
       "symbol": "MARICO",
@@ -197,24 +172,9 @@
       "isin": "INE196A01026"
     },
     {
-      "symbol": "MARUTI",
-      "name": "Maruti Suzuki India Ltd.",
-      "isin": "INE585B01010"
-    },
-    {
-      "symbol": "MFSL",
-      "name": "Max Financial Services Ltd.",
-      "isin": "INE180A01020"
-    },
-    {
       "symbol": "MSUMI",
       "name": "Motherson Sumi Wiring India Ltd.",
       "isin": "INE0FS801015"
-    },
-    {
-      "symbol": "MUTHOOTFIN",
-      "name": "Muthoot Finance Ltd.",
-      "isin": "INE414G01012"
     },
     {
       "symbol": "NATIONALUM",
@@ -232,9 +192,29 @@
       "isin": "INE761H01022"
     },
     {
+      "symbol": "PIDILITIND",
+      "name": "Pidilite Industries Ltd.",
+      "isin": "INE318A01026"
+    },
+    {
+      "symbol": "POLYCAB",
+      "name": "Polycab India Ltd.",
+      "isin": "INE455K01017"
+    },
+    {
       "symbol": "PFC",
       "name": "Power Finance Corporation Ltd.",
       "isin": "INE134E01011"
+    },
+    {
+      "symbol": "POWERGRID",
+      "name": "Power Grid Corporation of India Ltd.",
+      "isin": "INE752E01010"
+    },
+    {
+      "symbol": "RECLTD",
+      "name": "REC Ltd.",
+      "isin": "INE020B01018"
     },
     {
       "symbol": "REDINGTON",
@@ -242,9 +222,24 @@
       "isin": "INE891D01026"
     },
     {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "name": "Sun Pharmaceutical Industries Ltd.",
+      "isin": "INE044A01036"
+    },
+    {
       "symbol": "TCS",
       "name": "Tata Consultancy Services Ltd.",
       "isin": "INE467B01029"
+    },
+    {
+      "symbol": "TMPV",
+      "name": "Tata Motors Passenger Vehicles Ltd.",
+      "isin": "INE155A01022"
     },
     {
       "symbol": "TORNTPHARM",
@@ -255,6 +250,11 @@
       "symbol": "UNIONBANK",
       "name": "Union Bank of India",
       "isin": "INE692A01016"
+    },
+    {
+      "symbol": "ZYDUSLIFE",
+      "name": "Zydus Lifesciences Ltd.",
+      "isin": "INE010B01027"
     }
   ]
 }

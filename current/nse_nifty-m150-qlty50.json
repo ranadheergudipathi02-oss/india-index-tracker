@@ -52,6 +52,11 @@
       "isin": "INE006I01046"
     },
     {
+      "symbol": "BSE",
+      "name": "BSE Ltd.",
+      "isin": "INE118H01025"
+    },
+    {
       "symbol": "BALKRISIND",
       "name": "Balkrishna Industries Ltd.",
       "isin": "INE787D01026"
@@ -92,14 +97,19 @@
       "isin": "INE169A01031"
     },
     {
-      "symbol": "CUMMINSIND",
-      "name": "Cummins India Ltd.",
-      "isin": "INE298A01020"
+      "symbol": "DABUR",
+      "name": "Dabur India Ltd.",
+      "isin": "INE016A01026"
     },
     {
       "symbol": "DIXON",
       "name": "Dixon Technologies (India) Ltd.",
       "isin": "INE935N01020"
+    },
+    {
+      "symbol": "ENDURANCE",
+      "name": "Endurance Technologies Ltd.",
+      "isin": "INE913H01037"
     },
     {
       "symbol": "GLAXO",
@@ -112,14 +122,9 @@
       "isin": "INE260B01028"
     },
     {
-      "symbol": "GUJGASLTD",
-      "name": "Gujarat Gas Ltd.",
-      "isin": "INE844O01030"
-    },
-    {
-      "symbol": "HDFCAMC",
-      "name": "HDFC Asset Management Company Ltd.",
-      "isin": "INE127D01025"
+      "symbol": "HAVELLS",
+      "name": "Havells India Ltd.",
+      "isin": "INE176B01034"
     },
     {
       "symbol": "HEROMOTOCO",
@@ -127,19 +132,24 @@
       "isin": "INE158A01026"
     },
     {
+      "symbol": "POWERINDIA",
+      "name": "Hitachi Energy India Ltd.",
+      "isin": "INE07Y701011"
+    },
+    {
       "symbol": "HONAUT",
       "name": "Honeywell Automation India Ltd.",
       "isin": "INE671A01010"
     },
     {
+      "symbol": "INDIANB",
+      "name": "Indian Bank",
+      "isin": "INE562A01011"
+    },
+    {
       "symbol": "IRCTC",
       "name": "Indian Railway Catering And Tourism Corporation Ltd.",
       "isin": "INE335Y01020"
-    },
-    {
-      "symbol": "IGL",
-      "name": "Indraprastha Gas Ltd.",
-      "isin": "INE203G01027"
     },
     {
       "symbol": "KPRMILL",
@@ -175,11 +185,6 @@
       "symbol": "MPHASIS",
       "name": "MphasiS Ltd.",
       "isin": "INE356A01018"
-    },
-    {
-      "symbol": "MUTHOOTFIN",
-      "name": "Muthoot Finance Ltd.",
-      "isin": "INE414G01012"
     },
     {
       "symbol": "NMDC",
@@ -222,29 +227,19 @@
       "isin": "INE455K01017"
     },
     {
-      "symbol": "PGHH",
-      "name": "Procter & Gamble Hygiene & Health Care Ltd.",
-      "isin": "INE179A01014"
-    },
-    {
       "symbol": "SCHAEFFLER",
       "name": "Schaeffler India Ltd.",
       "isin": "INE513A01022"
     },
     {
-      "symbol": "SONACOMS",
-      "name": "Sona BLW Precision Forgings Ltd.",
-      "isin": "INE073K01018"
+      "symbol": "SUNDARMFIN",
+      "name": "Sundaram Finance Ltd.",
+      "isin": "INE660A01013"
     },
     {
       "symbol": "SUPREMEIND",
       "name": "Supreme Industries Ltd.",
       "isin": "INE195A01028"
-    },
-    {
-      "symbol": "SYNGENE",
-      "name": "Syngene International Ltd.",
-      "isin": "INE398R01022"
     },
     {
       "symbol": "TATAELXSI",
@@ -255,6 +250,11 @@
       "symbol": "TIINDIA",
       "name": "Tube Investments of India Ltd.",
       "isin": "INE974X01010"
+    },
+    {
+      "symbol": "VOLTAS",
+      "name": "Voltas Ltd.",
+      "isin": "INE226A01021"
     }
   ]
 }

@@ -12,11 +12,6 @@
       "isin": "INE012A01025"
     },
     {
-      "symbol": "ALKEM",
-      "name": "Alkem Laboratories Ltd.",
-      "isin": "INE540L01014"
-    },
-    {
       "symbol": "AMBUJACEM",
       "name": "Ambuja Cements Ltd.",
       "isin": "INE079A01024"
@@ -37,9 +32,9 @@
       "isin": "INE917I01010"
     },
     {
-      "symbol": "BAJFINANCE",
-      "name": "Bajaj Finance Ltd.",
-      "isin": "INE296A01032"
+      "symbol": "BAJAJHFL",
+      "name": "Bajaj Housing Finance Ltd.",
+      "isin": "INE377Y01014"
     },
     {
       "symbol": "BHARTIARTL",
@@ -47,14 +42,19 @@
       "isin": "INE397D01024"
     },
     {
-      "symbol": "BOSCHLTD",
-      "name": "Bosch Ltd.",
-      "isin": "INE323A01026"
-    },
-    {
       "symbol": "BRITANNIA",
       "name": "Britannia Industries Ltd.",
       "isin": "INE216A01030"
+    },
+    {
+      "symbol": "CASTROLIND",
+      "name": "Castrol India Ltd.",
+      "isin": "INE172A01027"
+    },
+    {
+      "symbol": "CIPLA",
+      "name": "Cipla Ltd.",
+      "isin": "INE059A01026"
     },
     {
       "symbol": "COALINDIA",
@@ -67,19 +67,9 @@
       "isin": "INE259A01022"
     },
     {
-      "symbol": "CROMPTON",
-      "name": "Crompton Greaves Consumer Electricals Ltd.",
-      "isin": "INE299U01018"
-    },
-    {
       "symbol": "DABUR",
       "name": "Dabur India Ltd.",
       "isin": "INE016A01026"
-    },
-    {
-      "symbol": "DALBHARAT",
-      "name": "Dalmia Bharat Ltd.",
-      "isin": "INE00R701025"
     },
     {
       "symbol": "DIVISLAB",
@@ -117,11 +107,6 @@
       "isin": "INE176B01034"
     },
     {
-      "symbol": "HEROMOTOCO",
-      "name": "Hero MotoCorp Ltd.",
-      "isin": "INE158A01026"
-    },
-    {
       "symbol": "ICICIGI",
       "name": "ICICI Lombard General Insurance Company Ltd.",
       "isin": "INE765G01017"
@@ -142,9 +127,19 @@
       "isin": "INE335Y01020"
     },
     {
+      "symbol": "JBCHEPHARM",
+      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
+      "isin": "INE572A01036"
+    },
+    {
       "symbol": "LICI",
       "name": "Life Insurance Corporation of India",
       "isin": "INE0J1Y01017"
+    },
+    {
+      "symbol": "LUPIN",
+      "name": "Lupin Ltd.",
+      "isin": "INE326A01037"
     },
     {
       "symbol": "MRF",
@@ -167,11 +162,6 @@
       "isin": "INE180A01020"
     },
     {
-      "symbol": "MSUMI",
-      "name": "Motherson Sumi Wiring India Ltd.",
-      "isin": "INE0FS801015"
-    },
-    {
       "symbol": "ONGC",
       "name": "Oil & Natural Gas Corporation Ltd.",
       "isin": "INE213A01029"
@@ -185,6 +175,11 @@
       "symbol": "PAGEIND",
       "name": "Page Industries Ltd.",
       "isin": "INE761H01022"
+    },
+    {
+      "symbol": "PIDILITIND",
+      "name": "Pidilite Industries Ltd.",
+      "isin": "INE318A01026"
     },
     {
       "symbol": "POWERGRID",
@@ -202,14 +197,19 @@
       "isin": "INE575P01011"
     },
     {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "isin": "INE062A01020"
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "name": "Sun Pharmaceutical Industries Ltd.",
+      "isin": "INE044A01036"
+    },
+    {
       "symbol": "TVSMOTOR",
       "name": "TVS Motor Company Ltd.",
       "isin": "INE494B01023"
-    },
-    {
-      "symbol": "TATACHEM",
-      "name": "Tata Chemicals Ltd.",
-      "isin": "INE092A01019"
     },
     {
       "symbol": "TCS",
@@ -232,14 +232,14 @@
       "isin": "INE669C01036"
     },
     {
-      "symbol": "RAMCOCEM",
-      "name": "The Ramco Cements Ltd.",
-      "isin": "INE331A01037"
-    },
-    {
       "symbol": "TORNTPHARM",
       "name": "Torrent Pharmaceuticals Ltd.",
       "isin": "INE685A01028"
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "name": "UltraTech Cement Ltd.",
+      "isin": "INE481G01011"
     },
     {
       "symbol": "UNITDSPR",

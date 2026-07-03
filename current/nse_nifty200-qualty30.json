@@ -87,11 +87,6 @@
       "isin": "INE154A01025"
     },
     {
-      "symbol": "IRCTC",
-      "name": "Indian Railway Catering And Tourism Corporation Ltd.",
-      "isin": "INE335Y01020"
-    },
-    {
       "symbol": "INFY",
       "name": "Infosys Ltd.",
       "isin": "INE009A01021"
@@ -145,6 +140,11 @@
       "symbol": "POLYCAB",
       "name": "Polycab India Ltd.",
       "isin": "INE455K01017"
+    },
+    {
+      "symbol": "SOLARINDS",
+      "name": "Solar Industries India Ltd.",
+      "isin": "INE343H01029"
     },
     {
       "symbol": "TCS",

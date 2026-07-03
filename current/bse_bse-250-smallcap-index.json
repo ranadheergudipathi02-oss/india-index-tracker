@@ -4,7 +4,7 @@
   "name": "BSE 250 SmallCap Index",
   "code": "103",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SML250",
-  "count": 250,
+  "count": 251,
   "members": [
     {
       "symbol": "544176",
@@ -537,8 +537,13 @@
       "isin": "INE017A01032"
     },
     {
+      "symbol": "544801",
+      "name": "GSPL Transmission Limited",
+      "isin": "INE1TUG01013"
+    },
+    {
       "symbol": "539336",
-      "name": "Gujarat Gas Limited",
+      "name": "Gujarat Energy Limited",
       "isin": "INE844O01030"
     },
     {

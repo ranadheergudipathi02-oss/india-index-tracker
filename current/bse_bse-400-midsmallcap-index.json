@@ -4,7 +4,7 @@
   "name": "BSE 400 MidSmallCap Index",
   "code": "105",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=MSL400",
-  "count": 400,
+  "count": 401,
   "members": [
     {
       "symbol": "542772",
@@ -807,14 +807,19 @@
       "isin": "INE017A01032"
     },
     {
-      "symbol": "542812",
-      "name": "Gujarat Fluorochemicals Limite",
-      "isin": "INE09N301011"
+      "symbol": "544801",
+      "name": "GSPL Transmission Limited",
+      "isin": "INE1TUG01013"
     },
     {
       "symbol": "539336",
-      "name": "Gujarat Gas Limited",
+      "name": "Gujarat Energy Limited",
       "isin": "INE844O01030"
+    },
+    {
+      "symbol": "542812",
+      "name": "Gujarat Fluorochemicals Limite",
+      "isin": "INE09N301011"
     },
     {
       "symbol": "532181",

@@ -72,6 +72,11 @@
       "isin": "INE150B01039"
     },
     {
+      "symbol": "AGL",
+      "name": "Allcargo Global Ltd.",
+      "isin": "INE1YPB01014"
+    },
+    {
       "symbol": "ALOKINDS",
       "name": "Alok Industries Ltd.",
       "isin": "INE270A01029"
@@ -270,11 +275,6 @@
       "symbol": "AGARWALEYE",
       "name": "Dr. Agarwal's Health Care Ltd.",
       "isin": "INE943P01029"
-    },
-    {
-      "symbol": "DUMMYALCAR",
-      "name": "Dummy Allcargo Logistics Ltd.",
-      "isin": "DUM418H01029"
     },
     {
       "symbol": "DYNAMATECH",
@@ -917,6 +917,11 @@
       "isin": "INE294B01019"
     },
     {
+      "symbol": "SHRIPISTON",
+      "name": "SPR Auto Technologies Ltd.",
+      "isin": "INE526E01018"
+    },
+    {
       "symbol": "SAATVIKGL",
       "name": "Saatvik Green Energy Ltd.",
       "isin": "INE13B501022"
@@ -990,11 +995,6 @@
       "symbol": "RENUKA",
       "name": "Shree Renuka Sugars Ltd.",
       "isin": "INE087H01022"
-    },
-    {
-      "symbol": "SHRIPISTON",
-      "name": "Shriram Pistons & Rings Ltd.",
-      "isin": "INE526E01018"
     },
     {
       "symbol": "SKIPPER",

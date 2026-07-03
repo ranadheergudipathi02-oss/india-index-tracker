@@ -4,7 +4,7 @@
   "name": "BSE SME IPO",
   "code": "76",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMEIPO",
-  "count": 159,
+  "count": 161,
   "members": [
     {
       "symbol": "544422",
@@ -322,6 +322,11 @@
       "isin": "INE14VP01014"
     },
     {
+      "symbol": "544805",
+      "name": "Jivial Industries Limited",
+      "isin": "INE0V3T01017"
+    },
+    {
       "symbol": "544542",
       "name": "Justo Realfintech Limited",
       "isin": "INE0W5Q01017"
@@ -580,6 +585,11 @@
       "symbol": "544640",
       "name": "Riddhi Display Equipments Limi",
       "isin": "INE1DKT01011"
+    },
+    {
+      "symbol": "544804",
+      "name": "Riyaasat Lifestyle Limited",
+      "isin": "INE0KYI01012"
     },
     {
       "symbol": "544552",

@@ -4,7 +4,7 @@
   "name": "BSE Energy",
   "code": "90",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=ENERGY",
-  "count": 32,
+  "count": 33,
   "members": [
     {
       "symbol": "542066",
@@ -77,8 +77,13 @@
       "isin": "INE388A01029"
     },
     {
+      "symbol": "544801",
+      "name": "GSPL Transmission Limited",
+      "isin": "INE1TUG01013"
+    },
+    {
       "symbol": "539336",
-      "name": "Gujarat Gas Limited",
+      "name": "Gujarat Energy Limited",
       "isin": "INE844O01030"
     },
     {

@@ -7,9 +7,9 @@
   "count": 50,
   "members": [
     {
-      "symbol": "3MINDIA",
-      "name": "3M India Ltd.",
-      "isin": "INE470A01017"
+      "symbol": "ABB",
+      "name": "ABB India Ltd.",
+      "isin": "INE117A01022"
     },
     {
       "symbol": "ACUTAAS",
@@ -17,19 +17,24 @@
       "isin": "INE00FF01025"
     },
     {
+      "symbol": "ABSLAMC",
+      "name": "Aditya Birla Sun Life AMC Ltd.",
+      "isin": "INE404A01024"
+    },
+    {
+      "symbol": "AJANTPHARM",
+      "name": "Ajanta Pharmaceuticals Ltd.",
+      "isin": "INE031B01049"
+    },
+    {
       "symbol": "ANANDRATHI",
       "name": "Anand Rathi Wealth Ltd.",
       "isin": "INE463V01026"
     },
     {
-      "symbol": "ASIANPAINT",
-      "name": "Asian Paints Ltd.",
-      "isin": "INE021A01026"
-    },
-    {
-      "symbol": "ASTRAZEN",
-      "name": "AstraZenca Pharma India Ltd.",
-      "isin": "INE203A01020"
+      "symbol": "APARINDS",
+      "name": "Apar Industries Ltd.",
+      "isin": "INE372A01015"
     },
     {
       "symbol": "AVANTIFEED",
@@ -42,14 +47,19 @@
       "isin": "INE118H01025"
     },
     {
-      "symbol": "BAJFINANCE",
-      "name": "Bajaj Finance Ltd.",
-      "isin": "INE296A01032"
+      "symbol": "BAJAJ-AUTO",
+      "name": "Bajaj Auto Ltd.",
+      "isin": "INE917I01010"
     },
     {
       "symbol": "BANCOINDIA",
       "name": "Banco Products (India) Ltd.",
       "isin": "INE213C01025"
+    },
+    {
+      "symbol": "MAHABANK",
+      "name": "Bank of Maharashtra",
+      "isin": "INE457A01014"
     },
     {
       "symbol": "BEL",
@@ -62,29 +72,24 @@
       "isin": "INE323A01026"
     },
     {
-      "symbol": "BRITANNIA",
-      "name": "Britannia Industries Ltd.",
-      "isin": "INE216A01030"
+      "symbol": "CGPOWER",
+      "name": "CG Power and Industrial Solutions Ltd.",
+      "isin": "INE067A01029"
     },
     {
-      "symbol": "CANBK",
-      "name": "Canara Bank",
-      "isin": "INE476A01022"
-    },
-    {
-      "symbol": "CHOICEIN",
-      "name": "Choice International Ltd.",
-      "isin": "INE102B01014"
-    },
-    {
-      "symbol": "COROMANDEL",
-      "name": "Coromandel International Ltd.",
-      "isin": "INE169A01031"
+      "symbol": "COALINDIA",
+      "name": "Coal India Ltd.",
+      "isin": "INE522F01014"
     },
     {
       "symbol": "CUMMINSIND",
       "name": "Cummins India Ltd.",
       "isin": "INE298A01020"
+    },
+    {
+      "symbol": "CUPID",
+      "name": "Cupid Ltd.",
+      "isin": "INE509F01029"
     },
     {
       "symbol": "LALPATHLAB",
@@ -117,14 +122,14 @@
       "isin": "INE524A01029"
     },
     {
-      "symbol": "GRSE",
-      "name": "Garden Reach Shipbuilders & Engineers Ltd.",
-      "isin": "INE382Z01011"
+      "symbol": "GPIL",
+      "name": "Godawari Power & Ispat Ltd.",
+      "isin": "INE177H01039"
     },
     {
-      "symbol": "GODFRYPHLP",
-      "name": "Godfrey Phillips India Ltd.",
-      "isin": "INE260B01028"
+      "symbol": "GOKULAGRO",
+      "name": "Gokul Agro Resources Ltd.",
+      "isin": "INE314T01033"
     },
     {
       "symbol": "HBLENGINE",
@@ -137,9 +142,9 @@
       "isin": "INE127D01025"
     },
     {
-      "symbol": "HEROMOTOCO",
-      "name": "Hero MotoCorp Ltd.",
-      "isin": "INE158A01026"
+      "symbol": "HSCL",
+      "name": "Himadri Speciality Chemical Ltd.",
+      "isin": "INE019C01026"
     },
     {
       "symbol": "HINDCOPPER",
@@ -152,14 +157,14 @@
       "isin": "INE07Y701011"
     },
     {
-      "symbol": "INDIANB",
-      "name": "Indian Bank",
-      "isin": "INE562A01011"
-    },
-    {
       "symbol": "IMFA",
       "name": "Indian Metals & Ferro Alloys Ltd.",
       "isin": "INE919H01018"
+    },
+    {
+      "symbol": "JBCHEPHARM",
+      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
+      "isin": "INE572A01036"
     },
     {
       "symbol": "JAMNAAUTO",
@@ -167,9 +172,9 @@
       "isin": "INE039C01032"
     },
     {
-      "symbol": "LTM",
-      "name": "LTM Ltd.",
-      "isin": "INE214T01019"
+      "symbol": "KEI",
+      "name": "KEI Industries Ltd.",
+      "isin": "INE878B01027"
     },
     {
       "symbol": "MARICO",
@@ -177,34 +182,19 @@
       "isin": "INE196A01026"
     },
     {
-      "symbol": "MARUTI",
-      "name": "Maruti Suzuki India Ltd.",
-      "isin": "INE585B01010"
-    },
-    {
-      "symbol": "MSUMI",
-      "name": "Motherson Sumi Wiring India Ltd.",
-      "isin": "INE0FS801015"
-    },
-    {
-      "symbol": "MOTILALOFS",
-      "name": "Motilal Oswal Financial Services Ltd.",
-      "isin": "INE338I01027"
-    },
-    {
       "symbol": "MCX",
       "name": "Multi Commodity Exchange of India Ltd.",
       "isin": "INE745G01043"
     },
     {
-      "symbol": "MUTHOOTFIN",
-      "name": "Muthoot Finance Ltd.",
-      "isin": "INE414G01012"
+      "symbol": "NATCOPHARM",
+      "name": "NATCO Pharma Ltd.",
+      "isin": "INE987B01026"
     },
     {
-      "symbol": "NESCO",
-      "name": "NESCO Ltd.",
-      "isin": "INE317F01035"
+      "symbol": "NMDC",
+      "name": "NMDC Ltd.",
+      "isin": "INE584A01023"
     },
     {
       "symbol": "NATIONALUM",
@@ -217,9 +207,9 @@
       "isin": "INE298J01013"
     },
     {
-      "symbol": "PERSISTENT",
-      "name": "Persistent Systems Ltd.",
-      "isin": "INE262H01021"
+      "symbol": "OFSS",
+      "name": "Oracle Financial Services Software Ltd.",
+      "isin": "INE881D01027"
     },
     {
       "symbol": "POLYCAB",
@@ -227,9 +217,9 @@
       "isin": "INE455K01017"
     },
     {
-      "symbol": "PRICOLLTD",
-      "name": "Pricol Ltd.",
-      "isin": "INE726V01018"
+      "symbol": "SHRIPISTON",
+      "name": "SPR Auto Technologies Ltd.",
+      "isin": "INE526E01018"
     },
     {
       "symbol": "SCHNEIDER",
@@ -242,9 +232,19 @@
       "isin": "INE343H01029"
     },
     {
+      "symbol": "SUPRIYA",
+      "name": "Supriya Lifescience Ltd.",
+      "isin": "INE07RO01027"
+    },
+    {
       "symbol": "TDPOWERSYS",
       "name": "TD Power Systems Ltd.",
       "isin": "INE419M01027"
+    },
+    {
+      "symbol": "TIPSMUSIC",
+      "name": "Tips Music Ltd.",
+      "isin": "INE716B01029"
     },
     {
       "symbol": "TORNTPHARM",
@@ -252,9 +252,9 @@
       "isin": "INE685A01028"
     },
     {
-      "symbol": "ECLERX",
-      "name": "eClerx Services Ltd.",
-      "isin": "INE738I01010"
+      "symbol": "TRITURBINE",
+      "name": "Triveni Turbine Ltd.",
+      "isin": "INE152M01016"
     }
   ]
 }

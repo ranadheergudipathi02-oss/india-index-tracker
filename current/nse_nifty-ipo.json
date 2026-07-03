@@ -4,7 +4,7 @@
   "name": "NIFTY IPO",
   "code": null,
   "source": "https://niftyindices.com/IndexConstituent/ind_niftyipo_list.csv",
-  "count": 109,
+  "count": 98,
   "members": [
     {
       "symbol": "CPPLUS",
@@ -15,11 +15,6 @@
       "symbol": "ADVANCE",
       "name": "Advance Agrolife Ltd.",
       "isin": "INE1B0W01010"
-    },
-    {
-      "symbol": "AEGISVOPAK",
-      "name": "Aegis Vopak Terminals Ltd.",
-      "isin": "INE0INX01018"
     },
     {
       "symbol": "AEQUS",
@@ -57,16 +52,6 @@
       "isin": "INE0CZ201020"
     },
     {
-      "symbol": "ARIS",
-      "name": "Arisinfra Solutions Ltd.",
-      "isin": "INE0H9P01028"
-    },
-    {
-      "symbol": "ATHERENERG",
-      "name": "Ather Energy Ltd.",
-      "isin": "INE0LEZ01016"
-    },
-    {
       "symbol": "ATLANTAELE",
       "name": "Atlanta Electricals Ltd.",
       "isin": "INE0Z4F01028"
@@ -80,11 +65,6 @@
       "symbol": "BMWVENTLTD",
       "name": "BMW Ventures Ltd.",
       "isin": "INE965W01036"
-    },
-    {
-      "symbol": "BELRISE",
-      "name": "Belrise Industries Ltd.",
-      "isin": "INE894V01022"
     },
     {
       "symbol": "BHARATCOAL",
@@ -152,11 +132,6 @@
       "isin": "INE0MLS01022"
     },
     {
-      "symbol": "ELLEN",
-      "name": "Ellenbarrie Industrial Gases Ltd.",
-      "isin": "INE236E01022"
-    },
-    {
       "symbol": "EMMVEE",
       "name": "Emmvee Photovoltaic Power Ltd.",
       "isin": "INE1C6T01020"
@@ -215,11 +190,6 @@
       "symbol": "GEMAROMA",
       "name": "Gem Aromatics Ltd.",
       "isin": "INE06XZ01023"
-    },
-    {
-      "symbol": "GLOBECIVIL",
-      "name": "Globe Civil Projects Ltd.",
-      "isin": "INE0V3U01015"
     },
     {
       "symbol": "GLOTTIS",
@@ -292,11 +262,6 @@
       "isin": "INE987S01020"
     },
     {
-      "symbol": "KALPATARU",
-      "name": "Kalpataru Ltd.",
-      "isin": "INE227J01012"
-    },
-    {
       "symbol": "LGEINDIA",
       "name": "LG Electronics India Ltd.",
       "isin": "INE324D01010"
@@ -305,11 +270,6 @@
       "symbol": "LAXMIINDIA",
       "name": "Laxmi India Finance Ltd.",
       "isin": "INE06WU01026"
-    },
-    {
-      "symbol": "THELEELA",
-      "name": "Leela Palaces Hotels & Resorts Ltd.",
-      "isin": "INE0AQ201015"
     },
     {
       "symbol": "LENSKART",
@@ -362,11 +322,6 @@
       "isin": "INE16NZ01023"
     },
     {
-      "symbol": "OSWALPUMPS",
-      "name": "Oswal Pumps Ltd.",
-      "isin": "INE0BYP01024"
-    },
-    {
       "symbol": "PNGSREVA",
       "name": "PNGS Reva Diamond Jewellery Ltd.",
       "isin": "INE1RDG01013"
@@ -402,11 +357,6 @@
       "isin": "INE921L01032"
     },
     {
-      "symbol": "PROSTARM",
-      "name": "Prostarm Info Systems Ltd.",
-      "isin": "INE0BX301013"
-    },
-    {
       "symbol": "RSL",
       "name": "Rajputana Stainless Ltd.",
       "isin": "INE313L01016"
@@ -440,11 +390,6 @@
       "symbol": "SAMBHV",
       "name": "Sambhv Steel Tubes Ltd.",
       "isin": "INE12NJ01018"
-    },
-    {
-      "symbol": "SCODATUBES",
-      "name": "Scoda Tubes Ltd.",
-      "isin": "INE090501011"
     },
     {
       "symbol": "STYL",

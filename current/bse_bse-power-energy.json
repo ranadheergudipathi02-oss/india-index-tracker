@@ -4,7 +4,7 @@
   "name": "BSE POWER & ENERGY",
   "code": "131",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=POWENE",
-  "count": 35,
+  "count": 36,
   "members": [
     {
       "symbol": "544283",
@@ -72,8 +72,13 @@
       "isin": "INE129A01019"
     },
     {
+      "symbol": "544801",
+      "name": "GSPL Transmission Limited",
+      "isin": "INE1TUG01013"
+    },
+    {
       "symbol": "539336",
-      "name": "Gujarat Gas Limited",
+      "name": "Gujarat Energy Limited",
       "isin": "INE844O01030"
     },
     {

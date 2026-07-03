@@ -4,7 +4,7 @@
   "name": "BSE IPO",
   "code": "72",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEIPO",
-  "count": 104,
+  "count": 107,
   "members": [
     {
       "symbol": "544466",
@@ -15,6 +15,11 @@
       "symbol": "544562",
       "name": "Advance Agrolife Limited",
       "isin": "INE1B0W01010"
+    },
+    {
+      "symbol": "544803",
+      "name": "Advit Jewels Limited",
+      "isin": "INE1SJO01012"
     },
     {
       "symbol": "544634",
@@ -492,6 +497,11 @@
       "isin": "INE0MWH01014"
     },
     {
+      "symbol": "544799",
+      "name": "Turtlemint Fintech Solutions L",
+      "isin": "INE0OC301013"
+    },
+    {
       "symbol": "544515",
       "name": "Urban Company Limited",
       "isin": "INE0CAZ01013"
@@ -520,6 +530,11 @@
       "symbol": "544642",
       "name": "Wakefit Innovations Limited",
       "isin": "INE0E7301029"
+    },
+    {
+      "symbol": "544802",
+      "name": "Waterways Leisure Tourism Limi",
+      "isin": "INE0LZF01013"
     },
     {
       "symbol": "544570",

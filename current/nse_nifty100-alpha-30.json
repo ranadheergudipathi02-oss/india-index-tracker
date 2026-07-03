@@ -12,6 +12,16 @@
       "isin": "INE931S01010"
     },
     {
+      "symbol": "ADANIENT",
+      "name": "Adani Enterprises Ltd.",
+      "isin": "INE423A01024"
+    },
+    {
+      "symbol": "ADANIGREEN",
+      "name": "Adani Green Energy Ltd.",
+      "isin": "INE364U01010"
+    },
+    {
       "symbol": "ADANIPORTS",
       "name": "Adani Ports and Special Economic Zone Ltd.",
       "isin": "INE742F01042"
@@ -32,9 +42,9 @@
       "isin": "INE263A01024"
     },
     {
-      "symbol": "BPCL",
-      "name": "Bharat Petroleum Corporation Ltd.",
-      "isin": "INE029A01011"
+      "symbol": "CGPOWER",
+      "name": "CG Power and Industrial Solutions Ltd.",
+      "isin": "INE067A01029"
     },
     {
       "symbol": "CANBK",
@@ -52,6 +62,11 @@
       "isin": "INE066A01021"
     },
     {
+      "symbol": "GRASIM",
+      "name": "Grasim Industries Ltd.",
+      "isin": "INE047A01021"
+    },
+    {
       "symbol": "HINDALCO",
       "name": "Hindalco Industries Ltd.",
       "isin": "INE038A01020"
@@ -62,19 +77,14 @@
       "isin": "INE267A01025"
     },
     {
-      "symbol": "HYUNDAI",
-      "name": "Hyundai Motor India Ltd.",
-      "isin": "INE0V6F01027"
-    },
-    {
-      "symbol": "IOC",
-      "name": "Indian Oil Corporation Ltd.",
-      "isin": "INE242A01010"
-    },
-    {
       "symbol": "JSWSTEEL",
       "name": "JSW Steel Ltd.",
       "isin": "INE019A01038"
+    },
+    {
+      "symbol": "JINDALSTEL",
+      "name": "Jindal Steel Ltd.",
+      "isin": "INE749A01030"
     },
     {
       "symbol": "M&M",
@@ -90,16 +100,6 @@
       "symbol": "MUTHOOTFIN",
       "name": "Muthoot Finance Ltd.",
       "isin": "INE414G01012"
-    },
-    {
-      "symbol": "PNB",
-      "name": "Punjab National Bank",
-      "isin": "INE160A01022"
-    },
-    {
-      "symbol": "SBILIFE",
-      "name": "SBI Life Insurance Company Ltd.",
-      "isin": "INE123W01016"
     },
     {
       "symbol": "MOTHERSON",

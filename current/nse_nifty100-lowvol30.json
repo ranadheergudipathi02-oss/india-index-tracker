@@ -32,11 +32,6 @@
       "isin": "INE397D01024"
     },
     {
-      "symbol": "BOSCHLTD",
-      "name": "Bosch Ltd.",
-      "isin": "INE323A01026"
-    },
-    {
       "symbol": "BRITANNIA",
       "name": "Britannia Industries Ltd.",
       "isin": "INE216A01030"
@@ -95,6 +90,11 @@
       "symbol": "MARUTI",
       "name": "Maruti Suzuki India Ltd.",
       "isin": "INE585B01010"
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd.",
+      "isin": "INE733E01010"
     },
     {
       "symbol": "NESTLEIND",

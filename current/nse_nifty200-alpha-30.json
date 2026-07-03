@@ -12,6 +12,21 @@
       "isin": "INE949L01017"
     },
     {
+      "symbol": "ADANIENSOL",
+      "name": "Adani Energy Solutions Ltd.",
+      "isin": "INE931S01010"
+    },
+    {
+      "symbol": "ADANIGREEN",
+      "name": "Adani Green Energy Ltd.",
+      "isin": "INE364U01010"
+    },
+    {
+      "symbol": "ADANIPOWER",
+      "name": "Adani Power Ltd.",
+      "isin": "INE814H01029"
+    },
+    {
       "symbol": "ABCAPITAL",
       "name": "Aditya Birla Capital Ltd.",
       "isin": "INE674K01013"
@@ -27,24 +42,14 @@
       "isin": "INE118H01025"
     },
     {
-      "symbol": "BANKINDIA",
-      "name": "Bank of India",
-      "isin": "INE084A01016"
-    },
-    {
-      "symbol": "BEL",
-      "name": "Bharat Electronics Ltd.",
-      "isin": "INE263A01024"
-    },
-    {
       "symbol": "BHARATFORG",
       "name": "Bharat Forge Ltd.",
       "isin": "INE465A01025"
     },
     {
-      "symbol": "CANBK",
-      "name": "Canara Bank",
-      "isin": "INE476A01022"
+      "symbol": "BHEL",
+      "name": "Bharat Heavy Electricals Ltd.",
+      "isin": "INE257A01026"
     },
     {
       "symbol": "CUMMINSIND",
@@ -72,9 +77,19 @@
       "isin": "INE061F01013"
     },
     {
+      "symbol": "GVT&D",
+      "name": "GE Vernova T&D India Ltd.",
+      "isin": "INE200A01026"
+    },
+    {
       "symbol": "GLENMARK",
       "name": "Glenmark Pharmaceuticals Ltd.",
       "isin": "INE935A01035"
+    },
+    {
+      "symbol": "HINDALCO",
+      "name": "Hindalco Industries Ltd.",
+      "isin": "INE038A01020"
     },
     {
       "symbol": "POWERINDIA",
@@ -95,11 +110,6 @@
       "symbol": "LAURUSLABS",
       "name": "Laurus Labs Ltd.",
       "isin": "INE947Q01028"
-    },
-    {
-      "symbol": "MFSL",
-      "name": "Max Financial Services Ltd.",
-      "isin": "INE180A01020"
     },
     {
       "symbol": "MCX",
@@ -132,29 +142,19 @@
       "isin": "INE721A01047"
     },
     {
-      "symbol": "SOLARINDS",
-      "name": "Solar Industries India Ltd.",
-      "isin": "INE343H01029"
-    },
-    {
-      "symbol": "SBIN",
-      "name": "State Bank of India",
-      "isin": "INE062A01020"
-    },
-    {
-      "symbol": "TVSMOTOR",
-      "name": "TVS Motor Company Ltd.",
-      "isin": "INE494B01023"
-    },
-    {
-      "symbol": "UNIONBANK",
-      "name": "Union Bank of India",
-      "isin": "INE692A01016"
+      "symbol": "SAIL",
+      "name": "Steel Authority of India Ltd.",
+      "isin": "INE114A01011"
     },
     {
       "symbol": "VEDL",
       "name": "Vedanta Ltd.",
       "isin": "INE205A01025"
+    },
+    {
+      "symbol": "IDEA",
+      "name": "Vodafone Idea Ltd.",
+      "isin": "INE669E01016"
     }
   ]
 }

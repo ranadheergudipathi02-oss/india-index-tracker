@@ -27,9 +27,9 @@
       "isin": "INE949L01017"
     },
     {
-      "symbol": "ABBOTINDIA",
-      "name": "Abbott India Ltd.",
-      "isin": "INE358A01014"
+      "symbol": "ATGL",
+      "name": "Adani Total Gas Ltd.",
+      "isin": "INE399L01023"
     },
     {
       "symbol": "ABCAPITAL",
@@ -37,9 +37,24 @@
       "isin": "INE674K01013"
     },
     {
+      "symbol": "AJANTPHARM",
+      "name": "Ajanta Pharmaceuticals Ltd.",
+      "isin": "INE031B01049"
+    },
+    {
+      "symbol": "APARINDS",
+      "name": "Apar Industries Ltd.",
+      "isin": "INE372A01015"
+    },
+    {
       "symbol": "ASHOKLEY",
       "name": "Ashok Leyland Ltd.",
       "isin": "INE208A01029"
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "name": "Aurobindo Pharma Ltd.",
+      "isin": "INE406A01037"
     },
     {
       "symbol": "BSE",
@@ -52,39 +67,24 @@
       "isin": "INE084A01016"
     },
     {
-      "symbol": "BERGEPAINT",
-      "name": "Berger Paints India Ltd.",
-      "isin": "INE463A01038"
+      "symbol": "MAHABANK",
+      "name": "Bank of Maharashtra",
+      "isin": "INE457A01014"
     },
     {
-      "symbol": "BHARTIHEXA",
-      "name": "Bharti Hexacom Ltd.",
-      "isin": "INE343G01021"
+      "symbol": "BHARATFORG",
+      "name": "Bharat Forge Ltd.",
+      "isin": "INE465A01025"
+    },
+    {
+      "symbol": "BHEL",
+      "name": "Bharat Heavy Electricals Ltd.",
+      "isin": "INE257A01026"
     },
     {
       "symbol": "BIOCON",
       "name": "Biocon Ltd.",
       "isin": "INE376G01013"
-    },
-    {
-      "symbol": "COFORGE",
-      "name": "Coforge Ltd.",
-      "isin": "INE591G01025"
-    },
-    {
-      "symbol": "COROMANDEL",
-      "name": "Coromandel International Ltd.",
-      "isin": "INE169A01031"
-    },
-    {
-      "symbol": "CUMMINSIND",
-      "name": "Cummins India Ltd.",
-      "isin": "INE298A01020"
-    },
-    {
-      "symbol": "DALBHARAT",
-      "name": "Dalmia Bharat Ltd.",
-      "isin": "INE00R701025"
     },
     {
       "symbol": "NYKAA",
@@ -117,29 +117,9 @@
       "isin": "INE935A01035"
     },
     {
-      "symbol": "HDFCAMC",
-      "name": "HDFC Asset Management Company Ltd.",
-      "isin": "INE127D01025"
-    },
-    {
-      "symbol": "HEROMOTOCO",
-      "name": "Hero MotoCorp Ltd.",
-      "isin": "INE158A01026"
-    },
-    {
-      "symbol": "HINDPETRO",
-      "name": "Hindustan Petroleum Corporation Ltd.",
-      "isin": "INE094A01015"
-    },
-    {
       "symbol": "POWERINDIA",
       "name": "Hitachi Energy India Ltd.",
       "isin": "INE07Y701011"
-    },
-    {
-      "symbol": "IDFCFIRSTB",
-      "name": "IDFC First Bank Ltd.",
-      "isin": "INE092T01019"
     },
     {
       "symbol": "INDIANB",
@@ -147,19 +127,19 @@
       "isin": "INE562A01011"
     },
     {
-      "symbol": "IGL",
-      "name": "Indraprastha Gas Ltd.",
-      "isin": "INE203G01027"
-    },
-    {
       "symbol": "INDUSTOWER",
       "name": "Indus Towers Ltd.",
       "isin": "INE121J01017"
     },
     {
-      "symbol": "JKCEMENT",
-      "name": "J.K. Cement Ltd.",
-      "isin": "INE823G01014"
+      "symbol": "INDUSINDBK",
+      "name": "IndusInd Bank Ltd.",
+      "isin": "INE095A01012"
+    },
+    {
+      "symbol": "JSWENERGY",
+      "name": "JSW Energy Ltd.",
+      "isin": "INE121E01018"
     },
     {
       "symbol": "JSL",
@@ -167,24 +147,34 @@
       "isin": "INE220G01021"
     },
     {
+      "symbol": "KEI",
+      "name": "KEI Industries Ltd.",
+      "isin": "INE878B01027"
+    },
+    {
       "symbol": "LTF",
       "name": "L&T Finance Ltd.",
       "isin": "INE498L01015"
     },
     {
+      "symbol": "LAURUSLABS",
+      "name": "Laurus Labs Ltd.",
+      "isin": "INE947Q01028"
+    },
+    {
+      "symbol": "LINDEINDIA",
+      "name": "Linde India Ltd.",
+      "isin": "INE473A01011"
+    },
+    {
+      "symbol": "LLOYDSME",
+      "name": "Lloyds Metals And Energy Ltd.",
+      "isin": "INE281B01032"
+    },
+    {
       "symbol": "LUPIN",
       "name": "Lupin Ltd.",
       "isin": "INE326A01037"
-    },
-    {
-      "symbol": "MRF",
-      "name": "MRF Ltd.",
-      "isin": "INE883A01011"
-    },
-    {
-      "symbol": "M&MFIN",
-      "name": "Mahindra & Mahindra Financial Services Ltd.",
-      "isin": "INE774D01024"
     },
     {
       "symbol": "MARICO",
@@ -197,9 +187,19 @@
       "isin": "INE180A01020"
     },
     {
-      "symbol": "MUTHOOTFIN",
-      "name": "Muthoot Finance Ltd.",
-      "isin": "INE414G01012"
+      "symbol": "MCX",
+      "name": "Multi Commodity Exchange of India Ltd.",
+      "isin": "INE745G01043"
+    },
+    {
+      "symbol": "NLCINDIA",
+      "name": "NLC India Ltd.",
+      "isin": "INE589A01014"
+    },
+    {
+      "symbol": "NMDC",
+      "name": "NMDC Ltd.",
+      "isin": "INE584A01023"
     },
     {
       "symbol": "NATIONALUM",
@@ -212,14 +212,19 @@
       "isin": "INE298J01013"
     },
     {
+      "symbol": "OIL",
+      "name": "Oil India Ltd.",
+      "isin": "INE274J01014"
+    },
+    {
       "symbol": "PAYTM",
       "name": "One 97 Communications Ltd.",
       "isin": "INE982J01020"
     },
     {
-      "symbol": "PERSISTENT",
-      "name": "Persistent Systems Ltd.",
-      "isin": "INE262H01021"
+      "symbol": "OFSS",
+      "name": "Oracle Financial Services Software Ltd.",
+      "isin": "INE881D01027"
     },
     {
       "symbol": "POLYCAB",
@@ -227,29 +232,24 @@
       "isin": "INE455K01017"
     },
     {
-      "symbol": "SBICARD",
-      "name": "SBI Cards and Payment Services Ltd.",
-      "isin": "INE018E01016"
+      "symbol": "RADICO",
+      "name": "Radico Khaitan Ltd",
+      "isin": "INE944F01028"
     },
     {
-      "symbol": "SRF",
-      "name": "SRF Ltd.",
-      "isin": "INE647A01010"
+      "symbol": "SAIL",
+      "name": "Steel Authority of India Ltd.",
+      "isin": "INE114A01011"
     },
     {
-      "symbol": "SUNDARMFIN",
-      "name": "Sundaram Finance Ltd.",
-      "isin": "INE660A01013"
+      "symbol": "TATACOMM",
+      "name": "Tata Communications Ltd.",
+      "isin": "INE151A01013"
     },
     {
-      "symbol": "UNOMINDA",
-      "name": "UNO Minda Ltd.",
-      "isin": "INE405E01023"
-    },
-    {
-      "symbol": "UPL",
-      "name": "UPL Ltd.",
-      "isin": "INE628A01036"
+      "symbol": "THERMAX",
+      "name": "Thermax Ltd.",
+      "isin": "INE152A01029"
     },
     {
       "symbol": "IDEA",

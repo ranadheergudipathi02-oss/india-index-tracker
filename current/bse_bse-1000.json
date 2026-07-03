@@ -4,7 +4,7 @@
   "name": "BSE 1000",
   "code": "142",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BS1000",
-  "count": 1001,
+  "count": 1002,
   "members": [
     {
       "symbol": "542772",
@@ -1707,6 +1707,11 @@
       "isin": "INE536A01023"
     },
     {
+      "symbol": "544801",
+      "name": "GSPL Transmission Limited",
+      "isin": "INE1TUG01013"
+    },
+    {
       "symbol": "509079",
       "name": "GUFIC BIOSCIENCES LTD.",
       "isin": "INE742B01025"
@@ -1722,14 +1727,14 @@
       "isin": "INE036B01030"
     },
     {
+      "symbol": "539336",
+      "name": "Gujarat Energy Limited",
+      "isin": "INE844O01030"
+    },
+    {
       "symbol": "542812",
       "name": "Gujarat Fluorochemicals Limite",
       "isin": "INE09N301011"
-    },
-    {
-      "symbol": "539336",
-      "name": "Gujarat Gas Limited",
-      "isin": "INE844O01030"
     },
     {
       "symbol": "517300",
@@ -4042,11 +4047,6 @@
       "isin": "INE721A01047"
     },
     {
-      "symbol": "544344",
-      "name": "SHRIRAM PISTONS & RINGS LTD",
-      "isin": "INE526E01018"
-    },
-    {
       "symbol": "543299",
       "name": "Shyam Metalics and Energy Limi",
       "isin": "INE810G01011"
@@ -4155,6 +4155,11 @@
       "symbol": "500285",
       "name": "SPICEJET LTD.",
       "isin": "INE285B01017"
+    },
+    {
+      "symbol": "544344",
+      "name": "SPR Auto Technologies Limited",
+      "isin": "INE526E01018"
     },
     {
       "symbol": "503806",

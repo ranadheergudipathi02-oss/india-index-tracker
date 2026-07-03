@@ -7,6 +7,11 @@
   "count": 50,
   "members": [
     {
+      "symbol": "AWL",
+      "name": "AWL Agri Business Ltd.",
+      "isin": "INE699H01024"
+    },
+    {
       "symbol": "ASTERDM",
       "name": "Aster DM Healthcare Ltd.",
       "isin": "INE914M01019"
@@ -47,6 +52,11 @@
       "isin": "INE476A01022"
     },
     {
+      "symbol": "CASTROLIND",
+      "name": "Castrol India Ltd.",
+      "isin": "INE172A01027"
+    },
+    {
       "symbol": "CHAMBLFERT",
       "name": "Chambal Fertilizers & Chemicals Ltd.",
       "isin": "INE085A01013"
@@ -60,6 +70,11 @@
       "symbol": "COALINDIA",
       "name": "Coal India Ltd.",
       "isin": "INE522F01014"
+    },
+    {
+      "symbol": "CYIENT",
+      "name": "Cyient Ltd.",
+      "isin": "INE136B01020"
     },
     {
       "symbol": "FEDERALBNK",
@@ -107,9 +122,19 @@
       "isin": "INE242A01010"
     },
     {
+      "symbol": "IGL",
+      "name": "Indraprastha Gas Ltd.",
+      "isin": "INE203G01027"
+    },
+    {
       "symbol": "INDUSINDBK",
       "name": "IndusInd Bank Ltd.",
       "isin": "INE095A01012"
+    },
+    {
+      "symbol": "JPPOWER",
+      "name": "Jaiprakash Power Ventures Ltd.",
+      "isin": "INE351F01018"
     },
     {
       "symbol": "KARURVYSYA",
@@ -120,16 +145,6 @@
       "symbol": "LICHSGFIN",
       "name": "LIC Housing Finance Ltd.",
       "isin": "INE115A01026"
-    },
-    {
-      "symbol": "MGL",
-      "name": "Mahanagar Gas Ltd.",
-      "isin": "INE002S01010"
-    },
-    {
-      "symbol": "MANAPPURAM",
-      "name": "Manappuram Finance Ltd.",
-      "isin": "INE522D01027"
     },
     {
       "symbol": "NCC",
@@ -197,19 +212,9 @@
       "isin": "INE891D01026"
     },
     {
-      "symbol": "RELINFRA",
-      "name": "Reliance Infrastructure Ltd.",
-      "isin": "INE036A01016"
-    },
-    {
       "symbol": "RPOWER",
       "name": "Reliance Power Ltd.",
       "isin": "INE614G01033"
-    },
-    {
-      "symbol": "SAMMAANCAP",
-      "name": "Sammaan Capital Ltd.",
-      "isin": "INE148I01020"
     },
     {
       "symbol": "SBIN",
@@ -230,11 +235,6 @@
       "symbol": "TMPV",
       "name": "Tata Motors Passenger Vehicles Ltd.",
       "isin": "INE155A01022"
-    },
-    {
-      "symbol": "TATASTEEL",
-      "name": "Tata Steel Ltd.",
-      "isin": "INE081A01020"
     },
     {
       "symbol": "UPL",

@@ -57,6 +57,11 @@
       "isin": "INE094A01015"
     },
     {
+      "symbol": "ITC",
+      "name": "ITC Ltd.",
+      "isin": "INE154A01025"
+    },
+    {
       "symbol": "INDIANB",
       "name": "Indian Bank",
       "isin": "INE562A01011"
@@ -115,11 +120,6 @@
       "symbol": "RECLTD",
       "name": "REC Ltd.",
       "isin": "INE020B01018"
-    },
-    {
-      "symbol": "SHRIRAMFIN",
-      "name": "Shriram Finance Ltd.",
-      "isin": "INE721A01047"
     },
     {
       "symbol": "SBIN",

@@ -1477,11 +1477,6 @@
       "isin": "INE1B3L01017"
     },
     {
-      "symbol": "544344",
-      "name": "SHRIRAM PISTONS & RINGS LTD",
-      "isin": "INE526E01018"
-    },
-    {
       "symbol": "543419",
       "name": "Shriram Properties Limited",
       "isin": "INE217L01019"
@@ -1550,6 +1545,11 @@
       "symbol": "539221",
       "name": "Sportking India Ltd.",
       "isin": "INE885H01029"
+    },
+    {
+      "symbol": "544344",
+      "name": "SPR Auto Technologies Limited",
+      "isin": "INE526E01018"
     },
     {
       "symbol": "544469",
