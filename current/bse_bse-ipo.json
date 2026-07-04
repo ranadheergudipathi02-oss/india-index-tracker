@@ -4,7 +4,7 @@
   "name": "BSE IPO",
   "code": "72",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEIPO",
-  "count": 107,
+  "count": 108,
   "members": [
     {
       "symbol": "544466",
@@ -135,6 +135,11 @@
       "symbol": "544439",
       "name": "CRIZAC LIMITED",
       "isin": "INE0S4R01014"
+    },
+    {
+      "symbol": "544806",
+      "name": "CSM TECHNOLOGIES LIMITED",
+      "isin": "INE0ZK601013"
     },
     {
       "symbol": "544421",

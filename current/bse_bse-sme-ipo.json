@@ -4,7 +4,7 @@
   "name": "BSE SME IPO",
   "code": "76",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMEIPO",
-  "count": 161,
+  "count": 162,
   "members": [
     {
       "symbol": "544422",
@@ -145,6 +145,11 @@
       "symbol": "544561",
       "name": "Chiraharit Limited",
       "isin": "INE12P101018"
+    },
+    {
+      "symbol": "544807",
+      "name": "CRAZY SNACKS LIMITED",
+      "isin": "INE0RBX01014"
     },
     {
       "symbol": "544440",

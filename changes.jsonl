@@ -179,3 +179,5 @@
 {"date": "2026-07-03", "index": "BSE:BSE Energy", "type": "change", "added": [{"symbol": "544801", "name": "GSPL Transmission Limited"}], "removed": []}
 {"date": "2026-07-03", "index": "BSE:BSE PSU", "type": "change", "added": [{"symbol": "544801", "name": "GSPL Transmission Limited"}], "removed": []}
 {"date": "2026-07-03", "index": "NSE:NIFTY IPO", "type": "change", "added": [{"symbol": "TURTLEMINT", "name": "Turtlemint Fintech Solutions Ltd."}], "removed": []}
+{"date": "2026-07-04", "index": "BSE:BSE IPO", "type": "change", "added": [{"symbol": "544806", "name": "CSM TECHNOLOGIES LIMITED"}], "removed": []}
+{"date": "2026-07-04", "index": "BSE:BSE SME IPO", "type": "change", "added": [{"symbol": "544807", "name": "CRAZY SNACKS LIMITED"}], "removed": []}
