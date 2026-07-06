@@ -4,7 +4,7 @@
   "name": "BSE SME IPO",
   "code": "76",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMEIPO",
-  "count": 162,
+  "count": 163,
   "members": [
     {
       "symbol": "544422",
@@ -40,6 +40,11 @@
       "symbol": "544669",
       "name": "ADMACH SYSTEMS LIMITED",
       "isin": "INE0XLO01010"
+    },
+    {
+      "symbol": "544809",
+      "name": "ADON AGRO COMMODITIES LIMITED",
+      "isin": "INE1SME01017"
     },
     {
       "symbol": "544516",
