@@ -182,3 +182,6 @@
 {"date": "2026-07-04", "index": "BSE:BSE IPO", "type": "change", "added": [{"symbol": "544806", "name": "CSM TECHNOLOGIES LIMITED"}], "removed": []}
 {"date": "2026-07-04", "index": "BSE:BSE SME IPO", "type": "change", "added": [{"symbol": "544807", "name": "CRAZY SNACKS LIMITED"}], "removed": []}
 {"date": "2026-07-06", "index": "BSE:BSE SME IPO", "type": "change", "added": [{"symbol": "544809", "name": "ADON AGRO COMMODITIES LIMITED"}], "removed": []}
+{"date": "2026-07-07", "index": "NSE:NIFTY IPO", "type": "change", "added": [{"symbol": "RAMBHAJO", "name": "Advit Jewels Ltd."}, {"symbol": "CORDELIA", "name": "Waterways Leisure Tourism Ltd."}], "removed": []}
+{"date": "2026-07-07", "index": "BSE:BSE IPO", "type": "change", "added": [{"symbol": "544808", "name": "AASTHA SPINTEX LIMITED"}], "removed": []}
+{"date": "2026-07-07", "index": "BSE:BSE SME IPO", "type": "change", "added": [{"symbol": "544812", "name": "Atharva Poly-Plast Limited"}, {"symbol": "544811", "name": "KRATIKAL TECH LIMITED"}, {"symbol": "544810", "name": "Sampark India Logistics Limite"}, {"symbol": "544813", "name": "Seemax Resources Limited"}], "removed": []}

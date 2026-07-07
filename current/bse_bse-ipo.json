@@ -4,8 +4,13 @@
   "name": "BSE IPO",
   "code": "72",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEIPO",
-  "count": 108,
+  "count": 109,
   "members": [
+    {
+      "symbol": "544808",
+      "name": "AASTHA SPINTEX LIMITED",
+      "isin": "INE2FMX01012"
+    },
     {
       "symbol": "544466",
       "name": "Aditya Infotech Limited",

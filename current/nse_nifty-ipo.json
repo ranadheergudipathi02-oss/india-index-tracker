@@ -4,7 +4,7 @@
   "name": "NIFTY IPO",
   "code": null,
   "source": "https://niftyindices.com/IndexConstituent/ind_niftyipo_list.csv",
-  "count": 99,
+  "count": 101,
   "members": [
     {
       "symbol": "CPPLUS",
@@ -15,6 +15,11 @@
       "symbol": "ADVANCE",
       "name": "Advance Agrolife Ltd.",
       "isin": "INE1B0W01010"
+    },
+    {
+      "symbol": "RAMBHAJO",
+      "name": "Advit Jewels Ltd.",
+      "isin": "INE1SJO01012"
     },
     {
       "symbol": "AEQUS",
@@ -495,6 +500,11 @@
       "symbol": "WAKEFIT",
       "name": "Wakefit Innovations Ltd.",
       "isin": "INE0E7301029"
+    },
+    {
+      "symbol": "CORDELIA",
+      "name": "Waterways Leisure Tourism Ltd.",
+      "isin": "INE0LZF01013"
     },
     {
       "symbol": "WEWORK",

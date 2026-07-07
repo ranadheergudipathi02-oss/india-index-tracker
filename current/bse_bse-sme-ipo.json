@@ -4,7 +4,7 @@
   "name": "BSE SME IPO",
   "code": "76",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMEIPO",
-  "count": 163,
+  "count": 167,
   "members": [
     {
       "symbol": "544422",
@@ -95,6 +95,11 @@
       "symbol": "544417",
       "name": "Aten Papers & Foam Limited",
       "isin": "INE0XCV01014"
+    },
+    {
+      "symbol": "544812",
+      "name": "Atharva Poly-Plast Limited",
+      "isin": "INE226801012"
     },
     {
       "symbol": "544772",
@@ -372,6 +377,11 @@
       "isin": "INE1C3F01018"
     },
     {
+      "symbol": "544811",
+      "name": "KRATIKAL TECH LIMITED",
+      "isin": "INE1L0M01019"
+    },
+    {
       "symbol": "544509",
       "name": "Krupalu Metals Limited",
       "isin": "INE0XZB01017"
@@ -617,9 +627,19 @@
       "isin": "INE0UMH01018"
     },
     {
+      "symbol": "544810",
+      "name": "Sampark India Logistics Limite",
+      "isin": "INE147701010"
+    },
+    {
       "symbol": "544520",
       "name": "SAMPAT ALUMINIUM LIMITED",
       "isin": "INE10XS01012"
+    },
+    {
+      "symbol": "544813",
+      "name": "Seemax Resources Limited",
+      "isin": "INE1EVO01017"
     },
     {
       "symbol": "544506",
