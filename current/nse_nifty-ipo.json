@@ -4,7 +4,7 @@
   "name": "NIFTY IPO",
   "code": null,
   "source": "https://niftyindices.com/IndexConstituent/ind_niftyipo_list.csv",
-  "count": 101,
+  "count": 102,
   "members": [
     {
       "symbol": "CPPLUS",
@@ -100,6 +100,11 @@
       "symbol": "CORONA",
       "name": "CORONA Remedies Ltd.",
       "isin": "INE02ZQ01018"
+    },
+    {
+      "symbol": "CSM",
+      "name": "CSM Technologies Ltd.",
+      "isin": "INE0ZK601013"
     },
     {
       "symbol": "CANHLIFE",
