@@ -4,8 +4,13 @@
   "name": "NIFTY IPO",
   "code": null,
   "source": "https://niftyindices.com/IndexConstituent/ind_niftyipo_list.csv",
-  "count": 102,
+  "count": 103,
   "members": [
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Ltd.",
+      "isin": "INE2FMX01012"
+    },
     {
       "symbol": "CPPLUS",
       "name": "Aditya Infotech Ltd.",

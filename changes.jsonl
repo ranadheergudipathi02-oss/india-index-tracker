@@ -186,3 +186,5 @@
 {"date": "2026-07-07", "index": "BSE:BSE IPO", "type": "change", "added": [{"symbol": "544808", "name": "AASTHA SPINTEX LIMITED"}], "removed": []}
 {"date": "2026-07-07", "index": "BSE:BSE SME IPO", "type": "change", "added": [{"symbol": "544812", "name": "Atharva Poly-Plast Limited"}, {"symbol": "544811", "name": "KRATIKAL TECH LIMITED"}, {"symbol": "544810", "name": "Sampark India Logistics Limite"}, {"symbol": "544813", "name": "Seemax Resources Limited"}], "removed": []}
 {"date": "2026-07-08", "index": "NSE:NIFTY IPO", "type": "change", "added": [{"symbol": "CSM", "name": "CSM Technologies Ltd."}], "removed": []}
+{"date": "2026-07-10", "index": "NSE:NIFTY IPO", "type": "change", "added": [{"symbol": "AASTHA", "name": "Aastha Spintex Ltd."}], "removed": []}
+{"date": "2026-07-10", "index": "BSE:BSE IPO", "type": "change", "added": [{"symbol": "544814", "name": "KNACK PACKAGING LIMITED"}], "removed": []}

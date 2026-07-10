@@ -4,7 +4,7 @@
   "name": "BSE IPO",
   "code": "72",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEIPO",
-  "count": 109,
+  "count": 110,
   "members": [
     {
       "symbol": "544808",
@@ -280,6 +280,11 @@
       "symbol": "544423",
       "name": "Kalpataru Limited",
       "isin": "INE227J01012"
+    },
+    {
+      "symbol": "544814",
+      "name": "KNACK PACKAGING LIMITED",
+      "isin": "INE17QZ01016"
     },
     {
       "symbol": "544664",
