@@ -172,11 +172,6 @@
       "isin": "INE765G01017"
     },
     {
-      "symbol": "500850",
-      "name": "INDIAN HOTELS CO.LTD.",
-      "isin": "INE053A01029"
-    },
-    {
       "symbol": "530965",
       "name": "INDIAN OIL CORPORATION LTD.",
       "isin": "INE242A01010"
@@ -330,6 +325,11 @@
       "symbol": "532755",
       "name": "TECH MAHINDRA LTD.",
       "isin": "INE669C01036"
+    },
+    {
+      "symbol": "500850",
+      "name": "THE INDIAN HOTELS COMPANY LTD",
+      "isin": "INE053A01029"
     },
     {
       "symbol": "500114",

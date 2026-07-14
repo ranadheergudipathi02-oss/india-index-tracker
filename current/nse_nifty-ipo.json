@@ -4,7 +4,7 @@
   "name": "NIFTY IPO",
   "code": null,
   "source": "https://niftyindices.com/IndexConstituent/ind_niftyipo_list.csv",
-  "count": 103,
+  "count": 104,
   "members": [
     {
       "symbol": "AASTHA",
@@ -275,6 +275,11 @@
       "symbol": "KSHINTL",
       "name": "KSH International Ltd.",
       "isin": "INE987S01020"
+    },
+    {
+      "symbol": "KNACK",
+      "name": "Knack Packaging Ltd.",
+      "isin": "INE17QZ01016"
     },
     {
       "symbol": "LGEINDIA",

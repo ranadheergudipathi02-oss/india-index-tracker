@@ -188,3 +188,4 @@
 {"date": "2026-07-08", "index": "NSE:NIFTY IPO", "type": "change", "added": [{"symbol": "CSM", "name": "CSM Technologies Ltd."}], "removed": []}
 {"date": "2026-07-10", "index": "NSE:NIFTY IPO", "type": "change", "added": [{"symbol": "AASTHA", "name": "Aastha Spintex Ltd."}], "removed": []}
 {"date": "2026-07-10", "index": "BSE:BSE IPO", "type": "change", "added": [{"symbol": "544814", "name": "KNACK PACKAGING LIMITED"}], "removed": []}
+{"date": "2026-07-14", "index": "NSE:NIFTY IPO", "type": "change", "added": [{"symbol": "KNACK", "name": "Knack Packaging Ltd."}], "removed": []}

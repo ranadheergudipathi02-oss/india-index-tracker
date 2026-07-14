@@ -82,11 +82,6 @@
       "isin": "INE066F01020"
     },
     {
-      "symbol": "500850",
-      "name": "INDIAN HOTELS CO.LTD.",
-      "isin": "INE053A01029"
-    },
-    {
       "symbol": "543940",
       "name": "Jio Financial Services Limited",
       "isin": "INE758E01017"
@@ -140,6 +135,11 @@
       "symbol": "500400",
       "name": "TATA POWER CO.LTD.",
       "isin": "INE245A01021"
+    },
+    {
+      "symbol": "500850",
+      "name": "THE INDIAN HOTELS COMPANY LTD",
+      "isin": "INE053A01029"
     },
     {
       "symbol": "532343",

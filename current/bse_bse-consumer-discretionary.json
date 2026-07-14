@@ -712,11 +712,6 @@
       "isin": "INE933S01016"
     },
     {
-      "symbol": "500850",
-      "name": "INDIAN HOTELS CO.LTD.",
-      "isin": "INE053A01029"
-    },
-    {
       "symbol": "542830",
       "name": "Indian Railway Catering and To",
       "isin": "INE335Y01020"
@@ -1508,7 +1503,7 @@
     },
     {
       "symbol": "500472",
-      "name": "SKF INDIA LTD.",
+      "name": "SKF INDIA LIMITED",
       "isin": "INE640A01023"
     },
     {
@@ -1670,6 +1665,11 @@
       "symbol": "533158",
       "name": "THANGAMAYIL JEWELLERY LTD",
       "isin": "INE085J01014"
+    },
+    {
+      "symbol": "500850",
+      "name": "THE INDIAN HOTELS COMPANY LTD",
+      "isin": "INE053A01029"
     },
     {
       "symbol": "503100",

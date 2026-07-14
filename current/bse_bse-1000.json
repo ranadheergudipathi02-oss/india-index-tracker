@@ -548,12 +548,12 @@
     },
     {
       "symbol": "523319",
-      "name": "BALMER LAWRIE & CO.LTD.",
+      "name": "BALMER LAWRIE AND COMPANY LIMI",
       "isin": "INE164A01016"
     },
     {
       "symbol": "500038",
-      "name": "BALRAMPUR CHINI MILLS LTD.",
+      "name": "BALRAMPUR CHINI MILLS LTD",
       "isin": "INE119A01028"
     },
     {
@@ -808,7 +808,7 @@
     },
     {
       "symbol": "540710",
-      "name": "Capacit'e Infraprojects Limite",
+      "name": "Capacite Infraprojects Limited",
       "isin": "INE264T01014"
     },
     {
@@ -948,7 +948,7 @@
     },
     {
       "symbol": "532210",
-      "name": "CITY UNION BANK LTD.",
+      "name": "CITY UNION BANK LIMITED",
       "isin": "INE491A01021"
     },
     {
@@ -2092,11 +2092,6 @@
       "isin": "INE022Q01020"
     },
     {
-      "symbol": "500850",
-      "name": "INDIAN HOTELS CO.LTD.",
-      "isin": "INE053A01029"
-    },
-    {
       "symbol": "533047",
       "name": "INDIAN METALS & FERRO ALLOYS L",
       "isin": "INE919H01018"
@@ -2338,7 +2333,7 @@
     },
     {
       "symbol": "500227",
-      "name": "JINDAL POLY FILMS LTD.",
+      "name": "JINDAL POLY FILMS LIMITED",
       "isin": "INE197D01010"
     },
     {
@@ -4098,7 +4093,7 @@
     },
     {
       "symbol": "500472",
-      "name": "SKF INDIA LTD.",
+      "name": "SKF INDIA LIMITED",
       "isin": "INE640A01023"
     },
     {
@@ -4515,6 +4510,11 @@
       "symbol": "501425",
       "name": "The Bombay Burmah Trading Corp",
       "isin": "INE050A01025"
+    },
+    {
+      "symbol": "500850",
+      "name": "THE INDIAN HOTELS COMPANY LTD",
+      "isin": "INE053A01029"
     },
     {
       "symbol": "540769",
