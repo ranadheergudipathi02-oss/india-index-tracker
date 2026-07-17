@@ -12,6 +12,11 @@
       "isin": "INE358A01014"
     },
     {
+      "symbol": "ACUTAAS",
+      "name": "Acutaas Chemicals Ltd.",
+      "isin": "INE00FF01025"
+    },
+    {
       "symbol": "AJANTPHARM",
       "name": "Ajanta Pharmaceuticals Ltd.",
       "isin": "INE031B01049"
@@ -80,11 +85,6 @@
       "symbol": "IPCALAB",
       "name": "Ipca Laboratories Ltd.",
       "isin": "INE571A01038"
-    },
-    {
-      "symbol": "JBCHEPHARM",
-      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
-      "isin": "INE572A01036"
     },
     {
       "symbol": "KIMS",

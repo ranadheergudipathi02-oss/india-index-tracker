@@ -397,6 +397,11 @@
       "isin": "INE224A01026"
     },
     {
+      "symbol": "GRINDWELL",
+      "name": "Grindwell Norton Ltd.",
+      "isin": "INE536A01023"
+    },
+    {
       "symbol": "GAEL",
       "name": "Gujarat Ambuja Exports Ltd.",
       "isin": "INE036B01030"
@@ -785,11 +790,6 @@
       "symbol": "PRICOLLTD",
       "name": "Pricol Ltd.",
       "isin": "INE726V01018"
-    },
-    {
-      "symbol": "PFOCUS",
-      "name": "Prime Focus Ltd.",
-      "isin": "INE367G01038"
     },
     {
       "symbol": "PRSMJOHNSN",

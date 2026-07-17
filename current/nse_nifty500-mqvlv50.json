@@ -127,6 +127,11 @@
       "isin": "INE821I01022"
     },
     {
+      "symbol": "ITC",
+      "name": "ITC Ltd.",
+      "isin": "INE154A01025"
+    },
+    {
       "symbol": "INDIAMART",
       "name": "Indiamart Intermesh Ltd.",
       "isin": "INE933S01016"
@@ -145,11 +150,6 @@
       "symbol": "IRCTC",
       "name": "Indian Railway Catering And Tourism Corporation Ltd.",
       "isin": "INE335Y01020"
-    },
-    {
-      "symbol": "JBCHEPHARM",
-      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
-      "isin": "INE572A01036"
     },
     {
       "symbol": "JSWDULUX",

@@ -977,6 +977,11 @@
       "isin": "INE017A01032"
     },
     {
+      "symbol": "506076",
+      "name": "GRINDWELL NORTON LTD.",
+      "isin": "INE536A01023"
+    },
+    {
       "symbol": "544801",
       "name": "GSPL Transmission Limited",
       "isin": "INE1TUG01013"
@@ -1290,11 +1295,6 @@
       "symbol": "500875",
       "name": "ITC LTD.",
       "isin": "INE154A01025"
-    },
-    {
-      "symbol": "506943",
-      "name": "J.B.CHEMICALS & PHARMACEUTICAL",
-      "isin": "INE572A01036"
     },
     {
       "symbol": "532644",

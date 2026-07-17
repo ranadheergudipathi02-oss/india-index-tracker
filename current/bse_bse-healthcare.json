@@ -4,7 +4,7 @@
   "name": "BSE Healthcare",
   "code": "84",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEHC",
-  "count": 126,
+  "count": 125,
   "members": [
     {
       "symbol": "532067",
@@ -300,11 +300,6 @@
       "symbol": "524494",
       "name": "IPCA LABORATORIES LTD.",
       "isin": "INE571A01038"
-    },
-    {
-      "symbol": "506943",
-      "name": "J.B.CHEMICALS & PHARMACEUTICAL",
-      "isin": "INE572A01036"
     },
     {
       "symbol": "507789",

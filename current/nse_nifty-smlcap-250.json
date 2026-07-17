@@ -642,11 +642,6 @@
       "isin": "INE115Q01022"
     },
     {
-      "symbol": "JBCHEPHARM",
-      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
-      "isin": "INE572A01036"
-    },
-    {
       "symbol": "JBMA",
       "name": "JBM Auto Ltd.",
       "isin": "INE927D01051"
@@ -950,6 +945,11 @@
       "symbol": "POONAWALLA",
       "name": "Poonawalla Fincorp Ltd.",
       "isin": "INE511C01022"
+    },
+    {
+      "symbol": "PFOCUS",
+      "name": "Prime Focus Ltd.",
+      "isin": "INE367G01038"
     },
     {
       "symbol": "RRKABEL",

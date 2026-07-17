@@ -282,11 +282,6 @@
       "isin": "INE121J01017"
     },
     {
-      "symbol": "JBCHEPHARM",
-      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
-      "isin": "INE572A01036"
-    },
-    {
       "symbol": "JSWDULUX",
       "name": "JSW Dulux Ltd.",
       "isin": "INE133A01011"
@@ -440,6 +435,11 @@
       "symbol": "RADICO",
       "name": "Radico Khaitan Ltd",
       "isin": "INE944F01028"
+    },
+    {
+      "symbol": "SAREGAMA",
+      "name": "Saregama India Ltd",
+      "isin": "INE979A01025"
     },
     {
       "symbol": "SCHNEIDER",

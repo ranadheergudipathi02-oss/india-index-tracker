@@ -127,11 +127,6 @@
       "isin": "INE335Y01020"
     },
     {
-      "symbol": "JBCHEPHARM",
-      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
-      "isin": "INE572A01036"
-    },
-    {
       "symbol": "LICI",
       "name": "Life Insurance Corporation of India",
       "isin": "INE0J1Y01017"
@@ -160,6 +155,11 @@
       "symbol": "MFSL",
       "name": "Max Financial Services Ltd.",
       "isin": "INE180A01020"
+    },
+    {
+      "symbol": "NTPC",
+      "name": "NTPC Ltd.",
+      "isin": "INE733E01010"
     },
     {
       "symbol": "ONGC",

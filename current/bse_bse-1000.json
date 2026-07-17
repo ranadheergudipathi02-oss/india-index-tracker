@@ -2267,11 +2267,6 @@
       "isin": "INE248A01017"
     },
     {
-      "symbol": "506943",
-      "name": "J.B.CHEMICALS & PHARMACEUTICAL",
-      "isin": "INE572A01036"
-    },
-    {
       "symbol": "532644",
       "name": "J.K.CEMENT LTD.",
       "isin": "INE823G01014"
@@ -2600,6 +2595,11 @@
       "symbol": "521248",
       "name": "KITEX GARMENTS LTD.",
       "isin": "INE602G01020"
+    },
+    {
+      "symbol": "543273",
+      "name": "Knowledge Marine & Engineering",
+      "isin": "INE0CJD01029"
     },
     {
       "symbol": "532942",

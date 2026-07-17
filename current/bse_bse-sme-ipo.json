@@ -4,7 +4,7 @@
   "name": "BSE SME IPO",
   "code": "76",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMEIPO",
-  "count": 167,
+  "count": 168,
   "members": [
     {
       "symbol": "544422",
@@ -175,6 +175,11 @@
       "symbol": "544677",
       "name": "Defrail Technologies Limited",
       "isin": "INE0ZE201010"
+    },
+    {
+      "symbol": "544823",
+      "name": "DEVSON CATALYST LIMITED",
+      "isin": "INE2KRP01017"
     },
     {
       "symbol": "544556",

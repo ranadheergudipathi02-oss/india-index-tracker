@@ -4,7 +4,7 @@
   "name": "BSE IPO",
   "code": "72",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEIPO",
-  "count": 110,
+  "count": 111,
   "members": [
     {
       "symbol": "544808",
@@ -290,6 +290,11 @@
       "symbol": "544664",
       "name": "KSH INTERNATIONAL LIMITED",
       "isin": "INE987S01020"
+    },
+    {
+      "symbol": "544821",
+      "name": "Kusumgar Limited",
+      "isin": "INE0ISX01025"
     },
     {
       "symbol": "544465",

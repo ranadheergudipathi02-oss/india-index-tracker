@@ -77,6 +77,11 @@
       "isin": "INE067A01029"
     },
     {
+      "symbol": "CAPLIPOINT",
+      "name": "Caplin Point Laboratories Ltd.",
+      "isin": "INE475E01026"
+    },
+    {
       "symbol": "COALINDIA",
       "name": "Coal India Ltd.",
       "isin": "INE522F01014"
@@ -160,11 +165,6 @@
       "symbol": "IMFA",
       "name": "Indian Metals & Ferro Alloys Ltd.",
       "isin": "INE919H01018"
-    },
-    {
-      "symbol": "JBCHEPHARM",
-      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
-      "isin": "INE572A01036"
     },
     {
       "symbol": "JAMNAAUTO",

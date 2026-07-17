@@ -1367,6 +1367,11 @@
       "isin": "INE224A01026"
     },
     {
+      "symbol": "GRINDWELL",
+      "name": "Grindwell Norton Ltd.",
+      "isin": "INE536A01023"
+    },
+    {
       "symbol": "GAEL",
       "name": "Gujarat Ambuja Exports Ltd.",
       "isin": "INE036B01030"
@@ -1770,11 +1775,6 @@
       "symbol": "IPCALAB",
       "name": "Ipca Laboratories Ltd.",
       "isin": "INE571A01038"
-    },
-    {
-      "symbol": "JBCHEPHARM",
-      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
-      "isin": "INE572A01036"
     },
     {
       "symbol": "JKCEMENT",

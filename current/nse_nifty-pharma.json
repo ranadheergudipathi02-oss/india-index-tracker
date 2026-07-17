@@ -62,11 +62,6 @@
       "isin": "INE571A01038"
     },
     {
-      "symbol": "JBCHEPHARM",
-      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
-      "isin": "INE572A01036"
-    },
-    {
       "symbol": "LAURUSLABS",
       "name": "Laurus Labs Ltd.",
       "isin": "INE947Q01028"
@@ -85,6 +80,11 @@
       "symbol": "PPLPHARMA",
       "name": "Piramal Pharma Ltd.",
       "isin": "INE0DK501011"
+    },
+    {
+      "symbol": "SAILIFE",
+      "name": "Sai Life Sciences Ltd.",
+      "isin": "INE570L01029"
     },
     {
       "symbol": "SUNPHARMA",

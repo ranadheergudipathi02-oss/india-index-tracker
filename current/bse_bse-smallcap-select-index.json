@@ -4,7 +4,7 @@
   "name": "BSE SmallCap Select Index",
   "code": "95",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMLSEL",
-  "count": 59,
+  "count": 58,
   "members": [
     {
       "symbol": "500040",
@@ -155,11 +155,6 @@
       "symbol": "539083",
       "name": "Inox Wind Limited",
       "isin": "INE066P01011"
-    },
-    {
-      "symbol": "506943",
-      "name": "J.B.CHEMICALS & PHARMACEUTICAL",
-      "isin": "INE572A01036"
     },
     {
       "symbol": "532889",

@@ -1027,11 +1027,6 @@
       "isin": "INE571A01038"
     },
     {
-      "symbol": "JBCHEPHARM",
-      "name": "J.B. Chemicals & Pharmaceuticals Ltd.",
-      "isin": "INE572A01036"
-    },
-    {
       "symbol": "JKCEMENT",
       "name": "J.K. Cement Ltd.",
       "isin": "INE823G01014"
@@ -1570,6 +1565,11 @@
       "symbol": "PRESTIGE",
       "name": "Prestige Estates Projects Ltd.",
       "isin": "INE811K01011"
+    },
+    {
+      "symbol": "PFOCUS",
+      "name": "Prime Focus Ltd.",
+      "isin": "INE367G01038"
     },
     {
       "symbol": "RRKABEL",

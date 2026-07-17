@@ -189,3 +189,26 @@
 {"date": "2026-07-10", "index": "NSE:NIFTY IPO", "type": "change", "added": [{"symbol": "AASTHA", "name": "Aastha Spintex Ltd."}], "removed": []}
 {"date": "2026-07-10", "index": "BSE:BSE IPO", "type": "change", "added": [{"symbol": "544814", "name": "KNACK PACKAGING LIMITED"}], "removed": []}
 {"date": "2026-07-14", "index": "NSE:NIFTY IPO", "type": "change", "added": [{"symbol": "KNACK", "name": "Knack Packaging Ltd."}], "removed": []}
+{"date": "2026-07-17", "index": "NSE:NIFTY 500", "type": "change", "added": [{"symbol": "PFOCUS", "name": "Prime Focus Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY MICROCAP250", "type": "change", "added": [{"symbol": "GRINDWELL", "name": "Grindwell Norton Ltd."}], "removed": [{"symbol": "PFOCUS", "name": "Prime Focus Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY MIDSML 400", "type": "change", "added": [{"symbol": "PFOCUS", "name": "Prime Focus Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY MIDSML HLTH", "type": "change", "added": [{"symbol": "ACUTAAS", "name": "Acutaas Chemicals Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY PHARMA", "type": "change", "added": [{"symbol": "SAILIFE", "name": "Sai Life Sciences Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY SMLCAP 250", "type": "change", "added": [{"symbol": "PFOCUS", "name": "Prime Focus Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY TMMQ 50", "type": "change", "added": [{"symbol": "CAPLIPOINT", "name": "Caplin Point Laboratories Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY TOTAL MKT", "type": "change", "added": [{"symbol": "GRINDWELL", "name": "Grindwell Norton Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY500 EW", "type": "change", "added": [{"symbol": "PFOCUS", "name": "Prime Focus Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY500 LMS EQL", "type": "change", "added": [{"symbol": "PFOCUS", "name": "Prime Focus Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY500 LOW VOLATILITY 50", "type": "change", "added": [{"symbol": "NTPC", "name": "NTPC Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY500 MQVLV50", "type": "change", "added": [{"symbol": "ITC", "name": "ITC Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTY500 MULTICAP", "type": "change", "added": [{"symbol": "PFOCUS", "name": "Prime Focus Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTYMS400 MQ 100", "type": "change", "added": [{"symbol": "SAREGAMA", "name": "Saregama India Ltd"}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "NSE:NIFTYSML250MQ 100", "type": "change", "added": [{"symbol": "ZYDUSWELL", "name": "Zydus Wellness Ltd."}], "removed": [{"symbol": "JBCHEPHARM", "name": "J.B. Chemicals & Pharmaceuticals Ltd."}]}
+{"date": "2026-07-17", "index": "BSE:BSE 250 SmallCap Index", "type": "change", "added": [{"symbol": "506076", "name": "GRINDWELL NORTON LTD."}], "removed": [{"symbol": "506943", "name": "J.B.CHEMICALS & PHARMACEUTICAL"}]}
+{"date": "2026-07-17", "index": "BSE:BSE 400 MidSmallCap Index", "type": "change", "added": [{"symbol": "506076", "name": "GRINDWELL NORTON LTD."}], "removed": [{"symbol": "506943", "name": "J.B.CHEMICALS & PHARMACEUTICAL"}]}
+{"date": "2026-07-17", "index": "BSE:BSE 500", "type": "change", "added": [{"symbol": "506076", "name": "GRINDWELL NORTON LTD."}], "removed": [{"symbol": "506943", "name": "J.B.CHEMICALS & PHARMACEUTICAL"}]}
+{"date": "2026-07-17", "index": "BSE:BSE SmallCap Select Index", "type": "change", "added": [], "removed": [{"symbol": "506943", "name": "J.B.CHEMICALS & PHARMACEUTICAL"}]}
+{"date": "2026-07-17", "index": "BSE:BSE 1000", "type": "change", "added": [{"symbol": "543273", "name": "Knowledge Marine & Engineering"}], "removed": [{"symbol": "506943", "name": "J.B.CHEMICALS & PHARMACEUTICAL"}]}
+{"date": "2026-07-17", "index": "BSE:BSE IPO", "type": "change", "added": [{"symbol": "544821", "name": "Kusumgar Limited"}], "removed": []}
+{"date": "2026-07-17", "index": "BSE:BSE SME IPO", "type": "change", "added": [{"symbol": "544823", "name": "DEVSON CATALYST LIMITED"}], "removed": []}
+{"date": "2026-07-17", "index": "BSE:BSE Healthcare", "type": "change", "added": [], "removed": [{"symbol": "506943", "name": "J.B.CHEMICALS & PHARMACEUTICAL"}]}
