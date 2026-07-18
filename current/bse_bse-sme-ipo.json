@@ -4,13 +4,8 @@
   "name": "BSE SME IPO",
   "code": "76",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMEIPO",
-  "count": 168,
+  "count": 152,
   "members": [
-    {
-      "symbol": "544422",
-      "name": "Abram Food Limited",
-      "isin": "INE0ZDY01011"
-    },
     {
       "symbol": "544500",
       "name": "ABRIL PAPER TECH LIMITED",
@@ -27,16 +22,6 @@
       "isin": "INE1KVQ01019"
     },
     {
-      "symbol": "544431",
-      "name": "Ace Alpha Tech Limited",
-      "isin": "INE0S9X01011"
-    },
-    {
-      "symbol": "544435",
-      "name": "ADCOUNTY MEDIA INDIA LIMITED",
-      "isin": "INE0W1601012"
-    },
-    {
       "symbol": "544669",
       "name": "ADMACH SYSTEMS LIMITED",
       "isin": "INE0XLO01010"
@@ -50,11 +35,6 @@
       "symbol": "544516",
       "name": "AIRFLOA RAIL TECHNOLOGY LIMITE",
       "isin": "INE0XBS01012"
-    },
-    {
-      "symbol": "544425",
-      "name": "AJC Jewel Manufacturers Limite",
-      "isin": "INE0XRR01010"
     },
     {
       "symbol": "544555",
@@ -82,19 +62,9 @@
       "isin": "INE1D8001016"
     },
     {
-      "symbol": "544445",
-      "name": "ASSTON PHARMACEUTICALS LIMITED",
-      "isin": "INE0SJX01015"
-    },
-    {
       "symbol": "544628",
       "name": "Astron Multigrain Limited",
       "isin": "INE0RUY01012"
-    },
-    {
-      "symbol": "544417",
-      "name": "Aten Papers & Foam Limited",
-      "isin": "INE0XCV01014"
     },
     {
       "symbol": "544812",
@@ -147,11 +117,6 @@
       "isin": "INE1B4801017"
     },
     {
-      "symbol": "544442",
-      "name": "Chemkart India Limited",
-      "isin": "INE0VWL01017"
-    },
-    {
       "symbol": "544561",
       "name": "Chiraharit Limited",
       "isin": "INE12P101018"
@@ -160,11 +125,6 @@
       "symbol": "544807",
       "name": "CRAZY SNACKS LIMITED",
       "isin": "INE0RBX01014"
-    },
-    {
-      "symbol": "544440",
-      "name": "CRYOGENIC OGS LIMITED",
-      "isin": "INE0TL001013"
     },
     {
       "symbol": "544667",
@@ -247,11 +207,6 @@
       "isin": "INE1GUJ01014"
     },
     {
-      "symbol": "544444",
-      "name": "Glen Industries Limited",
-      "isin": "INE0UMC01019"
-    },
-    {
       "symbol": "544665",
       "name": "Global Ocean Logistics India L",
       "isin": "INE1ITY01011"
@@ -315,11 +270,6 @@
       "symbol": "544483",
       "name": "ICODEX PUBLISHING SOLUTIONS LI",
       "isin": "INE111601014"
-    },
-    {
-      "symbol": "544426",
-      "name": "Icon Facilitators Limited",
-      "isin": "INE0Y0E01012"
     },
     {
       "symbol": "544681",
@@ -442,11 +392,6 @@
       "isin": "INE0U9D01019"
     },
     {
-      "symbol": "544437",
-      "name": "MARC LOIRE FASHIONS LIMITED",
-      "isin": "INE0TBQ01014"
-    },
-    {
       "symbol": "544472",
       "name": "MEHUL COLOURS LIMITED",
       "isin": "INE1KH601014"
@@ -460,11 +405,6 @@
       "symbol": "544773",
       "name": "Merritronix Limited",
       "isin": "INE1RQS01010"
-    },
-    {
-      "symbol": "544441",
-      "name": "META INFOTECH LIMITED",
-      "isin": "INE162901016"
     },
     {
       "symbol": "544637",
@@ -510,11 +450,6 @@
       "symbol": "544680",
       "name": "Narmadesh Brass Industries Lim",
       "isin": "INE0S1B01014"
-    },
-    {
-      "symbol": "544434",
-      "name": "Neetu Yoshi Limited",
-      "isin": "INE0UZO01024"
     },
     {
       "symbol": "544663",
@@ -732,11 +667,6 @@
       "isin": "INE10CM01027"
     },
     {
-      "symbol": "544428",
-      "name": "SUPERTECH EV LIMITED",
-      "isin": "INE0SC101013"
-    },
-    {
       "symbol": "544793",
       "name": "Susan Electricals India Limite",
       "isin": "INE2L0V01019"
@@ -792,19 +722,9 @@
       "isin": "INE0H3U01013"
     },
     {
-      "symbol": "544433",
-      "name": "Valencia India Limited",
-      "isin": "INE130701019"
-    },
-    {
       "symbol": "544565",
       "name": "Valplast Technologies Limited",
       "isin": "INE0QP701017"
-    },
-    {
-      "symbol": "544436",
-      "name": "VANDAN FOODS LIMITED",
-      "isin": "INE0RDJ01019"
     },
     {
       "symbol": "544508",

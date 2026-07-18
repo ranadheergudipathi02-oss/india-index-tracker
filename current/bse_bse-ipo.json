@@ -4,7 +4,7 @@
   "name": "BSE IPO",
   "code": "72",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEIPO",
-  "count": 111,
+  "count": 102,
   "members": [
     {
       "symbol": "544808",
@@ -60,11 +60,6 @@
       "symbol": "544449",
       "name": "Anthem Biosciences Limited",
       "isin": "INE0CZ201020"
-    },
-    {
-      "symbol": "544419",
-      "name": "ArisInfra Solutions Limited",
-      "isin": "INE0H9P01028"
     },
     {
       "symbol": "544527",
@@ -137,19 +132,9 @@
       "isin": "INE02ZQ01018"
     },
     {
-      "symbol": "544439",
-      "name": "CRIZAC LIMITED",
-      "isin": "INE0S4R01014"
-    },
-    {
       "symbol": "544806",
       "name": "CSM TECHNOLOGIES LIMITED",
       "isin": "INE0ZK601013"
-    },
-    {
-      "symbol": "544421",
-      "name": "ELLENBARRIE INDUSTRIAL GASES L",
-      "isin": "INE236E01022"
     },
     {
       "symbol": "544608",
@@ -227,11 +212,6 @@
       "isin": "INE0V0W01025"
     },
     {
-      "symbol": "544429",
-      "name": "HDB FINANCIAL SERVICES LIMITED",
-      "isin": "INE756I01012"
-    },
-    {
       "symbol": "544477",
       "name": "Highway Infrastructure Limited",
       "isin": "INE00RL01028"
@@ -245,11 +225,6 @@
       "symbol": "544454",
       "name": "INDIQUBE SPACES LIMITED",
       "isin": "INE06ST01018"
-    },
-    {
-      "symbol": "544432",
-      "name": "Indogulf Cropsciences Limited",
-      "isin": "INE05J901018"
     },
     {
       "symbol": "544732",
@@ -277,11 +252,6 @@
       "isin": "INE718I01012"
     },
     {
-      "symbol": "544423",
-      "name": "Kalpataru Limited",
-      "isin": "INE227J01012"
-    },
-    {
       "symbol": "544814",
       "name": "KNACK PACKAGING LIMITED",
       "isin": "INE17QZ01016"
@@ -295,6 +265,11 @@
       "symbol": "544821",
       "name": "Kusumgar Limited",
       "isin": "INE0ISX01025"
+    },
+    {
+      "symbol": "544822",
+      "name": "Laser Power & Infra Limited",
+      "isin": "INE17IR01028"
     },
     {
       "symbol": "544465",
@@ -367,11 +342,6 @@
       "isin": "INE16NZ01023"
     },
     {
-      "symbol": "544418",
-      "name": "Oswal Pumps Limited",
-      "isin": "INE0BYP01024"
-    },
-    {
       "symbol": "544550",
       "name": "Pace Digitek Limited",
       "isin": "INE0S3G01027"
@@ -432,11 +402,6 @@
       "isin": "INE0H9F01037"
     },
     {
-      "symbol": "544430",
-      "name": "SAMBHV STEEL TUBES LIMITED",
-      "isin": "INE12NJ01018"
-    },
-    {
       "symbol": "544723",
       "name": "SEDEMAC MECHATRONICS LIMITED",
       "isin": "INE00XB01019"
@@ -472,11 +437,6 @@
       "isin": "INE1B3L01017"
     },
     {
-      "symbol": "544447",
-      "name": "SMARTWORKS COWORKING SPACES LI",
-      "isin": "INE0NAZ01010"
-    },
-    {
       "symbol": "544532",
       "name": "Solarworld Energy Solutions Li",
       "isin": "INE0TY101024"
@@ -505,11 +465,6 @@
       "symbol": "544612",
       "name": "Tenneco Clean Air India Limite",
       "isin": "INE19RI01016"
-    },
-    {
-      "symbol": "544443",
-      "name": "TRAVEL FOOD SERVICES LIMITED",
-      "isin": "INE103V01028"
     },
     {
       "symbol": "544545",
