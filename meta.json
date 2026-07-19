@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-18T18:00:02+05:30",
+  "last_run": "2026-07-19T18:00:03+05:30",
   "indices": {
     "NSE:NIFTY IT": {
       "status": "ok",
@@ -10,7 +10,7 @@
       "removed": 0,
       "file": "nse_nifty-it.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyitlist.csv",
-      "fetched_at": "2026-07-18T18:00:14+05:30"
+      "fetched_at": "2026-07-19T18:00:15+05:30"
     },
     "NSE:NIFTY 100": {
       "status": "ok",
@@ -21,7 +21,7 @@
       "removed": 0,
       "file": "nse_nifty-100.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty100list.csv",
-      "fetched_at": "2026-07-18T18:00:04+05:30"
+      "fetched_at": "2026-07-19T18:00:04+05:30"
     },
     "NSE:NIFTY 200": {
       "status": "ok",
@@ -32,7 +32,7 @@
       "removed": 0,
       "file": "nse_nifty-200.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty200list.csv",
-      "fetched_at": "2026-07-18T18:00:04+05:30"
+      "fetched_at": "2026-07-19T18:00:05+05:30"
     },
     "NSE:NIFTY 50": {
       "status": "ok",
@@ -43,7 +43,7 @@
       "removed": 0,
       "file": "nse_nifty-50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty50list.csv",
-      "fetched_at": "2026-07-18T18:00:05+05:30"
+      "fetched_at": "2026-07-19T18:00:05+05:30"
     },
     "NSE:NIFTY 500": {
       "status": "ok",
@@ -54,7 +54,7 @@
       "removed": 0,
       "file": "nse_nifty-500.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty500list.csv",
-      "fetched_at": "2026-07-18T18:00:05+05:30"
+      "fetched_at": "2026-07-19T18:00:06+05:30"
     },
     "NSE:NIFTY AUTO": {
       "status": "ok",
@@ -65,7 +65,7 @@
       "removed": 0,
       "file": "nse_nifty-auto.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyautolist.csv",
-      "fetched_at": "2026-07-18T18:00:05+05:30"
+      "fetched_at": "2026-07-19T18:00:06+05:30"
     },
     "NSE:NIFTY BANK": {
       "status": "ok",
@@ -76,7 +76,7 @@
       "removed": 0,
       "file": "nse_nifty-bank.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftybanklist.csv",
-      "fetched_at": "2026-07-18T18:00:06+05:30"
+      "fetched_at": "2026-07-19T18:00:07+05:30"
     },
     "NSE:NIFTY CAPITAL MKT": {
       "status": "ok",
@@ -87,7 +87,7 @@
       "removed": 0,
       "file": "nse_nifty-capital-mkt.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftycapitalmarkets_list.csv",
-      "fetched_at": "2026-07-18T18:00:06+05:30"
+      "fetched_at": "2026-07-19T18:00:07+05:30"
     },
     "NSE:NIFTY CHEMICALS": {
       "status": "ok",
@@ -98,7 +98,7 @@
       "removed": 0,
       "file": "nse_nifty-chemicals.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftychemicals_list.csv",
-      "fetched_at": "2026-07-18T18:00:07+05:30"
+      "fetched_at": "2026-07-19T18:00:08+05:30"
     },
     "NSE:NIFTY COMMODITIES": {
       "status": "ok",
@@ -109,7 +109,7 @@
       "removed": 0,
       "file": "nse_nifty-commodities.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftycommoditieslist.csv",
-      "fetched_at": "2026-07-18T18:00:07+05:30"
+      "fetched_at": "2026-07-19T18:00:08+05:30"
     },
     "NSE:NIFTY CONSR DURBL": {
       "status": "ok",
@@ -120,7 +120,7 @@
       "removed": 0,
       "file": "nse_nifty-consr-durbl.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyconsumerdurableslist.csv",
-      "fetched_at": "2026-07-18T18:00:07+05:30"
+      "fetched_at": "2026-07-19T18:00:08+05:30"
     },
     "NSE:NIFTY CONSUMPTION": {
       "status": "ok",
@@ -131,7 +131,7 @@
       "removed": 0,
       "file": "nse_nifty-consumption.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyconsumptionlist.csv",
-      "fetched_at": "2026-07-18T18:00:08+05:30"
+      "fetched_at": "2026-07-19T18:00:09+05:30"
     },
     "NSE:NIFTY COREHOUSING": {
       "status": "ok",
@@ -142,7 +142,7 @@
       "removed": 0,
       "file": "nse_nifty-corehousing.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftycorehousing_list.csv",
-      "fetched_at": "2026-07-18T18:00:08+05:30"
+      "fetched_at": "2026-07-19T18:00:09+05:30"
     },
     "NSE:NIFTY CPSE": {
       "status": "ok",
@@ -153,7 +153,7 @@
       "removed": 0,
       "file": "nse_nifty-cpse.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftycpselist.csv",
-      "fetched_at": "2026-07-18T18:00:09+05:30"
+      "fetched_at": "2026-07-19T18:00:10+05:30"
     },
     "NSE:NIFTY ENERGY": {
       "status": "ok",
@@ -164,7 +164,7 @@
       "removed": 0,
       "file": "nse_nifty-energy.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyenergylist.csv",
-      "fetched_at": "2026-07-18T18:00:09+05:30"
+      "fetched_at": "2026-07-19T18:00:10+05:30"
     },
     "NSE:NIFTY FINSEREXBNK": {
       "status": "ok",
@@ -175,7 +175,7 @@
       "removed": 0,
       "file": "nse_nifty-finserexbnk.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyfinancialservicesexbank_list.csv",
-      "fetched_at": "2026-07-18T18:00:09+05:30"
+      "fetched_at": "2026-07-19T18:00:11+05:30"
     },
     "NSE:NIFTY FMCG": {
       "status": "ok",
@@ -186,7 +186,7 @@
       "removed": 0,
       "file": "nse_nifty-fmcg.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyfmcglist.csv",
-      "fetched_at": "2026-07-18T18:00:10+05:30"
+      "fetched_at": "2026-07-19T18:00:11+05:30"
     },
     "NSE:NIFTY HEALTHCARE": {
       "status": "ok",
@@ -197,7 +197,7 @@
       "removed": 0,
       "file": "nse_nifty-healthcare.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyhealthcarelist.csv",
-      "fetched_at": "2026-07-18T18:00:10+05:30"
+      "fetched_at": "2026-07-19T18:00:12+05:30"
     },
     "NSE:NIFTY HOUSING": {
       "status": "ok",
@@ -208,7 +208,7 @@
       "removed": 0,
       "file": "nse_nifty-housing.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyhousing_list.csv",
-      "fetched_at": "2026-07-18T18:00:11+05:30"
+      "fetched_at": "2026-07-19T18:00:12+05:30"
     },
     "NSE:NIFTY IND DEFENCE": {
       "status": "ok",
@@ -219,7 +219,7 @@
       "removed": 0,
       "file": "nse_nifty-ind-defence.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyindiadefence_list.csv",
-      "fetched_at": "2026-07-18T18:00:11+05:30"
+      "fetched_at": "2026-07-19T18:00:12+05:30"
     },
     "NSE:NIFTY IND DIGITAL": {
       "status": "ok",
@@ -230,7 +230,7 @@
       "removed": 0,
       "file": "nse_nifty-ind-digital.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyindiadigital_list.csv",
-      "fetched_at": "2026-07-18T18:00:11+05:30"
+      "fetched_at": "2026-07-19T18:00:13+05:30"
     },
     "NSE:NIFTY IND TOURISM": {
       "status": "ok",
@@ -241,7 +241,7 @@
       "removed": 0,
       "file": "nse_nifty-ind-tourism.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyindiatourism_list.csv",
-      "fetched_at": "2026-07-18T18:00:12+05:30"
+      "fetched_at": "2026-07-19T18:00:13+05:30"
     },
     "NSE:NIFTY INDIA MFG": {
       "status": "ok",
@@ -252,7 +252,7 @@
       "removed": 0,
       "file": "nse_nifty-india-mfg.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyindiamanufacturing_list.csv",
-      "fetched_at": "2026-07-18T18:00:12+05:30"
+      "fetched_at": "2026-07-19T18:00:14+05:30"
     },
     "NSE:NIFTY INDIA RAILWAYS PSU": {
       "status": "ok",
@@ -263,7 +263,7 @@
       "removed": 0,
       "file": "nse_nifty-india-railways-psu.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyindiarailwayspsu_list.csv",
-      "fetched_at": "2026-07-18T18:00:13+05:30"
+      "fetched_at": "2026-07-19T18:00:14+05:30"
     },
     "NSE:NIFTY INFRA": {
       "status": "ok",
@@ -274,7 +274,7 @@
       "removed": 0,
       "file": "nse_nifty-infra.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyinfralist.csv",
-      "fetched_at": "2026-07-18T18:00:13+05:30"
+      "fetched_at": "2026-07-19T18:00:14+05:30"
     },
     "NSE:NIFTY IPO": {
       "status": "ok",
@@ -285,7 +285,7 @@
       "removed": 0,
       "file": "nse_nifty-ipo.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyipo_list.csv",
-      "fetched_at": "2026-07-18T18:00:13+05:30"
+      "fetched_at": "2026-07-19T18:00:15+05:30"
     },
     "NSE:NIFTY LARGEMID250": {
       "status": "ok",
@@ -296,7 +296,7 @@
       "removed": 0,
       "file": "nse_nifty-largemid250.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftylargemidcap250list.csv",
-      "fetched_at": "2026-07-18T18:00:14+05:30"
+      "fetched_at": "2026-07-19T18:00:16+05:30"
     },
     "NSE:NIFTY M150 QLTY50": {
       "status": "ok",
@@ -307,7 +307,7 @@
       "removed": 0,
       "file": "nse_nifty-m150-qlty50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymidcap150quality50list.csv",
-      "fetched_at": "2026-07-18T18:00:15+05:30"
+      "fetched_at": "2026-07-19T18:00:16+05:30"
     },
     "NSE:NIFTY MEDIA": {
       "status": "ok",
@@ -318,7 +318,7 @@
       "removed": 0,
       "file": "nse_nifty-media.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymedialist.csv",
-      "fetched_at": "2026-07-18T18:00:15+05:30"
+      "fetched_at": "2026-07-19T18:00:17+05:30"
     },
     "NSE:NIFTY METAL": {
       "status": "ok",
@@ -329,7 +329,7 @@
       "removed": 0,
       "file": "nse_nifty-metal.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymetallist.csv",
-      "fetched_at": "2026-07-18T18:00:15+05:30"
+      "fetched_at": "2026-07-19T18:00:17+05:30"
     },
     "NSE:NIFTY MICROCAP250": {
       "status": "ok",
@@ -340,7 +340,7 @@
       "removed": 0,
       "file": "nse_nifty-microcap250.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymicrocap250_list.csv",
-      "fetched_at": "2026-07-18T18:00:16+05:30"
+      "fetched_at": "2026-07-19T18:00:18+05:30"
     },
     "NSE:NIFTY MID SELECT": {
       "status": "ok",
@@ -351,7 +351,7 @@
       "removed": 0,
       "file": "nse_nifty-mid-select.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymidcapselect_list.csv",
-      "fetched_at": "2026-07-18T18:00:16+05:30"
+      "fetched_at": "2026-07-19T18:00:18+05:30"
     },
     "NSE:NIFTY MIDCAP 100": {
       "status": "ok",
@@ -362,7 +362,7 @@
       "removed": 0,
       "file": "nse_nifty-midcap-100.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymidcap100list.csv",
-      "fetched_at": "2026-07-18T18:00:17+05:30"
+      "fetched_at": "2026-07-19T18:00:18+05:30"
     },
     "NSE:NIFTY MIDCAP 150": {
       "status": "ok",
@@ -373,7 +373,7 @@
       "removed": 0,
       "file": "nse_nifty-midcap-150.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymidcap150list.csv",
-      "fetched_at": "2026-07-18T18:00:17+05:30"
+      "fetched_at": "2026-07-19T18:00:19+05:30"
     },
     "NSE:NIFTY MIDCAP 50": {
       "status": "ok",
@@ -384,7 +384,7 @@
       "removed": 0,
       "file": "nse_nifty-midcap-50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymidcap50list.csv",
-      "fetched_at": "2026-07-18T18:00:17+05:30"
+      "fetched_at": "2026-07-19T18:00:19+05:30"
     },
     "NSE:NIFTY MIDSML 400": {
       "status": "ok",
@@ -395,7 +395,7 @@
       "removed": 0,
       "file": "nse_nifty-midsml-400.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymidsmallcap400list.csv",
-      "fetched_at": "2026-07-18T18:00:18+05:30"
+      "fetched_at": "2026-07-19T18:00:20+05:30"
     },
     "NSE:NIFTY MIDSML HLTH": {
       "status": "ok",
@@ -406,7 +406,7 @@
       "removed": 0,
       "file": "nse_nifty-midsml-hlth.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymidsmallhealthcare_list.csv",
-      "fetched_at": "2026-07-18T18:00:18+05:30"
+      "fetched_at": "2026-07-19T18:00:20+05:30"
     },
     "NSE:NIFTY MNC": {
       "status": "ok",
@@ -417,7 +417,7 @@
       "removed": 0,
       "file": "nse_nifty-mnc.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymnclist.csv",
-      "fetched_at": "2026-07-18T18:00:19+05:30"
+      "fetched_at": "2026-07-19T18:00:21+05:30"
     },
     "NSE:NIFTY MOBILITY": {
       "status": "ok",
@@ -428,7 +428,7 @@
       "removed": 0,
       "file": "nse_nifty-mobility.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymobility_list.csv",
-      "fetched_at": "2026-07-18T18:00:19+05:30"
+      "fetched_at": "2026-07-19T18:00:21+05:30"
     },
     "NSE:NIFTY MS IND CONS": {
       "status": "ok",
@@ -439,7 +439,7 @@
       "removed": 0,
       "file": "nse_nifty-ms-ind-cons.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymidsmallindiaconsumption_list.csv",
-      "fetched_at": "2026-07-18T18:00:19+05:30"
+      "fetched_at": "2026-07-19T18:00:21+05:30"
     },
     "NSE:NIFTY NEW CONSUMP": {
       "status": "ok",
@@ -450,7 +450,7 @@
       "removed": 0,
       "file": "nse_nifty-new-consump.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyindianewageconsumption_list.csv",
-      "fetched_at": "2026-07-18T18:00:20+05:30"
+      "fetched_at": "2026-07-19T18:00:22+05:30"
     },
     "NSE:NIFTY NEXT 50": {
       "status": "ok",
@@ -461,7 +461,7 @@
       "removed": 0,
       "file": "nse_nifty-next-50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftynext50list.csv",
-      "fetched_at": "2026-07-18T18:00:20+05:30"
+      "fetched_at": "2026-07-19T18:00:22+05:30"
     },
     "NSE:NIFTY OIL AND GAS": {
       "status": "ok",
@@ -472,7 +472,7 @@
       "removed": 0,
       "file": "nse_nifty-oil-and-gas.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyoilgaslist.csv",
-      "fetched_at": "2026-07-18T18:00:21+05:30"
+      "fetched_at": "2026-07-19T18:00:23+05:30"
     },
     "NSE:NIFTY PHARMA": {
       "status": "ok",
@@ -483,7 +483,7 @@
       "removed": 0,
       "file": "nse_nifty-pharma.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftypharmalist.csv",
-      "fetched_at": "2026-07-18T18:00:21+05:30"
+      "fetched_at": "2026-07-19T18:00:23+05:30"
     },
     "NSE:NIFTY PSE": {
       "status": "ok",
@@ -494,7 +494,7 @@
       "removed": 0,
       "file": "nse_nifty-pse.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftypselist.csv",
-      "fetched_at": "2026-07-18T18:00:21+05:30"
+      "fetched_at": "2026-07-19T18:00:24+05:30"
     },
     "NSE:NIFTY PSU BANK": {
       "status": "ok",
@@ -505,7 +505,7 @@
       "removed": 0,
       "file": "nse_nifty-psu-bank.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftypsubanklist.csv",
-      "fetched_at": "2026-07-18T18:00:22+05:30"
+      "fetched_at": "2026-07-19T18:00:24+05:30"
     },
     "NSE:NIFTY REALTY": {
       "status": "ok",
@@ -516,7 +516,7 @@
       "removed": 0,
       "file": "nse_nifty-realty.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyrealtylist.csv",
-      "fetched_at": "2026-07-18T18:00:22+05:30"
+      "fetched_at": "2026-07-19T18:00:24+05:30"
     },
     "NSE:NIFTY RURAL": {
       "status": "ok",
@@ -527,7 +527,7 @@
       "removed": 0,
       "file": "nse_nifty-rural.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftyrural_list.csv",
-      "fetched_at": "2026-07-18T18:00:23+05:30"
+      "fetched_at": "2026-07-19T18:00:25+05:30"
     },
     "NSE:NIFTY SMLCAP 100": {
       "status": "ok",
@@ -538,7 +538,7 @@
       "removed": 0,
       "file": "nse_nifty-smlcap-100.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftysmallcap100list.csv",
-      "fetched_at": "2026-07-18T18:00:23+05:30"
+      "fetched_at": "2026-07-19T18:00:25+05:30"
     },
     "NSE:NIFTY SMLCAP 250": {
       "status": "ok",
@@ -549,7 +549,7 @@
       "removed": 0,
       "file": "nse_nifty-smlcap-250.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftysmallcap250list.csv",
-      "fetched_at": "2026-07-18T18:00:23+05:30"
+      "fetched_at": "2026-07-19T18:00:26+05:30"
     },
     "NSE:NIFTY SMLCAP 50": {
       "status": "ok",
@@ -560,7 +560,7 @@
       "removed": 0,
       "file": "nse_nifty-smlcap-50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftysmallcap50list.csv",
-      "fetched_at": "2026-07-18T18:00:24+05:30"
+      "fetched_at": "2026-07-19T18:00:26+05:30"
     },
     "NSE:NIFTY TMMQ 50": {
       "status": "ok",
@@ -571,7 +571,7 @@
       "removed": 0,
       "file": "nse_nifty-tmmq-50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftytotalmarketmomentumquality50_list.csv",
-      "fetched_at": "2026-07-18T18:00:24+05:30"
+      "fetched_at": "2026-07-19T18:00:27+05:30"
     },
     "NSE:NIFTY TOP 10 EW": {
       "status": "ok",
@@ -582,7 +582,7 @@
       "removed": 0,
       "file": "nse_nifty-top-10-ew.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftytop10equalweight_list.csv",
-      "fetched_at": "2026-07-18T18:00:25+05:30"
+      "fetched_at": "2026-07-19T18:00:27+05:30"
     },
     "NSE:NIFTY TOP 15 EW": {
       "status": "ok",
@@ -593,7 +593,7 @@
       "removed": 0,
       "file": "nse_nifty-top-15-ew.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftytop15equalweight_list.csv",
-      "fetched_at": "2026-07-18T18:00:25+05:30"
+      "fetched_at": "2026-07-19T18:00:28+05:30"
     },
     "NSE:NIFTY TOP 20 EW": {
       "status": "ok",
@@ -604,7 +604,7 @@
       "removed": 0,
       "file": "nse_nifty-top-20-ew.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftytop20equalweight_list.csv",
-      "fetched_at": "2026-07-18T18:00:25+05:30"
+      "fetched_at": "2026-07-19T18:00:28+05:30"
     },
     "NSE:NIFTY TOTAL MKT": {
       "status": "ok",
@@ -615,7 +615,7 @@
       "removed": 0,
       "file": "nse_nifty-total-mkt.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftytotalmarket_list.csv",
-      "fetched_at": "2026-07-18T18:00:26+05:30"
+      "fetched_at": "2026-07-19T18:00:29+05:30"
     },
     "NSE:NIFTY TRANS LOGIS": {
       "status": "ok",
@@ -626,7 +626,7 @@
       "removed": 0,
       "file": "nse_nifty-trans-logis.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftytransportationandlogistics_list.csv",
-      "fetched_at": "2026-07-18T18:00:26+05:30"
+      "fetched_at": "2026-07-19T18:00:29+05:30"
     },
     "NSE:NIFTY WAVES": {
       "status": "ok",
@@ -637,7 +637,7 @@
       "removed": 0,
       "file": "nse_nifty-waves.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftywaves_list.csv",
-      "fetched_at": "2026-07-18T18:00:26+05:30"
+      "fetched_at": "2026-07-19T18:00:30+05:30"
     },
     "NSE:NIFTY100 ALPHA 30": {
       "status": "ok",
@@ -648,7 +648,7 @@
       "removed": 0,
       "file": "nse_nifty100-alpha-30.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty100alpha30list.csv",
-      "fetched_at": "2026-07-18T18:00:27+05:30"
+      "fetched_at": "2026-07-19T18:00:30+05:30"
     },
     "NSE:NIFTY100 LOWVOL30": {
       "status": "ok",
@@ -659,7 +659,7 @@
       "removed": 0,
       "file": "nse_nifty100-lowvol30.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty100lowvolatility30list.csv",
-      "fetched_at": "2026-07-18T18:00:27+05:30"
+      "fetched_at": "2026-07-19T18:00:31+05:30"
     },
     "NSE:NIFTY100 QUALTY30": {
       "status": "ok",
@@ -670,7 +670,7 @@
       "removed": 0,
       "file": "nse_nifty100-qualty30.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty100quality30list.csv",
-      "fetched_at": "2026-07-18T18:00:28+05:30"
+      "fetched_at": "2026-07-19T18:00:31+05:30"
     },
     "NSE:NIFTY200 ALPHA 30": {
       "status": "ok",
@@ -681,7 +681,7 @@
       "removed": 0,
       "file": "nse_nifty200-alpha-30.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty200alpha30_list.csv",
-      "fetched_at": "2026-07-18T18:00:28+05:30"
+      "fetched_at": "2026-07-19T18:00:31+05:30"
     },
     "NSE:NIFTY200 QUALTY30": {
       "status": "ok",
@@ -692,7 +692,7 @@
       "removed": 0,
       "file": "nse_nifty200-qualty30.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty200quality30_list.csv",
-      "fetched_at": "2026-07-18T18:00:29+05:30"
+      "fetched_at": "2026-07-19T18:00:32+05:30"
     },
     "NSE:NIFTY200 VALUE 30": {
       "status": "ok",
@@ -703,7 +703,7 @@
       "removed": 0,
       "file": "nse_nifty200-value-30.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty200value30_list.csv",
-      "fetched_at": "2026-07-18T18:00:29+05:30"
+      "fetched_at": "2026-07-19T18:00:32+05:30"
     },
     "NSE:NIFTY200MOMENTM30": {
       "status": "ok",
@@ -714,7 +714,7 @@
       "removed": 0,
       "file": "nse_nifty200momentm30.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty200momentum30_list.csv",
-      "fetched_at": "2026-07-18T18:00:29+05:30"
+      "fetched_at": "2026-07-19T18:00:33+05:30"
     },
     "NSE:NIFTY500 EW": {
       "status": "ok",
@@ -725,7 +725,7 @@
       "removed": 0,
       "file": "nse_nifty500-ew.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty500equalweight_list.csv",
-      "fetched_at": "2026-07-18T18:00:30+05:30"
+      "fetched_at": "2026-07-19T18:00:33+05:30"
     },
     "NSE:NIFTY500 HEALTH": {
       "status": "ok",
@@ -736,7 +736,7 @@
       "removed": 0,
       "file": "nse_nifty500-health.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty500healthcare_list.csv",
-      "fetched_at": "2026-07-18T18:00:30+05:30"
+      "fetched_at": "2026-07-19T18:00:34+05:30"
     },
     "NSE:NIFTY500 LMS EQL": {
       "status": "ok",
@@ -747,7 +747,7 @@
       "removed": 0,
       "file": "nse_nifty500-lms-eql.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty500largemidsmallequalcapweighted_list.csv",
-      "fetched_at": "2026-07-18T18:00:31+05:30"
+      "fetched_at": "2026-07-19T18:00:34+05:30"
     },
     "NSE:NIFTY500 LOW VOLATILITY 50": {
       "status": "ok",
@@ -758,7 +758,7 @@
       "removed": 0,
       "file": "nse_nifty500-low-volatility-50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty500lowvolatility50_list.csv",
-      "fetched_at": "2026-07-18T18:00:31+05:30"
+      "fetched_at": "2026-07-19T18:00:35+05:30"
     },
     "NSE:NIFTY500 MQVLV50": {
       "status": "ok",
@@ -769,7 +769,7 @@
       "removed": 0,
       "file": "nse_nifty500-mqvlv50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty500multifactormqvlv50_list.csv",
-      "fetched_at": "2026-07-18T18:00:31+05:30"
+      "fetched_at": "2026-07-19T18:00:35+05:30"
     },
     "NSE:NIFTY500 MULTICAP": {
       "status": "ok",
@@ -780,7 +780,7 @@
       "removed": 0,
       "file": "nse_nifty500-multicap.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty500multicap502525_list.csv",
-      "fetched_at": "2026-07-18T18:00:32+05:30"
+      "fetched_at": "2026-07-19T18:00:36+05:30"
     },
     "NSE:NIFTY500 QLTY50": {
       "status": "ok",
@@ -791,7 +791,7 @@
       "removed": 0,
       "file": "nse_nifty500-qlty50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty500quality50_list.csv",
-      "fetched_at": "2026-07-18T18:00:32+05:30"
+      "fetched_at": "2026-07-19T18:00:36+05:30"
     },
     "NSE:NIFTY500 VALUE 50": {
       "status": "ok",
@@ -802,7 +802,7 @@
       "removed": 0,
       "file": "nse_nifty500-value-50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty500value50_list.csv",
-      "fetched_at": "2026-07-18T18:00:33+05:30"
+      "fetched_at": "2026-07-19T18:00:37+05:30"
     },
     "NSE:NIFTY500MOMENTM50": {
       "status": "ok",
@@ -813,7 +813,7 @@
       "removed": 0,
       "file": "nse_nifty500momentm50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_nifty500momentum50_list.csv",
-      "fetched_at": "2026-07-18T18:00:33+05:30"
+      "fetched_at": "2026-07-19T18:00:37+05:30"
     },
     "NSE:NIFTYM150MOMNTM50": {
       "status": "ok",
@@ -824,7 +824,7 @@
       "removed": 0,
       "file": "nse_niftym150momntm50.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymidcap150momentum50_list.csv",
-      "fetched_at": "2026-07-18T18:00:33+05:30"
+      "fetched_at": "2026-07-19T18:00:38+05:30"
     },
     "NSE:NIFTYMS400 MQ 100": {
       "status": "ok",
@@ -835,7 +835,7 @@
       "removed": 0,
       "file": "nse_niftyms400-mq-100.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftymidsmallcap400momentumquality100_list.csv",
-      "fetched_at": "2026-07-18T18:00:34+05:30"
+      "fetched_at": "2026-07-19T18:00:38+05:30"
     },
     "NSE:NIFTYSML250MQ 100": {
       "status": "ok",
@@ -846,7 +846,7 @@
       "removed": 0,
       "file": "nse_niftysml250mq-100.json",
       "source": "https://niftyindices.com/IndexConstituent/ind_niftysmallcap250momentumquality100_list.csv",
-      "fetched_at": "2026-07-18T18:00:34+05:30"
+      "fetched_at": "2026-07-19T18:00:39+05:30"
     },
     "BSE:BSE SENSEX": {
       "status": "ok",
@@ -857,7 +857,7 @@
       "removed": 0,
       "file": "bse_bse-sensex.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSE30",
-      "fetched_at": "2026-07-18T18:00:35+05:30"
+      "fetched_at": "2026-07-19T18:00:39+05:30"
     },
     "BSE:BSE FOCUSED MIDCAP": {
       "status": "ok",
@@ -868,7 +868,7 @@
       "removed": 0,
       "file": "bse_bse-focused-midcap.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=FOCMID",
-      "fetched_at": "2026-07-18T18:00:35+05:30"
+      "fetched_at": "2026-07-19T18:00:40+05:30"
     },
     "BSE:BSE BANKEX": {
       "status": "ok",
@@ -879,7 +879,7 @@
       "removed": 0,
       "file": "bse_bse-bankex.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BANKEX",
-      "fetched_at": "2026-07-18T18:00:36+05:30"
+      "fetched_at": "2026-07-19T18:00:41+05:30"
     },
     "BSE:BSE SENSEX 50": {
       "status": "ok",
@@ -890,7 +890,7 @@
       "removed": 0,
       "file": "bse_bse-sensex-50.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SNSX50",
-      "fetched_at": "2026-07-18T18:00:37+05:30"
+      "fetched_at": "2026-07-19T18:00:42+05:30"
     },
     "BSE:BSE SENSEX Next 50": {
       "status": "ok",
@@ -901,7 +901,7 @@
       "removed": 0,
       "file": "bse_bse-sensex-next-50.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SNXT50",
-      "fetched_at": "2026-07-18T18:00:37+05:30"
+      "fetched_at": "2026-07-19T18:00:42+05:30"
     },
     "BSE:BSE Bharat 22 Index": {
       "status": "ok",
@@ -912,7 +912,7 @@
       "removed": 0,
       "file": "bse_bse-bharat-22-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BHRT22",
-      "fetched_at": "2026-07-18T18:00:38+05:30"
+      "fetched_at": "2026-07-19T18:00:43+05:30"
     },
     "BSE:BSE 100": {
       "status": "ok",
@@ -923,7 +923,7 @@
       "removed": 0,
       "file": "bse_bse-100.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSE100",
-      "fetched_at": "2026-07-18T18:00:39+05:30"
+      "fetched_at": "2026-07-19T18:00:44+05:30"
     },
     "BSE:BSE SENSEX SIXTY": {
       "status": "ok",
@@ -934,7 +934,7 @@
       "removed": 0,
       "file": "bse_bse-sensex-sixty.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SNSX60",
-      "fetched_at": "2026-07-18T18:00:40+05:30"
+      "fetched_at": "2026-07-19T18:00:45+05:30"
     },
     "BSE:BSE 200": {
       "status": "ok",
@@ -945,7 +945,7 @@
       "removed": 0,
       "file": "bse_bse-200.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSE200",
-      "fetched_at": "2026-07-18T18:00:40+05:30"
+      "fetched_at": "2026-07-19T18:00:46+05:30"
     },
     "BSE:BSE 150 MidCap Index": {
       "status": "ok",
@@ -956,7 +956,7 @@
       "removed": 0,
       "file": "bse_bse-150-midcap-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=MID150",
-      "fetched_at": "2026-07-18T18:00:41+05:30"
+      "fetched_at": "2026-07-19T18:00:46+05:30"
     },
     "BSE:BSE 250 SmallCap Index": {
       "status": "ok",
@@ -967,7 +967,7 @@
       "removed": 0,
       "file": "bse_bse-250-smallcap-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SML250",
-      "fetched_at": "2026-07-18T18:00:42+05:30"
+      "fetched_at": "2026-07-19T18:00:47+05:30"
     },
     "BSE:BSE 250 LargeMidCap Index": {
       "status": "ok",
@@ -978,7 +978,7 @@
       "removed": 0,
       "file": "bse_bse-250-largemidcap-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=LMI250",
-      "fetched_at": "2026-07-18T18:00:43+05:30"
+      "fetched_at": "2026-07-19T18:00:48+05:30"
     },
     "BSE:BSE 400 MidSmallCap Index": {
       "status": "ok",
@@ -989,7 +989,7 @@
       "removed": 0,
       "file": "bse_bse-400-midsmallcap-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=MSL400",
-      "fetched_at": "2026-07-18T18:00:43+05:30"
+      "fetched_at": "2026-07-19T18:00:49+05:30"
     },
     "BSE:BSE 500": {
       "status": "ok",
@@ -1000,7 +1000,7 @@
       "removed": 0,
       "file": "bse_bse-500.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSE500",
-      "fetched_at": "2026-07-18T18:00:44+05:30"
+      "fetched_at": "2026-07-19T18:00:50+05:30"
     },
     "BSE:BSE SmallCap Select Index": {
       "status": "ok",
@@ -1011,7 +1011,7 @@
       "removed": 0,
       "file": "bse_bse-smallcap-select-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMLSEL",
-      "fetched_at": "2026-07-18T18:00:45+05:30"
+      "fetched_at": "2026-07-19T18:00:51+05:30"
     },
     "BSE:BSE MidCap Select Index": {
       "status": "ok",
@@ -1022,7 +1022,7 @@
       "removed": 0,
       "file": "bse_bse-midcap-select-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=MIDSEL",
-      "fetched_at": "2026-07-18T18:00:46+05:30"
+      "fetched_at": "2026-07-19T18:00:52+05:30"
     },
     "BSE:BSE 100 LargeCap TMC Index": {
       "status": "ok",
@@ -1033,7 +1033,7 @@
       "removed": 0,
       "file": "bse_bse-100-largecap-tmc-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=LCTMCI",
-      "fetched_at": "2026-07-18T18:00:47+05:30"
+      "fetched_at": "2026-07-19T18:00:52+05:30"
     },
     "BSE:BSE 1000": {
       "status": "ok",
@@ -1044,7 +1044,7 @@
       "removed": 0,
       "file": "bse_bse-1000.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BS1000",
-      "fetched_at": "2026-07-18T18:00:48+05:30"
+      "fetched_at": "2026-07-19T18:00:53+05:30"
     },
     "BSE:BSE SENSEX NEXT 30": {
       "status": "ok",
@@ -1055,7 +1055,7 @@
       "removed": 0,
       "file": "bse_bse-sensex-next-30.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SNXN30",
-      "fetched_at": "2026-07-18T18:00:49+05:30"
+      "fetched_at": "2026-07-19T18:00:54+05:30"
     },
     "BSE:BSE India 150": {
       "status": "ok",
@@ -1066,7 +1066,7 @@
       "removed": 0,
       "file": "bse_bse-india-150.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=IND150",
-      "fetched_at": "2026-07-18T18:00:49+05:30"
+      "fetched_at": "2026-07-19T18:00:55+05:30"
     },
     "BSE:BSE 100 ESG Index": {
       "status": "ok",
@@ -1077,7 +1077,7 @@
       "removed": 0,
       "file": "bse_bse-100-esg-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=ESG100",
-      "fetched_at": "2026-07-18T18:00:50+05:30"
+      "fetched_at": "2026-07-19T18:00:56+05:30"
     },
     "BSE:BSE Focused IT ": {
       "status": "ok",
@@ -1088,7 +1088,7 @@
       "removed": 0,
       "file": "bse_bse-focused-it.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=FOCIT",
-      "fetched_at": "2026-07-18T18:00:51+05:30"
+      "fetched_at": "2026-07-19T18:00:57+05:30"
     },
     "BSE:BSE Momentum Index": {
       "status": "ok",
@@ -1099,7 +1099,7 @@
       "removed": 0,
       "file": "bse_bse-momentum-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEMOI",
-      "fetched_at": "2026-07-18T18:00:52+05:30"
+      "fetched_at": "2026-07-19T18:00:57+05:30"
     },
     "BSE:BSE Low Volatility Index": {
       "status": "ok",
@@ -1110,7 +1110,7 @@
       "removed": 0,
       "file": "bse_bse-low-volatility-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSELVI",
-      "fetched_at": "2026-07-18T18:00:53+05:30"
+      "fetched_at": "2026-07-19T18:00:58+05:30"
     },
     "BSE:BSE Quality Index ": {
       "status": "ok",
@@ -1121,7 +1121,7 @@
       "removed": 0,
       "file": "bse_bse-quality-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEQUI",
-      "fetched_at": "2026-07-18T18:00:53+05:30"
+      "fetched_at": "2026-07-19T18:00:59+05:30"
     },
     "BSE:BSE Enhanced Value Index": {
       "status": "ok",
@@ -1132,7 +1132,7 @@
       "removed": 0,
       "file": "bse_bse-enhanced-value-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEEVI",
-      "fetched_at": "2026-07-18T18:00:54+05:30"
+      "fetched_at": "2026-07-19T18:01:00+05:30"
     },
     "BSE:BSE SENSEX SIXTY 65:35": {
       "status": "ok",
@@ -1143,7 +1143,7 @@
       "removed": 0,
       "file": "bse_bse-sensex-sixty-65-35.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SS6535",
-      "fetched_at": "2026-07-18T18:00:55+05:30"
+      "fetched_at": "2026-07-19T18:01:01+05:30"
     },
     "BSE:BSE Dividend Stability Index": {
       "status": "ok",
@@ -1154,29 +1154,29 @@
       "removed": 0,
       "file": "bse_bse-dividend-stability-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEDSI",
-      "fetched_at": "2026-07-18T18:00:56+05:30"
+      "fetched_at": "2026-07-19T18:01:02+05:30"
     },
     "BSE:BSE IPO": {
       "status": "ok",
       "count": 102,
-      "prev_count": 111,
-      "changed": true,
-      "added": 1,
-      "removed": 10,
+      "prev_count": 102,
+      "changed": false,
+      "added": 0,
+      "removed": 0,
       "file": "bse_bse-ipo.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEIPO",
-      "fetched_at": "2026-07-18T18:00:56+05:30"
+      "fetched_at": "2026-07-19T18:01:02+05:30"
     },
     "BSE:BSE SME IPO": {
       "status": "ok",
       "count": 152,
-      "prev_count": 168,
-      "changed": true,
+      "prev_count": 152,
+      "changed": false,
       "added": 0,
-      "removed": 16,
+      "removed": 0,
       "file": "bse_bse-sme-ipo.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMEIPO",
-      "fetched_at": "2026-07-18T18:00:57+05:30"
+      "fetched_at": "2026-07-19T18:01:03+05:30"
     },
     "BSE:BSE 200 EQUAL WEIGHT INDEX": {
       "status": "ok",
@@ -1187,7 +1187,7 @@
       "removed": 0,
       "file": "bse_bse-200-equal-weight-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=200EQW",
-      "fetched_at": "2026-07-18T18:00:58+05:30"
+      "fetched_at": "2026-07-19T18:01:04+05:30"
     },
     "BSE:BSE SELECT IPO": {
       "status": "ok",
@@ -1198,7 +1198,7 @@
       "removed": 0,
       "file": "bse_bse-select-ipo.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SELIPO",
-      "fetched_at": "2026-07-18T18:00:59+05:30"
+      "fetched_at": "2026-07-19T18:01:05+05:30"
     },
     "BSE:BSE SENSEX EQUAL WEIGHT": {
       "status": "ok",
@@ -1209,7 +1209,7 @@
       "removed": 0,
       "file": "bse_bse-sensex-equal-weight.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SENEQW",
-      "fetched_at": "2026-07-18T18:01:00+05:30"
+      "fetched_at": "2026-07-19T18:01:06+05:30"
     },
     "BSE:BSE 500 Dividend Leaders 50": {
       "status": "ok",
@@ -1220,7 +1220,7 @@
       "removed": 0,
       "file": "bse_bse-500-dividend-leaders-50.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=DIVY50",
-      "fetched_at": "2026-07-18T18:01:01+05:30"
+      "fetched_at": "2026-07-19T18:01:06+05:30"
     },
     "BSE:BSE 500 Quality 50": {
       "status": "ok",
@@ -1231,7 +1231,7 @@
       "removed": 0,
       "file": "bse_bse-500-quality-50.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=QUAL50",
-      "fetched_at": "2026-07-18T18:01:01+05:30"
+      "fetched_at": "2026-07-19T18:01:07+05:30"
     },
     "BSE:BSE 500 Momentum 50 ": {
       "status": "ok",
@@ -1242,7 +1242,7 @@
       "removed": 0,
       "file": "bse_bse-500-momentum-50.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=MOME50",
-      "fetched_at": "2026-07-18T18:01:02+05:30"
+      "fetched_at": "2026-07-19T18:01:08+05:30"
     },
     "BSE:BSE Midcap 150 Momentum 30": {
       "status": "ok",
@@ -1253,7 +1253,7 @@
       "removed": 0,
       "file": "bse_bse-midcap-150-momentum-30.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=MMOM30",
-      "fetched_at": "2026-07-18T18:01:03+05:30"
+      "fetched_at": "2026-07-19T18:01:09+05:30"
     },
     "BSE:BSE INDIA SECTOR LEADERS": {
       "status": "ok",
@@ -1264,7 +1264,7 @@
       "removed": 0,
       "file": "bse_bse-india-sector-leaders.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=INSLDR",
-      "fetched_at": "2026-07-18T18:01:04+05:30"
+      "fetched_at": "2026-07-19T18:01:10+05:30"
     },
     "BSE:BSE POWER & ENERGY": {
       "status": "ok",
@@ -1275,7 +1275,7 @@
       "removed": 0,
       "file": "bse_bse-power-energy.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=POWENE",
-      "fetched_at": "2026-07-18T18:01:05+05:30"
+      "fetched_at": "2026-07-19T18:01:11+05:30"
     },
     "BSE:BSE SELECT BUSINESS GROUPS": {
       "status": "ok",
@@ -1286,7 +1286,7 @@
       "removed": 0,
       "file": "bse_bse-select-business-groups.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BBGEFS",
-      "fetched_at": "2026-07-18T18:01:06+05:30"
+      "fetched_at": "2026-07-19T18:01:11+05:30"
     },
     "BSE:BSE Commodities": {
       "status": "ok",
@@ -1297,7 +1297,7 @@
       "removed": 0,
       "file": "bse_bse-commodities.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=COMDTY",
-      "fetched_at": "2026-07-18T18:01:06+05:30"
+      "fetched_at": "2026-07-19T18:01:12+05:30"
     },
     "BSE:BSE Diversified Financials Revenue Growth Index": {
       "status": "ok",
@@ -1308,7 +1308,7 @@
       "removed": 0,
       "file": "bse_bse-diversified-financials-revenue-growth-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=DFRGRI",
-      "fetched_at": "2026-07-18T18:01:07+05:30"
+      "fetched_at": "2026-07-19T18:01:13+05:30"
     },
     "BSE:BSE Consumer Discretionary": {
       "status": "ok",
@@ -1319,7 +1319,7 @@
       "removed": 0,
       "file": "bse_bse-consumer-discretionary.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=CONDIS",
-      "fetched_at": "2026-07-18T18:01:08+05:30"
+      "fetched_at": "2026-07-19T18:01:13+05:30"
     },
     "BSE:BSE India Infrastructure Index": {
       "status": "ok",
@@ -1330,7 +1330,7 @@
       "removed": 0,
       "file": "bse_bse-india-infrastructure-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=INFRA",
-      "fetched_at": "2026-07-18T18:01:09+05:30"
+      "fetched_at": "2026-07-19T18:01:14+05:30"
     },
     "BSE:BSE Energy": {
       "status": "ok",
@@ -1341,7 +1341,7 @@
       "removed": 0,
       "file": "bse_bse-energy.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=ENERGY",
-      "fetched_at": "2026-07-18T18:01:10+05:30"
+      "fetched_at": "2026-07-19T18:01:15+05:30"
     },
     "BSE:BSE India Manufacturing Index": {
       "status": "ok",
@@ -1352,7 +1352,7 @@
       "removed": 0,
       "file": "bse_bse-india-manufacturing-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=MFG",
-      "fetched_at": "2026-07-18T18:01:11+05:30"
+      "fetched_at": "2026-07-19T18:01:16+05:30"
     },
     "BSE:BSE Fast Moving Consumer Goods": {
       "status": "ok",
@@ -1363,7 +1363,7 @@
       "removed": 0,
       "file": "bse_bse-fast-moving-consumer-goods.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEFMCG",
-      "fetched_at": "2026-07-18T18:01:12+05:30"
+      "fetched_at": "2026-07-19T18:01:16+05:30"
     },
     "BSE:BSE CPSE": {
       "status": "ok",
@@ -1374,7 +1374,7 @@
       "removed": 0,
       "file": "bse_bse-cpse.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=CPSE",
-      "fetched_at": "2026-07-18T18:01:13+05:30"
+      "fetched_at": "2026-07-19T18:01:17+05:30"
     },
     "BSE:BSE Financial Services": {
       "status": "ok",
@@ -1385,7 +1385,7 @@
       "removed": 0,
       "file": "bse_bse-financial-services.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=FINSER",
-      "fetched_at": "2026-07-18T18:01:14+05:30"
+      "fetched_at": "2026-07-19T18:01:18+05:30"
     },
     "BSE:BSE PSU": {
       "status": "ok",
@@ -1396,7 +1396,7 @@
       "removed": 0,
       "file": "bse_bse-psu.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEPSU",
-      "fetched_at": "2026-07-18T18:01:15+05:30"
+      "fetched_at": "2026-07-19T18:01:19+05:30"
     },
     "BSE:BSE Healthcare": {
       "status": "ok",
@@ -1407,7 +1407,7 @@
       "removed": 0,
       "file": "bse_bse-healthcare.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEHC",
-      "fetched_at": "2026-07-18T18:01:16+05:30"
+      "fetched_at": "2026-07-19T18:01:19+05:30"
     },
     "BSE:BSE Industrials": {
       "status": "ok",
@@ -1418,7 +1418,7 @@
       "removed": 0,
       "file": "bse_bse-industrials.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=INDSTR",
-      "fetched_at": "2026-07-18T18:01:16+05:30"
+      "fetched_at": "2026-07-19T18:01:20+05:30"
     },
     "BSE:BSE Private Banks Index": {
       "status": "ok",
@@ -1429,7 +1429,7 @@
       "removed": 0,
       "file": "bse_bse-private-banks-index.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEPBI",
-      "fetched_at": "2026-07-18T18:01:17+05:30"
+      "fetched_at": "2026-07-19T18:01:21+05:30"
     },
     "BSE:BSE Information Technology": {
       "status": "ok",
@@ -1440,7 +1440,7 @@
       "removed": 0,
       "file": "bse_bse-information-technology.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEIT",
-      "fetched_at": "2026-07-18T18:01:18+05:30"
+      "fetched_at": "2026-07-19T18:01:22+05:30"
     },
     "BSE:BSE Telecommunication": {
       "status": "ok",
@@ -1451,7 +1451,7 @@
       "removed": 0,
       "file": "bse_bse-telecommunication.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=TELCOM",
-      "fetched_at": "2026-07-18T18:01:19+05:30"
+      "fetched_at": "2026-07-19T18:01:22+05:30"
     },
     "BSE:BSE CAPITAL MARKETS & INSURANCE": {
       "status": "ok",
@@ -1462,7 +1462,7 @@
       "removed": 0,
       "file": "bse_bse-capital-markets-insurance.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=CAPINS",
-      "fetched_at": "2026-07-18T18:01:20+05:30"
+      "fetched_at": "2026-07-19T18:01:23+05:30"
     },
     "BSE:BSE Utilities": {
       "status": "ok",
@@ -1473,7 +1473,7 @@
       "removed": 0,
       "file": "bse_bse-utilities.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=UTILS",
-      "fetched_at": "2026-07-18T18:01:21+05:30"
+      "fetched_at": "2026-07-19T18:01:24+05:30"
     },
     "BSE:BSE INTERNET ECONOMY": {
       "status": "ok",
@@ -1484,7 +1484,7 @@
       "removed": 0,
       "file": "bse_bse-internet-economy.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=INTECO",
-      "fetched_at": "2026-07-18T18:01:22+05:30"
+      "fetched_at": "2026-07-19T18:01:24+05:30"
     },
     "BSE:BSE AUTO": {
       "status": "ok",
@@ -1495,7 +1495,7 @@
       "removed": 0,
       "file": "bse_bse-auto.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=AUTO",
-      "fetched_at": "2026-07-18T18:01:23+05:30"
+      "fetched_at": "2026-07-19T18:01:25+05:30"
     },
     "BSE:BSE PREMIUM CONSUMPTION": {
       "status": "ok",
@@ -1506,7 +1506,7 @@
       "removed": 0,
       "file": "bse_bse-premium-consumption.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=PRECON",
-      "fetched_at": "2026-07-18T18:01:23+05:30"
+      "fetched_at": "2026-07-19T18:01:26+05:30"
     },
     "BSE:BSE PSU BANK": {
       "status": "ok",
@@ -1517,7 +1517,7 @@
       "removed": 0,
       "file": "bse_bse-psu-bank.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=PSUBNK",
-      "fetched_at": "2026-07-18T18:01:24+05:30"
+      "fetched_at": "2026-07-19T18:01:27+05:30"
     },
     "BSE:BSE CAPITAL GOODS": {
       "status": "ok",
@@ -1528,7 +1528,7 @@
       "removed": 0,
       "file": "bse_bse-capital-goods.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSECG",
-      "fetched_at": "2026-07-18T18:01:25+05:30"
+      "fetched_at": "2026-07-19T18:01:27+05:30"
     },
     "BSE:BSE Hospitals": {
       "status": "ok",
@@ -1539,7 +1539,7 @@
       "removed": 0,
       "file": "bse_bse-hospitals.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSHOSP",
-      "fetched_at": "2026-07-18T18:01:26+05:30"
+      "fetched_at": "2026-07-19T18:01:28+05:30"
     },
     "BSE:BSE India Defence ": {
       "status": "ok",
@@ -1550,7 +1550,7 @@
       "removed": 0,
       "file": "bse_bse-india-defence.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=INDDEF",
-      "fetched_at": "2026-07-18T18:01:27+05:30"
+      "fetched_at": "2026-07-19T18:01:29+05:30"
     },
     "BSE:BSE CONSUMER DURABLES": {
       "status": "ok",
@@ -1561,7 +1561,7 @@
       "removed": 0,
       "file": "bse_bse-consumer-durables.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSECD",
-      "fetched_at": "2026-07-18T18:01:28+05:30"
+      "fetched_at": "2026-07-19T18:01:29+05:30"
     },
     "BSE:BSE METAL": {
       "status": "ok",
@@ -1572,7 +1572,7 @@
       "removed": 0,
       "file": "bse_bse-metal.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=METAL",
-      "fetched_at": "2026-07-18T18:01:29+05:30"
+      "fetched_at": "2026-07-19T18:01:30+05:30"
     },
     "BSE:BSE Top 10 Banks": {
       "status": "ok",
@@ -1583,7 +1583,7 @@
       "removed": 0,
       "file": "bse_bse-top-10-banks.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=T10BNK",
-      "fetched_at": "2026-07-18T18:01:29+05:30"
+      "fetched_at": "2026-07-19T18:01:31+05:30"
     },
     "BSE:BSE OIL & GAS": {
       "status": "ok",
@@ -1594,7 +1594,7 @@
       "removed": 0,
       "file": "bse_bse-oil-gas.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=OILGAS",
-      "fetched_at": "2026-07-18T18:01:30+05:30"
+      "fetched_at": "2026-07-19T18:01:32+05:30"
     },
     "BSE:BSE POWER": {
       "status": "ok",
@@ -1605,7 +1605,7 @@
       "removed": 0,
       "file": "bse_bse-power.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=POWER",
-      "fetched_at": "2026-07-18T18:01:31+05:30"
+      "fetched_at": "2026-07-19T18:01:32+05:30"
     },
     "BSE:BSE REALTY": {
       "status": "ok",
@@ -1616,7 +1616,7 @@
       "removed": 0,
       "file": "bse_bse-realty.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=REALTY",
-      "fetched_at": "2026-07-18T18:01:32+05:30"
+      "fetched_at": "2026-07-19T18:01:33+05:30"
     },
     "BSE:BSE TECK": {
       "status": "ok",
@@ -1627,7 +1627,7 @@
       "removed": 0,
       "file": "bse_bse-teck.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=TECK",
-      "fetched_at": "2026-07-18T18:01:33+05:30"
+      "fetched_at": "2026-07-19T18:01:34+05:30"
     },
     "BSE:BSE Services": {
       "status": "ok",
@@ -1638,7 +1638,7 @@
       "removed": 0,
       "file": "bse_bse-services.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSESER",
-      "fetched_at": "2026-07-18T18:01:34+05:30"
+      "fetched_at": "2026-07-19T18:01:35+05:30"
     },
     "BSE:BSE MidSmall Private Banks Quality Tilt": {
       "status": "ok",
@@ -1649,17 +1649,17 @@
       "removed": 0,
       "file": "bse_bse-midsmall-private-banks-quality-tilt.json",
       "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSMSPB",
-      "fetched_at": "2026-07-18T18:01:35+05:30"
+      "fetched_at": "2026-07-19T18:01:35+05:30"
     }
   },
-  "duration_sec": 92.9,
+  "duration_sec": 92.4,
   "summary": {
     "total": 150,
     "ok": 150,
     "failed": 0,
     "guard_skipped": 0,
-    "indices_changed": 2,
-    "members_added": 1,
-    "members_removed": 26
+    "indices_changed": 0,
+    "members_added": 0,
+    "members_removed": 0
   }
 }
