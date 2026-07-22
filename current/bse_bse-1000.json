@@ -242,11 +242,6 @@
       "isin": "INE150B01039"
     },
     {
-      "symbol": "544602",
-      "name": "Allcargo Global Limited",
-      "isin": "INE1YPB01014"
-    },
-    {
       "symbol": "544203",
       "name": "Allied Blenders and Distillers",
       "isin": "INE552Z01027"
@@ -4630,6 +4625,11 @@
       "symbol": "532356",
       "name": "TRIVENI ENGINEERING & INDUSTRI",
       "isin": "INE256C01024"
+    },
+    {
+      "symbol": "544824",
+      "name": "Triveni Power Transmission Limited",
+      "isin": "INE2WKE01011"
     },
     {
       "symbol": "533655",

@@ -4,7 +4,7 @@
   "name": "BSE Fast Moving Consumer Goods",
   "code": "83",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEFMCG",
-  "count": 100,
+  "count": 101,
   "members": [
     {
       "symbol": "519183",
@@ -445,6 +445,11 @@
       "symbol": "532356",
       "name": "TRIVENI ENGINEERING & INDUSTRI",
       "isin": "INE256C01024"
+    },
+    {
+      "symbol": "544824",
+      "name": "Triveni Power Transmission Limited",
+      "isin": "INE2WKE01011"
     },
     {
       "symbol": "544545",

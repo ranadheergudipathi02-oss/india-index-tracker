@@ -4,17 +4,12 @@
   "name": "BSE Services",
   "code": "121",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSESER",
-  "count": 68,
+  "count": 67,
   "members": [
     {
       "symbol": "532921",
       "name": "ADANI PORTS AND SPECIAL ECONOM",
       "isin": "INE742F01042"
-    },
-    {
-      "symbol": "544602",
-      "name": "Allcargo Global Limited",
-      "isin": "INE1YPB01014"
     },
     {
       "symbol": "532749",

@@ -237,11 +237,6 @@
       "isin": "INE150B01039"
     },
     {
-      "symbol": "AGL",
-      "name": "Allcargo Global Ltd.",
-      "isin": "INE1YPB01014"
-    },
-    {
       "symbol": "ABDL",
       "name": "Allied Blenders and Distillers Ltd.",
       "isin": "INE552Z01027"
@@ -1020,6 +1015,11 @@
       "symbol": "DRREDDY",
       "name": "Dr. Reddy's Laboratories Ltd.",
       "isin": "INE089A01031"
+    },
+    {
+      "symbol": "DUMMYTRVN",
+      "name": "Dummy Triveni Ltd.",
+      "isin": "DUM256C01024"
     },
     {
       "symbol": "DYNAMATECH",

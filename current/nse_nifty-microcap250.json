@@ -72,11 +72,6 @@
       "isin": "INE150B01039"
     },
     {
-      "symbol": "AGL",
-      "name": "Allcargo Global Ltd.",
-      "isin": "INE1YPB01014"
-    },
-    {
       "symbol": "ALOKINDS",
       "name": "Alok Industries Ltd.",
       "isin": "INE270A01029"
@@ -275,6 +270,11 @@
       "symbol": "AGARWALEYE",
       "name": "Dr. Agarwal's Health Care Ltd.",
       "isin": "INE943P01029"
+    },
+    {
+      "symbol": "DUMMYTRVN",
+      "name": "Dummy Triveni Ltd.",
+      "isin": "DUM256C01024"
     },
     {
       "symbol": "DYNAMATECH",

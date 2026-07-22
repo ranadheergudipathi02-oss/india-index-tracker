@@ -4,7 +4,7 @@
   "name": "NIFTY IPO",
   "code": null,
   "source": "https://niftyindices.com/IndexConstituent/ind_niftyipo_list.csv",
-  "count": 105,
+  "count": 106,
   "members": [
     {
       "symbol": "AASTHA",
@@ -290,6 +290,11 @@
       "symbol": "LGEINDIA",
       "name": "LG Electronics India Ltd.",
       "isin": "INE324D01010"
+    },
+    {
+      "symbol": "LASERPOWER",
+      "name": "Laser Power & Infra Ltd.",
+      "isin": "INE17IR01028"
     },
     {
       "symbol": "LAXMIINDIA",

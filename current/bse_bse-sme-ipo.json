@@ -4,7 +4,7 @@
   "name": "BSE SME IPO",
   "code": "76",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMEIPO",
-  "count": 152,
+  "count": 153,
   "members": [
     {
       "symbol": "544500",
@@ -410,6 +410,11 @@
       "symbol": "544637",
       "name": "Methodhub Software Limited",
       "isin": "INE0QZR01017"
+    },
+    {
+      "symbol": "544826",
+      "name": "MILLWORKS TECHNOLOGIES LIMITED",
+      "isin": "INE1SRC01010"
     },
     {
       "symbol": "544575",
