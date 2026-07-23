@@ -4,7 +4,7 @@
   "name": "BSE IPO",
   "code": "72",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=BSEIPO",
-  "count": 102,
+  "count": 104,
   "members": [
     {
       "symbol": "544808",
@@ -35,6 +35,11 @@
       "symbol": "544479",
       "name": "ALL TIME PLASTICS LIMITED",
       "isin": "INE0GV601021"
+    },
+    {
+      "symbol": "544825",
+      "name": "ALPINE TEXWORLD LIMITED",
+      "isin": "INE1JCQ01037"
     },
     {
       "symbol": "544679",
@@ -400,6 +405,11 @@
       "symbol": "544742",
       "name": "Sai Parenteral's Limited",
       "isin": "INE0H9F01037"
+    },
+    {
+      "symbol": "544829",
+      "name": "SBI Funds Management Limited",
+      "isin": "INE640G01020"
     },
     {
       "symbol": "544723",

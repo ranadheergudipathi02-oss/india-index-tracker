@@ -4,7 +4,7 @@
   "name": "BSE SME IPO",
   "code": "76",
   "source": "https://api.bseindia.com/BseIndiaAPI/api/NS_IndexWeight_SPDJ_ng/w?iname=SMEIPO",
-  "count": 153,
+  "count": 154,
   "members": [
     {
       "symbol": "544500",
@@ -640,6 +640,11 @@
       "symbol": "544539",
       "name": "Solvex Edibles Limited",
       "isin": "INE1IIQ01028"
+    },
+    {
+      "symbol": "544832",
+      "name": "Sotefin Bharat Limited",
+      "isin": "INE12Z301012"
     },
     {
       "symbol": "544738",

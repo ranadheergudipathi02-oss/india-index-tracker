@@ -223,3 +223,5 @@
 {"date": "2026-07-22", "index": "BSE:BSE SME IPO", "type": "change", "added": [{"symbol": "544826", "name": "MILLWORKS TECHNOLOGIES LIMITED"}], "removed": []}
 {"date": "2026-07-22", "index": "BSE:BSE Fast Moving Consumer Goods", "type": "change", "added": [{"symbol": "544824", "name": "Triveni Power Transmission Limited"}], "removed": []}
 {"date": "2026-07-22", "index": "BSE:BSE Services", "type": "change", "added": [], "removed": [{"symbol": "544602", "name": "Allcargo Global Limited"}]}
+{"date": "2026-07-23", "index": "BSE:BSE IPO", "type": "change", "added": [{"symbol": "544825", "name": "ALPINE TEXWORLD LIMITED"}, {"symbol": "544829", "name": "SBI Funds Management Limited"}], "removed": []}
+{"date": "2026-07-23", "index": "BSE:BSE SME IPO", "type": "change", "added": [{"symbol": "544832", "name": "Sotefin Bharat Limited"}], "removed": []}
